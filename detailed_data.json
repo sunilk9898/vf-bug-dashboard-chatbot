@@ -1,6 +1,18 @@
 {
   "bugs": [
     {
+      "key": "VF-2054",
+      "summary": "Onida TV: Ad pod freezes on screen when playback starts for Introduction of Finalists episode.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
       "key": "VF-1908",
       "summary": "Content Viewing Sun Nxt - SAM / LG ",
       "status": "Reopened",
@@ -284,18 +296,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-09",
-      "updated": "2026-02-10",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2054",
-      "summary": "Onida TV: Ad pod freezes on screen when playback starts for Introduction of Finalists episode.",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-06",
       "updated": "2026-02-10",
       "sprint": "No Sprint",
       "type": "Bug"
@@ -21790,6 +21790,12 @@
     }
   },
   "assignee_workload": {
+    "Karan Mahboobani": {
+      "bugs": 1,
+      "tasks": 0,
+      "stories": 0,
+      "total": 1
+    },
     "vzyfeedback": {
       "bugs": 1122,
       "tasks": 283,
@@ -21910,12 +21916,6 @@
       "stories": 0,
       "total": 14
     },
-    "Karan Mahboobani": {
-      "bugs": 1,
-      "tasks": 0,
-      "stories": 0,
-      "total": 1
-    },
     "Manikanta P": {
       "bugs": 4,
       "tasks": 9,
@@ -22014,12 +22014,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 714,
     "Highest": 324,
     "Low": 19,
-    "Medium": 714,
     "High": 305,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T08:02:09Z",
+  "updated_at": "2026-02-11T09:08:54Z",
   "total_issues": 1829
 }
