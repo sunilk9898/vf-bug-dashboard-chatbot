@@ -393,14 +393,17 @@
                 <div class="chat-messages" id="chatMessages"></div>
                 <div class="quick-actions" id="quickActions">
                     <button class="quick-btn" onclick="askBot('Show bug summary')">Bug Summary</button>
-                    <button class="quick-btn" onclick="askBot('Which platform has most bugs?')">Top Platform Bugs</button>
-                    <button class="quick-btn" onclick="askBot('Show open bugs')">Open Bugs</button>
-                    <button class="quick-btn" onclick="askBot('Show reopened bugs')">Reopened Bugs</button>
-                    <button class="quick-btn" onclick="askBot('Platform-wise breakdown')">Platform Breakdown</button>
-                    <button class="quick-btn" onclick="askBot('Show in progress bugs')">In Progress</button>
-                    <button class="quick-btn" onclick="askBot('Show parked bugs')">Parked Bugs</button>
-                    <button class="quick-btn" onclick="askBot('Show critical platforms')">Critical Platforms</button>
+                    <button class="quick-btn" onclick="askBot('Show open bug tickets')">Open Tickets</button>
+                    <button class="quick-btn" onclick="askBot('Show in progress bug tickets')">In Progress Tickets</button>
+                    <button class="quick-btn" onclick="askBot('Show high priority bugs')">High Priority</button>
+                    <button class="quick-btn" onclick="askBot('Show priority breakdown')">Priority Breakdown</button>
+                    <button class="quick-btn" onclick="askBot('Show assignee workload')">Assignee Workload</button>
+                    <button class="quick-btn" onclick="askBot('Sprint status')">Sprint Status</button>
+                    <button class="quick-btn" onclick="askBot('Show all IOS tickets raised so far')">All IOS Tickets</button>
+                    <button class="quick-btn" onclick="askBot('Show reopened bug tickets')">Reopened Tickets</button>
                     <button class="quick-btn" onclick="askBot('Compare platforms')">Compare Platforms</button>
+                    <button class="quick-btn" onclick="askBot('Show tasks')">Tasks</button>
+                    <button class="quick-btn" onclick="askBot('Critical platforms')">Critical Platforms</button>
                 </div>
                 <div class="chat-input-area">
                     <input type="text" class="chat-input" id="chatInput"
@@ -669,13 +672,16 @@
         // CHATBOT
         // ============================================
         function initChatbot() {
-            addBotMessage(`Hello! I'm the <b>VZY Jira Assistant</b>. I can help you with information about bugs, tasks, and project status.<br><br>Here's what you can ask me:<br>
-                &#x2022; <b>Bug summary</b> - Overview of all bug counts<br>
-                &#x2022; <b>Platform bugs</b> - e.g. "Show Android bugs" or "WEB bugs"<br>
-                &#x2022; <b>Status queries</b> - e.g. "Show open bugs" or "in progress bugs"<br>
-                &#x2022; <b>Compare platforms</b> - Side-by-side comparison<br>
-                &#x2022; <b>Critical platforms</b> - Platforms needing attention<br>
-                &#x2022; <b>Healthy platforms</b> - Platforms in good shape<br><br>
+            addBotMessage(`Hello! I'm the <b>VZY Jira Assistant</b>. I can help you with detailed bug, task, and project information.<br><br>
+                <b>What I can do:</b><br>
+                &#x2022; <b>Show tickets</b> - "show open bug tickets", "list in progress tickets"<br>
+                &#x2022; <b>Platform bugs</b> - "Android bugs", "all IOS tickets raised so far"<br>
+                &#x2022; <b>Assignee info</b> - "assigned to [name]", "assignee workload"<br>
+                &#x2022; <b>Priority</b> - "high priority bugs", "priority breakdown"<br>
+                &#x2022; <b>Sprint</b> - "sprint status"<br>
+                &#x2022; <b>Search</b> - "search video playback"<br>
+                &#x2022; <b>Tasks/Stories</b> - "show tasks", "show stories"<br>
+                &#x2022; <b>Dashboard</b> - bug summary, compare platforms, critical platforms<br><br>
                 Try the quick action buttons below or type your question!`);
         }
 
@@ -736,6 +742,59 @@
         }
 
         // ============================================
+        // CHATBOT HELPER FUNCTIONS
+        // ============================================
+        const STATUS_NAME_MAP = {
+            'OPEN': 'Open', 'IN PROGRESS': 'In Progress', 'REOPENED': 'Reopened',
+            'IN REVIEW': 'In Review', 'ISSUE ACCEPTED': 'Issue Accepted', 'PARKED': 'Parked'
+        };
+
+        function buildTicketTable(items, maxRows = 20) {
+            if (!items || items.length === 0) return '<br>No tickets found.';
+            const display = items.slice(0, maxRows);
+            let html = `<table style="width:100%;margin-top:8px"><thead><tr>
+                <th style="text-align:left">Key</th><th style="text-align:left">Summary</th><th>Platform</th><th>Assignee</th><th>Priority</th><th>Status</th>
+            </tr></thead><tbody>`;
+            display.forEach(item => {
+                const pColor = item.priority === 'Highest' ? '#ef4444' : item.priority === 'High' ? '#f97316' : item.priority === 'Medium' ? '#fbbf24' : '#94a3b8';
+                html += `<tr>
+                    <td style="white-space:nowrap;font-size:11px"><b>${escapeHtml(item.key)}</b></td>
+                    <td style="font-size:11px;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escapeHtml((item.summary || '').substring(0, 60))}</td>
+                    <td style="font-size:11px;text-align:center">${item.platform || 'N/A'}</td>
+                    <td style="font-size:11px;text-align:center">${(item.assignee || 'Unassigned').split(' ')[0]}</td>
+                    <td style="font-size:11px;text-align:center;color:${pColor}">${item.priority || 'N/A'}</td>
+                    <td style="font-size:10px;text-align:center"><span class="inline-badge">${item.status}</span></td>
+                </tr>`;
+            });
+            html += `</tbody></table>`;
+            if (items.length > maxRows) {
+                html += `<br><small style="color:#94a3b8">Showing ${maxRows} of ${items.length} tickets. Narrow down by platform, assignee, or priority.</small>`;
+            }
+            return html;
+        }
+
+        function filterBugs(opts = {}) {
+            if (!allIssues || !allIssues.bugs) return [];
+            let results = allIssues.bugs;
+            if (opts.status) results = results.filter(b => b.status && b.status.toUpperCase() === opts.status.toUpperCase());
+            if (opts.statusList) results = results.filter(b => b.status && opts.statusList.some(s => b.status.toUpperCase() === s.toUpperCase()));
+            if (opts.platform) results = results.filter(b => b.platform && b.platform.toUpperCase() === opts.platform.toUpperCase());
+            if (opts.assignee) results = results.filter(b => b.assignee && b.assignee.toLowerCase().includes(opts.assignee.toLowerCase()));
+            if (opts.priority) results = results.filter(b => b.priority && b.priority.toUpperCase() === opts.priority.toUpperCase());
+            if (opts.keyword) results = results.filter(b => b.summary && b.summary.toLowerCase().includes(opts.keyword.toLowerCase()));
+            return results;
+        }
+
+        function filterItems(type, opts = {}) {
+            if (!allIssues) return [];
+            let items = allIssues[type] || [];
+            if (opts.platform) items = items.filter(i => i.platform && i.platform.toUpperCase() === opts.platform.toUpperCase());
+            if (opts.status) items = items.filter(i => i.status && i.status.toUpperCase() === opts.status.toUpperCase());
+            if (opts.keyword) items = items.filter(i => i.summary && i.summary.toLowerCase().includes(opts.keyword.toLowerCase()));
+            return items;
+        }
+
+        // ============================================
         // CHATBOT QUERY PROCESSOR
         // ============================================
         function processQuery(query) {
@@ -743,7 +802,7 @@
             const q = query.toLowerCase().trim();
             const data = dashboardData;
 
-            // Compute helper data
+            // Compute dashboard helper data
             const platformTotals = {};
             const totals = {};
             STATUSES.forEach(s => totals[s] = 0);
@@ -759,8 +818,170 @@
                 grandTotal += pTotal;
             });
 
-            // Check for specific platform
             const matchedPlatform = PLATFORMS.find(p => q.includes(p.toLowerCase()));
+
+            // ==============================================
+            // DETAILED DATA QUERIES (uses allIssues)
+            // ==============================================
+
+            // --- SEARCH: "search [keyword]" or "find [keyword]" ---
+            if (allIssues && (q.startsWith('search ') || q.startsWith('find '))) {
+                const keyword = q.replace(/^(search|find)\s+/, '').trim();
+                if (keyword.length < 2) return 'Please provide a search term (at least 2 characters).';
+                const results = filterBugs({ keyword });
+                let html = `<b>Search Results for "${escapeHtml(keyword)}"</b><br>Found: <b style="color:#60a5fa">${results.length}</b> bugs<br>`;
+                html += buildTicketTable(results);
+                return html;
+            }
+
+            // --- SPRINT STATUS ---
+            if (allIssues && q.includes('sprint')) {
+                const sprints = allIssues.sprints;
+                if (!sprints || Object.keys(sprints).length === 0) return 'No sprint data available in the project.';
+                let html = `<b>Sprint Status</b><br><br>`;
+                Object.entries(sprints).forEach(([name, sprintData]) => {
+                    html += `&#x1f3c3; <b>${escapeHtml(name)}</b><br>`;
+                    html += `Total: <b>${sprintData.total}</b> (Bugs: ${sprintData.bugs}, Tasks: ${sprintData.tasks}, Stories: ${sprintData.stories})<br>`;
+                    html += `<table style="width:100%;margin:4px 0 12px"><thead><tr><th>Status</th><th>Count</th></tr></thead><tbody>`;
+                    Object.entries(sprintData.statuses).sort((a,b) => b[1] - a[1]).forEach(([status, count]) => {
+                        html += `<tr><td>${status}</td><td style="text-align:center"><b>${count}</b></td></tr>`;
+                    });
+                    html += `</tbody></table>`;
+                });
+                return html;
+            }
+
+            // --- ASSIGNEE QUERIES ---
+            if (allIssues && (q.includes('assigned to') || q.includes('bugs of'))) {
+                const nameMatch = q.match(/(?:assigned to|bugs of)\s+(.+)/);
+                if (nameMatch) {
+                    const name = nameMatch[1].trim();
+                    const bugs = filterBugs({ assignee: name });
+                    let html = `<b>Bugs Assigned to "${escapeHtml(name)}"</b><br>Found: <b style="color:#60a5fa">${bugs.length}</b><br>`;
+                    html += buildTicketTable(bugs);
+                    return html;
+                }
+            }
+            if (allIssues && (q.includes('assignee') || q.includes('workload') || q.includes('who has most'))) {
+                const workload = allIssues.assignee_workload || {};
+                const sorted = Object.entries(workload).sort((a,b) => b[1].total - a[1].total).slice(0, 20);
+                let html = `<b>Assignee Workload (Top 20)</b><br><br>`;
+                html += `<table style="width:100%"><thead><tr><th style="text-align:left">Assignee</th><th>Bugs</th><th>Tasks</th><th>Total</th></tr></thead><tbody>`;
+                sorted.forEach(([name, d]) => {
+                    html += `<tr><td style="font-size:12px">${escapeHtml(name)}</td><td style="text-align:center">${d.bugs}</td><td style="text-align:center">${d.tasks}</td><td style="text-align:center"><b>${d.total}</b></td></tr>`;
+                });
+                html += `</tbody></table>`;
+                return html;
+            }
+
+            // --- PRIORITY QUERIES ---
+            if (allIssues && q.includes('priority')) {
+                const priorities = ['Highest', 'High', 'Medium', 'Low', 'Lowest'];
+                const matchedPriority = priorities.find(p => q.includes(p.toLowerCase()));
+                if (matchedPriority) {
+                    const bugs = filterBugs({ priority: matchedPriority });
+                    let html = `<b>${matchedPriority} Priority Bugs</b><br>Found: <b style="color:#60a5fa">${bugs.length}</b><br>`;
+                    html += buildTicketTable(bugs);
+                    return html;
+                }
+                // Show breakdown
+                const pb = allIssues.priority_breakdown || {};
+                let html = `<b>Bug Priority Breakdown</b><br><br>`;
+                html += `<table style="width:100%"><thead><tr><th>Priority</th><th>Count</th></tr></thead><tbody>`;
+                const pColors = {'Highest':'#ef4444','High':'#f97316','Medium':'#fbbf24','Low':'#34d399','Lowest':'#94a3b8'};
+                priorities.forEach(p => {
+                    if (pb[p]) html += `<tr><td><b style="color:${pColors[p]||'#e2e8f0'}">${p}</b></td><td style="text-align:center"><b>${pb[p]}</b></td></tr>`;
+                });
+                html += `</tbody></table>`;
+                return html;
+            }
+
+            // --- TASK QUERIES ---
+            if (allIssues && q.includes('task')) {
+                const tasks = filterItems('tasks', { platform: matchedPlatform || undefined });
+                let html = `<b>Tasks${matchedPlatform ? ' - ' + matchedPlatform : ''}</b><br>Total: <b style="color:#60a5fa">${tasks.length}</b><br>`;
+                html += buildTicketTable(tasks);
+                return html;
+            }
+
+            // --- STORY QUERIES ---
+            if (allIssues && q.includes('stor')) {
+                const stories = filterItems('stories');
+                let html = `<b>Stories</b><br>Total: <b style="color:#60a5fa">${stories.length}</b><br>`;
+                html += buildTicketTable(stories);
+                return html;
+            }
+
+            // --- ALL TICKETS / HISTORICAL / TOTAL RAISED ---
+            if (allIssues && (q.includes('raised') || q.includes('so far') || q.includes('historical') || q.includes('ever') ||
+                (q.includes('all') && q.includes('ticket')) || (q.includes('total') && matchedPlatform && !q.includes('summary')))) {
+                let bugs = allIssues.bugs || [];
+                if (matchedPlatform) bugs = bugs.filter(b => b.platform && b.platform.toUpperCase() === matchedPlatform.toUpperCase());
+                const statusCounts = {};
+                bugs.forEach(b => { statusCounts[b.status] = (statusCounts[b.status] || 0) + 1; });
+                let html = `<b>All ${matchedPlatform || ''} Bugs Raised (Historical)</b><br><br>`;
+                html += `Total: <b style="color:#60a5fa">${bugs.length}</b> bugs across all statuses<br><br>`;
+                html += `<table style="width:100%"><thead><tr><th>Status</th><th>Count</th></tr></thead><tbody>`;
+                Object.entries(statusCounts).sort((a,b) => b[1] - a[1]).forEach(([status, count]) => {
+                    html += `<tr><td>${status}</td><td style="text-align:center"><b>${count}</b></td></tr>`;
+                });
+                html += `</tbody></table>`;
+                html += `<br><b>Recent Tickets:</b>`;
+                html += buildTicketTable(bugs.slice(0, 15), 15);
+                return html;
+            }
+
+            // --- TICKET / JIRA ID QUERIES (with status/platform filters) ---
+            if (allIssues && (q.includes('ticket') || q.includes('jira') || q.match(/vf-\d/))) {
+                // Detect status filter from query
+                let statusFilter = null;
+                for (const [dashName, detailName] of Object.entries(STATUS_NAME_MAP)) {
+                    if (q.includes(dashName.toLowerCase())) { statusFilter = detailName; break; }
+                }
+                // Also check direct status names
+                if (!statusFilter) {
+                    const allStatuses = [...new Set((allIssues.bugs || []).map(b => b.status))];
+                    statusFilter = allStatuses.find(s => q.includes(s.toLowerCase())) || null;
+                }
+                // Check specific ticket ID
+                const ticketMatch = q.match(/vf-(\d+)/i);
+                if (ticketMatch) {
+                    const ticketKey = 'VF-' + ticketMatch[1];
+                    const allItems = [...(allIssues.bugs || []), ...(allIssues.tasks || []), ...(allIssues.stories || [])];
+                    const found = allItems.find(i => i.key.toUpperCase() === ticketKey.toUpperCase());
+                    if (found) {
+                        let html = `<b>Ticket: ${found.key}</b><br><br>`;
+                        html += `<b>Summary:</b> ${escapeHtml(found.summary)}<br>`;
+                        html += `<b>Type:</b> ${found.type}<br>`;
+                        html += `<b>Status:</b> ${found.status}<br>`;
+                        html += `<b>Priority:</b> ${found.priority}<br>`;
+                        html += `<b>Platform:</b> ${found.platform}<br>`;
+                        html += `<b>Assignee:</b> ${found.assignee}<br>`;
+                        html += `<b>Created:</b> ${found.created}<br>`;
+                        html += `<b>Updated:</b> ${found.updated}<br>`;
+                        html += `<b>Sprint:</b> ${found.sprint}<br>`;
+                        html += `<br><a href="https://hbeindia.atlassian.net/browse/${found.key}" target="_blank" style="color:#60a5fa">Open in Jira &#x2197;</a>`;
+                        return html;
+                    } else {
+                        return `Ticket <b>${ticketKey}</b> not found in the data.`;
+                    }
+                }
+
+                const filtered = filterBugs({
+                    status: statusFilter || undefined,
+                    platform: matchedPlatform || undefined
+                });
+                let title = 'Jira Bug Tickets';
+                if (statusFilter) title += ` - ${statusFilter}`;
+                if (matchedPlatform) title += ` (${matchedPlatform})`;
+                let html = `<b>${title}</b><br>Found: <b style="color:#60a5fa">${filtered.length}</b> tickets<br>`;
+                html += buildTicketTable(filtered);
+                return html;
+            }
+
+            // ==============================================
+            // DASHBOARD AGGREGATE QUERIES (uses dashboardData)
+            // ==============================================
 
             // Bug Summary
             if (q.includes('summary') || q.includes('overview') || q === 'bugs' || q === 'bug summary') {
@@ -771,6 +992,10 @@
                     html += `<tr><td><span class="inline-badge" style="background:${STATUS_COLORS[s]}33;color:${STATUS_COLORS[s]}">${s}</span></td><td style="text-align:center"><b>${totals[s]}</b></td></tr>`;
                 });
                 html += `</tbody></table>`;
+                if (allIssues) {
+                    const totalAll = (allIssues.bugs || []).length;
+                    html += `<br><small style="color:#94a3b8">Total bugs raised (all statuses): <b>${totalAll}</b> | Tasks: <b>${(allIssues.tasks || []).length}</b> | Stories: <b>${(allIssues.stories || []).length}</b></small>`;
+                }
                 return html;
             }
 
@@ -778,8 +1003,8 @@
             if (matchedPlatform) {
                 const pData = data[matchedPlatform] || {};
                 const pTotal = platformTotals[matchedPlatform];
-                let html = `<b>${matchedPlatform} Bugs</b><br><br>`;
-                html += `Total: <b style="color:${pTotal >= 4 ? '#f87171' : pTotal >= 2 ? '#fbbf24' : '#34d399'}">${pTotal}</b><br><br>`;
+                let html = `<b>${matchedPlatform} Bugs (Active)</b><br><br>`;
+                html += `Active: <b style="color:${pTotal >= 4 ? '#f87171' : pTotal >= 2 ? '#fbbf24' : '#34d399'}">${pTotal}</b><br><br>`;
                 html += `<table style="width:100%"><thead><tr><th>Status</th><th>Count</th></tr></thead><tbody>`;
                 STATUSES.forEach(s => {
                     const val = pData[s] || 0;
@@ -788,7 +1013,18 @@
                     }
                 });
                 html += `</tbody></table>`;
-                if (pTotal === 0) html += `<br>No active bugs on this platform.`;
+                // Append ticket details
+                if (allIssues) {
+                    const activeStatuses = Object.values(STATUS_NAME_MAP);
+                    const tickets = filterBugs({ platform: matchedPlatform, statusList: activeStatuses });
+                    if (tickets.length > 0) {
+                        html += `<br><b>Ticket Details:</b>`;
+                        html += buildTicketTable(tickets);
+                    }
+                    const allPlatformBugs = filterBugs({ platform: matchedPlatform });
+                    html += `<br><small style="color:#94a3b8">Total ${matchedPlatform} bugs raised (all statuses): <b>${allPlatformBugs.length}</b></small>`;
+                }
+                if (pTotal === 0 && !allIssues) html += `<br>No active bugs on this platform.`;
                 return html;
             }
 
@@ -807,6 +1043,17 @@
                         });
                         html += `</tbody></table>`;
                     }
+                    // Append ticket details
+                    if (allIssues) {
+                        const detailedStatus = STATUS_NAME_MAP[status];
+                        if (detailedStatus) {
+                            const tickets = filterBugs({ status: detailedStatus });
+                            if (tickets.length > 0) {
+                                html += `<br><b>Ticket Details:</b>`;
+                                html += buildTicketTable(tickets);
+                            }
+                        }
+                    }
                     return html;
                 }
             }
@@ -820,6 +1067,13 @@
                     html += `<table style="width:100%"><thead><tr><th>Platform</th><th>Count</th></tr></thead><tbody>`;
                     platforms.forEach(p => html += `<tr><td>${p}</td><td style="text-align:center"><b>${data[p]['OPEN']}</b></td></tr>`);
                     html += `</tbody></table>`;
+                }
+                if (allIssues) {
+                    const tickets = filterBugs({ status: 'Open' });
+                    if (tickets.length > 0) {
+                        html += `<br><b>Ticket Details:</b>`;
+                        html += buildTicketTable(tickets);
+                    }
                 }
                 return html;
             }
@@ -853,7 +1107,7 @@
                     html += `<td style="text-align:center"><b>${platformTotals[p]}</b></td></tr>`;
                 });
                 html += `</tbody></table>`;
-                html += `<br><small>Columns: O=Open, I=InProgress, R=Reopened, I=InReview, I=Accepted, P=Parked</small>`;
+                html += `<br><small>Columns: O=Open, IP=InProgress, R=Reopened, IR=InReview, IA=Accepted, P=Parked</small>`;
                 return html;
             }
 
@@ -877,7 +1131,7 @@
             }
 
             // Healthy platforms
-            if (q.includes('health') || q.includes('good') || q.includes('clean') || q.includes('low')) {
+            if (q.includes('health') || q.includes('good') || q.includes('clean')) {
                 const healthy = PLATFORMS.filter(p => platformTotals[p] <= 1);
                 let html = `<b>Healthy Platforms (0-1 bugs)</b><br><br>`;
                 if (healthy.length > 0) {
@@ -894,9 +1148,15 @@
                 let html = `<b>Reopened Bugs</b><br><br>Total: <b style="color:#f97316">${totals['REOPENED']}</b><br><br>`;
                 if (platforms.length > 0) {
                     platforms.forEach(p => html += `&#x2022; ${p}: <b>${data[p]['REOPENED']}</b><br>`);
-                    html += `<br><small style="color:#f97316">High reopen count may indicate fix quality issues.</small>`;
                 } else {
                     html += 'No reopened bugs currently!';
+                }
+                if (allIssues) {
+                    const tickets = filterBugs({ status: 'Reopened' });
+                    if (tickets.length > 0) {
+                        html += `<br><b>Ticket Details:</b>`;
+                        html += buildTicketTable(tickets);
+                    }
                 }
                 return html;
             }
@@ -907,35 +1167,55 @@
                 let html = `<b>Parked Bugs</b><br><br>Total: <b style="color:#64748b">${totals['PARKED']}</b><br><br>`;
                 if (platforms.length > 0) {
                     platforms.forEach(p => html += `&#x2022; ${p}: <b>${data[p]['PARKED']}</b><br>`);
-                    html += `<br><small>Parked bugs are deprioritized and may need periodic review.</small>`;
                 } else {
                     html += 'No parked bugs currently.';
+                }
+                if (allIssues) {
+                    const tickets = filterBugs({ status: 'Parked' });
+                    if (tickets.length > 0) {
+                        html += `<br><b>Ticket Details:</b>`;
+                        html += buildTicketTable(tickets);
+                    }
                 }
                 return html;
             }
 
             // Help
             if (q.includes('help') || q.includes('what can')) {
-                return `I can help you with:<br><br>
-                    &#x2022; <b>"Bug summary"</b> - Total bug overview<br>
-                    &#x2022; <b>"Android bugs"</b> - Bugs for a specific platform<br>
-                    &#x2022; <b>"Open bugs"</b> - Bugs by status<br>
-                    &#x2022; <b>"Compare platforms"</b> - Full comparison table<br>
-                    &#x2022; <b>"Critical platforms"</b> - Platforms needing attention<br>
-                    &#x2022; <b>"Healthy platforms"</b> - Platforms in good shape<br>
-                    &#x2022; <b>"Most bugs"</b> - Platform ranking<br>
-                    &#x2022; <b>"Reopened bugs"</b> - Reopen analysis<br><br>
-                    You can also ask about any specific platform: ANDROID, ATV, CMS Adaptor, CMS Dashboard, DishIT, IOS, LG_TV, SAM_TV, WEB`;
+                return `<b>What I can do:</b><br><br>
+                    <b>Ticket Details:</b><br>
+                    &#x2022; "show open bug tickets" - List tickets by status<br>
+                    &#x2022; "VF-1234" - Look up a specific ticket<br>
+                    &#x2022; "search video playback" - Search by keyword<br><br>
+                    <b>Historical Data:</b><br>
+                    &#x2022; "all IOS tickets raised so far" - Full history by platform<br>
+                    &#x2022; "total android bugs" - All-time counts<br><br>
+                    <b>People & Priority:</b><br>
+                    &#x2022; "assigned to [name]" - Bugs by assignee<br>
+                    &#x2022; "assignee workload" - Who has the most work<br>
+                    &#x2022; "high priority bugs" - Filter by priority<br>
+                    &#x2022; "priority breakdown" - Priority distribution<br><br>
+                    <b>Sprint & Tasks:</b><br>
+                    &#x2022; "sprint status" - Sprint progress<br>
+                    &#x2022; "show tasks" - List all tasks<br>
+                    &#x2022; "show stories" - List all stories<br><br>
+                    <b>Dashboard:</b><br>
+                    &#x2022; "bug summary" - Overview counts<br>
+                    &#x2022; "Android bugs" - Platform details<br>
+                    &#x2022; "compare platforms" - Side-by-side<br>
+                    &#x2022; "critical platforms" - Platforms needing attention`;
             }
 
             // Fallback
-            return `I'm not sure how to answer that. Try asking about:<br><br>
-                &#x2022; Bug summary / overview<br>
-                &#x2022; A specific platform (e.g. "Android bugs")<br>
-                &#x2022; A specific status (e.g. "open bugs", "in progress")<br>
-                &#x2022; Platform comparison or ranking<br>
-                &#x2022; Critical or healthy platforms<br><br>
-                Type <b>"help"</b> for the full list of commands.`;
+            return `I'm not sure how to answer that. Try:<br><br>
+                &#x2022; "show open bug tickets" - Tickets with Jira IDs<br>
+                &#x2022; "all IOS tickets raised so far" - Full history<br>
+                &#x2022; "assigned to [name]" - Bugs by person<br>
+                &#x2022; "high priority bugs" - By priority<br>
+                &#x2022; "search [keyword]" - Search bugs<br>
+                &#x2022; "sprint status" - Sprint info<br>
+                &#x2022; "bug summary" - Overview<br><br>
+                Type <b>"help"</b> for the full list.`;
         }
 
         // ============================================
