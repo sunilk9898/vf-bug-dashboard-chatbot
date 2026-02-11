@@ -59,7 +59,7 @@
     "SAM_TV": {
       "OPEN": 0,
       "IN PROGRESS": 1,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 0
@@ -73,7 +73,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-11T06:17:54Z",
-  "total_issues_fetched": 1827,
+  "updated_at": "2026-02-11T08:02:09Z",
+  "total_issues_fetched": 1829,
   "project": "VF"
 }

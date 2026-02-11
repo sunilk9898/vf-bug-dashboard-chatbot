@@ -1,6 +1,30 @@
 {
   "bugs": [
     {
+      "key": "VF-1908",
+      "summary": "Content Viewing Sun Nxt - SAM / LG ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-01-30",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-1907",
+      "summary": "Subscription related",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "Abhishek Dhok",
+      "platform": "IOS",
+      "created": "2026-01-30",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug"
+    },
+    {
       "key": "VF-1913",
       "summary": "Content Download Speed",
       "status": "Dev Complete",
@@ -322,18 +346,6 @@
       "created": "2026-02-10",
       "updated": "2026-02-10",
       "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1907",
-      "summary": "Subscription related",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-01-30",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug"
     },
     {
@@ -826,18 +838,6 @@
       "created": "2026-02-06",
       "updated": "2026-02-09",
       "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1908",
-      "summary": "Content Viewing Sun Nxt - SAM / LG ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-01-30",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug"
     },
     {
@@ -16371,12 +16371,108 @@
   ],
   "tasks": [
     {
+      "key": "VF-939",
+      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1023",
+      "summary": "(Shruti) Analytics: Monthly Active subscription data-reco \u2013 Monthly basis",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-941",
+      "summary": "(Shruti) Analytics: Active base Report - Daily Basis",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1025",
+      "summary": "(Shruti) Analytics: Daily Payment Notification Reco \u2013 Daily basis",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1028",
+      "summary": "(Shruti) Analytics: Hourly CP Activations \u2013 Daily (hourly) basis",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "In Progress",
       "priority": "Medium",
       "assignee": "Harsh Pratap Singh",
       "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-2078",
+      "summary": "Enable Help & Feedback Link in Staging Environment",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ANDROID",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-2077",
+      "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1901",
+      "summary": "Kaltura Issue",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
       "created": "2026-01-30",
       "updated": "2026-02-11",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -16402,18 +16498,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "ANDROID",
       "created": "2025-11-14",
-      "updated": "2026-02-11",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1901",
-      "summary": "Kaltura Issue",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
       "updated": "2026-02-11",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task"
@@ -17955,54 +18039,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-1025",
-      "summary": "(Shruti) Analytics: Daily Payment Notification Reco \u2013 Daily basis",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2026-01-29",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1023",
-      "summary": "(Shruti) Analytics: Monthly Active subscription data-reco \u2013 Monthly basis",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2026-01-29",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-941",
-      "summary": "(Shruti) Analytics: Active base Report - Daily Basis",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-01-29",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-939",
-      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-01-29",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
       "key": "VF-1027",
       "summary": "(Shruti) Analytics: Dishtv Sessions \u2013 Daily basis",
       "status": "Invalid",
@@ -18070,18 +18106,6 @@
       "assignee": "Manikanta P",
       "platform": "CMS Dashboard",
       "created": "2025-12-04",
-      "updated": "2026-01-28",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1028",
-      "summary": "(Shruti) Analytics: Hourly CP Activations \u2013 Daily (hourly) basis",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
       "updated": "2026-01-28",
       "sprint": "No Sprint",
       "type": "Task"
@@ -21745,10 +21769,11 @@
       "total": 48,
       "statuses": {
         "In Progress": 12,
-        "Dev Complete": 11,
-        "Ready For Test": 16,
+        "Reopened": 1,
+        "Ready For Test": 15,
+        "Closed": 7,
+        "Dev Complete": 10,
         "Testing On hold": 2,
-        "Closed": 6,
         "In Review": 1
       }
     },
@@ -21765,11 +21790,41 @@
     }
   },
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1122,
+      "tasks": 283,
+      "stories": 0,
+      "total": 1409
+    },
     "Harsh Pratap Singh": {
       "bugs": 4,
       "tasks": 1,
       "stories": 0,
       "total": 5
+    },
+    "Unassigned": {
+      "bugs": 30,
+      "tasks": 8,
+      "stories": 0,
+      "total": 42
+    },
+    "devaraj": {
+      "bugs": 6,
+      "tasks": 2,
+      "stories": 0,
+      "total": 8
+    },
+    "avinash waghmare": {
+      "bugs": 2,
+      "tasks": 6,
+      "stories": 0,
+      "total": 8
+    },
+    "Abhishek Dhok": {
+      "bugs": 7,
+      "tasks": 5,
+      "stories": 0,
+      "total": 12
     },
     "Javed Ali": {
       "bugs": 19,
@@ -21782,18 +21837,6 @@
       "tasks": 2,
       "stories": 0,
       "total": 3
-    },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 6,
-      "stories": 0,
-      "total": 8
-    },
-    "vzyfeedback": {
-      "bugs": 1122,
-      "tasks": 277,
-      "stories": 0,
-      "total": 1403
     },
     "kamaldeeps": {
       "bugs": 2,
@@ -21837,12 +21880,6 @@
       "stories": 0,
       "total": 3
     },
-    "Unassigned": {
-      "bugs": 30,
-      "tasks": 7,
-      "stories": 0,
-      "total": 41
-    },
     "BalaKumar": {
       "bugs": 11,
       "tasks": 10,
@@ -21860,18 +21897,6 @@
       "tasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "Abhishek Dhok": {
-      "bugs": 7,
-      "tasks": 5,
-      "stories": 0,
-      "total": 12
-    },
-    "devaraj": {
-      "bugs": 6,
-      "tasks": 2,
-      "stories": 0,
-      "total": 8
     },
     "Shubham Chauhan": {
       "bugs": 7,
@@ -21893,9 +21918,9 @@
     },
     "Manikanta P": {
       "bugs": 4,
-      "tasks": 14,
+      "tasks": 9,
       "stories": 1,
-      "total": 19
+      "total": 14
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -21989,12 +22014,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 324,
+    "Low": 19,
     "Medium": 714,
     "High": 305,
-    "Low": 19,
-    "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T06:17:54Z",
-  "total_issues": 1827
+  "updated_at": "2026-02-11T08:02:09Z",
+  "total_issues": 1829
 }
