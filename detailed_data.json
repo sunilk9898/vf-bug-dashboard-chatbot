@@ -1,6 +1,42 @@
 {
   "bugs": [
     {
+      "key": "VF-1995",
+      "summary": "Onida TV: Food & Travel category contents fails to play",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-1996",
+      "summary": "Onida TV: Live TV Food & Travel content fails to play and back navigation causes infinite buffering",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2039",
+      "summary": "Onida TV: Back navigation does not work for Featured Banner carousel using remote control.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
       "key": "VF-1798",
       "summary": "Mobile: Grievance option is missing in the Help and Policy section.",
       "status": "Closed",
@@ -128,42 +164,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "WEB",
       "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2039",
-      "summary": "Onida TV: Back navigation does not work for Featured Banner carousel using remote control.",
-      "status": "Closed",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-11",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1996",
-      "summary": "Onida TV: Live TV Food & Travel content fails to play and back navigation causes infinite buffering",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-02-11",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1995",
-      "summary": "Onida TV: Food & Travel category contents fails to play",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
       "updated": "2026-02-11",
       "sprint": "No Sprint",
       "type": "Bug"
@@ -16371,6 +16371,30 @@
   ],
   "tasks": [
     {
+      "key": "VF-2080",
+      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-2079",
+      "summary": "(Tamanna) - Content Details Not Displaying Below Thumbnail.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
       "key": "VF-939",
       "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
       "status": "Ready For Test",
@@ -21790,6 +21814,18 @@
     }
   },
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 30,
+      "tasks": 10,
+      "stories": 0,
+      "total": 44
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 17,
+      "stories": 0,
+      "total": 34
+    },
     "vzyfeedback": {
       "bugs": 1122,
       "tasks": 283,
@@ -21801,12 +21837,6 @@
       "tasks": 10,
       "stories": 0,
       "total": 21
-    },
-    "Unassigned": {
-      "bugs": 30,
-      "tasks": 8,
-      "stories": 0,
-      "total": 42
     },
     "Karan Mahboobani": {
       "bugs": 1,
@@ -21873,12 +21903,6 @@
       "tasks": 17,
       "stories": 0,
       "total": 36
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 17,
-      "stories": 0,
-      "total": 34
     },
     "Akash Kushwaha": {
       "bugs": 1,
@@ -22016,10 +22040,10 @@
   "priority_breakdown": {
     "High": 305,
     "Medium": 714,
-    "Highest": 324,
     "Low": 19,
+    "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T10:10:56Z",
-  "total_issues": 1829
+  "updated_at": "2026-02-11T11:10:36Z",
+  "total_issues": 1831
 }
