@@ -1,6 +1,138 @@
 {
   "bugs": [
     {
+      "key": "VF-2039",
+      "summary": "Onida TV: Back navigation does not work for Featured Banner carousel using remote control.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-1996",
+      "summary": "Onida TV: Live TV Food & Travel content fails to play and back navigation causes infinite buffering",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-1995",
+      "summary": "Onida TV: Food & Travel category contents fails to play",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2005",
+      "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2070",
+      "summary": "Kaltura Issue: 16x9 cover image not available for hoichoi content",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Unknown",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2071",
+      "summary": "Kaltura Issue: Asset title missing from content thumbnail",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Unknown",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2072",
+      "summary": "Content recommendation under similar to this is not correct",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2073",
+      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2074",
+      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2075",
+      "summary": "Live TV: Sony Liv Live TV channel logo issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
       "key": "VF-1574",
       "summary": "GTM | Firebase | Missing parameters in firebase same availabe on GTM (IOS)",
       "status": "In Review",
@@ -937,30 +1069,6 @@
       "type": "Bug"
     },
     {
-      "key": "VF-1995",
-      "summary": "Onida TV: Food & Travel category contents fails to play",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-02-07",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1996",
-      "summary": "Onida TV: Live TV Food & Travel content fails to play and back navigation causes infinite buffering",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-02-07",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
       "key": "VF-2026",
       "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
       "status": "Issue Accepted",
@@ -1064,18 +1172,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2025-12-23",
-      "updated": "2026-02-07",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2005",
-      "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-02-06",
       "updated": "2026-02-07",
       "sprint": "No Sprint",
       "type": "Bug"
@@ -1410,18 +1506,6 @@
       "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2039",
-      "summary": "Onida TV: Back navigation does not work for Featured Banner carousel using remote control.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
       "updated": "2026-02-06",
@@ -16287,6 +16371,42 @@
   ],
   "tasks": [
     {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1936",
+      "summary": "MX Player - CP Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
       "key": "VF-1955",
       "summary": "Android - Need to add new parameter in the Conviva events",
       "status": "Dev Complete",
@@ -16345,18 +16465,6 @@
       "updated": "2026-02-10",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Sub-task"
-    },
-    {
-      "key": "VF-1936",
-      "summary": "MX Player - CP Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
     },
     {
       "key": "VF-1933",
@@ -16647,18 +16755,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-10",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
       "key": "VF-1055",
       "summary": "Clevertap Notifications (push / in-app)",
       "status": "Reopened",
@@ -16845,18 +16941,6 @@
       "priority": "Highest",
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Karan Mahboobani",
-      "platform": "ANDROID",
       "created": "2025-11-14",
       "updated": "2026-02-09",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -21648,9 +21732,9 @@
       "stories": 0,
       "total": 47,
       "statuses": {
+        "In Progress": 14,
         "Dev Complete": 6,
         "Ready For Test": 11,
-        "In Progress": 14,
         "Testing On hold": 2,
         "Reopened": 1,
         "Closed": 6,
@@ -21672,17 +21756,59 @@
     }
   },
   "assignee_workload": {
-    "Adikeshava Reddy": {
+    "Yashika Krishnani": {
       "bugs": 1,
-      "tasks": 0,
+      "tasks": 2,
       "stories": 0,
-      "total": 1
+      "total": 3
     },
     "vzyfeedback": {
       "bugs": 1122,
       "tasks": 278,
       "stories": 0,
       "total": 1404
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 16,
+      "stories": 0,
+      "total": 33
+    },
+    "BalaKumar": {
+      "bugs": 11,
+      "tasks": 10,
+      "stories": 0,
+      "total": 21
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 17,
+      "stories": 0,
+      "total": 36
+    },
+    "Unassigned": {
+      "bugs": 30,
+      "tasks": 6,
+      "stories": 0,
+      "total": 40
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "stories": 0,
+      "total": 12
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Adikeshava Reddy": {
+      "bugs": 1,
+      "tasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "Javed Ali": {
       "bugs": 19,
@@ -21708,29 +21834,11 @@
       "stories": 0,
       "total": 8
     },
-    "shadab Hussain": {
-      "bugs": 3,
-      "tasks": 5,
-      "stories": 0,
-      "total": 8
-    },
     "avinash waghmare": {
       "bugs": 2,
       "tasks": 6,
       "stories": 0,
       "total": 8
-    },
-    "BalaKumar": {
-      "bugs": 11,
-      "tasks": 9,
-      "stories": 0,
-      "total": 20
-    },
-    "Unassigned": {
-      "bugs": 28,
-      "tasks": 6,
-      "stories": 0,
-      "total": 37
     },
     "kamaldeeps": {
       "bugs": 2,
@@ -21756,21 +21864,9 @@
       "stories": 0,
       "total": 14
     },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 17,
-      "stories": 0,
-      "total": 33
-    },
     "Karan Mahboobani": {
       "bugs": 1,
-      "tasks": 1,
-      "stories": 0,
-      "total": 2
-    },
-    "Srinidhi.Raju": {
-      "bugs": 0,
-      "tasks": 1,
+      "tasks": 0,
       "stories": 0,
       "total": 1
     },
@@ -21798,6 +21894,12 @@
       "stories": 0,
       "total": 41
     },
+    "shadab Hussain": {
+      "bugs": 3,
+      "tasks": 4,
+      "stories": 0,
+      "total": 7
+    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 5,
@@ -21809,24 +21911,6 @@
       "tasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "abhilash.ramesh": {
-      "bugs": 8,
-      "tasks": 3,
-      "stories": 0,
-      "total": 11
-    },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 0,
-      "stories": 0,
-      "total": 1
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 16,
-      "stories": 0,
-      "total": 33
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -21902,12 +21986,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 305,
-    "Medium": 707,
     "Low": 19,
+    "Medium": 714,
+    "High": 305,
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T02:52:35Z",
-  "total_issues": 1818
+  "updated_at": "2026-02-11T05:13:22Z",
+  "total_issues": 1826
 }
