@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-1899",
+      "summary": "Volume Icon in iOS homepage",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-01-30",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-1895",
+      "summary": "View all arrow spacing (Business Team)",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-01-29",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2037",
+      "summary": "LG TV: Next Episode option is missing and autoplay does not work for MasterChef series.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2043",
+      "summary": "Samsung TV: Next Episode button redirects to the same episode in \u201cPlants Behaving Badly\u201d series",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2036",
+      "summary": "Samsung TV: Related content takes excessive time to load and returns to info page for Djokovic Have Never Experienced This Much Love.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2054",
+      "summary": "Onida TV: Ad pod freezes on screen when playback starts for Introduction of Finalists episode.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
       "key": "VF-1995",
       "summary": "Onida TV: Food & Travel category contents fails to play",
       "status": "Reopened",
@@ -66,18 +150,6 @@
       "status": "Closed",
       "priority": "Medium",
       "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-11",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2054",
-      "summary": "Onida TV: Ad pod freezes on screen when playback starts for Introduction of Finalists episode.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-06",
       "updated": "2026-02-11",
@@ -865,30 +937,6 @@
       "type": "Bug"
     },
     {
-      "key": "VF-2043",
-      "summary": "Samsung TV: Next Episode button redirects to the same episode in \u201cPlants Behaving Badly\u201d series",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2037",
-      "summary": "LG TV: Next Episode option is missing and autoplay does not work for MasterChef series.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
       "key": "VF-1133",
       "summary": "(Awadhesh) iOS Mobile Crash Rate Issue - BENCHMARK: <0.50%",
       "status": "Parked",
@@ -968,18 +1016,6 @@
       "assignee": "Abhishek Dhok",
       "platform": "IOS",
       "created": "2026-02-09",
-      "updated": "2026-02-09",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2036",
-      "summary": "Samsung TV: Related content takes excessive time to load and returns to info page for Djokovic Have Never Experienced This Much Love.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-02-06",
       "updated": "2026-02-09",
       "sprint": "No Sprint",
       "type": "Bug"
@@ -1129,18 +1165,6 @@
       "type": "Bug"
     },
     {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-07",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
       "key": "VF-1861",
       "summary": "IOS App when switched from background mode misbehaves",
       "status": "Ready For Test",
@@ -1148,30 +1172,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-01-25",
-      "updated": "2026-02-07",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1895",
-      "summary": "View all arrow spacing (Business Team)",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-01-29",
-      "updated": "2026-02-07",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1899",
-      "summary": "Volume Icon in iOS homepage",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-01-30",
       "updated": "2026-02-07",
       "sprint": "No Sprint",
       "type": "Bug"
@@ -16371,6 +16371,54 @@
   ],
   "tasks": [
     {
+      "key": "VF-1446",
+      "summary": "Download invoice",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-23",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1655",
+      "summary": "how to show if there is to many buttons in CD page mainly for FLIQS Channel CD page ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-13",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-2082",
+      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-2081",
+      "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
       "key": "VF-2080",
       "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
       "status": "Open",
@@ -17146,30 +17194,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2025-11-28",
-      "updated": "2026-02-07",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1446",
-      "summary": "Download invoice",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-23",
-      "updated": "2026-02-07",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1655",
-      "summary": "how to show if there is to many buttons in CD page mainly for FLIQS Channel CD page ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-13",
       "updated": "2026-02-07",
       "sprint": "No Sprint",
       "type": "Task"
@@ -21814,11 +21838,17 @@
     }
   },
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1123,
+      "tasks": 283,
+      "stories": 0,
+      "total": 1410
+    },
     "Unassigned": {
       "bugs": 30,
-      "tasks": 10,
+      "tasks": 12,
       "stories": 0,
-      "total": 44
+      "total": 46
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
@@ -21826,23 +21856,11 @@
       "stories": 0,
       "total": 34
     },
-    "vzyfeedback": {
-      "bugs": 1122,
-      "tasks": 283,
-      "stories": 0,
-      "total": 1409
-    },
     "BalaKumar": {
       "bugs": 11,
       "tasks": 10,
       "stories": 0,
       "total": 21
-    },
-    "Karan Mahboobani": {
-      "bugs": 1,
-      "tasks": 0,
-      "stories": 0,
-      "total": 1
     },
     "Harsh Pratap Singh": {
       "bugs": 4,
@@ -22038,12 +22056,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 305,
     "Medium": 714,
-    "Low": 19,
     "Highest": 324,
+    "High": 305,
+    "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T11:10:36Z",
-  "total_issues": 1831
+  "updated_at": "2026-02-11T11:58:39Z",
+  "total_issues": 1833
 }
