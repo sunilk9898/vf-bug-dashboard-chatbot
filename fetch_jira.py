@@ -154,6 +154,7 @@ def build_detailed_data(issues):
     detailed = {
         'bugs': [],
         'tasks': [],
+        'subtasks': [],
         'stories': [],
         'sprints': {},
         'assignee_workload': {},
@@ -199,18 +200,22 @@ def build_detailed_data(issues):
         type_upper = issue_type.upper()
         if type_upper == 'BUG':
             detailed['bugs'].append(item)
-        elif type_upper == 'TASK' or type_upper == 'SUB-TASK':
+        elif type_upper == 'TASK':
             detailed['tasks'].append(item)
+        elif type_upper == 'SUB-TASK':
+            detailed['subtasks'].append(item)
         elif type_upper == 'STORY':
             detailed['stories'].append(item)
 
         # Assignee workload
         if assignee not in detailed['assignee_workload']:
-            detailed['assignee_workload'][assignee] = {'bugs': 0, 'tasks': 0, 'stories': 0, 'total': 0}
+            detailed['assignee_workload'][assignee] = {'bugs': 0, 'tasks': 0, 'subtasks': 0, 'stories': 0, 'total': 0}
         if type_upper == 'BUG':
             detailed['assignee_workload'][assignee]['bugs'] += 1
-        elif type_upper in ('TASK', 'SUB-TASK'):
+        elif type_upper == 'TASK':
             detailed['assignee_workload'][assignee]['tasks'] += 1
+        elif type_upper == 'SUB-TASK':
+            detailed['assignee_workload'][assignee]['subtasks'] += 1
         elif type_upper == 'STORY':
             detailed['assignee_workload'][assignee]['stories'] += 1
         detailed['assignee_workload'][assignee]['total'] += 1
@@ -224,11 +229,13 @@ def build_detailed_data(issues):
         # Sprint tracking
         if sprint_name:
             if sprint_name not in detailed['sprints']:
-                detailed['sprints'][sprint_name] = {'bugs': 0, 'tasks': 0, 'stories': 0, 'total': 0, 'statuses': {}}
+                detailed['sprints'][sprint_name] = {'bugs': 0, 'tasks': 0, 'subtasks': 0, 'stories': 0, 'total': 0, 'statuses': {}}
             if type_upper == 'BUG':
                 detailed['sprints'][sprint_name]['bugs'] += 1
-            elif type_upper in ('TASK', 'SUB-TASK'):
+            elif type_upper == 'TASK':
                 detailed['sprints'][sprint_name]['tasks'] += 1
+            elif type_upper == 'SUB-TASK':
+                detailed['sprints'][sprint_name]['subtasks'] += 1
             elif type_upper == 'STORY':
                 detailed['sprints'][sprint_name]['stories'] += 1
             detailed['sprints'][sprint_name]['total'] += 1

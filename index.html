@@ -841,7 +841,7 @@
                 let html = `<b>Sprint Status</b><br><br>`;
                 Object.entries(sprints).forEach(([name, sprintData]) => {
                     html += `&#x1f3c3; <b>${escapeHtml(name)}</b><br>`;
-                    html += `Total: <b>${sprintData.total}</b> (Bugs: ${sprintData.bugs}, Tasks: ${sprintData.tasks}, Stories: ${sprintData.stories})<br>`;
+                    html += `Total: <b>${sprintData.total}</b> (Bugs: ${sprintData.bugs}, Tasks: ${sprintData.tasks}, Sub-tasks: ${sprintData.subtasks || 0}, Stories: ${sprintData.stories})<br>`;
                     html += `<table style="width:100%;margin:4px 0 12px"><thead><tr><th>Status</th><th>Count</th></tr></thead><tbody>`;
                     Object.entries(sprintData.statuses).sort((a,b) => b[1] - a[1]).forEach(([status, count]) => {
                         html += `<tr><td>${status}</td><td style="text-align:center"><b>${count}</b></td></tr>`;
@@ -866,9 +866,9 @@
                 const workload = allIssues.assignee_workload || {};
                 const sorted = Object.entries(workload).sort((a,b) => b[1].total - a[1].total).slice(0, 20);
                 let html = `<b>Assignee Workload (Top 20)</b><br><br>`;
-                html += `<table style="width:100%"><thead><tr><th style="text-align:left">Assignee</th><th>Bugs</th><th>Tasks</th><th>Total</th></tr></thead><tbody>`;
+                html += `<table style="width:100%"><thead><tr><th style="text-align:left">Assignee</th><th>Bugs</th><th>Tasks</th><th>Sub-tasks</th><th>Total</th></tr></thead><tbody>`;
                 sorted.forEach(([name, d]) => {
-                    html += `<tr><td style="font-size:12px">${escapeHtml(name)}</td><td style="text-align:center">${d.bugs}</td><td style="text-align:center">${d.tasks}</td><td style="text-align:center"><b>${d.total}</b></td></tr>`;
+                    html += `<tr><td style="font-size:12px">${escapeHtml(name)}</td><td style="text-align:center">${d.bugs}</td><td style="text-align:center">${d.tasks}</td><td style="text-align:center">${d.subtasks || 0}</td><td style="text-align:center"><b>${d.total}</b></td></tr>`;
                 });
                 html += `</tbody></table>`;
                 return html;
@@ -893,6 +893,14 @@
                     if (pb[p]) html += `<tr><td><b style="color:${pColors[p]||'#e2e8f0'}">${p}</b></td><td style="text-align:center"><b>${pb[p]}</b></td></tr>`;
                 });
                 html += `</tbody></table>`;
+                return html;
+            }
+
+            // --- SUB-TASK QUERIES ---
+            if (allIssues && (q.includes('sub-task') || q.includes('subtask') || q.includes('sub task'))) {
+                const subtasks = filterItems('subtasks', { platform: matchedPlatform || undefined });
+                let html = `<b>Sub-tasks${matchedPlatform ? ' - ' + matchedPlatform : ''}</b><br>Total: <b style="color:#60a5fa">${subtasks.length}</b><br>`;
+                html += buildTicketTable(subtasks);
                 return html;
             }
 
