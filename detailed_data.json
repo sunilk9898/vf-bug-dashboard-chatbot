@@ -16395,18 +16395,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-1955",
-      "summary": "Android - Need to add new parameter in the Conviva events",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
       "key": "VF-2083",
       "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
       "status": "Open",
@@ -16417,18 +16405,6 @@
       "updated": "2026-02-11",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-1965",
-      "summary": "Android - Claver Tap - Notification Inbox",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-1871",
@@ -16623,18 +16599,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-1964",
-      "summary": "iOS - Claver Tap - Notification Inbox",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
       "key": "VF-1963",
       "summary": "Claver Tap - Notification Inbox",
       "status": "In Progress",
@@ -16681,30 +16645,6 @@
       "updated": "2026-02-11",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task"
-    },
-    {
-      "key": "VF-1959",
-      "summary": "Firestick - Need to add new parameter in the Conviva events",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
-      "key": "VF-1957",
-      "summary": "ATV - Need to add new parameter in the Conviva events",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-1953",
@@ -16791,30 +16731,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-1968",
-      "summary": "iOS - Branch.io Intregation (Standered)",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
-      "key": "VF-1958",
-      "summary": "SmartTV - Need to add new parameter in the Conviva events",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
       "key": "VF-1933",
       "summary": "Shemaroo - CP Integration",
       "status": "Testing On hold",
@@ -16837,30 +16753,6 @@
       "updated": "2026-02-10",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task"
-    },
-    {
-      "key": "VF-1969",
-      "summary": "Web - Branch.io Intregation (Standered)",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
-      "key": "VF-1967",
-      "summary": "Android - Branch.io Intregation (Standered)",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-1966",
@@ -17007,18 +16899,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-1947",
-      "summary": "Web - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
       "key": "VF-481",
       "summary": "Purchases (TVOD or Individual SVOD)",
       "status": "In Progress",
@@ -17029,18 +16909,6 @@
       "updated": "2026-02-10",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task"
-    },
-    {
-      "key": "VF-1954",
-      "summary": "Web - Need to add new parameter in the Conviva events",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-596",
@@ -17115,30 +16983,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-1952",
-      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
-      "key": "VF-1951",
-      "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
       "key": "VF-823",
       "summary": "Plans / Subscriptions\tActive / Expired / Renew Plan / Add Plan / Upgrade Plan - Multi order",
       "status": "Ready For Test",
@@ -17149,30 +16993,6 @@
       "updated": "2026-02-09",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-1956",
-      "summary": "iOS- Need to add new parameter in the Conviva events",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
-      "key": "VF-1949",
-      "summary": "Android - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-462",
@@ -17221,18 +17041,6 @@
       "updated": "2026-02-07",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-1950",
-      "summary": "Smart TV - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-06",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-643",
@@ -17329,18 +17137,6 @@
       "updated": "2026-02-05",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-1948",
-      "summary": "iOS - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-02-05",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-1970",
@@ -18555,18 +18351,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-623",
-      "summary": "\u2018Explore more\u2019 option would be shown basis search keywords\u2026 If there\u2019s no search input/keyword, default list would be displayed on Explore more- explore more option exists.. Horizon has to implement mapping with search keywords.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-22",
-      "updated": "2026-01-13",
-      "sprint": "No Sprint",
-      "type": "Sub-task"
-    },
-    {
       "key": "VF-918",
       "summary": "Clevertap event integration - ATV",
       "status": "Closed",
@@ -18697,18 +18481,6 @@
       "updated": "2026-01-07",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-624",
-      "summary": "Search result by Actor and Genre",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Ranjitha br",
-      "platform": "Unknown",
-      "created": "2025-11-22",
-      "updated": "2026-01-05",
-      "sprint": "No Sprint",
-      "type": "Sub-task"
     },
     {
       "key": "VF-544",
@@ -19045,18 +18817,6 @@
       "updated": "2025-12-26",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-632",
-      "summary": "Information Pop Up Information pop-up for out of app play, auto redirect - Web",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-11-24",
-      "updated": "2025-12-24",
-      "sprint": "No Sprint",
-      "type": "Sub-task"
     },
     {
       "key": "VF-590",
@@ -19431,18 +19191,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-625",
-      "summary": "SARA Search language preference",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Moore Meghana",
-      "platform": "Unknown",
-      "created": "2025-11-22",
-      "updated": "2025-12-16",
-      "sprint": "No Sprint",
-      "type": "Sub-task"
-    },
-    {
       "key": "VF-591",
       "summary": "Search.- Curated rails on search page ",
       "status": "Dev Complete",
@@ -19573,18 +19321,6 @@
       "updated": "2025-12-12",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-715",
-      "summary": "Top chart-carousal",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2025-11-28",
-      "updated": "2025-12-12",
-      "sprint": "No Sprint",
-      "type": "Sub-task"
     },
     {
       "key": "VF-712",
@@ -20233,18 +19969,6 @@
       "updated": "2025-12-08",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-622",
-      "summary": "Enable voice search- functionality- Exists on Mobile, has to be implemented on web.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-11-22",
-      "updated": "2025-12-05",
-      "sprint": "No Sprint",
-      "type": "Sub-task"
     },
     {
       "key": "VF-282",
@@ -21807,6 +21531,284 @@
       "type": "Task"
     }
   ],
+  "subtasks": [
+    {
+      "key": "VF-1955",
+      "summary": "Android - Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1965",
+      "summary": "Android - Claver Tap - Notification Inbox",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1964",
+      "summary": "iOS - Claver Tap - Notification Inbox",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1959",
+      "summary": "Firestick - Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1957",
+      "summary": "ATV - Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1968",
+      "summary": "iOS - Branch.io Intregation (Standered)",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Abhishek Dhok",
+      "platform": "IOS",
+      "created": "2026-02-04",
+      "updated": "2026-02-10",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1958",
+      "summary": "SmartTV - Need to add new parameter in the Conviva events",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-10",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1969",
+      "summary": "Web - Branch.io Intregation (Standered)",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-04",
+      "updated": "2026-02-10",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1967",
+      "summary": "Android - Branch.io Intregation (Standered)",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-10",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1947",
+      "summary": "Web - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-04",
+      "updated": "2026-02-10",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1954",
+      "summary": "Web - Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-04",
+      "updated": "2026-02-10",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1952",
+      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-09",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1951",
+      "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-09",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1956",
+      "summary": "iOS- Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-02-04",
+      "updated": "2026-02-09",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1949",
+      "summary": "Android - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-09",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1950",
+      "summary": "Smart TV - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-06",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1948",
+      "summary": "iOS - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "Abhishek Dhok",
+      "platform": "IOS",
+      "created": "2026-02-04",
+      "updated": "2026-02-05",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-623",
+      "summary": "\u2018Explore more\u2019 option would be shown basis search keywords\u2026 If there\u2019s no search input/keyword, default list would be displayed on Explore more- explore more option exists.. Horizon has to implement mapping with search keywords.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-22",
+      "updated": "2026-01-13",
+      "sprint": "No Sprint",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-624",
+      "summary": "Search result by Actor and Genre",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Ranjitha br",
+      "platform": "Unknown",
+      "created": "2025-11-22",
+      "updated": "2026-01-05",
+      "sprint": "No Sprint",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-632",
+      "summary": "Information Pop Up Information pop-up for out of app play, auto redirect - Web",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-24",
+      "updated": "2025-12-24",
+      "sprint": "No Sprint",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-625",
+      "summary": "SARA Search language preference",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "Unknown",
+      "created": "2025-11-22",
+      "updated": "2025-12-16",
+      "sprint": "No Sprint",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-715",
+      "summary": "Top chart-carousal",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2025-11-28",
+      "updated": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-622",
+      "summary": "Enable voice search- functionality- Exists on Mobile, has to be implemented on web.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-22",
+      "updated": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Sub-task"
+    }
+  ],
   "stories": [
     {
       "key": "VF-2061",
@@ -21825,6 +21827,7 @@
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 0,
       "tasks": 6,
+      "subtasks": 0,
       "stories": 0,
       "total": 6,
       "statuses": {
@@ -21835,7 +21838,8 @@
     },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
-      "tasks": 33,
+      "tasks": 16,
+      "subtasks": 17,
       "stories": 0,
       "total": 48,
       "statuses": {
@@ -21852,217 +21856,253 @@
   "assignee_workload": {
     "BalaKumar": {
       "bugs": 11,
-      "tasks": 11,
+      "tasks": 10,
+      "subtasks": 1,
       "stories": 0,
       "total": 22
     },
     "vzyfeedback": {
       "bugs": 1124,
-      "tasks": 283,
+      "tasks": 277,
+      "subtasks": 6,
       "stories": 0,
       "total": 1411
     },
     "Javed Ali": {
       "bugs": 19,
-      "tasks": 6,
+      "tasks": 3,
+      "subtasks": 3,
       "stories": 0,
       "total": 25
     },
     "Unassigned": {
       "bugs": 30,
       "tasks": 12,
+      "subtasks": 0,
       "stories": 0,
       "total": 46
     },
     "Alok Gupta": {
       "bugs": 11,
-      "tasks": 4,
+      "tasks": 3,
+      "subtasks": 1,
       "stories": 0,
       "total": 15
     },
     "abhilash.ramesh": {
       "bugs": 9,
       "tasks": 3,
+      "subtasks": 0,
       "stories": 0,
       "total": 12
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
       "tasks": 17,
+      "subtasks": 0,
       "stories": 0,
       "total": 34
     },
     "Harsh Pratap Singh": {
       "bugs": 4,
       "tasks": 1,
+      "subtasks": 0,
       "stories": 0,
       "total": 5
     },
     "devaraj": {
       "bugs": 6,
-      "tasks": 2,
+      "tasks": 0,
+      "subtasks": 2,
       "stories": 0,
       "total": 8
     },
     "avinash waghmare": {
       "bugs": 2,
       "tasks": 6,
+      "subtasks": 0,
       "stories": 0,
       "total": 8
     },
     "Abhishek Dhok": {
       "bugs": 7,
-      "tasks": 5,
+      "tasks": 3,
+      "subtasks": 2,
       "stories": 0,
       "total": 12
     },
     "Yashika Krishnani": {
       "bugs": 1,
       "tasks": 2,
+      "subtasks": 0,
       "stories": 0,
       "total": 3
     },
     "kamaldeeps": {
       "bugs": 2,
-      "tasks": 4,
+      "tasks": 3,
+      "subtasks": 1,
       "stories": 0,
       "total": 6
     },
     "Suyog Lanje": {
       "bugs": 1,
       "tasks": 7,
+      "subtasks": 0,
       "stories": 0,
       "total": 8
     },
     "Amit Kumar Tiwari": {
       "bugs": 5,
-      "tasks": 9,
+      "tasks": 5,
+      "subtasks": 4,
       "stories": 0,
       "total": 14
     },
     "Dinjit Dinesh": {
       "bugs": 18,
       "tasks": 17,
+      "subtasks": 0,
       "stories": 0,
       "total": 36
     },
     "Akash Kushwaha": {
       "bugs": 1,
-      "tasks": 2,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
       "total": 3
     },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 3,
+      "subtasks": 0,
       "stories": 0,
       "total": 3
     },
     "Adikeshava Reddy": {
       "bugs": 1,
       "tasks": 0,
+      "subtasks": 0,
       "stories": 0,
       "total": 1
     },
     "Manikanta P": {
       "bugs": 4,
       "tasks": 9,
+      "subtasks": 0,
       "stories": 1,
       "total": 14
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
       "tasks": 2,
+      "subtasks": 0,
       "stories": 0,
       "total": 7
     },
     "Rajkumar A": {
       "bugs": 5,
       "tasks": 17,
+      "subtasks": 0,
       "stories": 0,
       "total": 22
     },
     "Vikas Mishra": {
       "bugs": 39,
       "tasks": 2,
+      "subtasks": 0,
       "stories": 0,
       "total": 41
     },
     "shadab Hussain": {
       "bugs": 3,
       "tasks": 4,
+      "subtasks": 0,
       "stories": 0,
       "total": 7
     },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 5,
+      "subtasks": 0,
       "stories": 0,
       "total": 10
     },
     "Moore Meghana": {
       "bugs": 9,
-      "tasks": 2,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
       "total": 11
     },
     "Shubham Chauhan": {
       "bugs": 6,
       "tasks": 5,
+      "subtasks": 0,
       "stories": 0,
       "total": 11
     },
     "Namrata Kurariya": {
       "bugs": 4,
       "tasks": 1,
+      "subtasks": 0,
       "stories": 0,
       "total": 5
     },
     "Aditya Shrivastava": {
       "bugs": 0,
       "tasks": 5,
+      "subtasks": 0,
       "stories": 0,
       "total": 5
     },
     "Ranjitha br": {
       "bugs": 1,
-      "tasks": 2,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
       "total": 3
     },
     "Vedant Kajale": {
       "bugs": 0,
       "tasks": 1,
+      "subtasks": 0,
       "stories": 0,
       "total": 1
     },
     "Kiran JR": {
       "bugs": 5,
       "tasks": 1,
+      "subtasks": 0,
       "stories": 0,
       "total": 6
     },
     "Ajay Kushwaha": {
       "bugs": 10,
       "tasks": 2,
+      "subtasks": 0,
       "stories": 0,
       "total": 12
     },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
+      "subtasks": 0,
       "stories": 0,
       "total": 3
     },
     "sudha.r": {
       "bugs": 3,
       "tasks": 0,
+      "subtasks": 0,
       "stories": 0,
       "total": 3
     },
     "Ajay T": {
       "bugs": 0,
       "tasks": 1,
+      "subtasks": 0,
       "stories": 0,
       "total": 1
     }
@@ -22074,6 +22114,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T15:14:27Z",
+  "updated_at": "2026-02-11T16:01:15Z",
   "total_issues": 1834
 }
