@@ -18,7 +18,7 @@ JIRA_EMAIL = os.environ.get('JIRA_EMAIL', '')
 JIRA_API_TOKEN = os.environ.get('JIRA_API_TOKEN', '')
 PROJECT_KEY = os.environ.get('JIRA_PROJECT_KEY', 'VZY')
 
-PLATFORMS = ['ANDROID', 'ATV', 'CMS Adaptor', 'CMS Dashboard', 'DishIT', 'IOS', 'LG_TV', 'SAM_TV', 'WEB']
+PLATFORMS = ['ANDROID', 'ATV', 'CMS Adaptor', 'CMS Dashboard', 'DishIT', 'IOS', 'Kaltura', 'LG_TV', 'Mobile', 'SAM_TV', 'WEB']
 STATUSES = ['OPEN', 'IN PROGRESS', 'REOPENED', 'IN REVIEW', 'ISSUE ACCEPTED', 'PARKED']
 
 def fetch_jira_data():
@@ -88,10 +88,12 @@ def detect_platform(issue):
     platform_patterns = {
         'CMS Adaptor': ['CMS ADAPTOR', 'CMS_ADAPTOR', 'CMSADAPTOR'],
         'CMS Dashboard': ['CMS DASHBOARD', 'CMS_DASHBOARD', 'CMSDASHBOARD'],
+        'Kaltura': ['KALTURA'],
         'DishIT': ['DISHIT', 'DISH IT', 'DISH_IT'],
         'LG_TV': ['LG_TV', 'LGTV', 'LG TV', 'WEBOS', 'LG-TV'],
         'SAM_TV': ['SAM_TV', 'SAMTV', 'SAM TV', 'SAMSUNG TV', 'SAMSUNG_TV', 'TIZEN', 'SAM-TV'],
         'ATV': ['ATV', 'ANDROID TV', 'ANDROID_TV', 'ANDROIDTV', 'FIRE TV', 'FIRETV', 'FIRE_TV'],
+        'Mobile': ['MOBILE'],
         'ANDROID': ['ANDROID'],
         'IOS': ['IOS', 'APPLE', 'IPHONE', 'IPAD'],
         'WEB': ['WEB'],
@@ -106,7 +108,8 @@ def detect_platform(issue):
 
 
 def build_dashboard_data(issues):
-    """Build the platform x status matrix."""
+    """Build the platform x status matrix (dynamically includes all detected platforms)."""
+    # Start with known platforms, then add any new ones found dynamically
     matrix = {}
     for p in PLATFORMS:
         matrix[p] = {s: 0 for s in STATUSES}
@@ -130,6 +133,9 @@ def build_dashboard_data(issues):
             bug_status_breakdown[status_name] = bug_status_breakdown.get(status_name, 0) + 1
 
             if platform and status_upper in STATUSES:
+                # Dynamically add platform if not in hardcoded list
+                if platform not in matrix:
+                    matrix[platform] = {s: 0 for s in STATUSES}
                 matrix[platform][status_upper] += 1
                 matched_counted += 1
             elif platform and status_upper not in STATUSES:

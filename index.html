@@ -441,7 +441,8 @@
         };
 
         const STATUSES = ['OPEN', 'IN PROGRESS', 'REOPENED', 'IN REVIEW', 'ISSUE ACCEPTED', 'PARKED'];
-        const PLATFORMS = ['ANDROID', 'ATV', 'CMS Adaptor', 'CMS Dashboard', 'DishIT', 'IOS', 'LG_TV', 'SAM_TV', 'WEB'];
+        const DEFAULT_PLATFORMS = ['ANDROID', 'ATV', 'CMS Adaptor', 'CMS Dashboard', 'DishIT', 'IOS', 'LG_TV', 'SAM_TV', 'WEB'];
+        let PLATFORMS = [...DEFAULT_PLATFORMS];
 
         const STATUS_COLORS = {
             'OPEN': '#ef4444', 'IN PROGRESS': '#f59e0b', 'REOPENED': '#f97316',
@@ -512,6 +513,8 @@
         // ============================================
         function renderDashboard(data) {
             dashboardData = data;
+            // Dynamically detect platforms from data keys
+            PLATFORMS = Object.keys(data).filter(k => typeof data[k] === 'object' && data[k] !== null && !Array.isArray(data[k]) && STATUSES.some(s => s in data[k]));
             const totals = {};
             STATUSES.forEach(s => totals[s] = 0);
             let grandTotal = 0;
