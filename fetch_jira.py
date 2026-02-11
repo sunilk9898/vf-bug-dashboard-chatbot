@@ -177,6 +177,7 @@ def build_detailed_data(issues):
         assignee = fields.get('assignee', {}).get('displayName', 'Unassigned') if fields.get('assignee') else 'Unassigned'
         created = fields.get('created', '')
         updated = fields.get('updated', '')
+        duedate = fields.get('duedate', '')
         platform = detect_platform(issue)
 
         # Extract sprint info
@@ -199,6 +200,7 @@ def build_detailed_data(issues):
             'platform': platform or 'Unknown',
             'created': created[:10] if created else '',
             'updated': updated[:10] if updated else '',
+            'duedate': duedate[:10] if duedate else '',
             'sprint': sprint_name or 'No Sprint',
             'type': issue_type,
         }

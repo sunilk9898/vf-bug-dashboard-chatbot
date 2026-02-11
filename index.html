@@ -273,6 +273,59 @@
         .alert-banner .alert-text h4 { font-size: 14px; font-weight: 600; color: #fca5a5; }
         .alert-banner .alert-text p { font-size: 12px; color: #fca5a5; opacity: 0.8; }
 
+        /* ========== TASK DASHBOARD TAB ========== */
+        .task-dashboard-container { max-width: 1400px; margin: 0 auto; padding: 24px; width: 100%; }
+        .task-summary-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 20px; }
+        .task-summary-cards .card { text-align: center; }
+        .task-filters {
+            display: flex; gap: 12px; margin-bottom: 16px; flex-wrap: wrap;
+        }
+        .task-filters select {
+            background: #1e293b; color: #e2e8f0; border: 1px solid #334155;
+            border-radius: 8px; padding: 8px 12px; font-size: 13px;
+            cursor: pointer; min-width: 150px;
+        }
+        .task-filters select:focus { outline: none; border-color: #60a5fa; }
+        .task-table-wrapper {
+            background: #1e293b; border: 1px solid #334155; border-radius: 12px;
+            overflow-x: auto; padding: 0;
+        }
+        .task-table {
+            width: 100%; border-collapse: collapse; font-size: 13px;
+        }
+        .task-table thead th {
+            position: sticky; top: 0; background: #0f172a;
+            padding: 12px 10px; text-align: left; font-weight: 600;
+            color: #94a3b8; border-bottom: 2px solid #334155;
+            font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px;
+            cursor: pointer; user-select: none;
+        }
+        .task-table thead th:hover { color: #60a5fa; }
+        .task-table tbody tr { border-bottom: 1px solid #1e293b; transition: background 0.15s; }
+        .task-table tbody tr:hover { background: #334155; }
+        .task-table tbody td {
+            padding: 10px; color: #cbd5e1; white-space: nowrap;
+        }
+        .task-table .key-link { color: #60a5fa; font-weight: 600; text-decoration: none; }
+        .task-table .key-link:hover { text-decoration: underline; }
+        .task-table .summary-cell { white-space: normal; max-width: 300px; word-wrap: break-word; }
+        .task-status-badge {
+            padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600;
+            display: inline-block;
+        }
+        .task-status-badge.open { background: #7f1d1d; color: #fca5a5; }
+        .task-status-badge.in-progress { background: #78350f; color: #fde68a; }
+        .task-status-badge.closed { background: #064e3b; color: #6ee7b7; }
+        .task-status-badge.dev-complete { background: #1e3a5f; color: #93c5fd; }
+        .task-status-badge.ready-for-test { background: #312e81; color: #c4b5fd; }
+        .task-status-badge.on-hold { background: #44403c; color: #d6d3d1; }
+        .task-status-badge.other { background: #334155; color: #94a3b8; }
+        .eta-overdue { color: #f87171; font-weight: 600; }
+        .eta-upcoming { color: #fbbf24; }
+        .eta-future { color: #34d399; }
+        .eta-blank { color: #475569; font-style: italic; }
+        .task-count-badge { font-size: 11px; color: #94a3b8; margin-top: 4px; }
+
         /* ========== LOADING ========== */
         .loading-overlay {
             position: fixed; inset: 0; background: rgba(15,23,42,0.9);
@@ -340,6 +393,9 @@
         </button>
         <button class="nav-tab" data-tab="insights">
             <span class="tab-icon">&#x1f4a1;</span> Insights
+        </button>
+        <button class="nav-tab" data-tab="tasks">
+            <span class="tab-icon">&#x2611;</span> Task Dashboard
         </button>
     </div>
 
@@ -423,6 +479,30 @@
                 <div class="insights-grid" id="insightsGrid"></div>
             </div>
         </div>
+
+        <!-- ========== TASK DASHBOARD TAB ========== -->
+        <div class="tab-panel" id="tab-tasks">
+            <div class="task-dashboard-container">
+                <div class="task-summary-cards" id="taskSummaryCards"></div>
+                <div class="task-filters" id="taskFilters">
+                    <select id="taskStatusFilter" onchange="renderTaskDashboard()">
+                        <option value="all">All Statuses</option>
+                    </select>
+                    <select id="taskPlatformFilter" onchange="renderTaskDashboard()">
+                        <option value="all">All Platforms</option>
+                    </select>
+                    <select id="taskAssigneeFilter" onchange="renderTaskDashboard()">
+                        <option value="all">All Assignees</option>
+                    </select>
+                    <select id="taskSprintFilter" onchange="renderTaskDashboard()">
+                        <option value="all">All Sprints</option>
+                    </select>
+                </div>
+                <div class="task-table-wrapper" id="taskTableArea">
+                    <p style="color:#94a3b8;text-align:center;padding:40px;">Loading task data...</p>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="footer">
@@ -489,6 +569,9 @@
                 }
                 if (tab.dataset.tab === 'insights') {
                     renderInsights();
+                }
+                if (tab.dataset.tab === 'tasks') {
+                    renderTaskDashboard();
                 }
             });
         });
@@ -671,6 +754,164 @@
             </div>`;
 
             document.getElementById('insightsGrid').innerHTML = insightsHTML;
+        }
+
+        // ============================================
+        // TASK DASHBOARD
+        // ============================================
+        let taskSortCol = 'key';
+        let taskSortAsc = false;
+
+        function getTaskStatusClass(status) {
+            const s = (status || '').toLowerCase();
+            if (s === 'open') return 'open';
+            if (s === 'in progress') return 'in-progress';
+            if (s === 'closed') return 'closed';
+            if (s === 'dev complete') return 'dev-complete';
+            if (s === 'ready for test') return 'ready-for-test';
+            if (s.includes('hold') || s.includes('parked')) return 'on-hold';
+            return 'other';
+        }
+
+        function getEtaClass(duedate) {
+            if (!duedate) return 'eta-blank';
+            const now = new Date();
+            const due = new Date(duedate + 'T23:59:59');
+            const diffDays = Math.ceil((due - now) / (1000 * 60 * 60 * 24));
+            if (diffDays < 0) return 'eta-overdue';
+            if (diffDays <= 3) return 'eta-upcoming';
+            return 'eta-future';
+        }
+
+        function renderTaskDashboard() {
+            if (!allIssues) {
+                document.getElementById('taskTableArea').innerHTML =
+                    '<p style="color:#94a3b8;text-align:center;padding:40px;">Task data is loading. Please wait...</p>';
+                return;
+            }
+
+            const tasks = allIssues.tasks || [];
+            const subtasks = allIssues.subtasks || [];
+            const allTasks = [...tasks, ...subtasks];
+
+            // Collect unique values for filters
+            const statuses = [...new Set(allTasks.map(t => t.status).filter(Boolean))].sort();
+            const platforms = [...new Set(allTasks.map(t => t.platform).filter(Boolean))].sort();
+            const assignees = [...new Set(allTasks.map(t => t.assignee).filter(Boolean))].sort();
+            const sprints = [...new Set(allTasks.map(t => t.sprint).filter(Boolean))].sort();
+
+            // Populate filter dropdowns (preserve selection)
+            const statusFilter = document.getElementById('taskStatusFilter');
+            const platformFilter = document.getElementById('taskPlatformFilter');
+            const assigneeFilter = document.getElementById('taskAssigneeFilter');
+            const sprintFilter = document.getElementById('taskSprintFilter');
+
+            const curStatus = statusFilter.value;
+            const curPlatform = platformFilter.value;
+            const curAssignee = assigneeFilter.value;
+            const curSprint = sprintFilter.value;
+
+            statusFilter.innerHTML = '<option value="all">All Statuses</option>' +
+                statuses.map(s => `<option value="${s}" ${s===curStatus?'selected':''}>${s}</option>`).join('');
+            platformFilter.innerHTML = '<option value="all">All Platforms</option>' +
+                platforms.map(p => `<option value="${p}" ${p===curPlatform?'selected':''}>${p}</option>`).join('');
+            assigneeFilter.innerHTML = '<option value="all">All Assignees</option>' +
+                assignees.map(a => `<option value="${a}" ${a===curAssignee?'selected':''}>${escapeHtml(a)}</option>`).join('');
+            sprintFilter.innerHTML = '<option value="all">All Sprints</option>' +
+                sprints.map(s => `<option value="${s}" ${s===curSprint?'selected':''}>${escapeHtml(s)}</option>`).join('');
+
+            // Apply filters
+            let filtered = allTasks;
+            if (curStatus !== 'all') filtered = filtered.filter(t => t.status === curStatus);
+            if (curPlatform !== 'all') filtered = filtered.filter(t => t.platform === curPlatform);
+            if (curAssignee !== 'all') filtered = filtered.filter(t => t.assignee === curAssignee);
+            if (curSprint !== 'all') filtered = filtered.filter(t => t.sprint === curSprint);
+
+            // Sort
+            filtered.sort((a, b) => {
+                let va = a[taskSortCol] || '';
+                let vb = b[taskSortCol] || '';
+                if (taskSortCol === 'duedate' || taskSortCol === 'created' || taskSortCol === 'updated') {
+                    va = va || 'zzzz'; vb = vb || 'zzzz'; // blanks at end
+                }
+                const cmp = va.toString().localeCompare(vb.toString(), undefined, { numeric: true });
+                return taskSortAsc ? cmp : -cmp;
+            });
+
+            // Summary cards
+            const openCount = allTasks.filter(t => t.status === 'Open').length;
+            const inProgressCount = allTasks.filter(t => t.status === 'In Progress').length;
+            const devCompleteCount = allTasks.filter(t => t.status === 'Dev Complete').length;
+            const readyForTestCount = allTasks.filter(t => t.status === 'Ready For Test').length;
+            const closedCount = allTasks.filter(t => t.status === 'Closed').length;
+            const onHoldCount = allTasks.filter(t => (t.status || '').toLowerCase().includes('hold') || t.status === 'Parked').length;
+            const withEta = allTasks.filter(t => t.duedate).length;
+            const overdueCount = allTasks.filter(t => t.duedate && getEtaClass(t.duedate) === 'eta-overdue').length;
+
+            document.getElementById('taskSummaryCards').innerHTML = [
+                { label: 'Total Tasks', value: allTasks.length, cls: 'total' },
+                { label: 'Open', value: openCount, cls: 'open' },
+                { label: 'In Progress', value: inProgressCount, cls: 'progress' },
+                { label: 'Dev Complete', value: devCompleteCount, cls: 'review' },
+                { label: 'Ready For Test', value: readyForTestCount, cls: 'accepted' },
+                { label: 'Closed', value: closedCount, cls: 'parked' },
+                { label: 'On Hold', value: onHoldCount, cls: 'parked' },
+                { label: 'With ETA', value: withEta, cls: 'total' },
+                { label: 'Overdue', value: overdueCount, cls: 'open' },
+            ].map(c => `<div class="card ${c.cls}"><div class="number">${c.value}</div><div class="label">${c.label}</div></div>`).join('');
+
+            // Build table
+            const sortIcon = (col) => taskSortCol === col ? (taskSortAsc ? ' &#9650;' : ' &#9660;') : '';
+            const cols = [
+                { key: 'key', label: 'Ticket' },
+                { key: 'summary', label: 'Summary' },
+                { key: 'type', label: 'Type' },
+                { key: 'status', label: 'Status' },
+                { key: 'priority', label: 'Priority' },
+                { key: 'assignee', label: 'Assignee' },
+                { key: 'platform', label: 'Platform' },
+                { key: 'sprint', label: 'Sprint' },
+                { key: 'duedate', label: 'ETA' },
+                { key: 'created', label: 'Created' },
+                { key: 'updated', label: 'Updated' },
+            ];
+
+            let html = `<table class="task-table"><thead><tr>`;
+            cols.forEach(c => {
+                html += `<th onclick="taskSortCol='${c.key}';taskSortAsc=taskSortCol==='${c.key}'?!taskSortAsc:false;renderTaskDashboard()">${c.label}${sortIcon(c.key)}</th>`;
+            });
+            html += `</tr></thead><tbody>`;
+
+            const maxRows = 100;
+            const display = filtered.slice(0, maxRows);
+            display.forEach(t => {
+                const pColor = t.priority === 'Highest' ? '#ef4444' : t.priority === 'High' ? '#f97316' : t.priority === 'Medium' ? '#fbbf24' : '#94a3b8';
+                const etaClass = getEtaClass(t.duedate);
+                const etaDisplay = t.duedate ? t.duedate : '<span class="eta-blank">-</span>';
+                const typeLabel = t.type === 'Sub-Task' ? 'Sub-task' : t.type;
+                html += `<tr>
+                    <td><a class="key-link" href="https://hbeindia.atlassian.net/browse/${t.key}" target="_blank">${t.key}</a></td>
+                    <td class="summary-cell">${escapeHtml((t.summary || '').substring(0, 80))}</td>
+                    <td style="font-size:11px">${typeLabel}</td>
+                    <td><span class="task-status-badge ${getTaskStatusClass(t.status)}">${t.status}</span></td>
+                    <td style="color:${pColor}">${t.priority || '-'}</td>
+                    <td style="font-size:12px">${escapeHtml((t.assignee || 'Unassigned').split(' ').slice(0,2).join(' '))}</td>
+                    <td style="font-size:12px">${t.platform || '-'}</td>
+                    <td style="font-size:11px">${escapeHtml((t.sprint || '-').substring(0, 30))}</td>
+                    <td class="${etaClass}">${etaDisplay}</td>
+                    <td style="font-size:11px;color:#94a3b8">${t.created || '-'}</td>
+                    <td style="font-size:11px;color:#94a3b8">${t.updated || '-'}</td>
+                </tr>`;
+            });
+            html += `</tbody></table>`;
+
+            if (filtered.length > maxRows) {
+                html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${maxRows} of ${filtered.length} tasks. Use filters to narrow down.</div>`;
+            } else {
+                html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${filtered.length} of ${allTasks.length} tasks.</div>`;
+            }
+
+            document.getElementById('taskTableArea').innerHTML = html;
         }
 
         // ============================================
