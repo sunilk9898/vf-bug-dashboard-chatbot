@@ -1,6 +1,18 @@
 {
   "bugs": [
     {
+      "key": "VF-2051",
+      "summary": "MI TV: Wishlist button UI does not update when rapidly tapping on My Wishlist for searched content.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
       "key": "VF-1759",
       "summary": "CONTENT DETAIL PAGE UI ISSUES",
       "status": "Reopened",
@@ -380,18 +392,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-01-16",
-      "updated": "2026-02-10",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2051",
-      "summary": "MI TV: Wishlist button UI does not update when rapidly tapping on My Wishlist for searched content.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-06",
       "updated": "2026-02-10",
       "sprint": "No Sprint",
       "type": "Bug"
@@ -16371,6 +16371,78 @@
   ],
   "tasks": [
     {
+      "key": "VF-2078",
+      "summary": "Enable Help & Feedback Link in Staging Environment",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "ANDROID",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1955",
+      "summary": "Android - Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-2083",
+      "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1965",
+      "summary": "Android - Claver Tap - Notification Inbox",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1871",
+      "summary": "Search Engine Enhancements with AI Companion",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "ATV",
+      "created": "2026-01-28",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
       "key": "VF-1446",
       "summary": "Download invoice",
       "status": "Closed",
@@ -16515,18 +16587,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-2078",
-      "summary": "Enable Help & Feedback Link in Staging Environment",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ANDROID",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
       "key": "VF-2077",
       "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
       "status": "Open",
@@ -16549,18 +16609,6 @@
       "updated": "2026-02-11",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task"
-    },
-    {
-      "key": "VF-1965",
-      "summary": "Android - Claver Tap - Notification Inbox",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-454",
@@ -16741,30 +16789,6 @@
       "updated": "2026-02-11",
       "sprint": "No Sprint",
       "type": "Task"
-    },
-    {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-11",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1955",
-      "summary": "Android - Need to add new parameter in the Conviva events",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
     },
     {
       "key": "VF-1968",
@@ -17445,18 +17469,6 @@
       "priority": "Highest",
       "assignee": "Dinjit Dinesh",
       "platform": "ANDROID",
-      "created": "2026-01-28",
-      "updated": "2026-02-04",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1871",
-      "summary": "Search Engine Enhancements with AI Companion",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "ATV",
       "created": "2026-01-28",
       "updated": "2026-02-04",
       "sprint": "No Sprint",
@@ -21810,39 +21822,51 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 0,
+      "tasks": 6,
+      "stories": 0,
+      "total": 6,
+      "statuses": {
+        "Issue Accepted": 2,
+        "Dev Complete": 1,
+        "Open": 3
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 33,
       "stories": 0,
       "total": 48,
       "statuses": {
+        "Ready For Test": 16,
         "In Progress": 12,
         "Reopened": 1,
-        "Ready For Test": 15,
         "Closed": 7,
-        "Dev Complete": 10,
+        "Dev Complete": 9,
         "Testing On hold": 2,
         "In Review": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 0,
-      "tasks": 5,
-      "stories": 0,
-      "total": 5,
-      "statuses": {
-        "Dev Complete": 1,
-        "Open": 3,
-        "Issue Accepted": 1
       }
     }
   },
   "assignee_workload": {
+    "BalaKumar": {
+      "bugs": 11,
+      "tasks": 11,
+      "stories": 0,
+      "total": 22
+    },
     "vzyfeedback": {
-      "bugs": 1123,
+      "bugs": 1124,
       "tasks": 283,
       "stories": 0,
-      "total": 1410
+      "total": 1411
+    },
+    "Javed Ali": {
+      "bugs": 19,
+      "tasks": 6,
+      "stories": 0,
+      "total": 25
     },
     "Unassigned": {
       "bugs": 30,
@@ -21850,17 +21874,23 @@
       "stories": 0,
       "total": 46
     },
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 4,
+      "stories": 0,
+      "total": 15
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "stories": 0,
+      "total": 12
+    },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
       "tasks": 17,
       "stories": 0,
       "total": 34
-    },
-    "BalaKumar": {
-      "bugs": 11,
-      "tasks": 10,
-      "stories": 0,
-      "total": 21
     },
     "Harsh Pratap Singh": {
       "bugs": 4,
@@ -21885,12 +21915,6 @@
       "tasks": 5,
       "stories": 0,
       "total": 12
-    },
-    "Javed Ali": {
-      "bugs": 19,
-      "tasks": 7,
-      "stories": 0,
-      "total": 26
     },
     "Yashika Krishnani": {
       "bugs": 1,
@@ -21934,29 +21958,11 @@
       "stories": 0,
       "total": 3
     },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "stories": 0,
-      "total": 12
-    },
     "Adikeshava Reddy": {
       "bugs": 1,
       "tasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "Shubham Chauhan": {
-      "bugs": 7,
-      "tasks": 5,
-      "stories": 0,
-      "total": 12
-    },
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 3,
-      "stories": 0,
-      "total": 14
     },
     "Manikanta P": {
       "bugs": 4,
@@ -21997,6 +22003,12 @@
     "Moore Meghana": {
       "bugs": 9,
       "tasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Shubham Chauhan": {
+      "bugs": 6,
+      "tasks": 5,
       "stories": 0,
       "total": 11
     },
@@ -22062,6 +22074,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T11:58:39Z",
-  "total_issues": 1833
+  "updated_at": "2026-02-11T13:50:23Z",
+  "total_issues": 1834
 }
