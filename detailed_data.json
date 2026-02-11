@@ -1,6 +1,42 @@
 {
   "bugs": [
     {
+      "key": "VF-1798",
+      "summary": "Mobile: Grievance option is missing in the Help and Policy section.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-22",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2016",
+      "summary": "Web: Video is not playing when user clicks Play for \u201cMotoGP Australian 2025: Race Day Rewind\u201d from Watch History",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-1999",
+      "summary": "MI TV: Playback action highlights Watch Now, Episodes, Wishlist, and More Like This buttons in red",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
       "key": "VF-2054",
       "summary": "Onida TV: Ad pod freezes on screen when playback starts for Introduction of Finalists episode.",
       "status": "Dev Complete",
@@ -622,18 +658,6 @@
       "created": "2026-02-03",
       "updated": "2026-02-09",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2016",
-      "summary": "Web: Video is not playing when user clicks Play for \u201cMotoGP Australian 2025: Race Day Rewind\u201d from Watch History",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "sprint": "No Sprint",
       "type": "Bug"
     },
     {
@@ -1495,18 +1519,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "IOS",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1999",
-      "summary": "MI TV: Playback action highlights Watch Now, Episodes, Wishlist, and More Like This buttons in red",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
       "created": "2026-02-06",
       "updated": "2026-02-06",
       "sprint": "No Sprint",
@@ -2708,18 +2720,6 @@
       "assignee": "Vikas Mishra",
       "platform": "WEB",
       "created": "2026-01-09",
-      "updated": "2026-01-29",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1798",
-      "summary": "Mobile: Grievance option is missing in the Help and Policy section.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-22",
       "updated": "2026-01-29",
       "sprint": "No Sprint",
       "type": "Bug"
@@ -21790,29 +21790,35 @@
     }
   },
   "assignee_workload": {
-    "Karan Mahboobani": {
-      "bugs": 1,
-      "tasks": 0,
-      "stories": 0,
-      "total": 1
-    },
     "vzyfeedback": {
       "bugs": 1122,
       "tasks": 283,
       "stories": 0,
       "total": 1409
     },
-    "Harsh Pratap Singh": {
-      "bugs": 4,
-      "tasks": 1,
+    "BalaKumar": {
+      "bugs": 11,
+      "tasks": 10,
       "stories": 0,
-      "total": 5
+      "total": 21
     },
     "Unassigned": {
       "bugs": 30,
       "tasks": 8,
       "stories": 0,
       "total": 42
+    },
+    "Karan Mahboobani": {
+      "bugs": 1,
+      "tasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Harsh Pratap Singh": {
+      "bugs": 4,
+      "tasks": 1,
+      "stories": 0,
+      "total": 5
     },
     "devaraj": {
       "bugs": 6,
@@ -21885,12 +21891,6 @@
       "tasks": 3,
       "stories": 0,
       "total": 3
-    },
-    "BalaKumar": {
-      "bugs": 11,
-      "tasks": 10,
-      "stories": 0,
-      "total": 21
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -22014,12 +22014,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 305,
     "Medium": 714,
     "Highest": 324,
     "Low": 19,
-    "High": 305,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T09:08:54Z",
+  "updated_at": "2026-02-11T10:10:56Z",
   "total_issues": 1829
 }
