@@ -1,6 +1,66 @@
 {
   "bugs": [
     {
+      "key": "VF-1913",
+      "summary": "Content Download Speed",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2038",
+      "summary": "Delete account - Android",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2005",
+      "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-1986",
+      "summary": "Mobile: Location suggestions are not displayed when entering partial or full text in Profile",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
+      "key": "VF-2075",
+      "summary": "Live TV: Sony Liv Live TV channel logo issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Bug"
+    },
+    {
       "key": "VF-2039",
       "summary": "Onida TV: Back navigation does not work for Featured Banner carousel using remote control.",
       "status": "Closed",
@@ -31,18 +91,6 @@
       "priority": "High",
       "assignee": "Amudha Kaliamoorthi",
       "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-02-11",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2005",
-      "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
       "created": "2026-02-06",
       "updated": "2026-02-11",
       "sprint": "No Sprint",
@@ -114,18 +162,6 @@
       "status": "Open",
       "priority": "Medium",
       "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2075",
-      "summary": "Live TV: Sony Liv Live TV channel logo issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
       "platform": "WEB",
       "created": "2026-02-11",
       "updated": "2026-02-11",
@@ -238,18 +274,6 @@
       "created": "2026-02-06",
       "updated": "2026-02-10",
       "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-1913",
-      "summary": "Content Download Speed",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug"
     },
     {
@@ -601,18 +625,6 @@
       "type": "Bug"
     },
     {
-      "key": "VF-1986",
-      "summary": "Mobile: Location suggestions are not displayed when entering partial or full text in Profile",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
       "key": "VF-1757",
       "summary": "(Sagar)- Found issue in Fliqs integration",
       "status": "Ready For Test",
@@ -883,18 +895,6 @@
       "priority": "Medium",
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "sprint": "No Sprint",
-      "type": "Bug"
-    },
-    {
-      "key": "VF-2038",
-      "summary": "Delete account - Android",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
       "created": "2026-02-06",
       "updated": "2026-02-09",
       "sprint": "No Sprint",
@@ -16371,9 +16371,33 @@
   ],
   "tasks": [
     {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Harsh Pratap Singh",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1965",
+      "summary": "Android - Claver Tap - Notification Inbox",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
       "key": "VF-454",
       "summary": "Casting",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "Yashika Krishnani",
       "platform": "ANDROID",
@@ -16383,15 +16407,183 @@
       "type": "Task"
     },
     {
+      "key": "VF-1901",
+      "summary": "Kaltura Issue",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1964",
+      "summary": "iOS - Claver Tap - Notification Inbox",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1963",
+      "summary": "Claver Tap - Notification Inbox",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1894",
+      "summary": "Notification sticky count",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
       "key": "VF-1936",
       "summary": "MX Player - CP Integration",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "Yashika Krishnani",
       "platform": "ATV",
       "created": "2026-02-04",
       "updated": "2026-02-11",
       "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1959",
+      "summary": "Firestick - Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1957",
+      "summary": "ATV - Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task"
+    },
+    {
+      "key": "VF-1953",
+      "summary": "Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1946",
+      "summary": "Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1920",
+      "summary": "Stage Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1632",
+      "summary": "(Shruti) Hotstar Trailer Not Available",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-12",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1937",
+      "summary": "Gamezopp CP Integration",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
+      "type": "Task"
+    },
+    {
+      "key": "VF-1938",
+      "summary": "Shorts TV CP Integration",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-02-11",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task"
+    },
+    {
+      "key": "VF-2076",
+      "summary": "(Shruti) Aalytics and monitoring dashboard with real-time alerts to improve streaming quality, platform stability, and retention.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-11",
+      "updated": "2026-02-11",
+      "sprint": "No Sprint",
       "type": "Task"
     },
     {
@@ -16431,36 +16623,12 @@
       "type": "Sub-task"
     },
     {
-      "key": "VF-1959",
-      "summary": "Firestick - Need to add new parameter in the Conviva events",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
       "key": "VF-1958",
       "summary": "SmartTV - Need to add new parameter in the Conviva events",
       "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "devaraj",
       "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
-      "key": "VF-1957",
-      "summary": "ATV - Need to add new parameter in the Conviva events",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
       "created": "2026-02-04",
       "updated": "2026-02-10",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -16659,30 +16827,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-1920",
-      "summary": "Stage Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1938",
-      "summary": "Shorts TV CP Integration",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task"
-    },
-    {
       "key": "VF-1947",
       "summary": "Web - Parameters need to add in the generate OTP API for 5000 user login support",
       "status": "Ready For Test",
@@ -16702,18 +16846,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2025-11-14",
-      "updated": "2026-02-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1901",
-      "summary": "Kaltura Issue",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
       "updated": "2026-02-10",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task"
@@ -16803,54 +16935,6 @@
       "type": "Task"
     },
     {
-      "key": "VF-1965",
-      "summary": "Android - Claver Tap - Notification Inbox",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
-      "key": "VF-1964",
-      "summary": "iOS - Claver Tap - Notification Inbox",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task"
-    },
-    {
-      "key": "VF-1953",
-      "summary": "Need to add new parameter in the Conviva events",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1946",
-      "summary": "Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
       "key": "VF-1952",
       "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
       "status": "Dev Complete",
@@ -16911,30 +16995,6 @@
       "type": "Sub-task"
     },
     {
-      "key": "VF-1937",
-      "summary": "Gamezopp CP Integration",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
       "key": "VF-462",
       "summary": "Fliqs TVOD / SVOD",
       "status": "In Progress",
@@ -16942,30 +17002,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2025-11-14",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1963",
-      "summary": "Claver Tap - Notification Inbox",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Harsh Pratap Singh",
-      "platform": "ATV",
-      "created": "2026-01-30",
       "updated": "2026-02-09",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task"
@@ -17064,18 +17100,6 @@
       "created": "2026-01-30",
       "updated": "2026-02-05",
       "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1894",
-      "summary": "Notification sticky count",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
-      "updated": "2026-02-05",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task"
     },
     {
@@ -17615,18 +17639,6 @@
       "platform": "ATV",
       "created": "2025-11-14",
       "updated": "2026-02-01",
-      "sprint": "No Sprint",
-      "type": "Task"
-    },
-    {
-      "key": "VF-1632",
-      "summary": "(Shruti) Hotstar Trailer Not Available",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-12",
-      "updated": "2026-01-30",
       "sprint": "No Sprint",
       "type": "Task"
     },
@@ -21727,19 +21739,16 @@
   ],
   "sprints": {
     "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
+      "bugs": 15,
       "tasks": 33,
       "stories": 0,
-      "total": 47,
+      "total": 48,
       "statuses": {
-        "In Progress": 14,
-        "Dev Complete": 6,
-        "Ready For Test": 11,
+        "In Progress": 12,
+        "Dev Complete": 11,
+        "Ready For Test": 16,
         "Testing On hold": 2,
-        "Reopened": 1,
         "Closed": 6,
-        "Open": 3,
-        "Issue Accepted": 3,
         "In Review": 1
       }
     },
@@ -21749,66 +21758,18 @@
       "stories": 0,
       "total": 5,
       "statuses": {
-        "In Progress": 1,
+        "Dev Complete": 1,
         "Open": 3,
         "Issue Accepted": 1
       }
     }
   },
   "assignee_workload": {
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 2,
+    "Harsh Pratap Singh": {
+      "bugs": 4,
+      "tasks": 1,
       "stories": 0,
-      "total": 3
-    },
-    "vzyfeedback": {
-      "bugs": 1122,
-      "tasks": 278,
-      "stories": 0,
-      "total": 1404
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 16,
-      "stories": 0,
-      "total": 33
-    },
-    "BalaKumar": {
-      "bugs": 11,
-      "tasks": 10,
-      "stories": 0,
-      "total": 21
-    },
-    "Dinjit Dinesh": {
-      "bugs": 18,
-      "tasks": 17,
-      "stories": 0,
-      "total": 36
-    },
-    "Unassigned": {
-      "bugs": 30,
-      "tasks": 6,
-      "stories": 0,
-      "total": 40
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "stories": 0,
-      "total": 12
-    },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "stories": 0,
-      "total": 1
-    },
-    "Adikeshava Reddy": {
-      "bugs": 1,
-      "tasks": 0,
-      "stories": 0,
-      "total": 1
+      "total": 5
     },
     "Javed Ali": {
       "bugs": 19,
@@ -21816,23 +21777,11 @@
       "stories": 0,
       "total": 26
     },
-    "Abhishek Dhok": {
-      "bugs": 7,
-      "tasks": 6,
-      "stories": 0,
-      "total": 13
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 5,
-      "tasks": 9,
-      "stories": 0,
-      "total": 14
-    },
-    "devaraj": {
-      "bugs": 6,
+    "Yashika Krishnani": {
+      "bugs": 1,
       "tasks": 2,
       "stories": 0,
-      "total": 8
+      "total": 3
     },
     "avinash waghmare": {
       "bugs": 2,
@@ -21840,17 +21789,89 @@
       "stories": 0,
       "total": 8
     },
+    "vzyfeedback": {
+      "bugs": 1122,
+      "tasks": 277,
+      "stories": 0,
+      "total": 1403
+    },
     "kamaldeeps": {
       "bugs": 2,
-      "tasks": 3,
+      "tasks": 4,
       "stories": 0,
-      "total": 5
+      "total": 6
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 7,
+      "stories": 0,
+      "total": 8
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 5,
+      "tasks": 9,
+      "stories": 0,
+      "total": 14
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 17,
+      "stories": 0,
+      "total": 36
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 17,
+      "stories": 0,
+      "total": 34
+    },
+    "Akash Kushwaha": {
+      "bugs": 1,
+      "tasks": 2,
+      "stories": 0,
+      "total": 3
     },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 3,
       "stories": 0,
       "total": 3
+    },
+    "Unassigned": {
+      "bugs": 30,
+      "tasks": 7,
+      "stories": 0,
+      "total": 41
+    },
+    "BalaKumar": {
+      "bugs": 11,
+      "tasks": 10,
+      "stories": 0,
+      "total": 21
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "stories": 0,
+      "total": 12
+    },
+    "Adikeshava Reddy": {
+      "bugs": 1,
+      "tasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Abhishek Dhok": {
+      "bugs": 7,
+      "tasks": 5,
+      "stories": 0,
+      "total": 12
+    },
+    "devaraj": {
+      "bugs": 6,
+      "tasks": 2,
+      "stories": 0,
+      "total": 8
     },
     "Shubham Chauhan": {
       "bugs": 7,
@@ -21912,24 +21933,6 @@
       "stories": 0,
       "total": 11
     },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 2,
-      "stories": 0,
-      "total": 2
-    },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 7,
-      "stories": 0,
-      "total": 8
-    },
-    "Harsh Pratap Singh": {
-      "bugs": 4,
-      "tasks": 1,
-      "stories": 0,
-      "total": 5
-    },
     "Namrata Kurariya": {
       "bugs": 4,
       "tasks": 1,
@@ -21986,12 +21989,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 19,
     "Medium": 714,
     "High": 305,
+    "Low": 19,
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-11T05:13:22Z",
-  "total_issues": 1826
+  "updated_at": "2026-02-11T06:17:54Z",
+  "total_issues": 1827
 }
