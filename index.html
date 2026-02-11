@@ -392,6 +392,8 @@
                 </div>
                 <div class="chat-messages" id="chatMessages"></div>
                 <div class="quick-actions" id="quickActions">
+                    <button class="quick-btn" onclick="askBot('Bugs created today')">Today's Bugs</button>
+                    <button class="quick-btn" onclick="askBot('Bugs from last 7 days')">Recent Bugs (7d)</button>
                     <button class="quick-btn" onclick="askBot('Show bug summary')">Bug Summary</button>
                     <button class="quick-btn" onclick="askBot('Show open bug tickets')">Open Tickets</button>
                     <button class="quick-btn" onclick="askBot('Show in progress bug tickets')">In Progress Tickets</button>
@@ -682,6 +684,7 @@
                 &#x2022; <b>Assignee info</b> - "assigned to [name]", "assignee workload"<br>
                 &#x2022; <b>Priority</b> - "high priority bugs", "priority breakdown"<br>
                 &#x2022; <b>Sprint</b> - "sprint status"<br>
+                &#x2022; <b>Date filters</b> - "bugs created today", "bugs from last 7 days", "bugs on 11th feb"<br>
                 &#x2022; <b>Search</b> - "search video playback"<br>
                 &#x2022; <b>Tasks/Stories</b> - "show tasks", "show stories"<br>
                 &#x2022; <b>Dashboard</b> - bug summary, compare platforms, critical platforms<br><br>
@@ -725,6 +728,93 @@
             return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
         }
 
+        function parseDateRange(q) {
+            const now = new Date();
+            const todayStr = now.toISOString().slice(0, 10);
+            const today = new Date(todayStr + 'T00:00:00');
+            const field = (q.includes('updated') || q.includes('modified') || q.includes('changed')) ? 'updated' : 'created';
+            const MONTHS = { jan:0, feb:1, mar:2, apr:3, may:4, jun:5, jul:6, aug:7, sep:8, oct:9, nov:10, dec:11 };
+            let from = null, to = null, label = '';
+
+            // 1. ISO date (2026-02-11)
+            const isoMatch = q.match(/\b(\d{4}-\d{2}-\d{2})\b/);
+            if (isoMatch) {
+                from = new Date(isoMatch[1] + 'T00:00:00');
+                to = new Date(isoMatch[1] + 'T23:59:59');
+                label = `on ${from.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
+            }
+
+            // 2. "11th feb" or "feb 11" formats
+            if (!from) {
+                const dmMatch = q.match(/\b(\d{1,2})(?:st|nd|rd|th)?\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\w*/);
+                const mdMatch = q.match(/\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\w*\s+(\d{1,2})(?:st|nd|rd|th)?\b/);
+                let day, mon;
+                if (dmMatch) { day = parseInt(dmMatch[1]); mon = MONTHS[dmMatch[2]]; }
+                else if (mdMatch) { day = parseInt(mdMatch[2]); mon = MONTHS[mdMatch[1]]; }
+                if (day && mon !== undefined) {
+                    let year = now.getFullYear();
+                    let d = new Date(year, mon, day);
+                    if (d > now) d = new Date(year - 1, mon, day);
+                    if (!isNaN(d.getTime())) {
+                        from = new Date(d); from.setHours(0,0,0,0);
+                        to = new Date(d); to.setHours(23,59,59,999);
+                        label = `on ${from.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
+                    }
+                }
+            }
+
+            // 3. Relative keywords
+            if (!from) {
+                if (q.includes('today')) {
+                    from = new Date(today); to = new Date(today); to.setHours(23,59,59,999);
+                    label = `Today (${today.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })})`;
+                } else if (q.includes('yesterday')) {
+                    from = new Date(today); from.setDate(from.getDate() - 1);
+                    to = new Date(from); to.setHours(23,59,59,999);
+                    label = `Yesterday (${from.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })})`;
+                } else if (q.includes('this week')) {
+                    from = new Date(today);
+                    const dow = from.getDay();
+                    from.setDate(from.getDate() - (dow === 0 ? 6 : dow - 1));
+                    to = new Date(today); to.setHours(23,59,59,999);
+                    label = 'This Week';
+                } else if (q.includes('last week')) {
+                    from = new Date(today);
+                    const dow = from.getDay();
+                    from.setDate(from.getDate() - (dow === 0 ? 13 : dow + 6));
+                    to = new Date(from); to.setDate(to.getDate() + 6); to.setHours(23,59,59,999);
+                    label = 'Last Week';
+                } else if (q.includes('this month')) {
+                    from = new Date(today.getFullYear(), today.getMonth(), 1);
+                    to = new Date(today); to.setHours(23,59,59,999);
+                    label = 'This Month';
+                } else if (q.includes('last month')) {
+                    from = new Date(today.getFullYear(), today.getMonth() - 1, 1);
+                    to = new Date(today.getFullYear(), today.getMonth(), 0); to.setHours(23,59,59,999);
+                    label = 'Last Month';
+                } else {
+                    const lastNMatch = q.match(/last\s+(\d+)\s+days?/);
+                    if (lastNMatch) {
+                        const n = parseInt(lastNMatch[1]);
+                        from = new Date(today); from.setDate(from.getDate() - n);
+                        to = new Date(today); to.setHours(23,59,59,999);
+                        label = `Last ${n} Days`;
+                    }
+                }
+            }
+
+            // 4. Implicit recency
+            if (!from && (q.includes('latest') || q.includes('newest') || q.includes('recent') ||
+                (q.includes('new') && (q.includes('bug') || q.includes('ticket'))))) {
+                from = new Date(today); from.setDate(from.getDate() - 7);
+                to = new Date(today); to.setHours(23,59,59,999);
+                label = 'Last 7 Days (Recent)';
+            }
+
+            if (!from || isNaN(from.getTime())) return null;
+            return { from, to, field, label };
+        }
+
         function askBot(query) {
             document.getElementById('chatInput').value = query;
             sendMessage();
@@ -752,12 +842,13 @@
             'IN REVIEW': 'In Review', 'ISSUE ACCEPTED': 'Issue Accepted', 'PARKED': 'Parked'
         };
 
-        function buildTicketTable(items, maxRows = 20) {
+        function buildTicketTable(items, maxRows = 20, showDate = false) {
             if (!items || items.length === 0) return '<br>No tickets found.';
             const display = items.slice(0, maxRows);
             let html = `<table style="width:100%;margin-top:8px"><thead><tr>
-                <th style="text-align:left">Key</th><th style="text-align:left">Summary</th><th>Platform</th><th>Assignee</th><th>Priority</th><th>Status</th>
-            </tr></thead><tbody>`;
+                <th style="text-align:left">Key</th><th style="text-align:left">Summary</th><th>Platform</th><th>Assignee</th><th>Priority</th><th>Status</th>`;
+            if (showDate) html += `<th>Created</th>`;
+            html += `</tr></thead><tbody>`;
             display.forEach(item => {
                 const pColor = item.priority === 'Highest' ? '#ef4444' : item.priority === 'High' ? '#f97316' : item.priority === 'Medium' ? '#fbbf24' : '#94a3b8';
                 html += `<tr>
@@ -766,8 +857,9 @@
                     <td style="font-size:11px;text-align:center">${item.platform || 'N/A'}</td>
                     <td style="font-size:11px;text-align:center">${(item.assignee || 'Unassigned').split(' ')[0]}</td>
                     <td style="font-size:11px;text-align:center;color:${pColor}">${item.priority || 'N/A'}</td>
-                    <td style="font-size:10px;text-align:center"><span class="inline-badge">${item.status}</span></td>
-                </tr>`;
+                    <td style="font-size:10px;text-align:center"><span class="inline-badge">${item.status}</span></td>`;
+                if (showDate) html += `<td style="font-size:10px;text-align:center;color:#94a3b8">${item.created || 'N/A'}</td>`;
+                html += `</tr>`;
             });
             html += `</tbody></table>`;
             if (items.length > maxRows) {
@@ -785,6 +877,10 @@
             if (opts.assignee) results = results.filter(b => b.assignee && b.assignee.toLowerCase().includes(opts.assignee.toLowerCase()));
             if (opts.priority) results = results.filter(b => b.priority && b.priority.toUpperCase() === opts.priority.toUpperCase());
             if (opts.keyword) results = results.filter(b => b.summary && b.summary.toLowerCase().includes(opts.keyword.toLowerCase()));
+            if (opts.createdAfter) results = results.filter(b => b.created && new Date(b.created + 'T00:00:00') >= opts.createdAfter);
+            if (opts.createdBefore) results = results.filter(b => b.created && new Date(b.created + 'T23:59:59') <= opts.createdBefore);
+            if (opts.updatedAfter) results = results.filter(b => b.updated && new Date(b.updated + 'T00:00:00') >= opts.updatedAfter);
+            if (opts.updatedBefore) results = results.filter(b => b.updated && new Date(b.updated + 'T23:59:59') <= opts.updatedBefore);
             return results;
         }
 
@@ -794,6 +890,10 @@
             if (opts.platform) items = items.filter(i => i.platform && i.platform.toUpperCase() === opts.platform.toUpperCase());
             if (opts.status) items = items.filter(i => i.status && i.status.toUpperCase() === opts.status.toUpperCase());
             if (opts.keyword) items = items.filter(i => i.summary && i.summary.toLowerCase().includes(opts.keyword.toLowerCase()));
+            if (opts.createdAfter) items = items.filter(i => i.created && new Date(i.created + 'T00:00:00') >= opts.createdAfter);
+            if (opts.createdBefore) items = items.filter(i => i.created && new Date(i.created + 'T23:59:59') <= opts.createdBefore);
+            if (opts.updatedAfter) items = items.filter(i => i.updated && new Date(i.updated + 'T00:00:00') >= opts.updatedAfter);
+            if (opts.updatedBefore) items = items.filter(i => i.updated && new Date(i.updated + 'T23:59:59') <= opts.updatedBefore);
             return items;
         }
 
@@ -826,6 +926,51 @@
             // ==============================================
             // DETAILED DATA QUERIES (uses allIssues)
             // ==============================================
+
+            // --- DATE-BASED QUERIES ---
+            if (allIssues) {
+                const dateRange = parseDateRange(q);
+                if (dateRange) {
+                    const filterOpts = { platform: matchedPlatform || undefined };
+                    if (dateRange.field === 'updated') {
+                        filterOpts.updatedAfter = dateRange.from;
+                        filterOpts.updatedBefore = dateRange.to;
+                    } else {
+                        filterOpts.createdAfter = dateRange.from;
+                        filterOpts.createdBefore = dateRange.to;
+                    }
+                    // Detect status filter
+                    const detectedStatus = Object.entries(STATUS_NAME_MAP).find(([k]) => q.includes(k.toLowerCase()));
+                    if (detectedStatus) filterOpts.status = detectedStatus[1];
+                    // Detect priority filter
+                    const priorities = ['Highest', 'High', 'Medium', 'Low', 'Lowest'];
+                    const detectedPriority = priorities.find(p => q.includes(p.toLowerCase()));
+                    if (detectedPriority) filterOpts.priority = detectedPriority;
+
+                    let bugs = filterBugs(filterOpts);
+                    // Sort by date descending
+                    bugs.sort((a, b) => {
+                        const dateA = dateRange.field === 'updated' ? (a.updated || '') : (a.created || '');
+                        const dateB = dateRange.field === 'updated' ? (b.updated || '') : (b.created || '');
+                        return dateB.localeCompare(dateA);
+                    });
+
+                    const fieldLabel = dateRange.field === 'updated' ? 'Updated' : 'Created';
+                    let title = `Bugs ${fieldLabel} ${dateRange.label}`;
+                    if (matchedPlatform) title += ` (${matchedPlatform})`;
+                    if (detectedStatus) title += ` - ${detectedStatus[1]}`;
+                    if (detectedPriority) title += ` - ${detectedPriority} Priority`;
+
+                    let html = `<b>${title}</b><br>`;
+                    html += `Found: <b style="color:#60a5fa">${bugs.length}</b> bugs<br>`;
+                    if (bugs.length === 0) {
+                        html += `<br>No bugs found for this date range. Try a wider range like "this week" or "last 7 days".`;
+                    } else {
+                        html += buildTicketTable(bugs, 30, true);
+                    }
+                    return html;
+                }
+            }
 
             // --- SEARCH: "search [keyword]" or "find [keyword]" ---
             if (allIssues && (q.startsWith('search ') || q.startsWith('find '))) {
@@ -1206,6 +1351,14 @@
                     &#x2022; "assignee workload" - Who has the most work<br>
                     &#x2022; "high priority bugs" - Filter by priority<br>
                     &#x2022; "priority breakdown" - Priority distribution<br><br>
+                    <b>Date-Based Queries:</b><br>
+                    &#x2022; "bugs created today" - Today's bugs<br>
+                    &#x2022; "bugs from yesterday" - Yesterday's bugs<br>
+                    &#x2022; "bugs on 11th feb" - Specific date<br>
+                    &#x2022; "bugs from last 7 days" - Recent bugs<br>
+                    &#x2022; "bugs this week" / "this month" - Time range<br>
+                    &#x2022; "bugs updated today" - Recently updated<br>
+                    &#x2022; "open ios bugs from today" - Combined filters<br><br>
                     <b>Sprint & Tasks:</b><br>
                     &#x2022; "sprint status" - Sprint progress<br>
                     &#x2022; "show tasks" - List all tasks<br>
@@ -1219,6 +1372,8 @@
 
             // Fallback
             return `I'm not sure how to answer that. Try:<br><br>
+                &#x2022; "bugs created today" - Today's bugs<br>
+                &#x2022; "bugs from last 7 days" - Recent bugs<br>
                 &#x2022; "show open bug tickets" - Tickets with Jira IDs<br>
                 &#x2022; "all IOS tickets raised so far" - Full history<br>
                 &#x2022; "assigned to [name]" - Bugs by person<br>
