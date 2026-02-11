@@ -1,0 +1,75 @@
+name: Fetch Jira Data & Deploy
+
+on:
+  schedule:
+    - cron: '15 * * * *'     # Every hour at :15
+  workflow_dispatch:          # Allow manual trigger
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch Jira data
+        env:
+          JIRA_DOMAIN: ${{ secrets.JIRA_DOMAIN }}
+          JIRA_EMAIL: ${{ secrets.JIRA_EMAIL }}
+          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+          JIRA_PROJECT_KEY: ${{ secrets.JIRA_PROJECT_KEY }}
+        run: python fetch_jira.py
+
+      - name: Save fresh data files
+        run: |
+          cp data.json /tmp/fresh_data.json
+          cp detailed_data.json /tmp/fresh_detailed_data.json || true
+
+      - name: Commit and push data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          cp /tmp/fresh_data.json data.json
+          cp /tmp/fresh_detailed_data.json detailed_data.json || true
+          git add data.json detailed_data.json
+          git commit -m "Auto-update dashboard data $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "Nothing to commit"
+          git push origin main || (sleep 5 && git pull --rebase origin main && git push origin main)
+
+      - name: Ensure fresh data for deploy
+        run: |
+          cp /tmp/fresh_data.json data.json
+          cp /tmp/fresh_detailed_data.json detailed_data.json || true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
