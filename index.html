@@ -386,13 +386,13 @@
     <!-- Navigation Tabs -->
     <div class="nav-tabs">
         <button class="nav-tab active" data-tab="dashboard">
-            <span class="tab-icon">&#x1f4ca;</span> Dashboard
+            <span class="tab-icon">&#x1f4ca;</span> Bug Dashboard
         </button>
         <button class="nav-tab" data-tab="chatbot">
             <span class="tab-icon">&#x1f4ac;</span> Chatbot
         </button>
         <button class="nav-tab" data-tab="insights">
-            <span class="tab-icon">&#x1f4a1;</span> Insights
+            <span class="tab-icon">&#x1f4a1;</span> Quality Analytics
         </button>
         <button class="nav-tab" data-tab="tasks">
             <span class="tab-icon">&#x2611;</span> Task Dashboard
@@ -432,6 +432,30 @@
                         </thead>
                         <tbody id="tableBody"></tbody>
                     </table>
+                </div>
+                <!-- Bug Details Section -->
+                <div class="table-section" style="margin-top:24px">
+                    <h2>Individual Bug Details</h2>
+                    <div class="task-filters" id="bugFilters">
+                        <select id="bugStatusFilter" onchange="renderBugDetails()">
+                            <option value="all">All Statuses</option>
+                        </select>
+                        <select id="bugPlatformFilter" onchange="renderBugDetails()">
+                            <option value="all">All Platforms</option>
+                        </select>
+                        <select id="bugAssigneeFilter" onchange="renderBugDetails()">
+                            <option value="all">All Assignees</option>
+                        </select>
+                        <select id="bugPriorityFilter" onchange="renderBugDetails()">
+                            <option value="all">All Priorities</option>
+                        </select>
+                        <select id="bugSprintFilter" onchange="renderBugDetails()">
+                            <option value="all">All Sprints</option>
+                        </select>
+                    </div>
+                    <div class="task-table-wrapper" id="bugDetailTable">
+                        <p style="color:#94a3b8;text-align:center;padding:40px;">Loading bug details...</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -672,7 +696,107 @@
         }
 
         // ============================================
-        // INSIGHTS TAB
+        // BUG DETAILS TABLE (in Bug Dashboard)
+        // ============================================
+        let bugSortCol = 'key';
+        let bugSortAsc = false;
+
+        function renderBugDetails() {
+            if (!allIssues || !allIssues.bugs) {
+                document.getElementById('bugDetailTable').innerHTML =
+                    '<p style="color:#94a3b8;text-align:center;padding:40px;">Bug detail data is loading...</p>';
+                return;
+            }
+
+            const ACTIVE_STATUSES = ['Open', 'In Progress', 'Reopened', 'In Review', 'Issue Accepted', 'Parked'];
+            const allBugs = allIssues.bugs;
+            const activeBugs = allBugs.filter(b => ACTIVE_STATUSES.includes(b.status));
+
+            // Collect unique values
+            const statuses = [...new Set(allBugs.map(b => b.status).filter(Boolean))].sort();
+            const platforms = [...new Set(allBugs.map(b => b.platform).filter(Boolean))].sort();
+            const assignees = [...new Set(allBugs.map(b => b.assignee).filter(Boolean))].sort();
+            const priorities = [...new Set(allBugs.map(b => b.priority).filter(Boolean))].sort();
+            const sprints = [...new Set(allBugs.map(b => b.sprint).filter(Boolean))].sort();
+
+            // Populate filters
+            const sf = document.getElementById('bugStatusFilter');
+            const pf = document.getElementById('bugPlatformFilter');
+            const af = document.getElementById('bugAssigneeFilter');
+            const prf = document.getElementById('bugPriorityFilter');
+            const spf = document.getElementById('bugSprintFilter');
+            const cs = sf.value, cp = pf.value, ca = af.value, cpr = prf.value, csp = spf.value;
+
+            sf.innerHTML = '<option value="all">All Statuses</option><option value="active" ' + (cs==='active'?'selected':'') + '>Active Only</option>' +
+                statuses.map(s => `<option value="${s}" ${s===cs?'selected':''}>${s}</option>`).join('');
+            pf.innerHTML = '<option value="all">All Platforms</option>' +
+                platforms.map(p => `<option value="${p}" ${p===cp?'selected':''}>${p}</option>`).join('');
+            af.innerHTML = '<option value="all">All Assignees</option>' +
+                assignees.map(a => `<option value="${a}" ${a===ca?'selected':''}>${escapeHtml(a)}</option>`).join('');
+            prf.innerHTML = '<option value="all">All Priorities</option>' +
+                priorities.map(p => `<option value="${p}" ${p===cpr?'selected':''}>${p}</option>`).join('');
+            spf.innerHTML = '<option value="all">All Sprints</option>' +
+                sprints.map(s => `<option value="${s}" ${s===csp?'selected':''}>${escapeHtml(s)}</option>`).join('');
+
+            // Apply filters
+            let filtered = allBugs;
+            if (cs === 'active') filtered = activeBugs;
+            else if (cs !== 'all') filtered = filtered.filter(b => b.status === cs);
+            if (cp !== 'all') filtered = filtered.filter(b => b.platform === cp);
+            if (ca !== 'all') filtered = filtered.filter(b => b.assignee === ca);
+            if (cpr !== 'all') filtered = filtered.filter(b => b.priority === cpr);
+            if (csp !== 'all') filtered = filtered.filter(b => b.sprint === csp);
+
+            // Sort
+            filtered.sort((a, b) => {
+                let va = a[bugSortCol] || '', vb = b[bugSortCol] || '';
+                const cmp = va.toString().localeCompare(vb.toString(), undefined, { numeric: true });
+                return bugSortAsc ? cmp : -cmp;
+            });
+
+            // Build table
+            const sortIcon = (col) => bugSortCol === col ? (bugSortAsc ? ' &#9650;' : ' &#9660;') : '';
+            const cols = [
+                { key: 'key', label: 'Ticket' },
+                { key: 'summary', label: 'Summary' },
+                { key: 'status', label: 'Status' },
+                { key: 'priority', label: 'Priority' },
+                { key: 'assignee', label: 'Assignee' },
+                { key: 'platform', label: 'Platform' },
+                { key: 'sprint', label: 'Sprint' },
+                { key: 'created', label: 'Created' },
+                { key: 'updated', label: 'Updated' },
+            ];
+
+            let html = `<table class="task-table"><thead><tr>`;
+            cols.forEach(c => {
+                html += `<th onclick="bugSortCol='${c.key}';bugSortAsc=bugSortCol==='${c.key}'?!bugSortAsc:false;renderBugDetails()">${c.label}${sortIcon(c.key)}</th>`;
+            });
+            html += `</tr></thead><tbody>`;
+
+            const maxRows = 100;
+            filtered.slice(0, maxRows).forEach(b => {
+                const pColor = b.priority === 'Highest' ? '#ef4444' : b.priority === 'High' ? '#f97316' : b.priority === 'Medium' ? '#fbbf24' : '#94a3b8';
+                const statusCls = getTaskStatusClass(b.status);
+                html += `<tr>
+                    <td><a class="key-link" href="https://hbeindia.atlassian.net/browse/${b.key}" target="_blank">${b.key}</a></td>
+                    <td class="summary-cell">${escapeHtml((b.summary || '').substring(0, 80))}</td>
+                    <td><span class="task-status-badge ${statusCls}">${b.status}</span></td>
+                    <td style="color:${pColor}">${b.priority || '-'}</td>
+                    <td style="font-size:12px">${escapeHtml((b.assignee || 'Unassigned').split(' ').slice(0,2).join(' '))}</td>
+                    <td style="font-size:12px">${b.platform || '-'}</td>
+                    <td style="font-size:11px">${escapeHtml((b.sprint || '-').substring(0, 30))}</td>
+                    <td style="font-size:11px;color:#94a3b8">${b.created || '-'}</td>
+                    <td style="font-size:11px;color:#94a3b8">${b.updated || '-'}</td>
+                </tr>`;
+            });
+            html += `</tbody></table>`;
+            html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${Math.min(maxRows, filtered.length)} of ${filtered.length} bugs (${allBugs.length} total).</div>`;
+            document.getElementById('bugDetailTable').innerHTML = html;
+        }
+
+        // ============================================
+        // INSIGHTS TAB - Quality Analytics
         // ============================================
         function renderInsights() {
             if (!dashboardData) return;
@@ -681,16 +805,10 @@
             const totals = {};
             STATUSES.forEach(s => totals[s] = 0);
             let grandTotal = 0;
-
             PLATFORMS.forEach(p => {
                 let pTotal = 0;
-                STATUSES.forEach(s => {
-                    const val = data[p]?.[s] || 0;
-                    totals[s] += val;
-                    pTotal += val;
-                });
-                platformTotals[p] = pTotal;
-                grandTotal += pTotal;
+                STATUSES.forEach(s => { const v = data[p]?.[s] || 0; totals[s] += v; pTotal += v; });
+                platformTotals[p] = pTotal; grandTotal += pTotal;
             });
 
             // Alerts
@@ -698,62 +816,169 @@
             const reopenedTotal = totals['REOPENED'] || 0;
             let alertHTML = '';
             if (criticalPlatforms.length > 0) {
-                alertHTML += `<div class="alert-banner">
-                    <div class="alert-icon">&#x26A0;</div>
-                    <div class="alert-text">
-                        <h4>Critical Platforms</h4>
-                        <p>${criticalPlatforms.join(', ')} have 4+ active bugs requiring attention</p>
-                    </div>
-                </div>`;
+                alertHTML += `<div class="alert-banner"><div class="alert-icon">&#x26A0;</div>
+                    <div class="alert-text"><h4>Critical Platforms</h4><p>${criticalPlatforms.join(', ')} have 4+ active bugs requiring attention</p></div></div>`;
             }
             if (reopenedTotal >= 3) {
                 alertHTML += `<div class="alert-banner" style="background:linear-gradient(135deg,#78350f,#92400e);border-color:#f59e0b;">
-                    <div class="alert-icon">&#x1f504;</div>
-                    <div class="alert-text">
-                        <h4>High Reopen Rate</h4>
-                        <p>${reopenedTotal} bugs have been reopened - review fix quality</p>
-                    </div>
-                </div>`;
+                    <div class="alert-icon">&#x1f504;</div><div class="alert-text"><h4>High Reopen Rate</h4><p>${reopenedTotal} bugs have been reopened - review fix quality</p></div></div>`;
             }
             document.getElementById('alertArea').innerHTML = alertHTML;
 
-            // Insight cards
-            const sortedPlatforms = [...PLATFORMS].sort((a, b) => platformTotals[b] - platformTotals[a]);
-            const activeStatuses = ['OPEN', 'IN PROGRESS', 'REOPENED'];
-            const activeCount = activeStatuses.reduce((sum, s) => sum + (totals[s] || 0), 0);
-            const reviewCount = (totals['IN REVIEW'] || 0) + (totals['ISSUE ACCEPTED'] || 0);
+            // Quality analytics require detailed data
+            if (!allIssues || !allIssues.bugs) {
+                document.getElementById('insightsGrid').innerHTML = '<p style="color:#94a3b8;text-align:center;padding:40px;">Loading detailed analytics...</p>';
+                return;
+            }
 
-            let insightsHTML = `
-            <div class="insight-card">
-                <h3><span class="insight-icon">&#x1f4cb;</span> Bug Overview</h3>
-                <div class="insight-item"><span class="label">Total Active Bugs</span><span class="value blue">${grandTotal}</span></div>
-                <div class="insight-item"><span class="label">Needs Action (Open/InProgress/Reopened)</span><span class="value red">${activeCount}</span></div>
-                <div class="insight-item"><span class="label">In Review / Accepted</span><span class="value green">${reviewCount}</span></div>
-                <div class="insight-item"><span class="label">Parked</span><span class="value yellow">${totals['PARKED'] || 0}</span></div>
-            </div>
-            <div class="insight-card">
-                <h3><span class="insight-icon">&#x1f3af;</span> Platform Ranking (by bug count)</h3>
-                ${sortedPlatforms.map((p, i) => {
-                    const clr = platformTotals[p] >= 4 ? 'red' : platformTotals[p] >= 2 ? 'yellow' : 'green';
-                    return `<div class="insight-item"><span class="label">${i + 1}. ${p}</span><span class="value ${clr}">${platformTotals[p]}</span></div>`;
-                }).join('')}
-            </div>
-            <div class="insight-card">
-                <h3><span class="insight-icon">&#x1f6a8;</span> Status Hotspots</h3>
-                ${STATUSES.map(s => {
-                    const platforms = PLATFORMS.filter(p => (data[p]?.[s] || 0) > 0);
-                    if (platforms.length === 0) return '';
-                    return `<div class="insight-item"><span class="label">${s}</span><span class="value">${platforms.join(', ')}</span></div>`;
-                }).join('')}
-            </div>
-            <div class="insight-card">
-                <h3><span class="insight-icon">&#x2705;</span> Healthy Platforms</h3>
-                ${PLATFORMS.filter(p => platformTotals[p] <= 1).map(p =>
-                    `<div class="insight-item"><span class="label">${p}</span><span class="value green">${platformTotals[p]} bug${platformTotals[p] !== 1 ? 's' : ''}</span></div>`
-                ).join('') || '<div class="insight-item"><span class="label">No platform has 0-1 bugs</span><span class="value yellow">--</span></div>'}
+            const allBugs = allIssues.bugs;
+            const now = new Date();
+            const ACTIVE = ['Open', 'In Progress', 'Reopened', 'In Review', 'Issue Accepted', 'Parked'];
+            const activeBugs = allBugs.filter(b => ACTIVE.includes(b.status));
+            const daysSince = (dateStr) => dateStr ? Math.floor((now - new Date(dateStr + 'T00:00:00')) / 86400000) : 0;
+
+            // === 1. BUG AGING ===
+            const agingBugs = activeBugs.map(b => ({ ...b, age: daysSince(b.created) })).sort((a, b) => b.age - a.age);
+            const avgAge = agingBugs.length ? Math.round(agingBugs.reduce((s, b) => s + b.age, 0) / agingBugs.length) : 0;
+            const age7 = agingBugs.filter(b => b.age <= 7).length;
+            const age30 = agingBugs.filter(b => b.age > 7 && b.age <= 30).length;
+            const age90 = agingBugs.filter(b => b.age > 30 && b.age <= 90).length;
+            const age90p = agingBugs.filter(b => b.age > 90).length;
+            const ageColor = (d) => d > 90 ? 'red' : d > 30 ? 'yellow' : 'green';
+
+            let agingHTML = `<div class="insight-card" style="grid-column:span 2">
+                <h3><span class="insight-icon">&#x23F3;</span> Bug Aging Analysis (${activeBugs.length} active bugs)</h3>
+                <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-bottom:12px">
+                    <div class="insight-item" style="flex-direction:column;text-align:center;border:1px solid #334155;border-radius:8px;padding:8px">
+                        <span class="value blue" style="font-size:20px">${avgAge}d</span><span class="label">Avg Age</span></div>
+                    <div class="insight-item" style="flex-direction:column;text-align:center;border:1px solid #334155;border-radius:8px;padding:8px">
+                        <span class="value green" style="font-size:20px">${age7}</span><span class="label">0-7 days</span></div>
+                    <div class="insight-item" style="flex-direction:column;text-align:center;border:1px solid #334155;border-radius:8px;padding:8px">
+                        <span class="value green" style="font-size:20px">${age30}</span><span class="label">8-30 days</span></div>
+                    <div class="insight-item" style="flex-direction:column;text-align:center;border:1px solid #334155;border-radius:8px;padding:8px">
+                        <span class="value yellow" style="font-size:20px">${age90}</span><span class="label">31-90 days</span></div>
+                    <div class="insight-item" style="flex-direction:column;text-align:center;border:1px solid #334155;border-radius:8px;padding:8px">
+                        <span class="value red" style="font-size:20px">${age90p}</span><span class="label">90+ days</span></div>
+                </div>
+                <div style="font-size:12px;color:#94a3b8;margin-bottom:8px"><b>Oldest Active Bugs:</b></div>
+                <table class="task-table" style="font-size:11px"><thead><tr><th>Ticket</th><th>Summary</th><th>Age</th><th>Status</th><th>Platform</th><th>Assignee</th></tr></thead><tbody>
+                ${agingBugs.slice(0, 10).map(b => `<tr>
+                    <td><a class="key-link" href="https://hbeindia.atlassian.net/browse/${b.key}" target="_blank">${b.key}</a></td>
+                    <td class="summary-cell">${escapeHtml((b.summary||'').substring(0,60))}</td>
+                    <td class="${ageColor(b.age)}" style="font-weight:600">${b.age}d</td>
+                    <td><span class="task-status-badge ${getTaskStatusClass(b.status)}">${b.status}</span></td>
+                    <td>${b.platform||'-'}</td>
+                    <td>${escapeHtml((b.assignee||'').split(' ')[0])}</td></tr>`).join('')}
+                </tbody></table></div>`;
+
+            // === 2. REOPEN ANALYSIS ===
+            const reopenedBugs = allBugs.filter(b => b.status === 'Reopened').map(b => ({ ...b, age: daysSince(b.created) }));
+            const reopenByPlatform = {};
+            const reopenByAssignee = {};
+            reopenedBugs.forEach(b => {
+                reopenByPlatform[b.platform] = (reopenByPlatform[b.platform] || 0) + 1;
+                reopenByAssignee[b.assignee] = (reopenByAssignee[b.assignee] || 0) + 1;
+            });
+
+            let reopenHTML = `<div class="insight-card">
+                <h3><span class="insight-icon">&#x1f504;</span> Reopen Analysis (${reopenedBugs.length} bugs)</h3>
+                <div style="font-size:12px;color:#94a3b8;margin-bottom:6px"><b>By Platform:</b></div>
+                ${Object.entries(reopenByPlatform).sort((a,b)=>b[1]-a[1]).map(([p,c]) =>
+                    `<div class="insight-item"><span class="label">${p}</span><span class="value red">${c}</span></div>`).join('')}
+                <div style="font-size:12px;color:#94a3b8;margin:8px 0 6px"><b>By Assignee:</b></div>
+                ${Object.entries(reopenByAssignee).sort((a,b)=>b[1]-a[1]).map(([a,c]) =>
+                    `<div class="insight-item"><span class="label">${escapeHtml(a.split(' ')[0])}</span><span class="value yellow">${c}</span></div>`).join('')}
+                ${reopenedBugs.length === 0 ? '<div class="insight-item"><span class="label">No reopened bugs</span><span class="value green">&#x2713;</span></div>' : ''}
             </div>`;
 
-            document.getElementById('insightsGrid').innerHTML = insightsHTML;
+            // === 3. STALE/STUCK BUGS ===
+            const staleBugs = activeBugs.map(b => ({ ...b, daysSinceUpdate: daysSince(b.updated) }))
+                .filter(b => b.daysSinceUpdate >= 14).sort((a,b) => b.daysSinceUpdate - a.daysSinceUpdate);
+            const stale30 = staleBugs.filter(b => b.daysSinceUpdate >= 30);
+
+            let staleHTML = `<div class="insight-card">
+                <h3><span class="insight-icon">&#x1f6d1;</span> Stale/Stuck Bugs</h3>
+                <div class="insight-item"><span class="label">Not updated in 30+ days</span><span class="value red">${stale30.length}</span></div>
+                <div class="insight-item"><span class="label">Not updated in 14-29 days</span><span class="value yellow">${staleBugs.length - stale30.length}</span></div>
+                <div class="insight-item"><span class="label">Recently active (&lt;14d)</span><span class="value green">${activeBugs.length - staleBugs.length}</span></div>
+                ${staleBugs.length > 0 ? '<div style="font-size:12px;color:#94a3b8;margin:8px 0 4px"><b>Most Stale:</b></div>' : ''}
+                ${staleBugs.slice(0, 8).map(b => {
+                    const clr = b.daysSinceUpdate >= 30 ? 'red' : 'yellow';
+                    return `<div class="insight-item"><span class="label"><a class="key-link" href="https://hbeindia.atlassian.net/browse/${b.key}" target="_blank" style="font-size:11px">${b.key}</a> ${escapeHtml((b.summary||'').substring(0,30))}</span><span class="value ${clr}">${b.daysSinceUpdate}d</span></div>`;
+                }).join('')}
+            </div>`;
+
+            // === 4. ASSIGNEE WORKLOAD ===
+            const assigneeActive = {};
+            const assigneeHighPri = {};
+            activeBugs.forEach(b => {
+                const a = b.assignee || 'Unassigned';
+                assigneeActive[a] = (assigneeActive[a] || 0) + 1;
+                if (b.priority === 'High' || b.priority === 'Highest') assigneeHighPri[a] = (assigneeHighPri[a] || 0) + 1;
+            });
+            const sortedAssignees = Object.entries(assigneeActive).sort((a,b) => b[1] - a[1]);
+
+            let assigneeHTML = `<div class="insight-card">
+                <h3><span class="insight-icon">&#x1f465;</span> Assignee Workload (Active Bugs)</h3>
+                <table class="task-table" style="font-size:12px"><thead><tr><th style="text-align:left">Assignee</th><th>Active</th><th>High/Highest</th><th>Load</th></tr></thead><tbody>
+                ${sortedAssignees.slice(0, 15).map(([a, c]) => {
+                    const hp = assigneeHighPri[a] || 0;
+                    const load = c >= 6 ? '<span class="value red">Overloaded</span>' : c >= 3 ? '<span class="value yellow">High</span>' : '<span class="value green">Normal</span>';
+                    return `<tr><td>${escapeHtml(a.split(' ').slice(0,2).join(' '))}</td><td style="text-align:center"><b>${c}</b></td><td style="text-align:center;color:#f97316">${hp || '-'}</td><td style="text-align:center">${load}</td></tr>`;
+                }).join('')}
+                </tbody></table></div>`;
+
+            // === 5. PRIORITY & RISK ===
+            const platformRisk = {};
+            activeBugs.forEach(b => {
+                const p = b.platform || 'Unknown';
+                if (!platformRisk[p]) platformRisk[p] = { high: 0, highest: 0, total: 0, unattended: 0 };
+                platformRisk[p].total++;
+                if (b.priority === 'High') platformRisk[p].high++;
+                if (b.priority === 'Highest') platformRisk[p].highest++;
+                if ((b.priority === 'High' || b.priority === 'Highest') && b.status === 'Open') platformRisk[p].unattended++;
+            });
+            const riskSorted = Object.entries(platformRisk).map(([p, r]) => ({
+                platform: p, ...r, score: r.high * 2 + r.highest * 3
+            })).sort((a, b) => b.score - a.score);
+
+            let riskHTML = `<div class="insight-card">
+                <h3><span class="insight-icon">&#x26A1;</span> Platform Risk Score</h3>
+                <div style="font-size:10px;color:#64748b;margin-bottom:8px">Score = (High&#xd7;2) + (Highest&#xd7;3)</div>
+                <table class="task-table" style="font-size:12px"><thead><tr><th style="text-align:left">Platform</th><th>Bugs</th><th>High</th><th>Highest</th><th>Unattended</th><th>Risk</th></tr></thead><tbody>
+                ${riskSorted.map(r => {
+                    const rClr = r.score >= 6 ? 'red' : r.score >= 3 ? 'yellow' : 'green';
+                    return `<tr><td>${r.platform}</td><td style="text-align:center">${r.total}</td><td style="text-align:center;color:#f97316">${r.high||'-'}</td><td style="text-align:center;color:#ef4444">${r.highest||'-'}</td><td style="text-align:center;color:#fbbf24">${r.unattended||'-'}</td><td style="text-align:center"><span class="value ${rClr}">${r.score}</span></td></tr>`;
+                }).join('')}
+                </tbody></table></div>`;
+
+            // === 6. RESOLUTION VELOCITY ===
+            const closedBugs = allBugs.filter(b => b.status === 'Closed' && b.created && b.updated);
+            const resTimes = closedBugs.map(b => daysSince(b.created) - daysSince(b.updated)).filter(d => d >= 0);
+            const avgRes = resTimes.length ? Math.round(resTimes.reduce((s,d) => s + d, 0) / resTimes.length) : 0;
+            const resByPlatform = {};
+            closedBugs.forEach(b => {
+                const p = b.platform || 'Unknown';
+                if (!resByPlatform[p]) resByPlatform[p] = { times: [], count: 0 };
+                const rt = daysSince(b.created) - daysSince(b.updated);
+                if (rt >= 0) { resByPlatform[p].times.push(rt); resByPlatform[p].count++; }
+            });
+            const resPlatSorted = Object.entries(resByPlatform).map(([p, d]) => ({
+                platform: p, avg: d.times.length ? Math.round(d.times.reduce((s,t)=>s+t,0)/d.times.length) : 0, count: d.count
+            })).sort((a, b) => a.avg - b.avg);
+
+            let velocityHTML = `<div class="insight-card" style="grid-column:span 2">
+                <h3><span class="insight-icon">&#x1f680;</span> Resolution Velocity (${closedBugs.length} closed bugs)</h3>
+                <div class="insight-item"><span class="label">Average Resolution Time</span><span class="value blue">${avgRes} days</span></div>
+                <div style="font-size:12px;color:#94a3b8;margin:8px 0 6px"><b>By Platform (fastest to slowest):</b></div>
+                <table class="task-table" style="font-size:12px"><thead><tr><th style="text-align:left">Platform</th><th>Closed Bugs</th><th>Avg Days</th><th>Speed</th></tr></thead><tbody>
+                ${resPlatSorted.map(r => {
+                    const spd = r.avg <= 7 ? '<span class="value green">Fast</span>' : r.avg <= 30 ? '<span class="value yellow">Normal</span>' : '<span class="value red">Slow</span>';
+                    return `<tr><td>${r.platform}</td><td style="text-align:center">${r.count}</td><td style="text-align:center"><b>${r.avg}d</b></td><td style="text-align:center">${spd}</td></tr>`;
+                }).join('')}
+                </tbody></table></div>`;
+
+            document.getElementById('insightsGrid').innerHTML = agingHTML + reopenHTML + staleHTML + assigneeHTML + riskHTML + velocityHTML;
         }
 
         // ============================================
@@ -1646,7 +1871,10 @@
 
                 // Also try to load detailed data for chatbot
                 const detailed = await fetchDetailedData();
-                if (detailed) allIssues = detailed;
+                if (detailed) {
+                    allIssues = detailed;
+                    renderBugDetails();
+                }
             } catch (err) {
                 console.warn('data.json not available, using static fallback:', err.message);
                 try {
