@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2081",
+      "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1902",
+      "summary": "Delete Account",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2005",
+      "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2083",
+      "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2111",
+      "summary": "Link redirection is not working on on ios and android",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2088",
       "summary": "Issue in Account deletion",
       "status": "Ready For Test",
@@ -71,20 +141,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1902",
-      "summary": "Delete Account",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Moore Meghana",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2087",
       "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
       "status": "Open",
@@ -141,36 +197,8 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2081",
-      "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2082",
       "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2083",
-      "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
       "status": "Open",
       "priority": "Medium",
       "assignee": "Unassigned",
@@ -543,20 +571,6 @@
       "updated": "2026-02-11",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2005",
-      "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19225,6 +19239,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2110",
       "summary": "Not getting UTM Source in Deeplink ",
       "status": "Open",
@@ -19234,6 +19262,20 @@
       "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1184",
+      "summary": "View All for Continue Watching & My list",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "LG_TV",
+      "created": "2025-12-16",
+      "updated": "2026-02-12",
+      "duedate": "2026-01-31",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -19865,20 +19907,6 @@
       "updated": "2026-02-12",
       "duedate": "2026-02-28",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Harsh Pratap Singh",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20564,20 +20592,6 @@
       "created": "2025-11-19",
       "updated": "2026-02-05",
       "duedate": "2026-02-16",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1184",
-      "summary": "View All for Continue Watching & My list",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "LG_TV",
-      "created": "2025-12-16",
-      "updated": "2026-02-05",
-      "duedate": "2026-01-31",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25846,9 +25860,10 @@
       "total": 48,
       "statuses": {
         "In Progress": 10,
+        "Onhold-For Tech Dependency": 1,
         "Dev Complete": 12,
-        "Reopened": 2,
         "Ready For Test": 15,
+        "Reopened": 1,
         "Closed": 7,
         "Testing On hold": 2
       }
@@ -25868,26 +25883,47 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Dinjit Dinesh": {
-      "bugs": 17,
-      "tasks": 18,
+    "Yashika Krishnani": {
+      "bugs": 1,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 36
+      "total": 4
+    },
+    "Karan Mahboobani": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
     },
     "vzyfeedback": {
-      "bugs": 1126,
+      "bugs": 1127,
       "tasks": 277,
       "subtasks": 6,
       "stories": 0,
-      "total": 1413
+      "total": 1414
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "Unassigned": {
-      "bugs": 33,
+      "bugs": 31,
       "tasks": 28,
       "subtasks": 0,
       "stories": 0,
-      "total": 65
+      "total": 63
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
@@ -25917,13 +25953,6 @@
       "stories": 0,
       "total": 12
     },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
     "BalaKumar": {
       "bugs": 13,
       "tasks": 10,
@@ -25938,13 +25967,6 @@
       "stories": 0,
       "total": 14
     },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Alok Gupta": {
       "bugs": 11,
       "tasks": 3,
@@ -25958,20 +25980,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 2
-    },
-    "Harsh Pratap Singh": {
-      "bugs": 4,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
-    "Moore Meghana": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
     },
     "Manikanta P": {
       "bugs": 5,
@@ -26078,6 +26086,13 @@
       "stories": 0,
       "total": 5
     },
+    "Harsh Pratap Singh": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
     "Ranjitha br": {
       "bugs": 1,
       "tasks": 1,
@@ -26091,6 +26106,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 1
+    },
+    "Moore Meghana": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
     },
     "Kiran JR": {
       "bugs": 5,
@@ -26123,11 +26145,11 @@
   },
   "priority_breakdown": {
     "Medium": 723,
+    "High": 306,
     "Highest": 324,
-    "High": 305,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T10:08:50Z",
-  "total_issues": 1861
+  "updated_at": "2026-02-12T11:08:35Z",
+  "total_issues": 1862
 }
