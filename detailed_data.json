@@ -19239,6 +19239,188 @@
   ],
   "tasks": [
     {
+      "key": "VF-471",
+      "summary": "If user sees the non bundle Logos, the journey to be completed with definitive CTA",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-28",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1917",
+      "summary": "Brand colour changes within the app",
+      "status": "Parked",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-28",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2109",
+      "summary": "Coach-marks",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2098",
+      "summary": "Business should be able to define which User can see any other D2C plans/offers post b2b subscription for upgrades and which can not",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-487",
+      "summary": "User should see Apps and content of Apps which are part of the plan and not all",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-28",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2089",
+      "summary": "3) Editorial boost - On SARA widgets (to be provisioned on Vivre) ",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "2026-05-29",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2090",
+      "summary": "4) Subscription based recommendations - Via SARA recommendation widgets (Non-collaborative reco rails like - because you subscribed to \u2018X pack\u2019 ; new on 'X pack')",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "2026-06-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2100",
+      "summary": "Once App logo is clicked , he should land at content page of the CP within Watcho App",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2099",
+      "summary": "Become our Partner",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2104",
+      "summary": "Blog Requirement",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2102",
+      "summary": "Allow notifications Nudge",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2103",
+      "summary": "E-E-A-T Factors",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2101",
+      "summary": "Bulk Buy",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-587",
       "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
       "status": "Dev Complete",
@@ -19463,34 +19645,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-487",
-      "summary": "User should see Apps and content of Apps which are part of the plan and not all",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2025-12-28",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-471",
-      "summary": "If user sees the non bundle Logos, the journey to be completed with definitive CTA",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2025-12-28",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-819",
       "summary": "Content Logics\tRail reordering basis xx sessions",
       "status": "Issue Accepted",
@@ -19543,20 +19697,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2109",
-      "summary": "Coach-marks",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -19617,34 +19757,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2104",
-      "summary": "Blog Requirement",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2103",
-      "summary": "E-E-A-T Factors",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-484",
       "summary": "Set Reminder for Upcoming Content",
       "status": "Parked",
@@ -19666,76 +19778,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-11-25",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2102",
-      "summary": "Allow notifications Nudge",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2101",
-      "summary": "Bulk Buy",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2100",
-      "summary": "Once App logo is clicked , he should land at content page of the CP within Watcho App",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2099",
-      "summary": "Become our Partner",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2098",
-      "summary": "Business should be able to define which User can see any other D2C plans/offers post b2b subscription for upgrades and which can not",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19963,48 +20005,6 @@
       "updated": "2026-02-12",
       "duedate": "2026-05-29",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2090",
-      "summary": "4) Subscription based recommendations - Via SARA recommendation widgets (Non-collaborative reco rails like - because you subscribed to \u2018X pack\u2019 ; new on 'X pack')",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "2026-06-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2089",
-      "summary": "3) Editorial boost - On SARA widgets (to be provisioned on Vivre) ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "2026-05-29",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1917",
-      "summary": "Brand colour changes within the app",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-28",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -25852,6 +25852,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 0,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6,
+      "statuses": {
+        "Parked": 1,
+        "Open": 2,
+        "Issue Accepted": 2,
+        "Dev Complete": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 16,
@@ -25866,22 +25879,38 @@
         "Closed": 7,
         "Testing On hold": 2
       }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 0,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6,
-      "statuses": {
-        "Open": 3,
-        "Issue Accepted": 2,
-        "Dev Complete": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Dinjit Dinesh": {
+      "bugs": 13,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 32
+    },
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 2
+    },
+    "Unassigned": {
+      "bugs": 28,
+      "tasks": 28,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 60
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
+    },
     "Suyog Lanje": {
       "bugs": 2,
       "tasks": 6,
@@ -25931,13 +25960,6 @@
       "stories": 0,
       "total": 25
     },
-    "Dinjit Dinesh": {
-      "bugs": 13,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 32
-    },
     "abhilash.ramesh": {
       "bugs": 11,
       "tasks": 3,
@@ -25973,20 +25995,6 @@
       "stories": 0,
       "total": 2
     },
-    "Unassigned": {
-      "bugs": 28,
-      "tasks": 28,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 60
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
-    },
     "kamaldeeps": {
       "bugs": 1,
       "tasks": 3,
@@ -26014,13 +26022,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 15
-    },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 2
     },
     "Vikas Mishra": {
       "bugs": 40,
@@ -26149,6 +26150,6 @@
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T17:17:35Z",
+  "updated_at": "2026-02-12T19:21:07Z",
   "total_issues": 1862
 }
