@@ -16,6 +16,14 @@
       "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
+    "CMS": {
+      "OPEN": 0,
+      "IN PROGRESS": 0,
+      "REOPENED": 0,
+      "IN REVIEW": 0,
+      "ISSUE ACCEPTED": 0,
+      "PARKED": 0
+    },
     "CMS Adaptor": {
       "OPEN": 0,
       "IN PROGRESS": 1,
@@ -89,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-12T05:42:52Z",
+  "updated_at": "2026-02-12T05:44:58Z",
   "total_issues_fetched": 1839,
   "project": "VF"
 }
