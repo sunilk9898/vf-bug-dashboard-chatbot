@@ -477,10 +477,16 @@
             <label for="patInput">GitHub Personal Access Token</label>
             <input type="password" id="patInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="off">
             <div class="help-text">
-                Required to trigger live Jira data fetch via GitHub Actions.<br>
-                <b>Steps:</b> GitHub &rarr; Settings &rarr; Developer settings &rarr; Personal access tokens &rarr; Fine-grained tokens<br>
-                <b>Repository:</b> sunilk9898/vf-bug-dashboard-chatbot<br>
-                <b>Permission:</b> Actions (Read and Write)<br><br>
+                Required to trigger live Jira data fetch via GitHub Actions.<br><br>
+                <b>Steps to create token:</b><br>
+                1. Go to <a href="https://github.com/settings/tokens?type=beta" target="_blank" style="color:#60a5fa">GitHub &rarr; Fine-grained tokens</a><br>
+                2. Click "Generate new token"<br>
+                3. <b>Repository access:</b> Select "Only select repositories" &rarr; <b>vf-bug-dashboard-chatbot</b><br>
+                4. <b>Repository permissions (all 3 required):</b><br>
+                &nbsp;&nbsp;&bull; <b>Actions</b> &rarr; Read and Write<br>
+                &nbsp;&nbsp;&bull; <b>Contents</b> &rarr; Read<br>
+                &nbsp;&nbsp;&bull; <b>Metadata</b> &rarr; Read (auto-selected)<br>
+                5. Click "Generate token" and paste it above<br><br>
                 Token is stored only in your browser's localStorage and never sent anywhere except GitHub API.
             </div>
             <div class="btn-row">
@@ -834,12 +840,17 @@
                 setTimeout(clearRefreshStatus, 8000);
             } catch (err) {
                 console.error('Workflow trigger error:', err);
-                setRefreshStatus(`<span style="color:#f87171">&#x2717; ${err.message}</span>`);
-                setTimeout(clearRefreshStatus, 15000);
-                if (err.message.includes('401') || err.message.includes('403')) {
-                    if (confirm('Authentication failed. Your PAT may be expired or invalid.\n\nOpen settings to update it?')) {
+                let errMsg = err.message || 'Unknown error';
+                let isAuthError = errMsg.includes('401') || errMsg.includes('403') || errMsg.includes('Resource not accessible');
+                if (isAuthError) {
+                    setRefreshStatus(`<span style="color:#f87171">&#x2717; Auth failed - check PAT permissions (Actions: Read+Write, Contents: Read)</span>`);
+                    setTimeout(clearRefreshStatus, 20000);
+                    if (confirm('Authentication failed (401/403).\n\nYour PAT needs these permissions on repo vf-bug-dashboard-chatbot:\n  - Actions: Read and Write\n  - Contents: Read\n  - Metadata: Read\n\nOpen settings to update your token?')) {
                         openSettings();
                     }
+                } else {
+                    setRefreshStatus(`<span style="color:#f87171">&#x2717; ${errMsg}</span>`);
+                    setTimeout(clearRefreshStatus, 15000);
                 }
             } finally {
                 btn.disabled = false;
