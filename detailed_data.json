@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2084",
+      "summary": "View All option not available ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2085",
+      "summary": "Latest content is not showing up in New Releases rail of Series page.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2086",
+      "summary": "Fancode content is appearing on New On VZY rail",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2111",
+      "summary": "Link redirection is not working on on ios and android",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2088",
+      "summary": "Issue in Account deletion",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2081",
       "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
       "status": "Dev Complete",
@@ -50,34 +120,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2111",
-      "summary": "Link redirection is not working on on ios and android",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2088",
-      "summary": "Issue in Account deletion",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -204,48 +246,6 @@
       "assignee": "Unassigned",
       "platform": "ATV",
       "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2084",
-      "summary": "View All option not available ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2085",
-      "summary": "Latest content is not showing up in New Releases rail of Series page.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2086",
-      "summary": "Fancode content is appearing on New On VZY rail",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -25513,6 +25513,34 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1952",
+      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1951",
+      "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1969",
       "summary": "Web - Branch.io Intregation (Standered)",
       "status": "Dev Complete",
@@ -25661,34 +25689,6 @@
       "platform": "WEB",
       "created": "2026-02-04",
       "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1952",
-      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1951",
-      "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Sub-task",
@@ -25859,9 +25859,9 @@
       "stories": 0,
       "total": 48,
       "statuses": {
+        "Dev Complete": 12,
         "In Progress": 10,
         "Onhold-For Tech Dependency": 1,
-        "Dev Complete": 12,
         "Ready For Test": 15,
         "Reopened": 1,
         "Closed": 7,
@@ -25883,6 +25883,41 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amit Kumar Tiwari": {
+      "bugs": 5,
+      "tasks": 5,
+      "subtasks": 4,
+      "stories": 0,
+      "total": 14
+    },
+    "Shubham Chauhan": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "abhilash.ramesh": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "shadab Hussain": {
+      "bugs": 4,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "vzyfeedback": {
+      "bugs": 1127,
+      "tasks": 277,
+      "subtasks": 6,
+      "stories": 0,
+      "total": 1414
+    },
     "Yashika Krishnani": {
       "bugs": 1,
       "tasks": 3,
@@ -25897,19 +25932,12 @@
       "stories": 0,
       "total": 2
     },
-    "vzyfeedback": {
-      "bugs": 1127,
-      "tasks": 277,
-      "subtasks": 6,
-      "stories": 0,
-      "total": 1414
-    },
     "Dinjit Dinesh": {
-      "bugs": 18,
+      "bugs": 14,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 37
+      "total": 33
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -25932,13 +25960,6 @@
       "stories": 0,
       "total": 34
     },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "kamaldeeps": {
       "bugs": 2,
       "tasks": 3,
@@ -25959,13 +25980,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 24
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 4,
-      "stories": 0,
-      "total": 14
     },
     "Alok Gupta": {
       "bugs": 11,
@@ -26058,26 +26072,12 @@
       "stories": 0,
       "total": 22
     },
-    "shadab Hussain": {
-      "bugs": 3,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 10
-    },
-    "Shubham Chauhan": {
-      "bugs": 6,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -26150,6 +26150,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T11:08:35Z",
+  "updated_at": "2026-02-12T11:56:50Z",
   "total_issues": 1862
 }
