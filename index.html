@@ -427,6 +427,29 @@
             border-radius: 8px; margin-bottom: 16px; display: none;
         }
 
+        /* ========== MANAGEMENT DASHBOARD TAB ========== */
+        .management-dashboard-container {
+            flex: 1; display: flex; flex-direction: column; height: 100%;
+        }
+        .mgmt-header {
+            padding: 20px 24px 12px; flex-shrink: 0;
+        }
+        .mgmt-header h2 { font-size: 18px; font-weight: 700; color: #f8fafc; margin-bottom: 4px; }
+        .mgmt-header p { font-size: 13px; color: #94a3b8; }
+        .mgmt-iframe-wrap {
+            flex: 1; padding: 0 24px 24px; position: relative; min-height: 600px;
+        }
+        .mgmt-iframe-wrap iframe {
+            width: 100%; height: 100%; min-height: 600px;
+            border: 1px solid #334155; border-radius: 12px;
+            background: #fff;
+        }
+        .iframe-fallback {
+            display: none; padding: 40px; text-align: center;
+            background: #1e293b; border: 1px solid #334155; border-radius: 12px;
+            color: #94a3b8; font-size: 14px;
+        }
+
         /* Footer */
         .footer { text-align: center; padding: 16px; color: #475569; font-size: 11px; flex-shrink: 0; }
 
@@ -513,6 +536,9 @@
             <span class="tab-icon">&#x1f680;</span> Release Dashboard
         </button>
         -->
+        <button class="nav-tab" data-tab="management">
+            <span class="tab-icon">&#x1f4c8;</span> VZY Management Dashboard
+        </button>
         <button class="nav-tab" data-tab="insights" style="margin-left:auto">
             <span class="tab-icon">&#x1f4a1;</span> Quality Analytics
         </button>
@@ -643,6 +669,23 @@
                            placeholder="Ask about bugs, tasks, sprint status..."
                            onkeydown="if(event.key==='Enter')sendMessage()">
                     <button class="chat-send" id="chatSendBtn" onclick="sendMessage()">&#x27A4;</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- ========== VZY MANAGEMENT DASHBOARD TAB ========== -->
+        <div class="tab-panel" id="tab-management">
+            <div class="management-dashboard-container">
+                <div class="mgmt-header">
+                    <h2>VZY Management Dashboard</h2>
+                    <p>External SCMS Summary Dashboard — Embedded from <a href="https://scms.dish.watcho.com/summary/" target="_blank" style="color:#60a5fa">scms.dish.watcho.com</a></p>
+                    <a href="https://scms.dish.watcho.com/summary/" target="_blank" class="btn-refresh" style="margin-top:8px;display:inline-block;text-decoration:none;">Open in New Tab &#x2197;</a>
+                </div>
+                <div class="mgmt-iframe-wrap">
+                    <iframe id="mgmtIframe" src="" frameborder="0" allowfullscreen loading="lazy"></iframe>
+                    <div class="iframe-fallback" id="mgmtFallback">
+                        <p>If the dashboard doesn't load due to iframe restrictions, please <a href="https://scms.dish.watcho.com/summary/" target="_blank" style="color:#60a5fa">open it directly</a>.</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -912,8 +955,41 @@
                 if (tab.dataset.tab === 'releases') {
                     renderReleaseDashboard();
                 }
+                if (tab.dataset.tab === 'management') {
+                    loadManagementDashboard();
+                }
             });
         });
+
+        // ============================================
+        // MANAGEMENT DASHBOARD (IFRAME)
+        // ============================================
+        let mgmtLoaded = false;
+        function loadManagementDashboard() {
+            if (mgmtLoaded) return;
+            const iframe = document.getElementById('mgmtIframe');
+            const fallback = document.getElementById('mgmtFallback');
+            iframe.src = 'https://scms.dish.watcho.com/summary/';
+            iframe.onerror = function() {
+                iframe.style.display = 'none';
+                fallback.style.display = 'block';
+            };
+            // If X-Frame-Options blocks it, show fallback after timeout
+            setTimeout(() => {
+                try {
+                    // Try accessing iframe — will throw if blocked by CORS/X-Frame
+                    const doc = iframe.contentDocument || iframe.contentWindow.document;
+                    if (!doc || !doc.body || doc.body.innerHTML === '') {
+                        iframe.style.display = 'none';
+                        fallback.style.display = 'block';
+                    }
+                } catch(e) {
+                    iframe.style.display = 'none';
+                    fallback.style.display = 'block';
+                }
+            }, 5000);
+            mgmtLoaded = true;
+        }
 
         // ============================================
         // FETCH DATA
