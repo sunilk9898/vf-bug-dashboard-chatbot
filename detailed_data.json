@@ -19239,6 +19239,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-466",
+      "summary": "Free view to logged in users - with regard  or episode no",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2025-11-25",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-598",
+      "summary": "SEO Redirects",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2025-11-19",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-16",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-468",
+      "summary": "Geo Blocking - Phase 1 ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-471",
       "summary": "If user sees the non bundle Logos, the journey to be completed with definitive CTA",
       "status": "Parked",
@@ -19878,20 +19920,6 @@
       "created": "2025-12-09",
       "updated": "2026-02-12",
       "duedate": "2025-12-05",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-466",
-      "summary": "Free view to logged in users - with regard  or episode no",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2025-11-25",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -20592,20 +20620,6 @@
       "created": "2025-11-28",
       "updated": "2026-02-05",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-598",
-      "summary": "SEO Redirects",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2025-11-19",
-      "updated": "2026-02-05",
-      "duedate": "2026-02-16",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -22636,20 +22650,6 @@
       "created": "2025-11-27",
       "updated": "2025-12-19",
       "duedate": "2025-12-03",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-468",
-      "summary": "Geo Blocking - Phase 1 ",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2025-12-19",
-      "duedate": "2025-12-05",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25883,6 +25883,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1129,
+      "tasks": 279,
+      "subtasks": 6,
+      "stories": 0,
+      "total": 1418
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 10,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
     "Dinjit Dinesh": {
       "bugs": 13,
       "tasks": 18,
@@ -25924,13 +25938,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "vzyfeedback": {
-      "bugs": 1129,
-      "tasks": 279,
-      "subtasks": 6,
-      "stories": 0,
-      "total": 1418
     },
     "Manikanta P": {
       "bugs": 5,
@@ -26008,13 +26015,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 10,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
     },
     "Alok Gupta": {
       "bugs": 11,
@@ -26150,6 +26150,6 @@
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T19:21:07Z",
+  "updated_at": "2026-02-12T20:52:14Z",
   "total_issues": 1862
 }
