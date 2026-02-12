@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2073",
+      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1916",
       "summary": "Trailer in PIP mode",
       "status": "Dev Complete",
@@ -245,20 +259,6 @@
       "priority": "Medium",
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2073",
-      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "ATV",
       "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
@@ -19225,6 +19225,398 @@
   ],
   "tasks": [
     {
+      "key": "VF-487",
+      "summary": "User should see Apps and content of Apps which are part of the plan and not all",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-28",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-471",
+      "summary": "If user sees the non bundle Logos, the journey to be completed with definitive CTA",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-28",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-819",
+      "summary": "Content Logics\tRail reordering basis xx sessions",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2025-11-28",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-28",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-637",
+      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2025-11-25",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-18",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-462",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1894",
+      "summary": "Notification sticky count",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2066",
+      "summary": "Branch.io with Custom integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-10",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2109",
+      "summary": "Coach-marks",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2108",
+      "summary": "Provision to add Custom template for Content Page",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2107",
+      "summary": "Different types of dynamic In-app Pop-Ups (e.g. - bottom sliders, auto disappearing flashers, sticky rotating cube)",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2106",
+      "summary": "Forward / Backward - with preview image",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2105",
+      "summary": "Feedback after finshed playback",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2104",
+      "summary": "Blog Requirement",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2103",
+      "summary": "E-E-A-T Factors",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-484",
+      "summary": "Set Reminder for Upcoming Content",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-636",
+      "summary": "Animation / Haptics / Micro-interactions",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-25",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2102",
+      "summary": "Allow notifications Nudge",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2101",
+      "summary": "Bulk Buy",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2100",
+      "summary": "Once App logo is clicked , he should land at content page of the CP within Watcho App",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2099",
+      "summary": "Become our Partner",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2098",
+      "summary": "Business should be able to define which User can see any other D2C plans/offers post b2b subscription for upgrades and which can not",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-714",
+      "summary": "ISP User should not see any other D2C plans/offers post login",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-27",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-713",
+      "summary": "Co Branding of App interface post ISP user logs in",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "Ajay Kushwaha",
+      "platform": "ATV",
+      "created": "2025-11-27",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-488",
+      "summary": "ISP Logged in user should not see Pay channels thumb nails",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-15",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1936",
+      "summary": "MX Player - CP Integration",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1871",
+      "summary": "Search Engine Enhancements with AI Companion",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "ATV",
+      "created": "2026-01-28",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-817",
       "summary": "Watchlist(s)",
       "status": "Parked",
@@ -19365,20 +19757,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-462",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2094",
       "summary": "Splash screen integration for select partners",
       "status": "Parked",
@@ -19389,20 +19767,6 @@
       "updated": "2026-02-12",
       "duedate": "2026-06-30",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-18",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19444,20 +19808,6 @@
       "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "2026-05-29",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1871",
-      "summary": "Search Engine Enhancements with AI Companion",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "ATV",
-      "created": "2026-01-28",
-      "updated": "2026-02-12",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -19512,34 +19862,6 @@
       "assignee": "Harsh Pratap Singh",
       "platform": "ATV",
       "created": "2026-01-30",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1894",
-      "summary": "Notification sticky count",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -19721,20 +20043,6 @@
       "priority": "Medium",
       "assignee": "kamaldeeps",
       "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1936",
-      "summary": "MX Player - CP Integration",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ATV",
       "created": "2026-02-04",
       "updated": "2026-02-11",
       "duedate": "",
@@ -20037,20 +20345,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2066",
-      "summary": "Branch.io with Custom integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-10",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1055",
       "summary": "Clevertap Notifications (push / in-app)",
       "status": "Reopened",
@@ -20289,20 +20583,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-819",
-      "summary": "Content Logics\tRail reordering basis xx sessions",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2025-11-28",
-      "updated": "2026-02-05",
-      "duedate": "2026-02-28",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1911",
       "summary": "Downloaded content - Resume issue",
       "status": "Reopened",
@@ -20480,34 +20760,6 @@
       "created": "2025-11-27",
       "updated": "2026-02-04",
       "duedate": "2025-12-08",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-637",
-      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2025-11-25",
-      "updated": "2026-02-04",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-487",
-      "summary": "User should see Apps and content of Apps which are part of the plan and not all",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-04",
-      "duedate": "2025-12-28",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -21535,20 +21787,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-471",
-      "summary": "If user sees the non bundle Logos, the journey to be completed with definitive CTA",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-01-15",
-      "duedate": "2025-12-28",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-534",
       "summary": "Security & Access Control",
       "status": "In Progress",
@@ -22291,20 +22529,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-636",
-      "summary": "Animation / Haptics / Micro-interactions",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-25",
-      "updated": "2025-12-22",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-664",
       "summary": "CLONE iOS - Toast message content on profile edit",
       "status": "Closed",
@@ -22781,20 +23005,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-713",
-      "summary": "Co Branding of App interface post ISP user logs in",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "Ajay Kushwaha",
-      "platform": "ATV",
-      "created": "2025-11-27",
-      "updated": "2025-12-12",
-      "duedate": "2025-12-05",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-547",
       "summary": "KPI & Dashboard Integration",
       "status": "Ready For Test",
@@ -22851,20 +23061,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-488",
-      "summary": "ISP Logged in user should not see Pay channels thumb nails",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2025-12-11",
-      "duedate": "2025-12-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1053",
       "summary": "Firebase uninstall & install events",
       "status": "Closed",
@@ -22874,20 +23070,6 @@
       "created": "2025-12-09",
       "updated": "2025-12-11",
       "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-714",
-      "summary": "ISP User should not see any other D2C plans/offers post login",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-27",
-      "updated": "2025-12-11",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -23306,20 +23488,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-11-04",
-      "updated": "2025-12-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-484",
-      "summary": "Set Reminder for Upcoming Content",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
       "updated": "2025-12-10",
       "duedate": "",
       "sprint": "No Sprint",
@@ -25678,34 +25846,27 @@
       "stories": 0,
       "total": 6,
       "statuses": {
-        "Issue Accepted": 2,
         "Open": 3,
+        "Issue Accepted": 2,
         "Dev Complete": 1
       }
     }
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1125,
-      "tasks": 277,
-      "subtasks": 6,
-      "stories": 0,
-      "total": 1412
-    },
     "Unassigned": {
       "bugs": 33,
-      "tasks": 16,
+      "tasks": 28,
       "subtasks": 0,
       "stories": 0,
-      "total": 53
+      "total": 65
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 4,
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 17,
+      "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 34
     },
     "Dinjit Dinesh": {
       "bugs": 18,
@@ -25714,19 +25875,33 @@
       "stories": 0,
       "total": 36
     },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 7,
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 8
+      "total": 12
     },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 10,
+    "vzyfeedback": {
+      "bugs": 1125,
+      "tasks": 277,
+      "subtasks": 6,
+      "stories": 0,
+      "total": 1412
+    },
+    "kamaldeeps": {
+      "bugs": 2,
+      "tasks": 3,
       "subtasks": 1,
       "stories": 0,
-      "total": 24
+      "total": 6
+    },
+    "Ajay Kushwaha": {
+      "bugs": 10,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "Yashika Krishnani": {
       "bugs": 1,
@@ -25735,19 +25910,33 @@
       "stories": 0,
       "total": 3
     },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 10,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 5,
+      "tasks": 5,
+      "subtasks": 4,
+      "stories": 0,
+      "total": 14
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
     "Alok Gupta": {
       "bugs": 11,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
       "total": 15
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -25762,13 +25951,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "kamaldeeps": {
-      "bugs": 2,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 6
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -25811,13 +25993,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 25
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "devaraj": {
       "bugs": 6,
@@ -25910,13 +26085,6 @@
       "stories": 0,
       "total": 6
     },
-    "Ajay Kushwaha": {
-      "bugs": 10,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -25946,6 +26114,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T07:18:22Z",
-  "total_issues": 1848
+  "updated_at": "2026-02-12T09:07:24Z",
+  "total_issues": 1860
 }
