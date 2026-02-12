@@ -4,7 +4,7 @@
       "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 1,
-      "IN REVIEW": 1,
+      "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 1
     },
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-12T05:47:04Z",
-  "total_issues_fetched": 1839,
+  "updated_at": "2026-02-12T06:47:41Z",
+  "total_issues_fetched": 1844,
   "project": "VF"
 }

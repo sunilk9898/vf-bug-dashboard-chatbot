@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-1916",
+      "summary": "Trailer in PIP mode",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1757",
+      "summary": "(Sagar)- Found issue in Fliqs integration",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-01-20",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2088",
       "summary": "Issue in Account deletion",
       "status": "Open",
@@ -995,20 +1023,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1757",
-      "summary": "(Sagar)- Found issue in Fliqs integration",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-01-20",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1779",
       "summary": "Web-After navigating from the Home Page to the Series module, Series and Spotlight videos take excessive time to load, causing noticeable playback lag.",
       "status": "Ready For Test",
@@ -1985,20 +1999,6 @@
       "updated": "2026-02-06",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1916",
-      "summary": "Trailer in PIP mode",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19225,6 +19225,160 @@
   ],
   "tasks": [
     {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-18",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2093",
+      "summary": "Catalogue and SSO API migration from Watcho to VZY",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "2026-05-29",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2092",
+      "summary": "3rd party Brand insertions for Collaborations",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "2026-06-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2091",
+      "summary": "Coupon redemption for custom campaigns on VZY App",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "2026-05-29",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1871",
+      "summary": "Search Engine Enhancements with AI Companion",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "ATV",
+      "created": "2026-01-28",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2090",
+      "summary": "4) Subscription based recommendations - Via SARA recommendation widgets (Non-collaborative reco rails like - because you subscribed to \u2018X pack\u2019 ; new on 'X pack')",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "2026-06-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2089",
+      "summary": "3) Editorial boost - On SARA widgets (to be provisioned on Vivre) ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "2026-05-29",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1917",
+      "summary": "Brand colour changes within the app",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-28",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Harsh Pratap Singh",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1894",
       "summary": "Notification sticky count",
       "status": "Dev Complete",
@@ -19263,34 +19417,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1871",
-      "summary": "Search Engine Enhancements with AI Companion",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "ATV",
-      "created": "2026-01-28",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Harsh Pratap Singh",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19458,20 +19584,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-11",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-11",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -19781,34 +19893,6 @@
       "updated": "2026-02-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-10",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-18",
-      "updated": "2026-02-10",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20215,20 +20299,6 @@
       "updated": "2026-02-04",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1917",
-      "summary": "Brand colour changes within the app",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-04",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -25537,13 +25607,12 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "Dev Complete": 11,
-        "Reopened": 2,
+        "Dev Complete": 12,
         "In Progress": 10,
+        "Reopened": 2,
         "Ready For Test": 15,
         "Closed": 7,
-        "Testing On hold": 2,
-        "In Review": 1
+        "Testing On hold": 2
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -25553,14 +25622,63 @@
       "stories": 0,
       "total": 6,
       "statuses": {
+        "Open": 3,
         "Issue Accepted": 2,
-        "Dev Complete": 1,
-        "Open": 3
+        "Dev Complete": 1
       }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
+    "vzyfeedback": {
+      "bugs": 1125,
+      "tasks": 277,
+      "subtasks": 6,
+      "stories": 0,
+      "total": 1412
+    },
+    "Unassigned": {
+      "bugs": 33,
+      "tasks": 12,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 49
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 2
+    },
+    "Harsh Pratap Singh": {
+      "bugs": 4,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
     "BalaKumar": {
       "bugs": 13,
       "tasks": 10,
@@ -25575,26 +25693,12 @@
       "stories": 0,
       "total": 36
     },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "kamaldeeps": {
       "bugs": 2,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
       "total": 6
-    },
-    "vzyfeedback": {
-      "bugs": 1125,
-      "tasks": 277,
-      "subtasks": 6,
-      "stories": 0,
-      "total": 1412
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -25603,26 +25707,12 @@
       "stories": 0,
       "total": 11
     },
-    "Harsh Pratap Singh": {
-      "bugs": 4,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
     "Manikanta P": {
       "bugs": 5,
       "tasks": 9,
       "subtasks": 0,
       "stories": 1,
       "total": 15
-    },
-    "Unassigned": {
-      "bugs": 33,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 44
     },
     "Vikas Mishra": {
       "bugs": 40,
@@ -25652,13 +25742,6 @@
       "stories": 0,
       "total": 25
     },
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
       "tasks": 17,
@@ -25686,13 +25769,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Amit Kumar Tiwari": {
       "bugs": 5,
@@ -25749,13 +25825,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 2
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -25821,6 +25890,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T05:47:04Z",
-  "total_issues": 1839
+  "updated_at": "2026-02-12T06:47:41Z",
+  "total_issues": 1844
 }
