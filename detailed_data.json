@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2063",
+      "summary": "New On VZY Rail not showing correct data",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-10",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2064",
+      "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-10",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2070",
+      "summary": "Kaltura Issue: 16x9 cover image not available for hoichoi content",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2072",
+      "summary": "Content recommendation under similar to this is not correct",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2073",
+      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2075",
+      "summary": "Live TV: Sony Liv Live TV channel logo issue",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2071",
+      "summary": "Kaltura Issue: Asset title missing from content thumbnail",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2051",
       "summary": "MI TV: Wishlist button UI does not update when rapidly tapping on My Wishlist for searched content.",
       "status": "Testing On hold",
@@ -281,104 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2075",
-      "summary": "Live TV: Sony Liv Live TV channel logo issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2070",
-      "summary": "Kaltura Issue: 16x9 cover image not available for hoichoi content",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Kaltura",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2071",
-      "summary": "Kaltura Issue: Asset title missing from content thumbnail",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Kaltura",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2072",
-      "summary": "Content recommendation under similar to this is not correct",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2073",
-      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2074",
-      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1574",
       "summary": "GTM | Firebase | Missing parameters in firebase same availabe on GTM (IOS)",
       "status": "In Review",
@@ -498,34 +512,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-01-14",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2064",
-      "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "WEB",
-      "created": "2026-02-10",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2063",
-      "summary": "New On VZY Rail not showing correct data",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "WEB",
-      "created": "2026-02-10",
       "updated": "2026-02-10",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19099,6 +19085,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2074",
+      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2078",
       "summary": "Enable Help & Feedback Link in Staging Environment",
       "status": "Open",
@@ -25491,19 +25491,40 @@
   },
   "releases": {},
   "assignee_workload": {
-    "BalaKumar": {
+    "abhilash.ramesh": {
       "bugs": 11,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "BalaKumar": {
+      "bugs": 13,
       "tasks": 10,
       "subtasks": 1,
       "stories": 0,
-      "total": 22
+      "total": 24
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Namrata Kurariya": {
+      "bugs": 4,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "vzyfeedback": {
-      "bugs": 1124,
+      "bugs": 1125,
       "tasks": 277,
       "subtasks": 6,
       "stories": 0,
-      "total": 1411
+      "total": 1412
     },
     "Javed Ali": {
       "bugs": 19,
@@ -25513,11 +25534,11 @@
       "total": 25
     },
     "Unassigned": {
-      "bugs": 30,
+      "bugs": 28,
       "tasks": 12,
       "subtasks": 0,
       "stories": 0,
-      "total": 46
+      "total": 44
     },
     "Alok Gupta": {
       "bugs": 11,
@@ -25525,13 +25546,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 15
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
@@ -25551,13 +25565,6 @@
       "bugs": 6,
       "tasks": 0,
       "subtasks": 2,
-      "stories": 0,
-      "total": 8
-    },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 6,
-      "subtasks": 0,
       "stories": 0,
       "total": 8
     },
@@ -25597,18 +25604,11 @@
       "total": 14
     },
     "Dinjit Dinesh": {
-      "bugs": 18,
+      "bugs": 13,
       "tasks": 17,
       "subtasks": 0,
       "stories": 0,
-      "total": 36
-    },
-    "Akash Kushwaha": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
+      "total": 31
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -25680,12 +25680,12 @@
       "stories": 0,
       "total": 11
     },
-    "Namrata Kurariya": {
-      "bugs": 4,
+    "Akash Kushwaha": {
+      "bugs": 0,
       "tasks": 1,
-      "subtasks": 0,
+      "subtasks": 1,
       "stories": 0,
-      "total": 5
+      "total": 2
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -25745,12 +25745,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 714,
+    "Medium": 713,
     "Highest": 324,
     "High": 305,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T00:40:27Z",
+  "updated_at": "2026-02-12T03:22:24Z",
   "total_issues": 1834
 }
