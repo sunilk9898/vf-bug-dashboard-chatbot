@@ -19239,12 +19239,68 @@
   ],
   "tasks": [
     {
-      "key": "VF-1936",
-      "summary": "MX Player - CP Integration",
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-542",
+      "summary": "User Management Console (Admin View)",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Manikanta P",
+      "platform": "CMS Dashboard",
+      "created": "2025-11-18",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1966",
+      "summary": "Branch.io Intregation (Standered)",
       "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
+      "assignee": "Abhishek Dhok",
+      "platform": "ANDROID",
       "created": "2026-02-04",
       "updated": "2026-02-12",
       "duedate": "",
@@ -19253,13 +19309,27 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "In Progress",
+      "key": "VF-1184",
+      "summary": "View All for Continue Watching & My list",
+      "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "Yashika Krishnani",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2025-12-16",
+      "updated": "2026-02-12",
+      "duedate": "2026-01-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1936",
+      "summary": "MX Player - CP Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-01-30",
+      "created": "2026-02-04",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -19393,20 +19463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1184",
-      "summary": "View All for Continue Watching & My list",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "LG_TV",
-      "created": "2025-12-16",
-      "updated": "2026-02-12",
-      "duedate": "2026-01-31",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-487",
       "summary": "User should see Apps and content of Apps which are part of the plan and not all",
       "status": "Open",
@@ -19459,20 +19515,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-18",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19823,20 +19865,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20212,20 +20240,6 @@
       "assignee": "avinash waghmare",
       "platform": "ATV",
       "created": "2026-02-03",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1966",
-      "summary": "Branch.io Intregation (Standered)",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
       "updated": "2026-02-10",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -20816,20 +20830,6 @@
       "created": "2025-12-04",
       "updated": "2026-02-03",
       "duedate": "2026-01-23",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-542",
-      "summary": "User Management Console (Admin View)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-11-18",
-      "updated": "2026-02-03",
-      "duedate": "2025-12-12",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25859,9 +25859,9 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "Ready For Test": 16,
-        "Dev Complete": 13,
-        "In Progress": 9,
+        "Dev Complete": 16,
+        "Ready For Test": 17,
+        "In Progress": 5,
         "Reopened": 1,
         "Closed": 7,
         "Testing On hold": 2
@@ -25882,12 +25882,40 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Yashika Krishnani": {
+      "bugs": 1,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "vzyfeedback": {
       "bugs": 1129,
-      "tasks": 278,
+      "tasks": 279,
       "subtasks": 6,
       "stories": 0,
-      "total": 1417
+      "total": 1418
+    },
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 15
+    },
+    "Abhishek Dhok": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
     },
     "Shubham Chauhan": {
       "bugs": 9,
@@ -25896,26 +25924,12 @@
       "stories": 0,
       "total": 14
     },
-    "Suyog Lanje": {
-      "bugs": 2,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "Javed Ali": {
       "bugs": 19,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
       "total": 25
-    },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "Dinjit Dinesh": {
       "bugs": 13,
@@ -26008,13 +26022,6 @@
       "stories": 0,
       "total": 2
     },
-    "Manikanta P": {
-      "bugs": 5,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 15
-    },
     "Vikas Mishra": {
       "bugs": 40,
       "tasks": 2,
@@ -26035,13 +26042,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 8
-    },
-    "Abhishek Dhok": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -26149,6 +26149,6 @@
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T16:09:12Z",
+  "updated_at": "2026-02-12T17:17:35Z",
   "total_issues": 1862
 }
