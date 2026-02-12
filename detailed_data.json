@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2088",
+      "summary": "Issue in Account deletion",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2073",
       "summary": "the \u2018View All\u2019 option not available for Sara rails.",
       "status": "Issue Accepted",
@@ -36,20 +50,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-01-20",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2088",
-      "summary": "Issue in Account deletion",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19225,6 +19225,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2110",
+      "summary": "Not getting UTM Source in Deeplink ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-487",
       "summary": "User should see Apps and content of Apps which are part of the plan and not all",
       "status": "Open",
@@ -25854,6 +25868,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Dinjit Dinesh": {
+      "bugs": 17,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "vzyfeedback": {
+      "bugs": 1126,
+      "tasks": 277,
+      "subtasks": 6,
+      "stories": 0,
+      "total": 1413
+    },
     "Unassigned": {
       "bugs": 33,
       "tasks": 28,
@@ -25868,26 +25896,12 @@
       "stories": 0,
       "total": 34
     },
-    "Dinjit Dinesh": {
-      "bugs": 18,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
-    },
     "abhilash.ramesh": {
       "bugs": 9,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "vzyfeedback": {
-      "bugs": 1125,
-      "tasks": 277,
-      "subtasks": 6,
-      "stories": 0,
-      "total": 1412
     },
     "kamaldeeps": {
       "bugs": 2,
@@ -26114,6 +26128,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T09:07:24Z",
-  "total_issues": 1860
+  "updated_at": "2026-02-12T10:08:50Z",
+  "total_issues": 1861
 }
