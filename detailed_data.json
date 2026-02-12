@@ -1,9 +1,93 @@
 {
   "bugs": [
     {
+      "key": "VF-2080",
+      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1902",
+      "summary": "Delete Account",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2082",
+      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1450",
+      "summary": "(Shivani) The login screen is not fully covered from the top; the top half of the screen appears grey, and the other half appears black.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2025-12-23",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2087",
+      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2079",
+      "summary": "(Tamanna) - Content Details Not Displaying Below Thumbnail.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2084",
       "summary": "View All option not available ",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
@@ -81,20 +165,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1902",
-      "summary": "Delete Account",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -183,20 +253,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2087",
-      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2064",
       "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
       "status": "Issue Accepted",
@@ -204,48 +260,6 @@
       "assignee": "Manikanta P",
       "platform": "Unknown",
       "created": "2026-02-10",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2079",
-      "summary": "(Tamanna) - Content Details Not Displaying Below Thumbnail.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2080",
-      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2082",
-      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1537,20 +1551,6 @@
       "updated": "2026-02-07",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1450",
-      "summary": "(Shivani) The login screen is not fully covered from the top; the top half of the screen appears grey, and the other half appears black.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2025-12-23",
-      "updated": "2026-02-07",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19253,6 +19253,118 @@
       "fixversion": ""
     },
     {
+      "key": "VF-939",
+      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-941",
+      "summary": "(Shruti) Analytics: Active base Report - Daily Basis",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1023",
+      "summary": "(Shruti) Analytics: Monthly Active subscription data-reco \u2013 Monthly basis",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1028",
+      "summary": "(Shruti) Analytics: Hourly CP Activations \u2013 Daily (hourly) basis",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1025",
+      "summary": "(Shruti) Analytics: Daily Payment Notification Reco \u2013 Daily basis",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-462",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1871",
+      "summary": "Search Engine Enhancements with AI Companion",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "ATV",
+      "created": "2026-01-28",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2110",
       "summary": "Not getting UTM Source in Deeplink ",
       "status": "Open",
@@ -19351,20 +19463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-462",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1894",
       "summary": "Notification sticky count",
       "status": "Dev Complete",
@@ -19389,20 +19487,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19655,20 +19739,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1871",
-      "summary": "Search Engine Enhancements with AI Companion",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "ATV",
-      "created": "2026-01-28",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -19990,76 +20060,6 @@
       "created": "2026-01-13",
       "updated": "2026-02-11",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-939",
-      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-11",
-      "duedate": "2025-12-12",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1023",
-      "summary": "(Shruti) Analytics: Monthly Active subscription data-reco \u2013 Monthly basis",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2026-02-11",
-      "duedate": "2025-12-31",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-941",
-      "summary": "(Shruti) Analytics: Active base Report - Daily Basis",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-11",
-      "duedate": "2025-12-12",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1025",
-      "summary": "(Shruti) Analytics: Daily Payment Notification Reco \u2013 Daily basis",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2026-02-11",
-      "duedate": "2025-12-31",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1028",
-      "summary": "(Shruti) Analytics: Hourly CP Activations \u2013 Daily (hourly) basis",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2026-02-11",
-      "duedate": "2025-12-31",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25513,6 +25513,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1967",
+      "summary": "Android - Branch.io Intregation (Standered)",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1952",
       "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
       "status": "Dev Complete",
@@ -25645,20 +25659,6 @@
       "priority": "Medium",
       "assignee": "devaraj",
       "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1967",
-      "summary": "Android - Branch.io Intregation (Standered)",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
       "created": "2026-02-04",
       "updated": "2026-02-10",
       "duedate": "",
@@ -25859,9 +25859,8 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "Dev Complete": 12,
-        "In Progress": 10,
-        "Onhold-For Tech Dependency": 1,
+        "Dev Complete": 14,
+        "In Progress": 9,
         "Ready For Test": 15,
         "Reopened": 1,
         "Closed": 7,
@@ -25883,24 +25882,66 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Amit Kumar Tiwari": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 4,
-      "stories": 0,
-      "total": 14
-    },
     "Shubham Chauhan": {
-      "bugs": 7,
+      "bugs": 9,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 14
+    },
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Javed Ali": {
+      "bugs": 19,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
+    },
+    "Yashika Krishnani": {
+      "bugs": 1,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "vzyfeedback": {
+      "bugs": 1127,
+      "tasks": 277,
+      "subtasks": 6,
+      "stories": 0,
+      "total": 1414
+    },
+    "Dinjit Dinesh": {
+      "bugs": 13,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 32
     },
     "abhilash.ramesh": {
       "bugs": 11,
       "tasks": 3,
       "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "avinash waghmare": {
+      "bugs": 5,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 5,
+      "tasks": 5,
+      "subtasks": 4,
       "stories": 0,
       "total": 14
     },
@@ -25911,20 +25952,6 @@
       "stories": 0,
       "total": 8
     },
-    "vzyfeedback": {
-      "bugs": 1127,
-      "tasks": 277,
-      "subtasks": 6,
-      "stories": 0,
-      "total": 1414
-    },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
-    },
     "Karan Mahboobani": {
       "bugs": 2,
       "tasks": 0,
@@ -25932,26 +25959,12 @@
       "stories": 0,
       "total": 2
     },
-    "Dinjit Dinesh": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
-    },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Unassigned": {
-      "bugs": 31,
+      "bugs": 28,
       "tasks": 28,
       "subtasks": 0,
       "stories": 0,
-      "total": 63
+      "total": 60
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
@@ -26009,26 +26022,12 @@
       "stories": 0,
       "total": 42
     },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "Namrata Kurariya": {
       "bugs": 4,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Javed Ali": {
-      "bugs": 19,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
     },
     "devaraj": {
       "bugs": 6,
@@ -26145,11 +26144,11 @@
   },
   "priority_breakdown": {
     "Medium": 723,
+    "Low": 19,
     "High": 306,
     "Highest": 324,
-    "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T11:56:50Z",
+  "updated_at": "2026-02-12T13:45:04Z",
   "total_issues": 1862
 }
