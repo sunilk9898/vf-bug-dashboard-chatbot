@@ -19225,6 +19225,174 @@
   ],
   "tasks": [
     {
+      "key": "VF-817",
+      "summary": "Watchlist(s)",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-28",
+      "updated": "2026-02-12",
+      "duedate": "2026-01-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2097",
+      "summary": "MS Clarity/UxCAM",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-712",
+      "summary": "App Size Optimization",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2025-11-27",
+      "updated": "2026-02-12",
+      "duedate": "2026-01-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1064",
+      "summary": "Geo Blocking - Phase 2 (as per BRD)",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-02-12",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-466",
+      "summary": "Free view to logged in users - with regard  or episode no",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2025-11-25",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2096",
+      "summary": "Redirects - Requirement to be clarified. WAtcho to VZY redirection.",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-818",
+      "summary": "Playback / Player\tListing of Episodes",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2025-11-28",
+      "updated": "2026-02-12",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2095",
+      "summary": "Subscribed user journey - easy discoverability of subscribed content (suggested My OTT tab with clickable logos)",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "2026-06-29",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-462",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2094",
+      "summary": "Splash screen integration for select partners",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "2026-06-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-596",
       "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
       "status": "In Progress",
@@ -19346,20 +19514,6 @@
       "created": "2026-01-30",
       "updated": "2026-02-12",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -19556,20 +19710,6 @@
       "created": "2026-01-30",
       "updated": "2026-02-11",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-02-11",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -19981,20 +20121,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-462",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-09",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-716",
       "summary": "ANDROID - Home screen banner \u2013 2:3",
       "status": "Ready For Test",
@@ -20387,20 +20513,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-818",
-      "summary": "Playback / Player\tListing of Episodes",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2025-11-28",
-      "updated": "2026-02-03",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1262",
       "summary": "Bottom Shadow Color on carousel images",
       "status": "Closed",
@@ -20550,20 +20662,6 @@
       "created": "2025-11-27",
       "updated": "2026-02-02",
       "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-817",
-      "summary": "Watchlist(s)",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-28",
-      "updated": "2026-02-02",
-      "duedate": "2026-01-30",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -22683,20 +22781,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-712",
-      "summary": "App Size Optimization",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2025-11-27",
-      "updated": "2025-12-12",
-      "duedate": "2026-01-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-713",
       "summary": "Co Branding of App interface post ISP user logs in",
       "status": "Parked",
@@ -22720,20 +22804,6 @@
       "created": "2025-11-18",
       "updated": "2025-12-11",
       "duedate": "2025-12-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1064",
-      "summary": "Geo Blocking - Phase 2 (as per BRD)",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2025-12-11",
-      "duedate": "2025-12-05",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -23238,20 +23308,6 @@
       "created": "2025-11-04",
       "updated": "2025-12-10",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-466",
-      "summary": "Free view to logged in users - with regard  or episode no",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2025-12-10",
-      "duedate": "2025-11-25",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25607,8 +25663,8 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "Dev Complete": 12,
         "In Progress": 10,
+        "Dev Complete": 12,
         "Reopened": 2,
         "Ready For Test": 15,
         "Closed": 7,
@@ -25622,21 +25678,14 @@
       "stories": 0,
       "total": 6,
       "statuses": {
-        "Open": 3,
         "Issue Accepted": 2,
+        "Open": 3,
         "Dev Complete": 1
       }
     }
   },
   "releases": {},
   "assignee_workload": {
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
     "vzyfeedback": {
       "bugs": 1125,
       "tasks": 277,
@@ -25646,10 +25695,52 @@
     },
     "Unassigned": {
       "bugs": 33,
-      "tasks": 12,
+      "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 49
+      "total": 53
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 5,
+      "tasks": 5,
+      "subtasks": 4,
+      "stories": 0,
+      "total": 14
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 10,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
+    "Yashika Krishnani": {
+      "bugs": 1,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -25671,27 +25762,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 10,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
-    },
-    "Dinjit Dinesh": {
-      "bugs": 18,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
     },
     "kamaldeeps": {
       "bugs": 2,
@@ -25762,20 +25832,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 12
-    },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 4,
-      "stories": 0,
-      "total": 14
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -25890,6 +25946,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T06:47:41Z",
-  "total_issues": 1844
+  "updated_at": "2026-02-12T07:18:22Z",
+  "total_issues": 1848
 }
