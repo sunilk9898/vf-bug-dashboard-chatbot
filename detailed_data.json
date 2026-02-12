@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2022",
+      "summary": "Mobile: Search shows \u201cOops, we couldn\u2019t find anything. Try different keywords\u201d message briefly before displaying valid results",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2056",
+      "summary": "iOS - Sign.In",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-09",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2080",
       "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
       "status": "Issue Accepted",
@@ -651,20 +679,6 @@
       "priority": "Low",
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2022",
-      "summary": "Mobile: Search shows \u201cOops, we couldn\u2019t find anything. Try different keywords\u201d message briefly before displaying valid results",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "kamaldeeps",
-      "platform": "Mobile",
       "created": "2026-02-06",
       "updated": "2026-02-10",
       "duedate": "",
@@ -1341,20 +1355,6 @@
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2056",
-      "summary": "iOS - Sign.In",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-02-09",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -25882,6 +25882,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1129,
+      "tasks": 277,
+      "subtasks": 6,
+      "stories": 0,
+      "total": 1416
+    },
     "Shubham Chauhan": {
       "bugs": 9,
       "tasks": 5,
@@ -25909,13 +25916,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "vzyfeedback": {
-      "bugs": 1127,
-      "tasks": 277,
-      "subtasks": 6,
-      "stories": 0,
-      "total": 1414
     },
     "Dinjit Dinesh": {
       "bugs": 13,
@@ -25974,11 +25974,11 @@
       "total": 34
     },
     "kamaldeeps": {
-      "bugs": 2,
+      "bugs": 1,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
-      "total": 6
+      "total": 5
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -26037,11 +26037,11 @@
       "total": 8
     },
     "Abhishek Dhok": {
-      "bugs": 7,
+      "bugs": 6,
       "tasks": 3,
       "subtasks": 2,
       "stories": 0,
-      "total": 12
+      "total": 11
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -26143,12 +26143,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 306,
     "Medium": 723,
     "Low": 19,
-    "High": 306,
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T13:45:04Z",
+  "updated_at": "2026-02-12T15:07:49Z",
   "total_issues": 1862
 }
