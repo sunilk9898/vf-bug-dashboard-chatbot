@@ -133,11 +133,11 @@ def build_dashboard_data(issues):
             total_bugs += 1
             bug_status_breakdown[status_name] = bug_status_breakdown.get(status_name, 0) + 1
 
-            if platform and status_upper in STATUSES:
-                # Dynamically add platform if not in hardcoded list
-                if platform not in matrix:
-                    matrix[platform] = {s: 0 for s in STATUSES}
-                matrix[platform][status_upper] += 1
+            if status_upper in STATUSES:
+                actual_platform = platform if platform else 'Unknown'
+                if actual_platform not in matrix:
+                    matrix[actual_platform] = {s: 0 for s in STATUSES}
+                matrix[actual_platform][status_upper] += 1
                 matched_counted += 1
             elif platform and status_upper not in STATUSES:
                 unmatched_status += 1
