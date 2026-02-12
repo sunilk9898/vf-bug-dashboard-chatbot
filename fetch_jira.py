@@ -163,6 +163,7 @@ def build_detailed_data(issues):
         'subtasks': [],
         'stories': [],
         'sprints': {},
+        'releases': {},
         'assignee_workload': {},
         'priority_breakdown': {},
     }
@@ -178,6 +179,8 @@ def build_detailed_data(issues):
         created = fields.get('created', '')
         updated = fields.get('updated', '')
         duedate = fields.get('duedate', '')
+        fix_versions = fields.get('fixVersions', []) or []
+        fix_version_names = [v.get('name', '') for v in fix_versions if v.get('name')]
         platform = detect_platform(issue)
 
         # Extract sprint info
@@ -203,6 +206,7 @@ def build_detailed_data(issues):
             'duedate': duedate[:10] if duedate else '',
             'sprint': sprint_name or 'No Sprint',
             'type': issue_type,
+            'fixversion': ', '.join(fix_version_names) if fix_version_names else '',
         }
 
         type_upper = issue_type.upper()
@@ -249,6 +253,37 @@ def build_detailed_data(issues):
             detailed['sprints'][sprint_name]['total'] += 1
             detailed['sprints'][sprint_name]['statuses'][status_name] = \
                 detailed['sprints'][sprint_name]['statuses'].get(status_name, 0) + 1
+
+        # Release / fixVersion tracking
+        for fv in fix_versions:
+            vname = fv.get('name', '')
+            if not vname:
+                continue
+            if vname not in detailed['releases']:
+                detailed['releases'][vname] = {
+                    'released': fv.get('released', False),
+                    'releaseDate': fv.get('releaseDate', ''),
+                    'description': fv.get('description', ''),
+                    'bugs': 0, 'tasks': 0, 'subtasks': 0, 'stories': 0, 'total': 0,
+                    'statuses': {},
+                    'issues': []
+                }
+            rel = detailed['releases'][vname]
+            if type_upper == 'BUG':
+                rel['bugs'] += 1
+            elif type_upper == 'TASK':
+                rel['tasks'] += 1
+            elif type_upper == 'SUB-TASK':
+                rel['subtasks'] += 1
+            elif type_upper == 'STORY':
+                rel['stories'] += 1
+            rel['total'] += 1
+            rel['statuses'][status_name] = rel['statuses'].get(status_name, 0) + 1
+            rel['issues'].append({
+                'key': key, 'summary': summary, 'status': status_name,
+                'type': issue_type, 'priority': priority, 'assignee': assignee,
+                'platform': platform or 'Unknown'
+            })
 
     return detailed
 

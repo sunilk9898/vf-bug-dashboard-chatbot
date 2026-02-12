@@ -326,6 +326,39 @@
         .eta-blank { color: #475569; font-style: italic; }
         .task-count-badge { font-size: 11px; color: #94a3b8; margin-top: 4px; }
 
+        /* ========== RELEASE DASHBOARD ========== */
+        .release-card {
+            background: #1e293b; border: 1px solid #334155; border-radius: 12px;
+            padding: 20px; margin-bottom: 16px;
+        }
+        .release-card-header {
+            display: flex; justify-content: space-between; align-items: flex-start;
+            flex-wrap: wrap; gap: 8px; margin-bottom: 10px;
+        }
+        .release-card-title { display: flex; align-items: center; gap: 12px; }
+        .release-card-title h3 { margin: 0; color: #f1f5f9; font-size: 16px; }
+        .release-card-meta { display: flex; align-items: center; gap: 16px; font-size: 13px; color: #94a3b8; }
+        .release-date { font-style: italic; }
+        .release-total { font-weight: 600; }
+        .release-badge {
+            display: inline-block; padding: 3px 10px; border-radius: 12px;
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+        }
+        .release-badge.released { background: #064e3b; color: #34d399; }
+        .release-badge.unreleased { background: #7c2d12; color: #fb923c; }
+        .release-desc { color: #94a3b8; font-size: 12px; margin-bottom: 10px; font-style: italic; }
+        .release-breakdown { font-size: 13px; margin-bottom: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
+        .release-statuses { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+        .release-issues-toggle {
+            cursor: pointer; color: #60a5fa; font-size: 13px; padding: 6px 0;
+            user-select: none; display: flex; align-items: center; gap: 6px;
+        }
+        .release-issues-toggle:hover { text-decoration: underline; }
+        .toggle-icon { font-size: 10px; transition: transform 0.2s; display: inline-block; }
+        .toggle-icon.open { transform: rotate(90deg); }
+        .release-issues-table { display: none; margin-top: 8px; }
+        .release-issues-table.show { display: block; }
+
         /* ========== LOADING ========== */
         .loading-overlay {
             position: fixed; inset: 0; background: rgba(15,23,42,0.9);
@@ -388,14 +421,17 @@
         <button class="nav-tab active" data-tab="dashboard">
             <span class="tab-icon">&#x1f4ca;</span> Bug Dashboard
         </button>
-        <button class="nav-tab" data-tab="chatbot">
-            <span class="tab-icon">&#x1f4ac;</span> Chatbot
+        <button class="nav-tab" data-tab="tasks">
+            <span class="tab-icon">&#x2611;</span> Task Dashboard
         </button>
         <button class="nav-tab" data-tab="insights">
             <span class="tab-icon">&#x1f4a1;</span> Quality Analytics
         </button>
-        <button class="nav-tab" data-tab="tasks">
-            <span class="tab-icon">&#x2611;</span> Task Dashboard
+        <button class="nav-tab" data-tab="chatbot">
+            <span class="tab-icon">&#x1f4ac;</span> Chatbot
+        </button>
+        <button class="nav-tab" data-tab="releases">
+            <span class="tab-icon">&#x1f680;</span> Release Dashboard
         </button>
     </div>
 
@@ -460,6 +496,38 @@
             </div>
         </div>
 
+        <!-- ========== TASK DASHBOARD TAB ========== -->
+        <div class="tab-panel" id="tab-tasks">
+            <div class="task-dashboard-container">
+                <div class="task-summary-cards" id="taskSummaryCards"></div>
+                <div class="task-filters" id="taskFilters">
+                    <select id="taskStatusFilter" onchange="renderTaskDashboard()">
+                        <option value="all">All Statuses</option>
+                    </select>
+                    <select id="taskPlatformFilter" onchange="renderTaskDashboard()">
+                        <option value="all">All Platforms</option>
+                    </select>
+                    <select id="taskAssigneeFilter" onchange="renderTaskDashboard()">
+                        <option value="all">All Assignees</option>
+                    </select>
+                    <select id="taskSprintFilter" onchange="renderTaskDashboard()">
+                        <option value="all">All Sprints</option>
+                    </select>
+                </div>
+                <div class="task-table-wrapper" id="taskTableArea">
+                    <p style="color:#94a3b8;text-align:center;padding:40px;">Loading task data...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- ========== INSIGHTS TAB ========== -->
+        <div class="tab-panel" id="tab-insights">
+            <div class="insights-container">
+                <div id="alertArea"></div>
+                <div class="insights-grid" id="insightsGrid"></div>
+            </div>
+        </div>
+
         <!-- ========== CHATBOT TAB ========== -->
         <div class="tab-panel" id="tab-chatbot">
             <div class="chatbot-layout">
@@ -496,34 +564,24 @@
             </div>
         </div>
 
-        <!-- ========== INSIGHTS TAB ========== -->
-        <div class="tab-panel" id="tab-insights">
-            <div class="insights-container">
-                <div id="alertArea"></div>
-                <div class="insights-grid" id="insightsGrid"></div>
-            </div>
-        </div>
-
-        <!-- ========== TASK DASHBOARD TAB ========== -->
-        <div class="tab-panel" id="tab-tasks">
+        <!-- ========== RELEASE DASHBOARD TAB ========== -->
+        <div class="tab-panel" id="tab-releases">
             <div class="task-dashboard-container">
-                <div class="task-summary-cards" id="taskSummaryCards"></div>
-                <div class="task-filters" id="taskFilters">
-                    <select id="taskStatusFilter" onchange="renderTaskDashboard()">
-                        <option value="all">All Statuses</option>
+                <div class="task-summary-cards" id="releaseSummaryCards"></div>
+                <div class="task-filters" id="releaseFilters">
+                    <select id="releaseStatusFilter" onchange="renderReleaseDashboard()">
+                        <option value="all">All Releases</option>
+                        <option value="unreleased">Unreleased Only</option>
+                        <option value="released">Released Only</option>
                     </select>
-                    <select id="taskPlatformFilter" onchange="renderTaskDashboard()">
-                        <option value="all">All Platforms</option>
-                    </select>
-                    <select id="taskAssigneeFilter" onchange="renderTaskDashboard()">
-                        <option value="all">All Assignees</option>
-                    </select>
-                    <select id="taskSprintFilter" onchange="renderTaskDashboard()">
-                        <option value="all">All Sprints</option>
+                    <select id="releaseSortFilter" onchange="renderReleaseDashboard()">
+                        <option value="name">Sort by Name</option>
+                        <option value="date">Sort by Release Date</option>
+                        <option value="issues">Sort by Issue Count</option>
                     </select>
                 </div>
-                <div class="task-table-wrapper" id="taskTableArea">
-                    <p style="color:#94a3b8;text-align:center;padding:40px;">Loading task data...</p>
+                <div id="releaseContent">
+                    <p style="color:#94a3b8;text-align:center;padding:40px;">Loading release data...</p>
                 </div>
             </div>
         </div>
@@ -596,6 +654,9 @@
                 }
                 if (tab.dataset.tab === 'tasks') {
                     renderTaskDashboard();
+                }
+                if (tab.dataset.tab === 'releases') {
+                    renderReleaseDashboard();
                 }
             });
         });
@@ -1140,6 +1201,137 @@
         }
 
         // ============================================
+        // RELEASE DASHBOARD
+        // ============================================
+        function renderReleaseDashboard() {
+            if (!allIssues || !allIssues.releases) {
+                document.getElementById('releaseContent').innerHTML =
+                    '<p style="color:#94a3b8;text-align:center;padding:40px;">Release data is loading. Please wait...</p>';
+                return;
+            }
+
+            const releases = allIssues.releases || {};
+            const releaseNames = Object.keys(releases);
+
+            if (releaseNames.length === 0) {
+                document.getElementById('releaseContent').innerHTML =
+                    '<p style="color:#94a3b8;text-align:center;padding:40px;">No release/version data found. Ensure Jira issues have fixVersions set.</p>';
+                document.getElementById('releaseSummaryCards').innerHTML = '';
+                return;
+            }
+
+            // Filter
+            const statusFilter = document.getElementById('releaseStatusFilter').value;
+            const sortFilter = document.getElementById('releaseSortFilter').value;
+
+            let filtered = releaseNames.map(name => ({ name, ...releases[name] }));
+
+            if (statusFilter === 'unreleased') {
+                filtered = filtered.filter(r => !r.released);
+            } else if (statusFilter === 'released') {
+                filtered = filtered.filter(r => r.released);
+            }
+
+            // Sort
+            if (sortFilter === 'date') {
+                filtered.sort((a, b) => (b.releaseDate || '').localeCompare(a.releaseDate || ''));
+            } else if (sortFilter === 'issues') {
+                filtered.sort((a, b) => b.total - a.total);
+            } else {
+                filtered.sort((a, b) => a.name.localeCompare(b.name));
+            }
+
+            // Summary cards
+            const totalReleases = releaseNames.length;
+            const unreleasedCount = releaseNames.filter(n => !releases[n].released).length;
+            const releasedCount = releaseNames.filter(n => releases[n].released).length;
+            const totalIssuesInReleases = releaseNames.reduce((s, n) => s + releases[n].total, 0);
+            const totalBugsInReleases = releaseNames.reduce((s, n) => s + releases[n].bugs, 0);
+
+            document.getElementById('releaseSummaryCards').innerHTML = [
+                { label: 'Total Versions', value: totalReleases, cls: 'total' },
+                { label: 'Unreleased', value: unreleasedCount, cls: 'open' },
+                { label: 'Released', value: releasedCount, cls: 'parked' },
+                { label: 'Total Issues', value: totalIssuesInReleases, cls: 'progress' },
+                { label: 'Total Bugs', value: totalBugsInReleases, cls: 'review' },
+            ].map(c => `<div class="card ${c.cls}"><div class="number">${c.value}</div><div class="label">${c.label}</div></div>`).join('');
+
+            // Build release cards
+            let html = '';
+            filtered.forEach((rel, idx) => {
+                const statusBadge = rel.released
+                    ? '<span class="release-badge released">Released</span>'
+                    : '<span class="release-badge unreleased">Unreleased</span>';
+                const dateStr = rel.releaseDate ? rel.releaseDate : 'No date set';
+                const descStr = rel.description ? `<div class="release-desc">${escapeHtml(rel.description)}</div>` : '';
+
+                // Status distribution
+                const statuses = rel.statuses || {};
+                let statusHtml = Object.entries(statuses)
+                    .sort((a, b) => b[1] - a[1])
+                    .map(([st, cnt]) => `<span class="task-status-badge ${getTaskStatusClass(st)}">${st}: ${cnt}</span>`)
+                    .join(' ');
+
+                // Issue type breakdown
+                const breakdownParts = [];
+                if (rel.bugs > 0) breakdownParts.push(`<span style="color:#ef4444">Bugs: ${rel.bugs}</span>`);
+                if (rel.tasks > 0) breakdownParts.push(`<span style="color:#3b82f6">Tasks: ${rel.tasks}</span>`);
+                if (rel.subtasks > 0) breakdownParts.push(`<span style="color:#8b5cf6">Sub-tasks: ${rel.subtasks}</span>`);
+                if (rel.stories > 0) breakdownParts.push(`<span style="color:#10b981">Stories: ${rel.stories}</span>`);
+
+                // Issues table (collapsible)
+                const issues = rel.issues || [];
+                let tableHtml = '';
+                if (issues.length > 0) {
+                    tableHtml = `<div class="release-issues-toggle" onclick="this.nextElementSibling.classList.toggle('show');this.querySelector('.toggle-icon').classList.toggle('open')">
+                        <span class="toggle-icon">&#x25B6;</span> Show ${issues.length} issue${issues.length !== 1 ? 's' : ''}
+                    </div>
+                    <div class="release-issues-table">
+                        <table class="task-table"><thead><tr>
+                            <th>Ticket</th><th>Summary</th><th>Type</th><th>Status</th><th>Priority</th><th>Assignee</th><th>Platform</th>
+                        </tr></thead><tbody>`;
+
+                    issues.forEach(iss => {
+                        const pColor = iss.priority === 'Highest' ? '#ef4444' : iss.priority === 'High' ? '#f97316' : iss.priority === 'Medium' ? '#fbbf24' : '#94a3b8';
+                        tableHtml += `<tr>
+                            <td><a class="key-link" href="https://hbeindia.atlassian.net/browse/${iss.key}" target="_blank">${iss.key}</a></td>
+                            <td class="summary-cell">${escapeHtml((iss.summary || '').substring(0, 80))}</td>
+                            <td style="font-size:11px">${iss.type}</td>
+                            <td><span class="task-status-badge ${getTaskStatusClass(iss.status)}">${iss.status}</span></td>
+                            <td style="color:${pColor}">${iss.priority || '-'}</td>
+                            <td style="font-size:12px">${escapeHtml((iss.assignee || 'Unassigned').split(' ').slice(0, 2).join(' '))}</td>
+                            <td style="font-size:12px">${iss.platform || '-'}</td>
+                        </tr>`;
+                    });
+                    tableHtml += `</tbody></table></div>`;
+                }
+
+                html += `<div class="release-card">
+                    <div class="release-card-header">
+                        <div class="release-card-title">
+                            <h3>${escapeHtml(rel.name)}</h3>
+                            ${statusBadge}
+                        </div>
+                        <div class="release-card-meta">
+                            <span class="release-date">${dateStr}</span>
+                            <span class="release-total">Total: <b>${rel.total}</b></span>
+                        </div>
+                    </div>
+                    ${descStr}
+                    <div class="release-breakdown">${breakdownParts.join(' &bull; ')}</div>
+                    <div class="release-statuses">${statusHtml}</div>
+                    ${tableHtml}
+                </div>`;
+            });
+
+            if (filtered.length === 0) {
+                html = '<p style="color:#94a3b8;text-align:center;padding:40px;">No releases match the current filter.</p>';
+            }
+
+            document.getElementById('releaseContent').innerHTML = html;
+        }
+
+        // ============================================
         // CHATBOT
         // ============================================
         function initChatbot() {
@@ -1318,7 +1510,7 @@
             display.forEach(item => {
                 const pColor = item.priority === 'Highest' ? '#ef4444' : item.priority === 'High' ? '#f97316' : item.priority === 'Medium' ? '#fbbf24' : '#94a3b8';
                 html += `<tr>
-                    <td style="white-space:nowrap;font-size:11px"><b>${escapeHtml(item.key)}</b></td>
+                    <td style="white-space:nowrap;font-size:11px"><a class="key-link" href="https://hbeindia.atlassian.net/browse/${item.key}" target="_blank">${item.key}</a></td>
                     <td style="font-size:11px;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escapeHtml((item.summary || '').substring(0, 60))}</td>
                     <td style="font-size:11px;text-align:center">${item.platform || 'N/A'}</td>
                     <td style="font-size:11px;text-align:center">${(item.assignee || 'Unassigned').split(' ')[0]}</td>
