@@ -1,13 +1,55 @@
 {
   "bugs": [
     {
-      "key": "VF-2063",
-      "summary": "New On VZY Rail not showing correct data",
-      "status": "Issue Accepted",
+      "key": "VF-2088",
+      "summary": "Issue in Account deletion",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2072",
+      "summary": "Content recommendation under similar to this is not correct",
+      "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-10",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1902",
+      "summary": "Delete Account",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Moore Meghana",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2087",
+      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19,7 +61,133 @@
       "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
       "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "abhilash.ramesh",
+      "assignee": "Manikanta P",
+      "platform": "Unknown",
+      "created": "2026-02-10",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2079",
+      "summary": "(Tamanna) - Content Details Not Displaying Below Thumbnail.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2080",
+      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2081",
+      "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2082",
+      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2083",
+      "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2084",
+      "summary": "View All option not available ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2085",
+      "summary": "Latest content is not showing up in New Releases rail of Series page.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2086",
+      "summary": "Fancode content is appearing on New On VZY rail",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2063",
+      "summary": "New On VZY Rail not showing correct data",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
       "platform": "Unknown",
       "created": "2026-02-10",
       "updated": "2026-02-12",
@@ -49,20 +217,6 @@
       "priority": "Medium",
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2072",
-      "summary": "Content recommendation under similar to this is not correct",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "WEB",
       "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
@@ -1089,20 +1243,6 @@
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1902",
-      "summary": "Delete Account",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Moore Meghana",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19085,11 +19225,25 @@
   ],
   "tasks": [
     {
-      "key": "VF-2074",
-      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
-      "status": "Issue Accepted",
+      "key": "VF-1894",
+      "summary": "Notification sticky count",
+      "status": "Dev Complete",
       "priority": "Medium",
-      "assignee": "Namrata Kurariya",
+      "assignee": "kamaldeeps",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2077",
+      "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-11",
       "updated": "2026-02-12",
@@ -19101,12 +19255,54 @@
     {
       "key": "VF-2078",
       "summary": "Enable Help & Feedback Link in Staging Environment",
-      "status": "Open",
+      "status": "In Progress",
       "priority": "Medium",
       "assignee": "BalaKumar",
       "platform": "ANDROID",
       "created": "2026-02-11",
-      "updated": "2026-02-11",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1871",
+      "summary": "Search Engine Enhancements with AI Companion",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "ATV",
+      "created": "2026-01-28",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Harsh Pratap Singh",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2074",
+      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
@@ -19123,34 +19319,6 @@
       "updated": "2026-02-11",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2083",
-      "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1871",
-      "summary": "Search Engine Enhancements with AI Companion",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "ATV",
-      "created": "2026-01-28",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -19176,62 +19344,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-13",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2082",
-      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2081",
-      "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2080",
-      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2079",
-      "summary": "(Tamanna) - Content Details Not Displaying Below Thumbnail.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-11",
       "updated": "2026-02-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19309,34 +19421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Harsh Pratap Singh",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2077",
-      "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1901",
       "summary": "Kaltura Issue",
       "status": "Ready For Test",
@@ -19372,20 +19456,6 @@
       "assignee": "kamaldeeps",
       "platform": "ANDROID",
       "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1894",
-      "summary": "Notification sticky count",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
       "updated": "2026-02-11",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -25121,6 +25191,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1969",
+      "summary": "Web - Branch.io Intregation (Standered)",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-04",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1955",
       "summary": "Android - Need to add new parameter in the Conviva events",
       "status": "Ready For Test",
@@ -25211,20 +25295,6 @@
       "priority": "Medium",
       "assignee": "devaraj",
       "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1969",
-      "summary": "Web - Branch.io Intregation (Standered)",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
       "created": "2026-02-04",
       "updated": "2026-02-10",
       "duedate": "",
@@ -25460,6 +25530,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 16,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 48,
+      "statuses": {
+        "Dev Complete": 11,
+        "Reopened": 2,
+        "In Progress": 10,
+        "Ready For Test": 15,
+        "Closed": 7,
+        "Testing On hold": 2,
+        "In Review": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 0,
       "tasks": 6,
@@ -25471,39 +25557,79 @@
         "Dev Complete": 1,
         "Open": 3
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 16,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 48,
-      "statuses": {
-        "Ready For Test": 16,
-        "In Progress": 12,
-        "Reopened": 1,
-        "Closed": 7,
-        "Dev Complete": 9,
-        "Testing On hold": 2,
-        "In Review": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
-    "abhilash.ramesh": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "BalaKumar": {
       "bugs": 13,
       "tasks": 10,
       "subtasks": 1,
       "stories": 0,
       "total": 24
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "kamaldeeps": {
+      "bugs": 2,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 6
+    },
+    "vzyfeedback": {
+      "bugs": 1125,
+      "tasks": 277,
+      "subtasks": 6,
+      "stories": 0,
+      "total": 1412
+    },
+    "Moore Meghana": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
+    "Harsh Pratap Singh": {
+      "bugs": 4,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 15
+    },
+    "Unassigned": {
+      "bugs": 33,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 44
+    },
+    "Vikas Mishra": {
+      "bugs": 40,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -25519,26 +25645,12 @@
       "stories": 0,
       "total": 6
     },
-    "vzyfeedback": {
-      "bugs": 1125,
-      "tasks": 277,
-      "subtasks": 6,
-      "stories": 0,
-      "total": 1412
-    },
     "Javed Ali": {
       "bugs": 19,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
       "total": 25
-    },
-    "Unassigned": {
-      "bugs": 28,
-      "tasks": 12,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 44
     },
     "Alok Gupta": {
       "bugs": 11,
@@ -25553,13 +25665,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 34
-    },
-    "Harsh Pratap Singh": {
-      "bugs": 4,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
     },
     "devaraj": {
       "bugs": 6,
@@ -25582,13 +25687,6 @@
       "stories": 0,
       "total": 3
     },
-    "kamaldeeps": {
-      "bugs": 2,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 6
-    },
     "Suyog Lanje": {
       "bugs": 1,
       "tasks": 7,
@@ -25602,13 +25700,6 @@
       "subtasks": 4,
       "stories": 0,
       "total": 14
-    },
-    "Dinjit Dinesh": {
-      "bugs": 13,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 31
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -25624,13 +25715,6 @@
       "stories": 0,
       "total": 1
     },
-    "Manikanta P": {
-      "bugs": 4,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 14
-    },
     "Sameeksha Vinodiya": {
       "bugs": 5,
       "tasks": 2,
@@ -25645,13 +25729,6 @@
       "stories": 0,
       "total": 22
     },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
-    },
     "shadab Hussain": {
       "bugs": 3,
       "tasks": 4,
@@ -25665,13 +25742,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 10
-    },
-    "Moore Meghana": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
     },
     "Shubham Chauhan": {
       "bugs": 6,
@@ -25745,12 +25815,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 713,
+    "Medium": 723,
     "Highest": 324,
     "High": 305,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T03:22:24Z",
-  "total_issues": 1834
+  "updated_at": "2026-02-12T05:42:52Z",
+  "total_issues": 1839
 }

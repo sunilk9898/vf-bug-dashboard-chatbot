@@ -1,7 +1,7 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 1,
@@ -9,7 +9,7 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 0,
+      "OPEN": 6,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -19,7 +19,7 @@
     "CMS Adaptor": {
       "OPEN": 0,
       "IN PROGRESS": 1,
-      "REOPENED": 2,
+      "REOPENED": 3,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
       "PARKED": 0
@@ -49,7 +49,7 @@
       "PARKED": 0
     },
     "Kaltura": {
-      "OPEN": 0,
+      "OPEN": 3,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -85,11 +85,11 @@
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 4,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-12T03:22:24Z",
-  "total_issues_fetched": 1834,
+  "updated_at": "2026-02-12T05:42:52Z",
+  "total_issues_fetched": 1839,
   "project": "VF"
 }
