@@ -19239,6 +19239,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1936",
+      "summary": "MX Player - CP Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "In Progress",
@@ -19725,20 +19739,6 @@
       "updated": "2026-02-12",
       "duedate": "2025-12-15",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1936",
-      "summary": "MX Player - CP Integration",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -25859,9 +25859,9 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "Dev Complete": 14,
+        "Ready For Test": 16,
+        "Dev Complete": 13,
         "In Progress": 9,
-        "Ready For Test": 15,
         "Reopened": 1,
         "Closed": 7,
         "Testing On hold": 2
@@ -25884,10 +25884,10 @@
   "assignee_workload": {
     "vzyfeedback": {
       "bugs": 1129,
-      "tasks": 277,
+      "tasks": 278,
       "subtasks": 6,
       "stories": 0,
-      "total": 1416
+      "total": 1417
     },
     "Shubham Chauhan": {
       "bugs": 9,
@@ -25912,10 +25912,10 @@
     },
     "Yashika Krishnani": {
       "bugs": 1,
-      "tasks": 3,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 4
+      "total": 3
     },
     "Dinjit Dinesh": {
       "bugs": 13,
@@ -26149,6 +26149,6 @@
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-12T15:07:49Z",
+  "updated_at": "2026-02-12T16:09:12Z",
   "total_issues": 1862
 }
