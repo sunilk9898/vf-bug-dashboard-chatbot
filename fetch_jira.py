@@ -18,7 +18,7 @@ JIRA_EMAIL = os.environ.get('JIRA_EMAIL', '')
 JIRA_API_TOKEN = os.environ.get('JIRA_API_TOKEN', '')
 PROJECT_KEY = os.environ.get('JIRA_PROJECT_KEY', 'VZY')
 
-PLATFORMS = ['ANDROID', 'ATV', 'CMS Adaptor', 'CMS Dashboard', 'DishIT', 'IOS', 'Kaltura', 'LG_TV', 'Mobile', 'SAM_TV', 'WEB']
+PLATFORMS = ['ANDROID', 'ATV', 'CMS', 'CMS Adaptor', 'CMS Dashboard', 'DishIT', 'IOS', 'Kaltura', 'LG_TV', 'Mobile', 'SAM_TV', 'WEB']
 STATUSES = ['OPEN', 'IN PROGRESS', 'REOPENED', 'IN REVIEW', 'ISSUE ACCEPTED', 'PARKED']
 
 def fetch_jira_data():
@@ -97,6 +97,7 @@ def detect_platform(issue):
         'ANDROID': ['ANDROID'],
         'IOS': ['IOS', 'APPLE', 'IPHONE', 'IPAD'],
         'WEB': ['WEB'],
+        'CMS': ['CMS'],
     }
 
     for platform, patterns in platform_patterns.items():

@@ -359,6 +359,57 @@
         .release-issues-table { display: none; margin-top: 8px; }
         .release-issues-table.show { display: block; }
 
+        /* ========== SETTINGS & REFRESH STATUS ========== */
+        .btn-settings {
+            background: none; border: none; color: #94a3b8;
+            cursor: pointer; font-size: 16px; padding: 4px 8px;
+            border-radius: 6px; transition: all 0.2s;
+        }
+        .btn-settings:hover { color: #e2e8f0; background: rgba(255,255,255,0.1); }
+        .settings-overlay {
+            display: none; position: fixed; top: 0; left: 0;
+            width: 100%; height: 100%; background: rgba(0,0,0,0.6);
+            z-index: 1000; align-items: center; justify-content: center;
+        }
+        .settings-overlay.active { display: flex; }
+        .settings-modal {
+            background: #1e293b; border: 1px solid #334155;
+            border-radius: 12px; padding: 24px; width: 480px; max-width: 90vw;
+        }
+        .settings-modal h3 { font-size: 16px; margin-bottom: 16px; color: #f8fafc; }
+        .settings-modal label { display: block; font-size: 12px; color: #94a3b8; margin-bottom: 6px; }
+        .settings-modal input[type="password"] {
+            width: 100%; padding: 8px 12px; background: #0f172a; border: 1px solid #334155;
+            border-radius: 8px; color: #e2e8f0; font-size: 13px; font-family: monospace;
+            box-sizing: border-box;
+        }
+        .settings-modal .help-text { font-size: 11px; color: #64748b; margin-top: 6px; line-height: 1.5; }
+        .settings-modal .btn-row { display: flex; gap: 10px; margin-top: 16px; justify-content: flex-end; }
+        .settings-modal .btn-save {
+            background: #1e40af; color: #fff; border: none; padding: 8px 18px;
+            border-radius: 8px; cursor: pointer; font-size: 13px;
+        }
+        .settings-modal .btn-save:hover { background: #2563eb; }
+        .settings-modal .btn-cancel {
+            background: #334155; color: #e2e8f0; border: none; padding: 8px 18px;
+            border-radius: 8px; cursor: pointer; font-size: 13px;
+        }
+        .settings-modal .btn-clear {
+            background: #7f1d1d; color: #fca5a5; border: none; padding: 8px 14px;
+            border-radius: 8px; cursor: pointer; font-size: 12px; margin-right: auto;
+        }
+        .settings-modal .pat-status { font-size: 12px; margin-bottom: 12px; padding: 8px 12px; border-radius: 6px; }
+        .settings-modal .pat-status.configured { background: #064e3b; color: #6ee7b7; }
+        .settings-modal .pat-status.not-configured { background: #7f1d1d; color: #fca5a5; }
+        .refresh-status {
+            font-size: 11px; color: #94a3b8; display: flex; align-items: center; gap: 6px;
+        }
+        .refresh-status .mini-spinner {
+            width: 12px; height: 12px; border: 2px solid #334155;
+            border-top-color: #60a5fa; border-radius: 50%;
+            animation: spin 0.8s linear infinite; display: inline-block;
+        }
+
         /* ========== LOADING ========== */
         .loading-overlay {
             position: fixed; inset: 0; background: rgba(15,23,42,0.9);
@@ -412,7 +463,31 @@
         <div class="header-meta">
             <span><span class="status-dot"></span> Live</span>
             <span id="lastUpdated">--</span>
-            <button class="btn-refresh" id="refreshBtn" onclick="loadData()">Refresh</button>
+            <span id="refreshStatus" class="refresh-status"></span>
+            <button class="btn-refresh" id="refreshBtn" onclick="handleRefresh()">Refresh</button>
+            <button class="btn-settings" id="settingsBtn" onclick="openSettings()" title="Configure GitHub PAT for live refresh">&#x2699;</button>
+        </div>
+    </div>
+
+    <!-- Settings Modal -->
+    <div class="settings-overlay" id="settingsOverlay" onclick="if(event.target===this)closeSettings()">
+        <div class="settings-modal">
+            <h3>&#x2699; Dashboard Settings</h3>
+            <div id="patStatus" class="pat-status not-configured">No GitHub PAT configured</div>
+            <label for="patInput">GitHub Personal Access Token</label>
+            <input type="password" id="patInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="off">
+            <div class="help-text">
+                Required to trigger live Jira data fetch via GitHub Actions.<br>
+                <b>Steps:</b> GitHub &rarr; Settings &rarr; Developer settings &rarr; Personal access tokens &rarr; Fine-grained tokens<br>
+                <b>Repository:</b> sunilk9898/vf-bug-dashboard-chatbot<br>
+                <b>Permission:</b> Actions (Read and Write)<br><br>
+                Token is stored only in your browser's localStorage and never sent anywhere except GitHub API.
+            </div>
+            <div class="btn-row">
+                <button class="btn-clear" onclick="clearPat()">Clear Token</button>
+                <button class="btn-cancel" onclick="closeSettings()">Cancel</button>
+                <button class="btn-save" onclick="savePat()">Save</button>
+            </div>
         </div>
     </div>
 
@@ -603,8 +678,174 @@
             JIRA_API_TOKEN: '',
             PROJECT_KEY: 'VZY',
             USE_LIVE_API: false,
-            AUTO_REFRESH_MS: 300000
+            AUTO_REFRESH_MS: 300000,
+            GITHUB_OWNER: 'sunilk9898',
+            GITHUB_REPO: 'vf-bug-dashboard-chatbot',
+            GITHUB_WORKFLOW_ID: 232803910,
+            WORKFLOW_POLL_INTERVAL_MS: 5000,
+            WORKFLOW_TIMEOUT_MS: 180000
         };
+
+        // ============================================
+        // GITHUB PAT MANAGEMENT
+        // ============================================
+        const PAT_STORAGE_KEY = 'vf_dashboard_github_pat';
+
+        function getStoredPat() {
+            return localStorage.getItem(PAT_STORAGE_KEY);
+        }
+
+        function openSettings() {
+            const overlay = document.getElementById('settingsOverlay');
+            const patInput = document.getElementById('patInput');
+            const patStatus = document.getElementById('patStatus');
+            const stored = getStoredPat();
+            patInput.value = '';
+            if (stored) {
+                patStatus.className = 'pat-status configured';
+                patStatus.textContent = 'PAT configured (ending ...' + stored.slice(-4) + ')';
+            } else {
+                patStatus.className = 'pat-status not-configured';
+                patStatus.textContent = 'No GitHub PAT configured';
+            }
+            overlay.classList.add('active');
+        }
+
+        function closeSettings() {
+            document.getElementById('settingsOverlay').classList.remove('active');
+        }
+
+        function savePat() {
+            const val = document.getElementById('patInput').value.trim();
+            if (!val) { alert('Please enter a GitHub PAT'); return; }
+            if (!val.startsWith('ghp_') && !val.startsWith('github_pat_')) {
+                alert('Token should start with "ghp_" or "github_pat_". Please check your token.');
+                return;
+            }
+            localStorage.setItem(PAT_STORAGE_KEY, val);
+            closeSettings();
+        }
+
+        function clearPat() {
+            if (confirm('Remove stored GitHub PAT?')) {
+                localStorage.removeItem(PAT_STORAGE_KEY);
+                closeSettings();
+            }
+        }
+
+        // ============================================
+        // GITHUB ACTIONS WORKFLOW TRIGGER
+        // ============================================
+        function setRefreshStatus(html) {
+            document.getElementById('refreshStatus').innerHTML = html;
+        }
+
+        function clearRefreshStatus() {
+            document.getElementById('refreshStatus').innerHTML = '';
+        }
+
+        async function triggerWorkflow(pat) {
+            const url = `https://api.github.com/repos/${CONFIG.GITHUB_OWNER}/${CONFIG.GITHUB_REPO}/actions/workflows/${CONFIG.GITHUB_WORKFLOW_ID}/dispatches`;
+            const response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Authorization': `Bearer ${pat}`,
+                    'Accept': 'application/vnd.github.v3+json',
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ ref: 'main' }),
+            });
+            if (!response.ok) {
+                const errText = await response.text();
+                throw new Error(`Workflow dispatch failed (${response.status}): ${errText}`);
+            }
+        }
+
+        async function findLatestRun(pat) {
+            await new Promise(r => setTimeout(r, 3000));
+            const url = `https://api.github.com/repos/${CONFIG.GITHUB_OWNER}/${CONFIG.GITHUB_REPO}/actions/workflows/${CONFIG.GITHUB_WORKFLOW_ID}/runs?per_page=1&branch=main`;
+            const response = await fetch(url, {
+                headers: {
+                    'Authorization': `Bearer ${pat}`,
+                    'Accept': 'application/vnd.github.v3+json',
+                },
+            });
+            if (!response.ok) throw new Error(`Failed to fetch runs (${response.status})`);
+            const data = await response.json();
+            if (!data.workflow_runs || data.workflow_runs.length === 0) throw new Error('No workflow runs found');
+            return data.workflow_runs[0];
+        }
+
+        async function pollWorkflowCompletion(pat, runId) {
+            const url = `https://api.github.com/repos/${CONFIG.GITHUB_OWNER}/${CONFIG.GITHUB_REPO}/actions/runs/${runId}`;
+            const startTime = Date.now();
+            while (Date.now() - startTime < CONFIG.WORKFLOW_TIMEOUT_MS) {
+                const response = await fetch(url, {
+                    headers: {
+                        'Authorization': `Bearer ${pat}`,
+                        'Accept': 'application/vnd.github.v3+json',
+                    },
+                });
+                if (!response.ok) throw new Error(`Failed to check run status (${response.status})`);
+                const run = await response.json();
+                if (run.status === 'completed') {
+                    if (run.conclusion === 'success') return true;
+                    throw new Error(`Workflow finished with conclusion: ${run.conclusion}`);
+                }
+                const elapsed = Math.round((Date.now() - startTime) / 1000);
+                setRefreshStatus(`<span class="mini-spinner"></span> Fetching from Jira (${elapsed}s)...`);
+                await new Promise(r => setTimeout(r, CONFIG.WORKFLOW_POLL_INTERVAL_MS));
+            }
+            throw new Error('Workflow timed out after ' + (CONFIG.WORKFLOW_TIMEOUT_MS / 1000) + 's');
+        }
+
+        async function handleRefresh() {
+            const pat = getStoredPat();
+            const btn = document.getElementById('refreshBtn');
+
+            if (!pat) {
+                const useCached = confirm(
+                    'No GitHub PAT configured.\n\n' +
+                    'Without a PAT, Refresh only reloads cached data (not fresh from Jira).\n\n' +
+                    'Click OK to reload cached data, or Cancel to configure your PAT in Settings (gear icon).'
+                );
+                if (useCached) { loadData(); } else { openSettings(); }
+                return;
+            }
+
+            btn.disabled = true;
+            btn.textContent = 'Fetching...';
+            try {
+                setRefreshStatus('<span class="mini-spinner"></span> Triggering Jira fetch...');
+                await triggerWorkflow(pat);
+
+                setRefreshStatus('<span class="mini-spinner"></span> Waiting for workflow...');
+                const run = await findLatestRun(pat);
+
+                await pollWorkflowCompletion(pat, run.id);
+
+                setRefreshStatus('<span class="mini-spinner"></span> Deploying fresh data...');
+                await new Promise(r => setTimeout(r, 10000));
+
+                setRefreshStatus('Reloading data...');
+                await loadData();
+
+                setRefreshStatus('<span style="color:#22c55e">&#x2713; Data refreshed from Jira!</span>');
+                setTimeout(clearRefreshStatus, 8000);
+            } catch (err) {
+                console.error('Workflow trigger error:', err);
+                setRefreshStatus(`<span style="color:#f87171">&#x2717; ${err.message}</span>`);
+                setTimeout(clearRefreshStatus, 15000);
+                if (err.message.includes('401') || err.message.includes('403')) {
+                    if (confirm('Authentication failed. Your PAT may be expired or invalid.\n\nOpen settings to update it?')) {
+                        openSettings();
+                    }
+                }
+            } finally {
+                btn.disabled = false;
+                btn.textContent = 'Refresh';
+            }
+        }
 
         const STATUSES = ['OPEN', 'IN PROGRESS', 'REOPENED', 'IN REVIEW', 'ISSUE ACCEPTED', 'PARKED'];
         const DEFAULT_PLATFORMS = ['ANDROID', 'ATV', 'CMS Adaptor', 'CMS Dashboard', 'DishIT', 'IOS', 'LG_TV', 'SAM_TV', 'WEB'];
