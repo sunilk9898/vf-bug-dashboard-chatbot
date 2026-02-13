@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-1973",
+      "summary": "Mobile: Finding Nemo: trailers are not playing for videos when the trailer option is selected.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2064",
+      "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "Unknown",
+      "created": "2026-02-10",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1889",
+      "summary": "Carousel Bottom shadow config from Vivre (Business Team)",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "Ready For Test",
@@ -484,20 +526,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "WEB",
       "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2064",
-      "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "Unknown",
-      "created": "2026-02-10",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1016,34 +1044,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1973",
-      "summary": "Mobile: Finding Nemo: trailers are not playing for videos when the trailer option is selected.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1889",
-      "summary": "Carousel Bottom shadow config from Vivre (Business Team)",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19267,6 +19267,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2108",
       "summary": "Provision to add Custom template for Content Page",
       "status": "Parked",
@@ -19455,20 +19469,6 @@
       "priority": "Highest",
       "assignee": "Amudha Kaliamoorthi",
       "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ATV",
       "created": "2026-01-30",
       "updated": "2026-02-13",
       "duedate": "",
@@ -25978,6 +25978,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "In Review": 15,
+        "Testing On hold": 5,
+        "Closed": 10,
+        "Ready For Test": 15,
+        "Reopened": 2,
+        "In Progress": 2
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 1,
       "tasks": 13,
@@ -25993,31 +26008,30 @@
         "Issue Accepted": 3,
         "Closed": 1
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Testing On hold": 5,
-        "Closed": 10,
-        "Ready For Test": 15,
-        "Reopened": 2,
-        "In Review": 15,
-        "In Progress": 2
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 1,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "vzyfeedback": {
-      "bugs": 1138,
+      "bugs": 1140,
       "tasks": 283,
       "subtasks": 7,
       "stories": 0,
-      "total": 1432
+      "total": 1434
+    },
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 15
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -26027,18 +26041,18 @@
       "total": 3
     },
     "Javed Ali": {
-      "bugs": 19,
+      "bugs": 18,
       "tasks": 4,
       "subtasks": 3,
       "stories": 0,
-      "total": 26
+      "total": 25
     },
     "Alok Gupta": {
-      "bugs": 10,
+      "bugs": 9,
       "tasks": 4,
       "subtasks": 1,
       "stories": 0,
-      "total": 15
+      "total": 14
     },
     "abhilash.ramesh": {
       "bugs": 10,
@@ -26081,13 +26095,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "devaraj": {
       "bugs": 6,
@@ -26137,13 +26144,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "Manikanta P": {
-      "bugs": 5,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 15
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -26266,12 +26266,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 324,
-    "Medium": 725,
     "High": 306,
+    "Medium": 725,
+    "Highest": 324,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T11:02:25Z",
+  "updated_at": "2026-02-13T11:46:56Z",
   "total_issues": 1871
 }
