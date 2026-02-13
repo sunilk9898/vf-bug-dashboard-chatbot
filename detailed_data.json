@@ -19281,6 +19281,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "In Review",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-462",
       "summary": "Fliqs TVOD / SVOD",
       "status": "Testing On hold",
@@ -19528,20 +19542,6 @@
       "created": "2026-01-30",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "In Review",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -25999,11 +25999,11 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "In Review": 9,
         "Testing On hold": 8,
         "Ready For Test": 19,
         "Closed": 10,
         "Reopened": 2,
-        "In Review": 9,
         "In Progress": 1
       }
     },
@@ -26286,6 +26286,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T16:00:31Z",
+  "updated_at": "2026-02-13T17:02:15Z",
   "total_issues": 1872
 }
