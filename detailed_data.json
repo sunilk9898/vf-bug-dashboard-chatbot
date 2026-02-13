@@ -1,9 +1,135 @@
 {
   "bugs": [
     {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Rajkumar A",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1913",
+      "summary": "Content Download Speed",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1916",
+      "summary": "Trailer in PIP mode",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2038",
+      "summary": "Delete account - Android",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1908",
+      "summary": "Content Viewing Sun Nxt - SAM / LG ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-01-30",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1902",
+      "summary": "Delete Account",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2120",
+      "summary": "Genre reflecting twice on FE",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2119",
+      "summary": "Incorrect meta data",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Kaltura",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2020",
+      "summary": "MI TV: Episode list glitches when scrolling up",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2083",
       "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
-      "status": "Ready For Test",
+      "status": "Testing On hold",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
@@ -137,20 +263,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1902",
-      "summary": "Delete Account",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -291,20 +403,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1916",
-      "summary": "Trailer in PIP mode",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -589,20 +687,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1908",
-      "summary": "Content Viewing Sun Nxt - SAM / LG ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-01-30",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1907",
       "summary": "Subscription related",
       "status": "Closed",
@@ -610,34 +694,6 @@
       "assignee": "Abhishek Dhok",
       "platform": "IOS",
       "created": "2026-01-30",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1913",
-      "summary": "Content Download Speed",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2038",
-      "summary": "Delete account - Android",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-06",
       "updated": "2026-02-11",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -697,20 +753,6 @@
       "updated": "2026-02-10",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2020",
-      "summary": "MI TV: Episode list glitches when scrolling up",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1075,20 +1117,6 @@
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Rajkumar A",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19239,6 +19267,216 @@
   ],
   "tasks": [
     {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "In Review",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "In Review",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-462",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "In Review",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "In Review",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1894",
+      "summary": "Notification sticky count",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-593",
+      "summary": "UXCam integration instead of Clarity",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "WEB",
+      "created": "2025-11-18",
+      "updated": "2026-02-13",
+      "duedate": "2026-01-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2097",
+      "summary": "MS Clarity/UxCAM",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-684",
+      "summary": "Amazon payment gateway integration",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "Unknown",
+      "created": "2025-11-27",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-10",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-821",
+      "summary": "Smart CTAs\tVaries by subscription: Play / Rent / Subscribe / Watch Live / Resume with Progress bar",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2025-11-28",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-08",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-835",
+      "summary": "CLONE - Fliqs Channel Pages ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2025-12-01",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-941",
+      "summary": "(Shruti) Analytics: Active base Report - Daily Basis",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-939",
+      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1921",
+      "summary": "Gamezop Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1934",
+      "summary": "Manorama Max - CP Integration",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1901",
       "summary": "Kaltura Issue",
       "status": "Ready For Test",
@@ -19288,20 +19526,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-04",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1921",
-      "summary": "Gamezop Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-03",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -19505,20 +19729,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1894",
-      "summary": "Notification sticky count",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2115",
       "summary": "SonyLiv",
       "status": "Closed",
@@ -19617,20 +19827,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1934",
-      "summary": "Manorama Max - CP Integration",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1064",
       "summary": "Geo Blocking - Phase 2 (as per BRD)",
       "status": "Onhold-For Tech Dependency",
@@ -19641,20 +19837,6 @@
       "updated": "2026-02-13",
       "duedate": "2025-12-05",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2097",
-      "summary": "MS Clarity/UxCAM",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19752,34 +19934,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-462",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -19967,34 +20121,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-542",
       "summary": "User Management Console (Admin View)",
       "status": "Ready For Test",
@@ -20047,34 +20173,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-939",
-      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-12",
-      "duedate": "2025-12-12",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-941",
-      "summary": "(Shruti) Analytics: Active base Report - Daily Basis",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-12",
-      "duedate": "2025-12-12",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -20299,20 +20397,6 @@
       "updated": "2026-02-12",
       "duedate": "2026-01-30",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20737,20 +20821,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-821",
-      "summary": "Smart CTAs\tVaries by subscription: Play / Rent / Subscribe / Watch Live / Resume with Progress bar",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2025-11-28",
-      "updated": "2026-02-07",
-      "duedate": "2025-12-08",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-643",
       "summary": "Setup baseline and approval",
       "status": "Reopened",
@@ -21143,20 +21213,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-684",
-      "summary": "Amazon payment gateway integration",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "Unknown",
-      "created": "2025-11-27",
-      "updated": "2026-02-02",
-      "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1766",
       "summary": "Profile Management",
       "status": "Issue Accepted",
@@ -21306,20 +21362,6 @@
       "created": "2025-12-04",
       "updated": "2026-01-29",
       "duedate": "2025-11-14",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-593",
-      "summary": "UXCam integration instead of Clarity",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "WEB",
-      "created": "2025-11-18",
-      "updated": "2026-01-29",
-      "duedate": "2026-01-30",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -22860,20 +22902,6 @@
       "created": "2025-11-27",
       "updated": "2025-12-19",
       "duedate": "2025-11-27",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-835",
-      "summary": "CLONE - Fliqs Channel Pages ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2025-12-01",
-      "updated": "2025-12-18",
-      "duedate": "2025-12-05",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25611,11 +25639,67 @@
   ],
   "subtasks": [
     {
-      "key": "VF-1964",
-      "summary": "iOS - Claver Tap - Notification Inbox",
-      "status": "Ready For Test",
+      "key": "VF-1958",
+      "summary": "SmartTV - Need to add new parameter in the Conviva events",
+      "status": "In Review",
       "priority": "Medium",
-      "assignee": "vzyfeedback",
+      "assignee": "devaraj",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1951",
+      "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1952",
+      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1969",
+      "summary": "Web - Branch.io Intregation (Standered)",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1968",
+      "summary": "iOS - Branch.io Intregation (Standered)",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Abhishek Dhok",
       "platform": "IOS",
       "created": "2026-02-04",
       "updated": "2026-02-13",
@@ -25627,54 +25711,26 @@
     {
       "key": "VF-1967",
       "summary": "Android - Branch.io Intregation (Standered)",
-      "status": "Dev Complete",
+      "status": "In Review",
       "priority": "Medium",
       "assignee": "Javed Ali",
       "platform": "ANDROID",
       "created": "2026-02-04",
-      "updated": "2026-02-12",
+      "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Sub-task",
       "fixversion": ""
     },
     {
-      "key": "VF-1952",
-      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Dev Complete",
+      "key": "VF-1964",
+      "summary": "iOS - Claver Tap - Notification Inbox",
+      "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
       "created": "2026-02-04",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1951",
-      "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1969",
-      "summary": "Web - Branch.io Intregation (Standered)",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-04",
-      "updated": "2026-02-12",
+      "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Sub-task",
@@ -25731,34 +25787,6 @@
       "platform": "ATV",
       "created": "2026-02-04",
       "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1968",
-      "summary": "iOS - Branch.io Intregation (Standered)",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1958",
-      "summary": "SmartTV - Need to add new parameter in the Conviva events",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Sub-task",
@@ -25950,44 +25978,142 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 16,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 48,
-      "statuses": {
-        "Ready For Test": 19,
-        "In Progress": 2,
-        "Closed": 8,
-        "Dev Complete": 16,
-        "Reopened": 1,
-        "Testing On hold": 2
-      }
-    },
     "VZY Sprint (27 Feb 2026)": {
-      "bugs": 0,
-      "tasks": 12,
+      "bugs": 1,
+      "tasks": 11,
       "subtasks": 0,
       "stories": 0,
       "total": 12,
       "statuses": {
-        "Dev Complete": 1,
-        "Open": 6,
+        "Dev Complete": 2,
+        "Duplicate": 1,
+        "In Progress": 1,
+        "Open": 4,
         "Issue Accepted": 3,
-        "Parked": 1,
         "Closed": 1
+      }
+    },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "In Review": 15,
+        "Testing On hold": 4,
+        "Ready For Test": 20,
+        "In Progress": 2,
+        "Closed": 8
       }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Rajkumar A": {
+      "bugs": 5,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
     "vzyfeedback": {
-      "bugs": 1132,
+      "bugs": 1133,
       "tasks": 282,
       "subtasks": 7,
       "stories": 0,
-      "total": 1425
+      "total": 1426
+    },
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
+    "Yashika Krishnani": {
+      "bugs": 1,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
+    "devaraj": {
+      "bugs": 6,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 8
+    },
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Dinjit Dinesh": {
+      "bugs": 13,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 31
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 35,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 68
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Shubham Chauhan": {
+      "bugs": 8,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 4,
+      "stories": 0,
+      "total": 13
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
+    "Abhishek Dhok": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Javed Ali": {
+      "bugs": 19,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -26010,55 +26136,6 @@
       "stories": 0,
       "total": 4
     },
-    "Unassigned": {
-      "bugs": 28,
-      "tasks": 35,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 67
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
-    "Dinjit Dinesh": {
-      "bugs": 13,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 31
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
-    },
-    "Suyog Lanje": {
-      "bugs": 2,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 16
-    },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
     "Manikanta P": {
       "bugs": 5,
       "tasks": 9,
@@ -26066,38 +26143,10 @@
       "stories": 1,
       "total": 15
     },
-    "Abhishek Dhok": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
-    "Shubham Chauhan": {
-      "bugs": 8,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "Javed Ali": {
-      "bugs": 19,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
-    },
     "abhilash.ramesh": {
       "bugs": 11,
       "tasks": 3,
       "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 4,
       "stories": 0,
       "total": 14
     },
@@ -26129,13 +26178,6 @@
       "stories": 0,
       "total": 6
     },
-    "devaraj": {
-      "bugs": 6,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 8
-    },
     "Adikeshava Reddy": {
       "bugs": 1,
       "tasks": 0,
@@ -26149,13 +26191,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Rajkumar A": {
-      "bugs": 5,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -26236,12 +26271,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 723,
     "Highest": 324,
-    "High": 306,
+    "Medium": 725,
     "Low": 19,
+    "High": 306,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T08:00:13Z",
-  "total_issues": 1869
+  "updated_at": "2026-02-13T09:03:11Z",
+  "total_issues": 1871
 }
