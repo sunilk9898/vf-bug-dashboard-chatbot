@@ -19281,6 +19281,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-462",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-596",
       "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
       "status": "Testing On hold",
@@ -19305,20 +19347,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19449,20 +19477,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-821",
       "summary": "Smart CTAs\tVaries by subscription: Play / Rent / Subscribe / Watch Live / Resume with Progress bar",
       "status": "Closed",
@@ -19524,20 +19538,6 @@
       "status": "In Review",
       "priority": "Highest",
       "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-462",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "In Review",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2025-11-14",
       "updated": "2026-02-13",
@@ -25999,11 +25999,11 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "Testing On hold": 8,
         "Ready For Test": 19,
-        "Testing On hold": 6,
-        "In Review": 11,
         "Closed": 10,
         "Reopened": 2,
+        "In Review": 9,
         "In Progress": 1
       }
     },
@@ -26026,6 +26026,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1141,
+      "tasks": 286,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1438
+    },
     "Alok Gupta": {
       "bugs": 9,
       "tasks": 4,
@@ -26042,17 +26049,10 @@
     },
     "Yashika Krishnani": {
       "bugs": 1,
-      "tasks": 2,
+      "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 3
-    },
-    "vzyfeedback": {
-      "bugs": 1141,
-      "tasks": 283,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1435
+      "total": 2
     },
     "BalaKumar": {
       "bugs": 14,
@@ -26082,13 +26082,6 @@
       "stories": 0,
       "total": 13
     },
-    "Suyog Lanje": {
-      "bugs": 2,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 5,
@@ -26098,10 +26091,10 @@
     },
     "Dinjit Dinesh": {
       "bugs": 13,
-      "tasks": 16,
+      "tasks": 15,
       "subtasks": 0,
       "stories": 0,
-      "total": 30
+      "total": 29
     },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
@@ -26123,6 +26116,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 8
+    },
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "Unassigned": {
       "bugs": 28,
@@ -26286,6 +26286,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T15:01:58Z",
+  "updated_at": "2026-02-13T16:00:31Z",
   "total_issues": 1872
 }
