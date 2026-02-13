@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2083",
+      "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2053",
+      "summary": "Onida TV: Screen flickering and visual tearing observed when reducing video quality to 720p during Watch Live playback.",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2081",
+      "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2026",
+      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2070",
+      "summary": "Kaltura Issue: 16x9 cover image not available for hoichoi content",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-11",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2071",
       "summary": "Kaltura Issue: Asset title missing from content thumbnail",
       "status": "Duplicate",
@@ -197,20 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2081",
-      "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2005",
       "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
       "status": "Onhold-For Tech Dependency",
@@ -218,20 +274,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-06",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2083",
-      "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -329,20 +371,6 @@
       "priority": "Medium",
       "assignee": "BalaKumar",
       "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2070",
-      "summary": "Kaltura Issue: 16x9 cover image not available for hoichoi content",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
@@ -1317,20 +1345,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2053",
-      "summary": "Onida TV: Screen flickering and visual tearing observed when reducing video quality to 720p during Watch Live playback.",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2058",
       "summary": "Fliqs followed channels in settings screen",
       "status": "On Hold- For Clarification",
@@ -1480,20 +1494,6 @@
       "created": "2025-12-04",
       "updated": "2026-02-07",
       "duedate": "2025-12-08",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2026",
-      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-02-07",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -19239,6 +19239,62 @@
   ],
   "tasks": [
     {
+      "key": "VF-1901",
+      "summary": "Kaltura Issue",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1917",
+      "summary": "Brand colour changes within the app",
+      "status": "Parked",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-28",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1938",
+      "summary": "Shorts TV CP Integration",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1932",
+      "summary": "Times Play Integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1921",
       "summary": "Gamezop Integration",
       "status": "Open",
@@ -19753,20 +19809,6 @@
       "updated": "2026-02-13",
       "duedate": "2025-12-28",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1917",
-      "summary": "Brand colour changes within the app",
-      "status": "Parked",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-28",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20415,20 +20457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1901",
-      "summary": "Kaltura Issue",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1953",
       "summary": "Need to add new parameter in the Conviva events",
       "status": "Ready For Test",
@@ -20485,20 +20513,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1938",
-      "summary": "Shorts TV CP Integration",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2076",
       "summary": "(Shruti) Aalytics and monitoring dashboard with real-time alerts to improve streaming quality, platform stability, and retention.",
       "status": "Open",
@@ -20551,20 +20565,6 @@
       "updated": "2026-02-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1932",
-      "summary": "Times Play Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -25950,20 +25950,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 0,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13,
-      "statuses": {
-        "Open": 6,
-        "Issue Accepted": 3,
-        "Parked": 2,
-        "Closed": 1,
-        "Dev Complete": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 16,
@@ -25978,30 +25964,44 @@
         "Reopened": 1,
         "Testing On hold": 2
       }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 0,
+      "tasks": 12,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12,
+      "statuses": {
+        "Dev Complete": 1,
+        "Open": 6,
+        "Issue Accepted": 3,
+        "Parked": 1,
+        "Closed": 1
+      }
     }
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 28,
-      "tasks": 35,
-      "subtasks": 0,
+    "vzyfeedback": {
+      "bugs": 1132,
+      "tasks": 282,
+      "subtasks": 7,
       "stories": 0,
-      "total": 67
+      "total": 1425
     },
     "avinash waghmare": {
       "bugs": 4,
-      "tasks": 6,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 10
+      "total": 9
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 0,
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
-      "total": 35
+      "total": 2
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -26010,12 +26010,19 @@
       "stories": 0,
       "total": 4
     },
-    "vzyfeedback": {
-      "bugs": 1129,
-      "tasks": 281,
-      "subtasks": 7,
+    "Unassigned": {
+      "bugs": 28,
+      "tasks": 35,
+      "subtasks": 0,
       "stories": 0,
-      "total": 1421
+      "total": 67
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
     },
     "Dinjit Dinesh": {
       "bugs": 13,
@@ -26045,13 +26052,6 @@
       "stories": 0,
       "total": 16
     },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 2
-    },
     "Yashika Krishnani": {
       "bugs": 1,
       "tasks": 2,
@@ -26074,11 +26074,11 @@
       "total": 11
     },
     "Shubham Chauhan": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 13
     },
     "Javed Ali": {
       "bugs": 19,
@@ -26107,13 +26107,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Karan Mahboobani": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -26244,11 +26237,11 @@
   },
   "priority_breakdown": {
     "Medium": 723,
+    "Highest": 324,
     "High": 306,
     "Low": 19,
-    "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T07:15:49Z",
+  "updated_at": "2026-02-13T08:00:13Z",
   "total_issues": 1869
 }
