@@ -1,13 +1,13 @@
 {
   "bugs": [
     {
-      "key": "VF-2087",
-      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
-      "status": "Dev Complete",
+      "key": "VF-2071",
+      "summary": "Kaltura Issue: Asset title missing from content thumbnail",
+      "status": "Duplicate",
       "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-12",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Kaltura",
+      "created": "2026-02-11",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -15,13 +15,13 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2071",
-      "summary": "Kaltura Issue: Asset title missing from content thumbnail",
-      "status": "In Progress",
+      "key": "VF-2087",
+      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
+      "status": "Dev Complete",
       "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
+      "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
-      "created": "2026-02-11",
+      "created": "2026-02-12",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19239,9 +19239,149 @@
   ],
   "tasks": [
     {
-      "key": "VF-2116",
-      "summary": "FLIQS Integration",
+      "key": "VF-1921",
+      "summary": "Gamezop Integration",
       "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2118",
+      "summary": "Facebook SDK Integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ANDROID",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1621",
+      "summary": "AHA - Telugu/Tamil",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-12",
+      "updated": "2026-02-13",
+      "duedate": "2026-01-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-598",
+      "summary": "SEO Redirects",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "WEB",
+      "created": "2025-11-19",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1935",
+      "summary": "Pocket Films - CP Integration",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1925",
+      "summary": "Tarang Plus Integration",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-540",
+      "summary": "Fliqs (SVOD & TVOD)",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2025-11-17",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-10",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1138",
+      "summary": "Chaupal Integration",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-11",
+      "updated": "2026-02-13",
+      "duedate": "2026-01-09",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1135",
+      "summary": "Hoichoi Integration",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-11",
+      "updated": "2026-02-13",
+      "duedate": "2026-01-15",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1072",
+      "summary": "WATCHO Exclusives Integration",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-15",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2117",
+      "summary": "Fancode Integration",
+      "status": "Closed",
       "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "ATV",
@@ -19249,6 +19389,76 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1071",
+      "summary": "Discovery+ Integration",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-15",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2116",
+      "summary": "FLIQS Integration",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1894",
+      "summary": "Notification sticky count",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19402,20 +19612,6 @@
       "created": "2025-11-25",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-598",
-      "summary": "SEO Redirects",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "WEB",
-      "created": "2025-11-19",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-16",
       "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -19729,20 +19925,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "Dev Complete",
@@ -19935,20 +20117,6 @@
       "updated": "2026-02-12",
       "duedate": "2026-02-28",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1894",
-      "summary": "Notification sticky count",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20219,20 +20387,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1446",
       "summary": "Download invoice",
       "status": "Closed",
@@ -20408,9 +20562,9 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-04",
-      "updated": "2026-02-10",
+      "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "No Sprint",
+      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20527,20 +20681,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1921",
-      "summary": "Gamezop Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1055",
       "summary": "Clevertap Notifications (push / in-app)",
       "status": "Reopened",
@@ -20550,34 +20690,6 @@
       "created": "2025-12-09",
       "updated": "2026-02-09",
       "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1935",
-      "summary": "Pocket Films - CP Integration",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1925",
-      "summary": "Tarang Plus Integration",
-      "status": "Duplicate",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-09",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -20984,20 +21096,6 @@
       "created": "2026-01-19",
       "updated": "2026-02-02",
       "duedate": "2026-02-13",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1621",
-      "summary": "AHA - Telugu/Tamil",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-12",
-      "updated": "2026-02-02",
-      "duedate": "2026-01-30",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -21754,48 +21852,6 @@
       "created": "2025-11-26",
       "updated": "2026-01-23",
       "duedate": "2025-11-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1071",
-      "summary": "Discovery+ Integration",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2026-01-23",
-      "duedate": "2025-12-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1135",
-      "summary": "Hoichoi Integration",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-11",
-      "updated": "2026-01-23",
-      "duedate": "2026-01-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1138",
-      "summary": "Chaupal Integration",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-11",
-      "updated": "2026-01-23",
-      "duedate": "2026-01-09",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -22697,20 +22753,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1072",
-      "summary": "WATCHO Exclusives Integration",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2025-12-20",
-      "duedate": "2025-12-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-70",
       "summary": "My Account - Content Related: Downloads",
       "status": "Closed",
@@ -23350,20 +23392,6 @@
       "created": "2025-11-17",
       "updated": "2025-12-10",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-540",
-      "summary": "Fliqs (SVOD & TVOD)",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2025-11-17",
-      "updated": "2025-12-10",
-      "duedate": "2025-12-10",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25922,6 +25950,20 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 0,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13,
+      "statuses": {
+        "Open": 6,
+        "Issue Accepted": 3,
+        "Parked": 2,
+        "Closed": 1,
+        "Dev Complete": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 16,
@@ -25929,26 +25971,12 @@
       "stories": 0,
       "total": 48,
       "statuses": {
+        "Ready For Test": 19,
         "In Progress": 2,
-        "Ready For Test": 17,
         "Closed": 8,
-        "Dev Complete": 18,
+        "Dev Complete": 16,
         "Reopened": 1,
         "Testing On hold": 2
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 0,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11,
-      "statuses": {
-        "Parked": 2,
-        "Open": 4,
-        "Issue Accepted": 3,
-        "Closed": 1,
-        "Dev Complete": 1
       }
     }
   },
@@ -25956,24 +25984,10 @@
   "assignee_workload": {
     "Unassigned": {
       "bugs": 28,
-      "tasks": 33,
+      "tasks": 35,
       "subtasks": 0,
       "stories": 0,
-      "total": 65
-    },
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 16
-    },
-    "vzyfeedback": {
-      "bugs": 1129,
-      "tasks": 280,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1420
+      "total": 67
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -25996,6 +26010,13 @@
       "stories": 0,
       "total": 4
     },
+    "vzyfeedback": {
+      "bugs": 1129,
+      "tasks": 281,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1421
+    },
     "Dinjit Dinesh": {
       "bugs": 13,
       "tasks": 17,
@@ -26003,12 +26024,12 @@
       "stories": 0,
       "total": 31
     },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 1,
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
       "subtasks": 1,
       "stories": 0,
-      "total": 2
+      "total": 23
     },
     "Suyog Lanje": {
       "bugs": 2,
@@ -26016,6 +26037,20 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
+    },
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 2
     },
     "Yashika Krishnani": {
       "bugs": 1,
@@ -26080,26 +26115,12 @@
       "stories": 0,
       "total": 2
     },
-    "kamaldeeps": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
     "Ajay Kushwaha": {
       "bugs": 10,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Vikas Mishra": {
       "bugs": 40,
@@ -26156,6 +26177,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
+    },
+    "kamaldeeps": {
+      "bugs": 1,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
     },
     "Harsh Pratap Singh": {
       "bugs": 4,
@@ -26221,6 +26249,6 @@
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T05:47:22Z",
-  "total_issues": 1867
+  "updated_at": "2026-02-13T07:15:49Z",
+  "total_issues": 1869
 }

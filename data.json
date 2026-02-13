@@ -26,7 +26,7 @@
     },
     "CMS Adaptor": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-13T05:47:22Z",
-  "total_issues_fetched": 1867,
+  "updated_at": "2026-02-13T07:15:49Z",
+  "total_issues_fetched": 1869,
   "project": "VF"
 }
