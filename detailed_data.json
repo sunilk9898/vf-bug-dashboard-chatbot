@@ -1,11 +1,39 @@
 {
   "bugs": [
     {
+      "key": "VF-1916",
+      "summary": "Trailer in PIP mode",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2038",
+      "summary": "Delete account - Android",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2121",
       "summary": "(Tamanna) - Issue with Pittara Live Channel \u2013 Auto Pause and Continuous Closure.",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Unassigned",
+      "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-02-13",
       "updated": "2026-02-13",
@@ -246,34 +274,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-03",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1916",
-      "summary": "Trailer in PIP mode",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2038",
-      "summary": "Delete account - Android",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-06",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -19281,6 +19281,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2065",
       "summary": "FAQ Section to be hidden from all the touch points",
       "status": "Issue Accepted",
@@ -19500,20 +19514,6 @@
       "created": "2026-01-30",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Review",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -25653,6 +25653,34 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1965",
+      "summary": "Android - Claver Tap - Notification Inbox",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1967",
+      "summary": "Android - Branch.io Intregation (Standered)",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1958",
       "summary": "SmartTV - Need to add new parameter in the Conviva events",
       "status": "In Review",
@@ -25723,20 +25751,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1967",
-      "summary": "Android - Branch.io Intregation (Standered)",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1964",
       "summary": "iOS - Claver Tap - Notification Inbox",
       "status": "Ready For Test",
@@ -25756,20 +25770,6 @@
       "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1965",
-      "summary": "Android - Claver Tap - Notification Inbox",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-04",
       "updated": "2026-02-11",
@@ -25992,6 +25992,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Ready For Test": 19,
+        "Testing On hold": 6,
+        "In Review": 11,
+        "Closed": 10,
+        "Reopened": 2,
+        "In Progress": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 1,
       "tasks": 13,
@@ -26007,66 +26022,16 @@
         "Dev Complete": 1,
         "Closed": 1
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "In Review": 15,
-        "Testing On hold": 5,
-        "Closed": 10,
-        "Ready For Test": 15,
-        "Reopened": 2,
-        "In Progress": 2
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
+    "Alok Gupta": {
+      "bugs": 9,
+      "tasks": 4,
       "subtasks": 1,
       "stories": 0,
-      "total": 23
-    },
-    "Unassigned": {
-      "bugs": 29,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 65
-    },
-    "vzyfeedback": {
-      "bugs": 1141,
-      "tasks": 283,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1435
-    },
-    "Moore Meghana": {
-      "bugs": 11,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
-    },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
+      "total": 14
     },
     "Javed Ali": {
       "bugs": 18,
@@ -26075,12 +26040,40 @@
       "stories": 0,
       "total": 25
     },
-    "Alok Gupta": {
-      "bugs": 9,
-      "tasks": 4,
+    "Yashika Krishnani": {
+      "bugs": 1,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
+    "vzyfeedback": {
+      "bugs": 1141,
+      "tasks": 283,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1435
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 9,
       "subtasks": 1,
       "stories": 0,
-      "total": 14
+      "total": 24
+    },
+    "Moore Meghana": {
+      "bugs": 11,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 13
+    },
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 3
     },
     "abhilash.ramesh": {
       "bugs": 10,
@@ -26130,6 +26123,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 8
+    },
+    "Unassigned": {
+      "bugs": 28,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 64
     },
     "Shubham Chauhan": {
       "bugs": 8,
@@ -26286,6 +26286,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T13:36:59Z",
+  "updated_at": "2026-02-13T15:01:58Z",
   "total_issues": 1872
 }
