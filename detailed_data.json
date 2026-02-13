@@ -19239,15 +19239,43 @@
   ],
   "tasks": [
     {
-      "key": "VF-466",
-      "summary": "Free view to logged in users - with regard  or episode no",
-      "status": "Open",
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2025-11-14",
       "updated": "2026-02-13",
-      "duedate": "2025-11-25",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-462",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1064",
+      "summary": "Geo Blocking - Phase 2 (as per BRD)",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-05",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -19257,11 +19285,25 @@
       "summary": "SEO Redirects",
       "status": "Issue Accepted",
       "priority": "Highest",
-      "assignee": "BalaKumar",
+      "assignee": "Aniruddh Patil",
       "platform": "WEB",
       "created": "2025-11-19",
       "updated": "2026-02-13",
       "duedate": "2026-02-16",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-466",
+      "summary": "Free view to logged in users - with regard  or episode no",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2025-11-25",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -19631,34 +19673,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-462",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1871",
       "summary": "Search Engine Enhancements with AI Companion",
       "status": "Issue Accepted",
@@ -19906,20 +19920,6 @@
       "created": "2025-11-27",
       "updated": "2026-02-12",
       "duedate": "2026-01-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1064",
-      "summary": "Geo Blocking - Phase 2 (as per BRD)",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2026-02-12",
-      "duedate": "2025-12-05",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25852,6 +25852,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 16,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 48,
+      "statuses": {
+        "Dev Complete": 18,
+        "Ready For Test": 17,
+        "In Progress": 3,
+        "Reopened": 1,
+        "Closed": 7,
+        "Testing On hold": 2
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 0,
       "tasks": 6,
@@ -25864,45 +25879,30 @@
         "Issue Accepted": 2,
         "Dev Complete": 1
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 16,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 48,
-      "statuses": {
-        "Dev Complete": 16,
-        "Ready For Test": 17,
-        "In Progress": 5,
-        "Reopened": 1,
-        "Closed": 7,
-        "Testing On hold": 2
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
       "bugs": 1129,
-      "tasks": 279,
+      "tasks": 280,
       "subtasks": 6,
       "stories": 0,
-      "total": 1418
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 10,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
+      "total": 1419
     },
     "Dinjit Dinesh": {
       "bugs": 13,
-      "tasks": 18,
+      "tasks": 17,
       "subtasks": 0,
       "stories": 0,
-      "total": 32
+      "total": 31
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -26016,6 +26016,13 @@
       "stories": 0,
       "total": 12
     },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
     "Alok Gupta": {
       "bugs": 11,
       "tasks": 3,
@@ -26043,13 +26050,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 8
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -26150,6 +26150,6 @@
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T01:12:07Z",
+  "updated_at": "2026-02-13T03:22:30Z",
   "total_issues": 1862
 }
