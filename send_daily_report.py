@@ -16,10 +16,9 @@ Optional:
 
 import os
 import json
-import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-from datetime import datetime, timedelta
+import boto3
+from botocore.exceptions import ClientError
+from datetime import datetime, timedelta, timezone
 from requests.auth import HTTPBasicAuth
 import requests
 
@@ -27,19 +26,18 @@ import requests
 JIRA_DOMAIN = os.environ.get('JIRA_DOMAIN', 'hbeindia.atlassian.net')
 JIRA_EMAIL = os.environ.get('JIRA_EMAIL', '')
 JIRA_API_TOKEN = os.environ.get('JIRA_API_TOKEN', '')
-PROJECT_KEY = os.environ.get('JIRA_PROJECT_KEY', 'VZY')
+PROJECT_KEY = os.environ.get('JIRA_PROJECT_KEY', 'VF')
 
-# ── Email Config ──
-SMTP_HOST = os.environ.get('SMTP_HOST', 'smtp.gmail.com')
-SMTP_PORT = int(os.environ.get('SMTP_PORT', '587'))
-SMTP_USER = os.environ.get('SMTP_USER', '')
-SMTP_PASSWORD = os.environ.get('SMTP_PASSWORD', '')
+# ── AWS SES Email Config ──
+AWS_ACCESS_KEY_ID = os.environ.get('AWS_ACCESS_KEY_ID', '')
+AWS_SECRET_ACCESS_KEY = os.environ.get('AWS_SECRET_ACCESS_KEY', '')
+AWS_REGION = os.environ.get('AWS_REGION', 'ap-south-1')
+SES_SENDER_EMAIL = os.environ.get('SES_SENDER_EMAIL', 'watcho1tech@dishd2h.com')
 REPORT_RECIPIENTS = os.environ.get('REPORT_RECIPIENTS', '').split(',')
-REPORT_FROM = os.environ.get('REPORT_FROM', SMTP_USER)
 
 # ── Platforms & Statuses ──
 PLATFORMS = ['ANDROID', 'ATV', 'CMS Adaptor', 'CMS Dashboard', 'DishIT', 'IOS', 'LG_TV', 'SAM_TV', 'WEB']
-OPEN_STATUSES = ['OPEN', 'IN PROGRESS', 'REOPENED', 'IN REVIEW', 'ISSUE ACCEPTED']
+OPEN_STATUSES = ['Open', 'In Progress', 'Reopened', 'In Review', 'Issue Accepted']
 
 # ── KPI Config ──
 KPI_DATA_PATH = os.environ.get('KPI_DATA_PATH', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'kpi_data.json'))
@@ -141,8 +139,8 @@ def load_kpi_data():
 
 def build_html_report(bug_summary, task_summary, kpi_data=None):
     """Build the HTML email body."""
-    report_date = (datetime.utcnow() - timedelta(hours=5, minutes=30)).strftime('%d %B %Y')  # IST approx
-    now_ist = (datetime.utcnow() + timedelta(hours=5, minutes=30)).strftime('%I:%M %p IST')
+    report_date = (datetime.now(timezone.utc) - timedelta(hours=5, minutes=30)).strftime('%d %B %Y')  # IST approx
+    now_ist = (datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)).strftime('%I:%M %p IST')
 
     def make_table(summary, label):
         rows = ''
@@ -244,10 +242,22 @@ def build_html_report(bug_summary, task_summary, kpi_data=None):
     return html
 
 
+def get_ses_client():
+    """Get AWS SES client."""
+    if AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY:
+        return boto3.client(
+            'ses',
+            region_name=AWS_REGION,
+            aws_access_key_id=AWS_ACCESS_KEY_ID,
+            aws_secret_access_key=AWS_SECRET_ACCESS_KEY
+        )
+    return boto3.client('ses', region_name=AWS_REGION)
+
+
 def send_email(subject, html_body):
-    """Send HTML email via SMTP."""
-    if not SMTP_USER or not SMTP_PASSWORD:
-        print("WARNING: SMTP credentials not configured. Saving report to file instead.")
+    """Send HTML email via AWS SES."""
+    if not AWS_ACCESS_KEY_ID or not AWS_SECRET_ACCESS_KEY:
+        print("WARNING: AWS credentials not configured. Saving report to file instead.")
         report_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'daily_report.html')
         with open(report_path, 'w') as f:
             f.write(html_body)
@@ -263,19 +273,30 @@ def send_email(subject, html_body):
         print(f"Report saved to {report_path}")
         return False
 
-    msg = MIMEMultipart('alternative')
-    msg['Subject'] = subject
-    msg['From'] = REPORT_FROM
-    msg['To'] = ', '.join(recipients)
-    msg.attach(MIMEText(html_body, 'html'))
+    # Also save report to file for reference
+    report_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'daily_report.html')
+    with open(report_path, 'w') as f:
+        f.write(html_body)
 
-    with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
-        server.starttls()
-        server.login(SMTP_USER, SMTP_PASSWORD)
-        server.sendmail(REPORT_FROM, recipients, msg.as_string())
-
-    print(f"Email sent to {len(recipients)} recipients: {', '.join(recipients)}")
-    return True
+    try:
+        client = get_ses_client()
+        response = client.send_email(
+            Source=SES_SENDER_EMAIL,
+            Destination={'ToAddresses': recipients},
+            Message={
+                'Subject': {'Data': subject, 'Charset': 'UTF-8'},
+                'Body': {
+                    'Html': {'Data': html_body, 'Charset': 'UTF-8'}
+                }
+            }
+        )
+        print(f"Email sent via AWS SES to {len(recipients)} recipients: {', '.join(recipients)}")
+        print(f"  Message ID: {response['MessageId']}")
+        return True
+    except ClientError as e:
+        print(f"ERROR: AWS SES failed: {e.response['Error']['Message']}")
+        print(f"Report saved to {report_path}")
+        return False
 
 
 def main():
@@ -301,7 +322,7 @@ def main():
         print("  KPI data not available (kpi_data.json not found)")
 
     # Build report
-    report_date = (datetime.utcnow() + timedelta(hours=5, minutes=30)).strftime('%d %b %Y')
+    report_date = (datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)).strftime('%d %b %Y')
     subject = f"Daily VZY Report - {report_date} | Bugs: {bug_summary['total']} | Tasks: {task_summary['total']}"
     html_body = build_html_report(bug_summary, task_summary, kpi_data)
 
@@ -311,7 +332,7 @@ def main():
     # Also save summary as JSON for reference
     summary = {
         'report_date': report_date,
-        'generated_at': datetime.utcnow().isoformat() + 'Z',
+        'generated_at': datetime.now(timezone.utc).isoformat() + 'Z',
         'bugs': bug_summary,
         'tasks': task_summary,
         'kpi_available': kpi_data is not None,
