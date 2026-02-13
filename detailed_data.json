@@ -1,14 +1,28 @@
 {
   "bugs": [
     {
-      "key": "VF-2022",
-      "summary": "Mobile: Search shows \u201cOops, we couldn\u2019t find anything. Try different keywords\u201d message briefly before displaying valid results",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-12",
+      "key": "VF-2087",
+      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2071",
+      "summary": "Kaltura Issue: Asset title missing from content thumbnail",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-11",
+      "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -17,11 +31,25 @@
     {
       "key": "VF-2056",
       "summary": "iOS - Sign.In",
-      "status": "Ready For Test",
+      "status": "Testing On hold",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-02-09",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2022",
+      "summary": "Mobile: Search shows \u201cOops, we couldn\u2019t find anything. Try different keywords\u201d message briefly before displaying valid results",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -78,20 +106,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2025-12-23",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2087",
-      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -343,20 +357,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2071",
-      "summary": "Kaltura Issue: Asset title missing from content thumbnail",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
@@ -19239,6 +19239,272 @@
   ],
   "tasks": [
     {
+      "key": "VF-2116",
+      "summary": "FLIQS Integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2115",
+      "summary": "SonyLiv",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1963",
+      "summary": "Claver Tap - Notification Inbox",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1058",
+      "summary": "Hungama Integration",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-10",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2114",
+      "summary": "SunNXT Integration",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1067",
+      "summary": "LGP Integration",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-10",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2112",
+      "summary": "Zee5 Integration ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2113",
+      "summary": "Jio HS Integration",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1934",
+      "summary": "Manorama Max - CP Integration",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1064",
+      "summary": "Geo Blocking - Phase 2 (as per BRD)",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2097",
+      "summary": "MS Clarity/UxCAM",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-637",
+      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2025-11-25",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-598",
+      "summary": "SEO Redirects",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "WEB",
+      "created": "2025-11-19",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-16",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-468",
+      "summary": "Geo Blocking - Phase 1 ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-05",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2105",
+      "summary": "Feedback after finshed playback",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2106",
+      "summary": "Forward / Backward - with preview image",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2107",
+      "summary": "Different types of dynamic In-app Pop-Ups (e.g. - bottom sliders, auto disappearing flashers, sticky rotating cube)",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2108",
+      "summary": "Provision to add Custom template for Content Page",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1946",
+      "summary": "Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-481",
       "summary": "Purchases (TVOD or Individual SVOD)",
       "status": "Dev Complete",
@@ -19267,34 +19533,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1064",
-      "summary": "Geo Blocking - Phase 2 (as per BRD)",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-05",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-598",
-      "summary": "SEO Redirects",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "WEB",
-      "created": "2025-11-19",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-16",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-466",
       "summary": "Free view to logged in users - with regard  or episode no",
       "status": "Onhold-For Tech Dependency",
@@ -19304,20 +19542,6 @@
       "created": "2025-11-14",
       "updated": "2026-02-13",
       "duedate": "2025-11-25",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-468",
-      "summary": "Geo Blocking - Phase 1 ",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-05",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -19715,20 +19939,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-637",
-      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2025-11-25",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1894",
       "summary": "Notification sticky count",
       "status": "Dev Complete",
@@ -19753,62 +19963,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2108",
-      "summary": "Provision to add Custom template for Content Page",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2107",
-      "summary": "Different types of dynamic In-app Pop-Ups (e.g. - bottom sliders, auto disappearing flashers, sticky rotating cube)",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2106",
-      "summary": "Forward / Backward - with preview image",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2105",
-      "summary": "Feedback after finshed playback",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -19892,20 +20046,6 @@
       "created": "2025-11-28",
       "updated": "2026-02-12",
       "duedate": "2026-01-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2097",
-      "summary": "MS Clarity/UxCAM",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -20135,39 +20275,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1963",
-      "summary": "Claver Tap - Notification Inbox",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1953",
       "summary": "Need to add new parameter in the Conviva events",
       "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1946",
-      "summary": "Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-04",
       "updated": "2026-02-11",
@@ -20445,20 +20557,6 @@
     {
       "key": "VF-1935",
       "summary": "Pocket Films - CP Integration",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1934",
-      "summary": "Manorama Max - CP Integration",
       "status": "Parked",
       "priority": "Medium",
       "assignee": "vzyfeedback",
@@ -23131,39 +23229,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1058",
-      "summary": "Hungama Integration",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2025-12-10",
-      "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1066",
       "summary": "Fancode Integration",
       "status": "Closed",
       "priority": "Highest",
       "assignee": "Amudha Kaliamoorthi",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2025-12-10",
-      "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1067",
-      "summary": "LGP Integration",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2025-12-09",
       "updated": "2025-12-10",
@@ -25513,6 +25583,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1964",
+      "summary": "iOS - Claver Tap - Notification Inbox",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1967",
       "summary": "Android - Branch.io Intregation (Standered)",
       "status": "Dev Complete",
@@ -25589,20 +25673,6 @@
       "priority": "Medium",
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1964",
-      "summary": "iOS - Claver Tap - Notification Inbox",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
       "created": "2026-02-04",
       "updated": "2026-02-11",
       "duedate": "",
@@ -25859,43 +25929,65 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "Dev Complete": 18,
+        "In Progress": 2,
         "Ready For Test": 17,
-        "In Progress": 3,
+        "Closed": 8,
+        "Dev Complete": 18,
         "Reopened": 1,
-        "Closed": 7,
         "Testing On hold": 2
       }
     },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 0,
-      "tasks": 6,
+      "tasks": 11,
       "subtasks": 0,
       "stories": 0,
-      "total": 6,
+      "total": 11,
       "statuses": {
-        "Parked": 1,
-        "Open": 2,
-        "Issue Accepted": 2,
+        "Parked": 2,
+        "Open": 4,
+        "Issue Accepted": 3,
+        "Closed": 1,
         "Dev Complete": 1
       }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 28,
+      "tasks": 33,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 65
+    },
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
     "vzyfeedback": {
       "bugs": 1129,
       "tasks": 280,
-      "subtasks": 6,
+      "subtasks": 7,
       "stories": 0,
-      "total": 1419
+      "total": 1420
     },
-    "Dinjit Dinesh": {
-      "bugs": 13,
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 15,
       "tasks": 17,
       "subtasks": 0,
       "stories": 0,
-      "total": 31
+      "total": 35
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -25904,26 +25996,19 @@
       "stories": 0,
       "total": 4
     },
+    "Dinjit Dinesh": {
+      "bugs": 13,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 31
+    },
     "Akash Kushwaha": {
       "bugs": 0,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 2
-    },
-    "Unassigned": {
-      "bugs": 28,
-      "tasks": 28,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 60
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "Suyog Lanje": {
       "bugs": 2,
@@ -25974,13 +26059,6 @@
       "stories": 0,
       "total": 14
     },
-    "avinash waghmare": {
-      "bugs": 5,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "Amit Kumar Tiwari": {
       "bugs": 5,
       "tasks": 5,
@@ -26004,10 +26082,10 @@
     },
     "kamaldeeps": {
       "bugs": 1,
-      "tasks": 3,
-      "subtasks": 1,
+      "tasks": 2,
+      "subtasks": 0,
       "stories": 0,
-      "total": 5
+      "total": 3
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -26022,13 +26100,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 23
-    },
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
     },
     "Vikas Mishra": {
       "bugs": 40,
@@ -26144,12 +26215,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 306,
     "Medium": 723,
+    "High": 306,
     "Low": 19,
     "Highest": 324,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T03:22:30Z",
-  "total_issues": 1862
+  "updated_at": "2026-02-13T05:38:24Z",
+  "total_issues": 1867
 }
