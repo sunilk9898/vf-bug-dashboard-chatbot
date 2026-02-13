@@ -1,13 +1,13 @@
 {
   "bugs": [
     {
-      "key": "VF-1973",
-      "summary": "Mobile: Finding Nemo: trailers are not playing for videos when the trailer option is selected.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
+      "key": "VF-2121",
+      "summary": "(Tamanna) - Issue with Pittara Live Channel \u2013 Auto Pause and Continuous Closure.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-13",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -17,11 +17,67 @@
     {
       "key": "VF-2064",
       "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
-      "status": "Issue Accepted",
+      "status": "On Hold- For Clarification",
       "priority": "Medium",
-      "assignee": "Manikanta P",
+      "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-02-10",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1994",
+      "summary": "Mobile: Incorrect navigation occurs when accessing options under the Help & Policy section.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1992",
+      "summary": "Mobile: Login page opens unexpectedly from Help & Policy section.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2001",
+      "summary": "Mobile: Age restriction is not enforced in Kid profiles.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1973",
+      "summary": "Mobile: Finding Nemo: trailers are not playing for videos when the trailer option is selected.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1183,48 +1239,6 @@
       "priority": "Low",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1992",
-      "summary": "Mobile: Login page opens unexpectedly from Help & Policy section.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Vikas Mishra",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1994",
-      "summary": "Mobile: Incorrect navigation occurs when accessing options under the Help & Policy section.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Vikas Mishra",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2001",
-      "summary": "Mobile: Age restriction is not enforced in Kid profiles.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Vikas Mishra",
-      "platform": "Mobile",
       "created": "2026-02-06",
       "updated": "2026-02-09",
       "duedate": "",
@@ -19267,6 +19281,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "In Review",
@@ -19809,20 +19837,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -25978,6 +25992,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 1,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14,
+      "statuses": {
+        "Issue Accepted": 3,
+        "Ready For Test": 1,
+        "Open": 6,
+        "Duplicate": 1,
+        "In Progress": 1,
+        "Dev Complete": 1,
+        "Closed": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 14,
       "tasks": 18,
@@ -25992,46 +26022,44 @@
         "Reopened": 2,
         "In Progress": 2
       }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 1,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14,
-      "statuses": {
-        "Ready For Test": 1,
-        "Open": 6,
-        "Duplicate": 1,
-        "In Progress": 1,
-        "Dev Complete": 1,
-        "Issue Accepted": 3,
-        "Closed": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 65
+    },
+    "vzyfeedback": {
+      "bugs": 1141,
+      "tasks": 283,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1435
+    },
+    "Moore Meghana": {
+      "bugs": 11,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 13
+    },
     "Yashika Krishnani": {
       "bugs": 1,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "vzyfeedback": {
-      "bugs": 1140,
-      "tasks": 283,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1434
-    },
-    "Manikanta P": {
-      "bugs": 5,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 15
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -26103,13 +26131,6 @@
       "stories": 0,
       "total": 8
     },
-    "Unassigned": {
-      "bugs": 28,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 64
-    },
     "Shubham Chauhan": {
       "bugs": 8,
       "tasks": 5,
@@ -26124,13 +26145,6 @@
       "stories": 0,
       "total": 13
     },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
-    },
     "Abhishek Dhok": {
       "bugs": 6,
       "tasks": 3,
@@ -26144,6 +26158,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 4
+    },
+    "Manikanta P": {
+      "bugs": 4,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 14
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -26160,11 +26181,11 @@
       "total": 12
     },
     "Vikas Mishra": {
-      "bugs": 40,
+      "bugs": 37,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 42
+      "total": 39
     },
     "Namrata Kurariya": {
       "bugs": 4,
@@ -26229,13 +26250,6 @@
       "stories": 0,
       "total": 1
     },
-    "Moore Meghana": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
-    },
     "Kiran JR": {
       "bugs": 5,
       "tasks": 1,
@@ -26266,12 +26280,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 726,
     "High": 306,
-    "Medium": 725,
     "Highest": 324,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T11:46:56Z",
-  "total_issues": 1871
+  "updated_at": "2026-02-13T13:36:59Z",
+  "total_issues": 1872
 }
