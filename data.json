@@ -27,7 +27,7 @@
     "CMS Adaptor": {
       "OPEN": 0,
       "IN PROGRESS": 2,
-      "REOPENED": 2,
+      "REOPENED": 3,
       "IN REVIEW": 1,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
@@ -57,11 +57,11 @@
       "PARKED": 0
     },
     "Kaltura": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 0
     },
     "LG_TV": {
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-13T09:03:11Z",
+  "updated_at": "2026-02-13T10:02:10Z",
   "total_issues_fetched": 1871,
   "project": "VF"
 }

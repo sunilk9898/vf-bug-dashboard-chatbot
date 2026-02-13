@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-1900",
+      "summary": "New Vertical Rail",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-01-30",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2119",
+      "summary": "Incorrect meta data",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "Kaltura",
+      "created": "2026-02-13",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "Dev Complete",
@@ -91,20 +133,6 @@
       "priority": "Medium",
       "assignee": "Srinidhi.Raju",
       "platform": "WEB",
-      "created": "2026-02-13",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2119",
-      "summary": "Incorrect meta data",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Kaltura",
       "created": "2026-02-13",
       "updated": "2026-02-13",
       "duedate": "",
@@ -1569,20 +1597,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1900",
-      "summary": "New Vertical Rail",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-01-30",
-      "updated": "2026-02-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2030",
       "summary": "Mobile: Live Nursery Rhymes playback starts in paused state with no video display in Kids section.",
       "status": "Onhold-For Tech Dependency",
@@ -2041,20 +2055,6 @@
       "updated": "2026-02-06",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19267,6 +19267,118 @@
   ],
   "tasks": [
     {
+      "key": "VF-939",
+      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-941",
+      "summary": "(Shruti) Analytics: Active base Report - Daily Basis",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-835",
+      "summary": "CLONE - Fliqs Channel Pages ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2025-12-01",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-821",
+      "summary": "Smart CTAs\tVaries by subscription: Play / Rent / Subscribe / Watch Live / Resume with Progress bar",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2025-11-28",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-08",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-823",
+      "summary": "Plans / Subscriptions\tActive / Expired / Renew Plan / Add Plan / Upgrade Plan - Multi order",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Smridhi Anand",
+      "platform": "CMS Adaptor",
+      "created": "2025-11-28",
+      "updated": "2026-02-13",
+      "duedate": "2025-12-03",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1953",
+      "summary": "Need to add new parameter in the Conviva events",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1901",
+      "summary": "Kaltura Issue",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "In Review",
@@ -19393,62 +19505,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-821",
-      "summary": "Smart CTAs\tVaries by subscription: Play / Rent / Subscribe / Watch Live / Resume with Progress bar",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2025-11-28",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-08",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-835",
-      "summary": "CLONE - Fliqs Channel Pages ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2025-12-01",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-05",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-941",
-      "summary": "(Shruti) Analytics: Active base Report - Daily Basis",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-12",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-939",
-      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-12",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1921",
       "summary": "Gamezop Integration",
       "status": "In Progress",
@@ -19473,20 +19529,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1901",
-      "summary": "Kaltura Issue",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19711,20 +19753,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20541,20 +20569,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1953",
-      "summary": "Need to add new parameter in the Conviva events",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1920",
       "summary": "Stage Integration",
       "status": "Ready For Test",
@@ -20774,20 +20788,6 @@
       "created": "2025-12-09",
       "updated": "2026-02-09",
       "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-823",
-      "summary": "Plans / Subscriptions\tActive / Expired / Renew Plan / Add Plan / Upgrade Plan - Multi order",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Smridhi Anand",
-      "platform": "CMS Adaptor",
-      "created": "2025-11-28",
-      "updated": "2026-02-09",
-      "duedate": "2025-12-03",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25978,6 +25978,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Testing On hold": 5,
+        "Closed": 10,
+        "Ready For Test": 15,
+        "Reopened": 2,
+        "In Review": 15,
+        "In Progress": 2
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 1,
       "tasks": 11,
@@ -25992,37 +26007,58 @@
         "Issue Accepted": 3,
         "Closed": 1
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "In Review": 15,
-        "Testing On hold": 4,
-        "Ready For Test": 20,
-        "In Progress": 2,
-        "Closed": 8
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1133,
+      "tasks": 281,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1425
+    },
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Smridhi Anand": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Dinjit Dinesh": {
+      "bugs": 13,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 31
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 15,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "avinash waghmare": {
+      "bugs": 5,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
     "Rajkumar A": {
       "bugs": 5,
       "tasks": 17,
       "subtasks": 0,
       "stories": 0,
       "total": 22
-    },
-    "vzyfeedback": {
-      "bugs": 1133,
-      "tasks": 282,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1426
     },
     "Alok Gupta": {
       "bugs": 11,
@@ -26045,20 +26081,6 @@
       "stories": 0,
       "total": 8
     },
-    "Suyog Lanje": {
-      "bugs": 2,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
-    "Dinjit Dinesh": {
-      "bugs": 13,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 31
-    },
     "Srinidhi.Raju": {
       "bugs": 1,
       "tasks": 0,
@@ -26067,18 +26089,11 @@
       "total": 1
     },
     "Unassigned": {
-      "bugs": 29,
+      "bugs": 28,
       "tasks": 35,
       "subtasks": 0,
       "stories": 0,
-      "total": 68
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
+      "total": 67
     },
     "Shubham Chauhan": {
       "bugs": 8,
@@ -26114,13 +26129,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 25
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -26191,13 +26199,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Smridhi Anand": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -26272,11 +26273,11 @@
   },
   "priority_breakdown": {
     "Highest": 324,
+    "High": 306,
     "Medium": 725,
     "Low": 19,
-    "High": 306,
     "Lowest": 2
   },
-  "updated_at": "2026-02-13T09:03:11Z",
+  "updated_at": "2026-02-13T10:02:10Z",
   "total_issues": 1871
 }
