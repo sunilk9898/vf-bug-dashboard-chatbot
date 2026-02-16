@@ -3,7 +3,7 @@
     "ANDROID": {
       "OPEN": 0,
       "IN PROGRESS": 2,
-      "REOPENED": 1,
+      "REOPENED": 2,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
       "PARKED": 1
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-16T10:11:34Z",
+  "updated_at": "2026-02-16T11:08:47Z",
   "total_issues_fetched": 1874,
   "project": "VF"
 }

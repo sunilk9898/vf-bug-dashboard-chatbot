@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-1305",
+      "summary": "(Shruti) OTP is not auto-read",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2025-12-18",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1728",
+      "summary": "Naveen -> Vzy app is not opening in Android TV ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-01-16",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1536",
       "summary": "Live TV Playback Issue",
       "status": "Ready For Test",
@@ -22,20 +50,6 @@
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-01-28",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1728",
-      "summary": "Naveen -> Vzy app is not opening in Android TV ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-01-16",
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -4740,20 +4754,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-01-15",
-      "updated": "2026-01-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1305",
-      "summary": "(Shruti) OTP is not auto-read",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2025-12-18",
       "updated": "2026-01-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19309,6 +19309,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-468",
+      "summary": "Geo Blocking - Phase 1 ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-16",
+      "duedate": "2025-12-05",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-16",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1921",
       "summary": "Gamezop Integration",
       "status": "In Progress",
@@ -19389,20 +19417,6 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-16",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20004,20 +20018,6 @@
       "created": "2025-11-25",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-468",
-      "summary": "Geo Blocking - Phase 1 ",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-05",
       "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -26027,12 +26027,12 @@
       "stories": 0,
       "total": 13,
       "statuses": {
+        "Reopened": 1,
         "In Progress": 1,
         "Issue Accepted": 3,
         "Ready For Test": 1,
         "Open": 6,
-        "Dev Complete": 1,
-        "Closed": 1
+        "Dev Complete": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -26051,12 +26051,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 5,
-      "subtasks": 0,
+    "Javed Ali": {
+      "bugs": 18,
+      "tasks": 4,
+      "subtasks": 3,
       "stories": 0,
-      "total": 5
+      "total": 25
     },
     "vzyfeedback": {
       "bugs": 1142,
@@ -26064,6 +26064,13 @@
       "subtasks": 7,
       "stories": 0,
       "total": 1440
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
     },
     "Dinjit Dinesh": {
       "bugs": 13,
@@ -26148,13 +26155,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "Javed Ali": {
-      "bugs": 18,
-      "tasks": 4,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
     },
     "Moore Meghana": {
       "bugs": 11,
@@ -26305,12 +26305,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 726,
     "Highest": 326,
+    "Medium": 726,
     "High": 306,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-16T10:11:34Z",
+  "updated_at": "2026-02-16T11:08:47Z",
   "total_issues": 1874
 }
