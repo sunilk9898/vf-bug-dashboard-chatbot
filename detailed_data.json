@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2123",
+      "summary": "Naveen => Back button redirection from offer & Plan page ",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-16",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2124",
       "summary": "(Shivani) - After deleting a account, why subscribe button is showing instead of Renew button ",
       "status": "Invalid",
@@ -64,20 +78,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "ANDROID",
       "created": "2026-02-09",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2123",
-      "summary": "Naveen => Back button redirection from offer & Plan page ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-16",
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -26041,9 +26041,10 @@
       "stories": 0,
       "total": 20,
       "statuses": {
+        "On Hold- For Clarification": 1,
         "In Progress": 5,
         "Ready For Test": 3,
-        "Issue Accepted": 7,
+        "Issue Accepted": 6,
         "Reopened": 1,
         "Open": 3,
         "Dev Complete": 1
@@ -26066,6 +26067,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1145,
+      "tasks": 287,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1443
+    },
     "Yashika Krishnani": {
       "bugs": 2,
       "tasks": 2,
@@ -26087,23 +26095,9 @@
       "stories": 0,
       "total": 24
     },
-    "vzyfeedback": {
-      "bugs": 1144,
-      "tasks": 287,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1442
-    },
     "avinash waghmare": {
       "bugs": 3,
       "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Namrata Kurariya": {
-      "bugs": 5,
-      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 7
@@ -26255,6 +26249,13 @@
       "stories": 0,
       "total": 39
     },
+    "Namrata Kurariya": {
+      "bugs": 4,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
     "Aditya Shrivastava": {
       "bugs": 0,
       "tasks": 5,
@@ -26327,12 +26328,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 326,
     "High": 307,
     "Medium": 726,
-    "Highest": 326,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-16T13:39:39Z",
+  "updated_at": "2026-02-16T15:01:50Z",
   "total_issues": 1875
 }
