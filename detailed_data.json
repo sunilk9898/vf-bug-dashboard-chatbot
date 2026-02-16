@@ -19323,20 +19323,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-16",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1921",
       "summary": "Gamezop Integration",
       "status": "In Progress",
@@ -19347,6 +19333,20 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-16",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26051,13 +26051,6 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Javed Ali": {
-      "bugs": 18,
-      "tasks": 4,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
-    },
     "vzyfeedback": {
       "bugs": 1142,
       "tasks": 287,
@@ -26071,6 +26064,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
+    },
+    "Javed Ali": {
+      "bugs": 18,
+      "tasks": 4,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
     },
     "Dinjit Dinesh": {
       "bugs": 13,
@@ -26311,6 +26311,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-16T11:08:47Z",
+  "updated_at": "2026-02-16T11:55:22Z",
   "total_issues": 1874
 }
