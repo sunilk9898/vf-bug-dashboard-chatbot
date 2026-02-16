@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2123",
       "summary": "Naveen => Back button redirection from offer & Plan page ",
       "status": "On Hold- For Clarification",
@@ -25,20 +39,6 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19323,6 +19323,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1901",
+      "summary": "Kaltura Issue",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2065",
       "summary": "FAQ Section to be hidden from all the touch points",
       "status": "In Progress",
@@ -19736,20 +19750,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2026-02-04",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1901",
-      "summary": "Kaltura Issue",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -25695,12 +25695,12 @@
   ],
   "subtasks": [
     {
-      "key": "VF-1951",
-      "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "In Progress",
+      "key": "VF-1952",
+      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "Karan Mahboobani",
-      "platform": "ATV",
+      "platform": "Unknown",
       "created": "2026-02-04",
       "updated": "2026-02-16",
       "duedate": "",
@@ -25709,12 +25709,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1952",
-      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "In Progress",
+      "key": "VF-1951",
+      "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "Karan Mahboobani",
-      "platform": "Unknown",
+      "platform": "ATV",
       "created": "2026-02-04",
       "updated": "2026-02-16",
       "duedate": "",
@@ -26034,6 +26034,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Reopened": 2,
+        "Ready For Test": 35,
+        "Testing On hold": 2,
+        "Closed": 10
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 8,
       "tasks": 12,
@@ -26049,24 +26062,31 @@
         "Open": 3,
         "Dev Complete": 1
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Reopened": 3,
-        "In Progress": 2,
-        "Ready For Test": 32,
-        "Testing On hold": 2,
-        "Closed": 10
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Karan Mahboobani": {
+      "bugs": 0,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 2
+    },
     "vzyfeedback": {
       "bugs": 1145,
       "tasks": 287,
@@ -26095,13 +26115,6 @@
       "stories": 0,
       "total": 24
     },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "shadab Hussain": {
       "bugs": 4,
       "tasks": 4,
@@ -26122,20 +26135,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 29
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
-    "Karan Mahboobani": {
-      "bugs": 0,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 2
     },
     "Unassigned": {
       "bugs": 29,
@@ -26328,12 +26327,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 326,
     "High": 307,
+    "Highest": 326,
     "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-16T15:58:08Z",
+  "updated_at": "2026-02-16T17:03:15Z",
   "total_issues": 1875
 }
