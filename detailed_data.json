@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-1536",
+      "summary": "Live TV Playback Issue",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-26",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1867",
       "summary": "Application gets stuck",
       "status": "Ready For Test",
@@ -6966,20 +6980,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-06",
-      "updated": "2026-01-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1536",
-      "summary": "Live TV Playback Issue",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-26",
       "updated": "2026-01-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19309,6 +19309,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-1921",
+      "summary": "Gamezop Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Aniruddh Patil",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1894",
+      "summary": "Notification sticky count",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2118",
       "summary": "Facebook SDK Integration",
       "status": "Issue Accepted",
@@ -19361,20 +19389,6 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1894",
-      "summary": "Notification sticky count",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19669,20 +19683,6 @@
       "updated": "2026-02-13",
       "duedate": "2025-12-10",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1921",
-      "summary": "Gamezop Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26020,19 +26020,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Ready For Test": 34,
-        "Testing On hold": 3,
-        "Closed": 10,
-        "Reopened": 2
-      }
-    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 1,
       "tasks": 12,
@@ -26040,17 +26027,44 @@
       "stories": 0,
       "total": 13,
       "statuses": {
+        "In Progress": 1,
         "Issue Accepted": 3,
         "Ready For Test": 1,
         "Open": 6,
-        "In Progress": 1,
         "Dev Complete": 1,
         "Closed": 1
+      }
+    },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Ready For Test": 35,
+        "Testing On hold": 2,
+        "Closed": 10,
+        "Reopened": 2
       }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
+    "vzyfeedback": {
+      "bugs": 1142,
+      "tasks": 287,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1440
+    },
     "Dinjit Dinesh": {
       "bugs": 13,
       "tasks": 16,
@@ -26060,10 +26074,10 @@
     },
     "Unassigned": {
       "bugs": 30,
-      "tasks": 32,
+      "tasks": 31,
       "subtasks": 0,
       "stories": 0,
-      "total": 66
+      "total": 65
     },
     "Shubham Chauhan": {
       "bugs": 8,
@@ -26071,13 +26085,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "vzyfeedback": {
-      "bugs": 1142,
-      "tasks": 287,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1440
     },
     "BalaKumar": {
       "bugs": 15,
@@ -26191,13 +26198,6 @@
       "stories": 0,
       "total": 2
     },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
-    },
     "Manikanta P": {
       "bugs": 4,
       "tasks": 9,
@@ -26305,12 +26305,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 326,
     "Medium": 726,
+    "Highest": 326,
     "High": 306,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-16T09:07:47Z",
+  "updated_at": "2026-02-16T10:11:34Z",
   "total_issues": 1874
 }
