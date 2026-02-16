@@ -1,6 +1,314 @@
 {
   "bugs": [
     {
+      "key": "VF-2124",
+      "summary": "(Shivani) - After deleting a account, why subscribe button is showing instead of Renew button ",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-16",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1995",
+      "summary": "Onida TV: Food & Travel category contents fails to play",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1996",
+      "summary": "Onida TV: Live TV Food & Travel content fails to play and back navigation causes infinite buffering",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2123",
+      "summary": "Naveen => Back button redirection from offer & Plan page ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-16",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2073",
+      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2111",
+      "summary": "Link redirection is not working on on ios and android",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2084",
+      "summary": "View All option not available ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-12",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1983",
+      "summary": "Mobile: Skip Intro text and icon are not visible or clickable during playback",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1998",
+      "summary": "Mobile: Play button is not working for Masti Music channel on Live TV screen",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2003",
+      "summary": "Mobile: Live TV channels show incorrect availability status.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2017",
+      "summary": "Mobile: Application crashes when repeatedly navigating between screens and refreshing the Home screen",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2023",
+      "summary": "Mobile: Home page loads blank on launch and remains blank after app relaunch",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2027",
+      "summary": "Mobile: Home page remains blank when user switches categories (Movies/Sports) and returns to Home section.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2029",
+      "summary": "Mobile: More Like This feature is non-functional for Cheraathukal movie.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2030",
+      "summary": "Mobile: Live Nursery Rhymes playback starts in paused state with no video display in Kids section.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1979",
+      "summary": "Web: Something went wrong error is displayed when clicking on View Past Ticket in Help section.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2006",
+      "summary": "Web: Navigation to ZEE5 becomes unresponsive when accessed via OTT Suggestions",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2009",
+      "summary": "Mobile: K-Drama content is not displayed in K-drama section blank black page is opening.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2010",
+      "summary": "Web: Live TV music channels like Masti TV and Punjabi Hits open a blank page and do not play.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2033",
+      "summary": "Mobile: ZEE5 and Hotstar content shows \u201cNo Content Available\u201d",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1305",
       "summary": "(Shruti) OTP is not auto-read",
       "status": "Reopened",
@@ -533,20 +841,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2123",
-      "summary": "Naveen => Back button redirection from offer & Plan page ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-16",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1546",
       "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
       "status": "In Progress",
@@ -841,20 +1135,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2026",
       "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
       "status": "In Progress",
@@ -953,34 +1233,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2084",
-      "summary": "View All option not available ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2111",
-      "summary": "Link redirection is not working on on ios and android",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2088",
       "summary": "Issue in Account deletion",
       "status": "Closed",
@@ -1002,20 +1254,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-06",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2073",
-      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "ATV",
-      "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1169,34 +1407,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "SAM_TV",
-      "created": "2026-02-06",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1995",
-      "summary": "Onida TV: Food & Travel category contents fails to play",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1996",
-      "summary": "Onida TV: Live TV Food & Travel content fails to play and back navigation causes infinite buffering",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
       "created": "2026-02-06",
       "updated": "2026-02-11",
       "duedate": "",
@@ -1366,20 +1576,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-03",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Sameeksha Vinodiya",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1723,20 +1919,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2030",
-      "summary": "Mobile: Live Nursery Rhymes playback starts in paused state with no video display in Kids section.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2035",
       "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
       "status": "Issue Accepted",
@@ -1751,50 +1933,8 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2029",
-      "summary": "Mobile: More Like This feature is non-functional for Cheraathukal movie.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2028",
       "summary": "Mobile: Bottom navigation bar is inaccessible as it overlaps with device navigation buttons.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2027",
-      "summary": "Mobile: Home page remains blank when user switches categories (Movies/Sports) and returns to Home section.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2023",
-      "summary": "Mobile: Home page loads blank on launch and remains blank after app relaunch",
       "status": "Onhold-For Tech Dependency",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -1821,50 +1961,8 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2017",
-      "summary": "Mobile: Application crashes when repeatedly navigating between screens and refreshing the Home screen",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1983",
-      "summary": "Mobile: Skip Intro text and icon are not visible or clickable during playback",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2014",
       "summary": "Mobile: Category option is showing only in bhakti and kids section but  not showing in series and movies section user has to scroll then only categories are dispalyed.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1998",
-      "summary": "Mobile: Play button is not working for Masti Music channel on Live TV screen",
       "status": "Onhold-For Tech Dependency",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -1933,20 +2031,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2003",
-      "summary": "Mobile: Live TV channels show incorrect availability status.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2040",
       "summary": "Samsung TV: Playback continuously buffers for ToonzKids Ninos content in Kids profile.",
       "status": "Ready For Test",
@@ -1981,34 +2065,6 @@
       "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1979",
-      "summary": "Web: Something went wrong error is displayed when clicking on View Past Ticket in Help section.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2009",
-      "summary": "Mobile: K-Drama content is not displayed in K-drama section blank black page is opening.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
       "created": "2026-02-06",
       "updated": "2026-02-06",
       "duedate": "",
@@ -2078,48 +2134,6 @@
       "status": "Issue Accepted",
       "priority": "Low",
       "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2033",
-      "summary": "Mobile: ZEE5 and Hotstar content shows \u201cNo Content Available\u201d",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2006",
-      "summary": "Web: Navigation to ZEE5 becomes unresponsive when accessed via OTT Suggestions",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2010",
-      "summary": "Web: Live TV music channels like Masti TV and Punjabi Hits open a blank page and do not play.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-06",
       "updated": "2026-02-06",
@@ -19309,6 +19323,104 @@
   ],
   "tasks": [
     {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1970",
+      "summary": "Sony LIV - ads tntegration on Smart TV",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-818",
+      "summary": "Playback / Player\tListing of Episodes",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2025-11-28",
+      "updated": "2026-02-16",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2066",
+      "summary": "Branch.io with Custom integration",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-10",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1932",
+      "summary": "Times Play Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-598",
+      "summary": "SEO Redirects",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "WEB",
+      "created": "2025-11-19",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-468",
       "summary": "Geo Blocking - Phase 1 ",
       "status": "Reopened",
@@ -19389,34 +19501,6 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -19743,20 +19827,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1932",
-      "summary": "Times Play Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1621",
       "summary": "AHA - Telugu/Tamil",
       "status": "Parked",
@@ -19767,20 +19837,6 @@
       "updated": "2026-02-13",
       "duedate": "2026-01-30",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-598",
-      "summary": "SEO Redirects",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "WEB",
-      "created": "2025-11-19",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20373,20 +20429,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2066",
-      "summary": "Branch.io with Custom integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-10",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-484",
       "summary": "Set Reminder for Upcoming Content",
       "status": "Parked",
@@ -20495,20 +20537,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-818",
-      "summary": "Playback / Player\tListing of Episodes",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2025-11-28",
-      "updated": "2026-02-12",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20943,20 +20971,6 @@
       "updated": "2026-02-05",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1970",
-      "summary": "Sony LIV - ads tntegration on Smart TV",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -25681,25 +25695,11 @@
   ],
   "subtasks": [
     {
-      "key": "VF-1948",
-      "summary": "iOS - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1951",
       "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Ready For Test",
+      "status": "In Progress",
       "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
+      "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-04",
       "updated": "2026-02-16",
@@ -25711,10 +25711,24 @@
     {
       "key": "VF-1952",
       "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1948",
+      "summary": "iOS - Parameters need to add in the generate OTP API for 5000 user login support",
       "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
+      "assignee": "Abhishek Dhok",
+      "platform": "IOS",
       "created": "2026-02-04",
       "updated": "2026-02-16",
       "duedate": "",
@@ -26021,17 +26035,17 @@
   ],
   "sprints": {
     "VZY Sprint (27 Feb 2026)": {
-      "bugs": 1,
+      "bugs": 8,
       "tasks": 12,
       "subtasks": 0,
       "stories": 0,
-      "total": 13,
+      "total": 20,
       "statuses": {
+        "In Progress": 5,
+        "Ready For Test": 3,
+        "Issue Accepted": 7,
         "Reopened": 1,
-        "In Progress": 1,
-        "Issue Accepted": 3,
-        "Ready For Test": 1,
-        "Open": 6,
+        "Open": 3,
         "Dev Complete": 1
       }
     },
@@ -26042,49 +26056,64 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Ready For Test": 35,
+        "Reopened": 3,
+        "In Progress": 2,
+        "Ready For Test": 32,
         "Testing On hold": 2,
-        "Closed": 10,
-        "Reopened": 2
+        "Closed": 10
       }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 2,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "devaraj": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 9
+    },
+    "BalaKumar": {
+      "bugs": 15,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
     "vzyfeedback": {
-      "bugs": 1142,
+      "bugs": 1144,
       "tasks": 287,
       "subtasks": 7,
       "stories": 0,
-      "total": 1440
+      "total": 1442
     },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
-    "Javed Ali": {
-      "bugs": 18,
+    "avinash waghmare": {
+      "bugs": 3,
       "tasks": 4,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
-    },
-    "Dinjit Dinesh": {
-      "bugs": 13,
-      "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 30
+      "total": 7
     },
-    "Unassigned": {
-      "bugs": 30,
-      "tasks": 31,
+    "Namrata Kurariya": {
+      "bugs": 5,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 65
+      "total": 7
+    },
+    "shadab Hussain": {
+      "bugs": 4,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "Shubham Chauhan": {
       "bugs": 8,
@@ -26093,19 +26122,54 @@
       "stories": 0,
       "total": 13
     },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 9,
-      "subtasks": 1,
+    "Dinjit Dinesh": {
+      "bugs": 13,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 29
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Karan Mahboobani": {
+      "bugs": 0,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 2
+    },
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 64
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "Javed Ali": {
+      "bugs": 18,
+      "tasks": 4,
+      "subtasks": 3,
       "stories": 0,
       "total": 25
     },
     "Sameeksha Vinodiya": {
-      "bugs": 6,
+      "bugs": 5,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 8
+      "total": 7
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -26113,20 +26177,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 4,
-      "stories": 0,
-      "total": 13
-    },
-    "devaraj": {
-      "bugs": 6,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 8
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -26149,13 +26199,6 @@
       "stories": 0,
       "total": 14
     },
-    "Yashika Krishnani": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
     "Moore Meghana": {
       "bugs": 11,
       "tasks": 1,
@@ -26177,20 +26220,6 @@
       "stories": 0,
       "total": 10
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
-    },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
     "Akash Kushwaha": {
       "bugs": 0,
       "tasks": 1,
@@ -26205,13 +26234,6 @@
       "stories": 1,
       "total": 14
     },
-    "shadab Hussain": {
-      "bugs": 4,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Ajay Kushwaha": {
       "bugs": 10,
       "tasks": 2,
@@ -26219,19 +26241,19 @@
       "stories": 0,
       "total": 12
     },
+    "Amit Kumar Tiwari": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
     "Vikas Mishra": {
       "bugs": 37,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 39
-    },
-    "Namrata Kurariya": {
-      "bugs": 4,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -26305,12 +26327,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 326,
+    "High": 307,
     "Medium": 726,
-    "High": 306,
+    "Highest": 326,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-16T11:55:22Z",
-  "total_issues": 1874
+  "updated_at": "2026-02-16T13:39:39Z",
+  "total_issues": 1875
 }
