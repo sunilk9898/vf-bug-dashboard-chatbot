@@ -19309,6 +19309,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2118",
+      "summary": "Facebook SDK Integration",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-13",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2097",
+      "summary": "MS Clarity/UxCAM",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-02-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "Ready For Test",
@@ -19456,20 +19484,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-02-12",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2118",
-      "summary": "Facebook SDK Integration",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-02-13",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19641,20 +19655,6 @@
       "updated": "2026-02-13",
       "duedate": "2026-01-30",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2097",
-      "summary": "MS Clarity/UxCAM",
-      "status": "Duplicate",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26035,15 +26035,14 @@
     },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 1,
-      "tasks": 13,
+      "tasks": 12,
       "subtasks": 0,
       "stories": 0,
-      "total": 14,
+      "total": 13,
       "statuses": {
         "Issue Accepted": 3,
         "Ready For Test": 1,
         "Open": 6,
-        "Duplicate": 1,
         "In Progress": 1,
         "Dev Complete": 1,
         "Closed": 1
@@ -26052,6 +26051,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Dinjit Dinesh": {
+      "bugs": 13,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 30
+    },
+    "Unassigned": {
+      "bugs": 30,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 66
+    },
     "Shubham Chauhan": {
       "bugs": 8,
       "tasks": 5,
@@ -26072,13 +26085,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 25
-    },
-    "Unassigned": {
-      "bugs": 30,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 66
     },
     "Sameeksha Vinodiya": {
       "bugs": 6,
@@ -26150,13 +26156,6 @@
       "stories": 0,
       "total": 13
     },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
-    },
     "abhilash.ramesh": {
       "bugs": 10,
       "tasks": 3,
@@ -26171,13 +26170,6 @@
       "stories": 0,
       "total": 10
     },
-    "Dinjit Dinesh": {
-      "bugs": 13,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 29
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
       "tasks": 18,
@@ -26191,6 +26183,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
+    },
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 2
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -26312,6 +26311,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-16T07:20:50Z",
+  "updated_at": "2026-02-16T09:07:47Z",
   "total_issues": 1874
 }
