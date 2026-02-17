@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-1916",
+      "summary": "Trailer in PIP mode",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1890",
       "summary": "Content not getting ingested on time",
       "status": "Reopened",
@@ -8,9 +22,51 @@
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
       "created": "2026-01-29",
-      "updated": "2026-02-16",
+      "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2070",
+      "summary": "Kaltura Issue: 16x9 cover image not available for hoichoi content",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-11",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2119",
+      "summary": "Incorrect meta data",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-02-13",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2060",
+      "summary": "Ancillary Menu navigation",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -491,20 +547,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2060",
-      "summary": "Ancillary Menu navigation",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2018",
       "summary": "MI TV: Incorrect content plays when navigating to next episode from Sports section",
       "status": "Ready For Test",
@@ -869,20 +911,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2119",
-      "summary": "Incorrect meta data",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-02-13",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1913",
       "summary": "Content Download Speed",
       "status": "Ready For Test",
@@ -933,20 +961,6 @@
       "platform": "CMS Adaptor",
       "created": "2026-01-30",
       "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1916",
-      "summary": "Trailer in PIP mode",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
@@ -1100,20 +1114,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Kaltura",
       "created": "2026-02-12",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2070",
-      "summary": "Kaltura Issue: 16x9 cover image not available for hoichoi content",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-11",
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19323,6 +19323,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1901",
       "summary": "Kaltura Issue",
       "status": "Ready For Test",
@@ -19375,20 +19389,6 @@
       "updated": "2026-02-16",
       "duedate": "2026-01-30",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26041,8 +26041,8 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Ready For Test": 35,
-        "Reopened": 2,
+        "Reopened": 3,
+        "Ready For Test": 34,
         "Testing On hold": 2,
         "Closed": 10
       }
@@ -26066,12 +26066,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 19,
-      "subtasks": 0,
+    "vzyfeedback": {
+      "bugs": 1145,
+      "tasks": 287,
+      "subtasks": 7,
       "stories": 0,
-      "total": 35
+      "total": 1443
+    },
+    "Alok Gupta": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
     },
     "avinash waghmare": {
       "bugs": 3,
@@ -26080,19 +26087,19 @@
       "stories": 0,
       "total": 7
     },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
     "Karan Mahboobani": {
       "bugs": 0,
       "tasks": 0,
       "subtasks": 2,
       "stories": 0,
       "total": 2
-    },
-    "vzyfeedback": {
-      "bugs": 1145,
-      "tasks": 287,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1443
     },
     "Yashika Krishnani": {
       "bugs": 2,
@@ -26184,13 +26191,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Alok Gupta": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
     },
     "Moore Meghana": {
       "bugs": 11,
@@ -26327,12 +26327,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 726,
     "High": 307,
     "Highest": 326,
-    "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T03:14:20Z",
+  "updated_at": "2026-02-17T05:04:58Z",
   "total_issues": 1875
 }
