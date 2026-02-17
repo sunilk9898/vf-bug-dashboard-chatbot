@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2141",
+      "summary": "Live TV guide",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Unknown",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1802",
+      "summary": "Mobile: Terms & Conditions link redirects to a blank page",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-01-22",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2132",
       "summary": "Fliqs TVOD / SVOD - CTA issue",
       "status": "Open",
@@ -1870,20 +1898,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1802",
-      "summary": "Mobile: Terms & Conditions link redirects to a blank page",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-01-22",
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26277,6 +26291,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
+    "vzyfeedback": {
+      "bugs": 1144,
+      "tasks": 286,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1441
+    },
     "Karan Mahboobani": {
       "bugs": 0,
       "tasks": 0,
@@ -26291,26 +26319,12 @@
       "stories": 0,
       "total": 13
     },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
-    },
     "Srinidhi.Raju": {
       "bugs": 8,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "vzyfeedback": {
-      "bugs": 1144,
-      "tasks": 286,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1441
     },
     "Yashika Krishnani": {
       "bugs": 2,
@@ -26545,12 +26559,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 740,
+    "Medium": 741,
+    "Low": 19,
     "High": 307,
     "Highest": 326,
-    "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T11:55:17Z",
-  "total_issues": 1891
+  "updated_at": "2026-02-17T13:40:04Z",
+  "total_issues": 1892
 }
