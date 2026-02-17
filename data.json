@@ -9,7 +9,7 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 1,
+      "OPEN": 2,
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -49,7 +49,7 @@
       "PARKED": 1
     },
     "IOS": {
-      "OPEN": 0,
+      "OPEN": 5,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 1,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-17T07:16:43Z",
-  "total_issues_fetched": 1878,
+  "updated_at": "2026-02-17T09:05:20Z",
+  "total_issues_fetched": 1884,
   "project": "VF"
 }

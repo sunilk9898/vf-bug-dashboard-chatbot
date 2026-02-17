@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2133",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2132",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2131",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2130",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2129",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2128",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1890",
       "summary": "Content not getting ingested on time",
       "status": "In Progress",
@@ -26095,6 +26179,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Dinjit Dinesh": {
+      "bugs": 17,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
+    },
+    "Srinidhi.Raju": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
       "tasks": 19,
@@ -26136,13 +26234,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "Dinjit Dinesh": {
-      "bugs": 14,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 31
     },
     "Javed Ali": {
       "bugs": 18,
@@ -26356,12 +26447,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 733,
     "High": 307,
-    "Medium": 727,
     "Highest": 326,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T07:16:43Z",
-  "total_issues": 1878
+  "updated_at": "2026-02-17T09:05:20Z",
+  "total_issues": 1884
 }
