@@ -25905,26 +25905,26 @@
   ],
   "subtasks": [
     {
-      "key": "VF-1952",
-      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1951",
       "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
       "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1952",
+      "summary": "Firestick - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "Unknown",
       "created": "2026-02-04",
       "updated": "2026-02-16",
       "duedate": "",
@@ -26251,9 +26251,9 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "Ready For Test": 32,
         "Reopened": 3,
         "In Progress": 1,
-        "Ready For Test": 32,
         "Closed": 12,
         "Testing On hold": 1
       }
@@ -26277,6 +26277,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Karan Mahboobani": {
+      "bugs": 0,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 2
+    },
     "abhilash.ramesh": {
       "bugs": 10,
       "tasks": 3,
@@ -26360,13 +26367,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 14
-    },
-    "Karan Mahboobani": {
-      "bugs": 0,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 2
     },
     "devaraj": {
       "bugs": 6,
@@ -26551,6 +26551,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T11:07:48Z",
+  "updated_at": "2026-02-17T11:55:17Z",
   "total_issues": 1891
 }
