@@ -19519,6 +19519,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1871",
+      "summary": "Search Engine Enhancements with AI Companion",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "ATV",
+      "created": "2026-01-28",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1933",
       "summary": "Shemaroo - CP Integration",
       "status": "Ready For Test",
@@ -20648,20 +20662,6 @@
       "created": "2025-12-08",
       "updated": "2026-02-12",
       "duedate": "2025-12-31",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1871",
-      "summary": "Search Engine Enhancements with AI Companion",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "ATV",
-      "created": "2026-01-28",
-      "updated": "2026-02-12",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26277,6 +26277,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "abhilash.ramesh": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
     "Dinjit Dinesh": {
       "bugs": 19,
       "tasks": 16,
@@ -26417,13 +26424,6 @@
       "stories": 0,
       "total": 13
     },
-    "abhilash.ramesh": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 5,
@@ -26551,6 +26551,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T10:07:27Z",
+  "updated_at": "2026-02-17T11:07:48Z",
   "total_issues": 1891
 }
