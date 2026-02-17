@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2120",
+      "summary": "Genre reflecting twice on FE",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-13",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1902",
+      "summary": "Delete Account",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2038",
+      "summary": "Delete account - Android",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-06",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1913",
+      "summary": "Content Download Speed",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2056",
+      "summary": "iOS - Sign.In",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-09",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1305",
+      "summary": "(Shruti) OTP is not auto-read",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2025-12-18",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Sameeksha Vinodiya",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1916",
       "summary": "Trailer in PIP mode",
       "status": "Reopened",
@@ -365,20 +477,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1305",
-      "summary": "(Shruti) OTP is not auto-read",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2025-12-18",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1728",
       "summary": "Naveen -> Vzy app is not opening in Android TV ",
       "status": "Closed",
@@ -645,20 +743,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2056",
-      "summary": "iOS - Sign.In",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-02-09",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2034",
       "summary": "MI TV: Episodes do not start playback and redirect back to episode list for Dharm Yoddha Garuda series",
       "status": "Ready For Test",
@@ -911,20 +995,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1913",
-      "summary": "Content Download Speed",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1908",
       "summary": "Content Viewing Sun Nxt - SAM / LG ",
       "status": "Ready For Test",
@@ -949,34 +1019,6 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1902",
-      "summary": "Delete Account",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2038",
-      "summary": "Delete account - Android",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-06",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1061,20 +1103,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2120",
-      "summary": "Genre reflecting twice on FE",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-13",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1325,20 +1353,6 @@
       "platform": "WEB",
       "created": "2026-02-11",
       "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-11",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -19323,6 +19337,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2126",
+      "summary": "SonyLiv SSO",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "Reopened",
@@ -19337,6 +19365,48 @@
       "fixversion": ""
     },
     {
+      "key": "VF-651",
+      "summary": "Home screen banner \u2013 2:3 ",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "IOS",
+      "created": "2025-11-25",
+      "updated": "2026-02-17",
+      "duedate": "2025-11-28",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1734",
+      "summary": "VZY One to be with VZY",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "LG_TV",
+      "created": "2026-01-20",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1901",
       "summary": "Kaltura Issue",
       "status": "Ready For Test",
@@ -19347,20 +19417,6 @@
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -21381,20 +21437,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-651",
-      "summary": "Home screen banner \u2013 2:3 ",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2025-11-25",
-      "updated": "2026-01-30",
-      "duedate": "2025-11-28",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-588",
       "summary": "Current Popups throughout the application",
       "status": "Closed",
@@ -21446,20 +21488,6 @@
       "created": "2025-11-17",
       "updated": "2026-01-29",
       "duedate": "2025-11-13",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1734",
-      "summary": "VZY One to be with VZY",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-01-20",
-      "updated": "2026-01-29",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26041,10 +26069,10 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "Closed": 13,
         "Reopened": 3,
-        "Ready For Test": 34,
-        "Testing On hold": 2,
-        "Closed": 10
+        "Ready For Test": 31,
+        "Testing On hold": 2
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -26054,24 +26082,66 @@
       "stories": 0,
       "total": 20,
       "statuses": {
+        "Dev Complete": 2,
         "On Hold- For Clarification": 1,
-        "In Progress": 5,
+        "In Progress": 4,
         "Ready For Test": 3,
         "Issue Accepted": 6,
         "Reopened": 1,
-        "Open": 3,
-        "Dev Complete": 1
+        "Open": 3
       }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 65
+    },
     "vzyfeedback": {
-      "bugs": 1145,
-      "tasks": 287,
+      "bugs": 1144,
+      "tasks": 286,
       "subtasks": 7,
       "stories": 0,
-      "total": 1443
+      "total": 1441
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Yashika Krishnani": {
+      "bugs": 2,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "Dinjit Dinesh": {
+      "bugs": 14,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 31
+    },
+    "Javed Ali": {
+      "bugs": 18,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 26
+    },
+    "Sameeksha Vinodiya": {
+      "bugs": 6,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "Alok Gupta": {
       "bugs": 9,
@@ -26101,13 +26171,6 @@
       "stories": 0,
       "total": 2
     },
-    "Yashika Krishnani": {
-      "bugs": 2,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
-    },
     "devaraj": {
       "bugs": 6,
       "tasks": 1,
@@ -26136,20 +26199,6 @@
       "stories": 0,
       "total": 13
     },
-    "Dinjit Dinesh": {
-      "bugs": 13,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 29
-    },
-    "Unassigned": {
-      "bugs": 29,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 64
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 4,
@@ -26157,26 +26206,12 @@
       "stories": 0,
       "total": 4
     },
-    "Javed Ali": {
-      "bugs": 18,
-      "tasks": 4,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
-    },
-    "Sameeksha Vinodiya": {
-      "bugs": 5,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "Abhishek Dhok": {
       "bugs": 6,
-      "tasks": 3,
+      "tasks": 2,
       "subtasks": 2,
       "stories": 0,
-      "total": 11
+      "total": 10
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -26184,13 +26219,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Moore Meghana": {
       "bugs": 11,
@@ -26327,12 +26355,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 726,
-    "High": 307,
+    "Medium": 727,
     "Highest": 326,
+    "High": 307,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T05:04:58Z",
-  "total_issues": 1875
+  "updated_at": "2026-02-17T06:11:09Z",
+  "total_issues": 1877
 }
