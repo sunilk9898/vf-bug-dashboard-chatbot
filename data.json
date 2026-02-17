@@ -1,15 +1,15 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 0,
+      "OPEN": 2,
       "IN PROGRESS": 3,
-      "REOPENED": 1,
+      "REOPENED": 2,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 3,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 2,
+      "OPEN": 5,
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -89,7 +89,7 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 0,
+      "OPEN": 2,
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-17T09:05:20Z",
-  "total_issues_fetched": 1884,
+  "updated_at": "2026-02-17T10:07:27Z",
+  "total_issues_fetched": 1891,
   "project": "VF"
 }

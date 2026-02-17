@@ -1,8 +1,8 @@
 {
   "bugs": [
     {
-      "key": "VF-2133",
-      "summary": "Fliqs TVOD / SVOD",
+      "key": "VF-2132",
+      "summary": "Fliqs TVOD / SVOD - CTA issue",
       "status": "Open",
       "priority": "Medium",
       "assignee": "Dinjit Dinesh",
@@ -15,8 +15,8 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2132",
-      "summary": "Fliqs TVOD / SVOD",
+      "key": "VF-2133",
+      "summary": "Fliqs TVOD / SVOD - UI issue",
       "status": "Open",
       "priority": "Medium",
       "assignee": "Dinjit Dinesh",
@@ -25,6 +25,132 @@
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2134",
+      "summary": "Fliqs TVOD / SVOD - Error toast",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2135",
+      "summary": "TVOD / SVOD - CTA",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2137",
+      "summary": "Fliqs TVOD / SVOD - wrong content",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2138",
+      "summary": "Fliqs TVOD / SVOD - UI",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2140",
+      "summary": "Fliqs TVOD / SVOD - Pay Now",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2136",
+      "summary": "Fliqs - Report",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1913",
+      "summary": "Content Download Speed",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -148,20 +274,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "ANDROID",
       "created": "2026-02-06",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1913",
-      "summary": "Content Download Speed",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -330,20 +442,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -26153,10 +26251,10 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "Reopened": 3,
         "In Progress": 1,
         "Ready For Test": 32,
-        "Closed": 13,
-        "Reopened": 2,
+        "Closed": 12,
         "Testing On hold": 1
       }
     },
@@ -26167,11 +26265,11 @@
       "stories": 0,
       "total": 20,
       "statuses": {
+        "Issue Accepted": 6,
         "Dev Complete": 2,
         "On Hold- For Clarification": 1,
         "In Progress": 4,
         "Ready For Test": 3,
-        "Issue Accepted": 6,
         "Reopened": 1,
         "Open": 3
       }
@@ -26180,18 +26278,32 @@
   "releases": {},
   "assignee_workload": {
     "Dinjit Dinesh": {
-      "bugs": 17,
+      "bugs": 19,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 34
+      "total": 36
     },
     "Srinidhi.Raju": {
-      "bugs": 3,
+      "bugs": 8,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 3
+      "total": 8
+    },
+    "vzyfeedback": {
+      "bugs": 1144,
+      "tasks": 286,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1441
+    },
+    "Yashika Krishnani": {
+      "bugs": 2,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -26214,26 +26326,12 @@
       "stories": 0,
       "total": 65
     },
-    "vzyfeedback": {
-      "bugs": 1144,
-      "tasks": 286,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1441
-    },
     "Suyog Lanje": {
       "bugs": 1,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Yashika Krishnani": {
-      "bugs": 2,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
     },
     "Javed Ali": {
       "bugs": 18,
@@ -26447,12 +26545,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 733,
+    "Medium": 740,
     "High": 307,
     "Highest": 326,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T09:05:20Z",
-  "total_issues": 1884
+  "updated_at": "2026-02-17T10:07:27Z",
+  "total_issues": 1891
 }
