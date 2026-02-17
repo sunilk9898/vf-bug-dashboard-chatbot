@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2026",
+      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2120",
       "summary": "Genre reflecting twice on FE",
       "status": "Reopened",
@@ -120,20 +148,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-03",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -1159,20 +1173,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2026",
-      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19337,6 +19337,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1933",
+      "summary": "Shemaroo - CP Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-02-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2126",
       "summary": "SonyLiv SSO",
       "status": "Open",
@@ -20789,20 +20803,6 @@
       "updated": "2026-02-11",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1933",
-      "summary": "Shemaroo - CP Integration",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26069,10 +26069,11 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "In Progress": 1,
+        "Ready For Test": 32,
         "Closed": 13,
-        "Reopened": 3,
-        "Ready For Test": 31,
-        "Testing On hold": 2
+        "Reopened": 2,
+        "Testing On hold": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -26094,6 +26095,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "Unassigned": {
       "bugs": 29,
       "tasks": 32,
@@ -26149,20 +26164,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 14
-    },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
     },
     "Karan Mahboobani": {
       "bugs": 0,
@@ -26355,12 +26356,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 307,
     "Medium": 727,
     "Highest": 326,
-    "High": 307,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T06:11:09Z",
-  "total_issues": 1877
+  "updated_at": "2026-02-17T07:16:43Z",
+  "total_issues": 1878
 }
