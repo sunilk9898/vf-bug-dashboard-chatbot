@@ -19330,7 +19330,7 @@
       "assignee": "Amudha Kaliamoorthi",
       "platform": "CMS Adaptor",
       "created": "2026-01-30",
-      "updated": "2026-02-16",
+      "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
@@ -26041,8 +26041,8 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Reopened": 2,
         "Ready For Test": 35,
+        "Reopened": 2,
         "Testing On hold": 2,
         "Closed": 10
       }
@@ -26066,19 +26066,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
       "tasks": 19,
       "subtasks": 0,
       "stories": 0,
       "total": 35
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "Karan Mahboobani": {
       "bugs": 0,
@@ -26333,6 +26333,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-16T23:45:31Z",
+  "updated_at": "2026-02-17T03:14:20Z",
   "total_issues": 1875
 }
