@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Sameeksha Vinodiya",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1574",
+      "summary": "GTM | Firebase | Missing parameters in firebase same availabe on GTM (IOS)",
+      "status": "In Review",
+      "priority": "High",
+      "assignee": "Adikeshava Reddy",
+      "platform": "IOS",
+      "created": "2025-12-30",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1916",
+      "summary": "Trailer in PIP mode",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2150",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1982",
+      "summary": "Web: YouTube video in Self Help section is displayed as Unavailable under OTT Plans and Bundle.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2057",
+      "summary": "Fliqs channel page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-09",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2149",
       "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
       "status": "Open",
@@ -92,20 +176,6 @@
       "assignee": "Unassigned",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1982",
-      "summary": "Web: YouTube video in Self Help section is displayed as Unavailable under OTT Plans and Bundle.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-06",
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -344,20 +414,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "WEB",
       "created": "2026-02-11",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Sameeksha Vinodiya",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -813,20 +869,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1916",
-      "summary": "Trailer in PIP mode",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2070",
       "summary": "Kaltura Issue: 16x9 cover image not available for hoichoi content",
       "status": "Closed",
@@ -1170,20 +1212,6 @@
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-01-28",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2057",
-      "summary": "Fliqs channel page",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-09",
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1635,20 +1663,6 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1574",
-      "summary": "GTM | Firebase | Missing parameters in firebase same availabe on GTM (IOS)",
-      "status": "In Review",
-      "priority": "High",
-      "assignee": "Adikeshava Reddy",
-      "platform": "IOS",
-      "created": "2025-12-30",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19645,6 +19659,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "Ready For Test",
@@ -20005,20 +20033,6 @@
       "updated": "2026-02-17",
       "duedate": "2025-11-28",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26370,6 +26384,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 16,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35,
+      "statuses": {
+        "Dev Complete": 2,
+        "In Progress": 8,
+        "Issue Accepted": 14,
+        "Invalid": 1,
+        "Closed": 1,
+        "Reopened": 1,
+        "Ready For Test": 5,
+        "Open": 3
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 14,
       "tasks": 18,
@@ -26378,8 +26409,9 @@
       "total": 49,
       "statuses": {
         "Ready For Test": 33,
+        "Dev Complete": 1,
         "Testing On hold": 1,
-        "Reopened": 2,
+        "Reopened": 1,
         "In Progress": 1,
         "Closed": 12
       }
@@ -26394,33 +26426,30 @@
         "On Hold- For Clarification": 1,
         "Open": 1
       }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 16,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35,
-      "statuses": {
-        "In Progress": 8,
-        "Issue Accepted": 14,
-        "Invalid": 1,
-        "Closed": 1,
-        "Reopened": 1,
-        "Ready For Test": 5,
-        "Dev Complete": 2,
-        "Open": 3
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 35,
-      "tasks": 32,
+    "Yashika Krishnani": {
+      "bugs": 2,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 71
+      "total": 6
+    },
+    "Sameeksha Vinodiya": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Adikeshava Reddy": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "vzyfeedback": {
       "bugs": 1144,
@@ -26428,6 +26457,27 @@
       "subtasks": 7,
       "stories": 0,
       "total": 1442
+    },
+    "Alok Gupta": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "Shubham Chauhan": {
+      "bugs": 9,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "Unassigned": {
+      "bugs": 35,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 71
     },
     "abhilash.ramesh": {
       "bugs": 12,
@@ -26464,26 +26514,12 @@
       "stories": 0,
       "total": 7
     },
-    "Yashika Krishnani": {
-      "bugs": 2,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
     "Namrata Kurariya": {
       "bugs": 4,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Sameeksha Vinodiya": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Srinidhi.Raju": {
       "bugs": 8,
@@ -26513,13 +26549,6 @@
       "stories": 0,
       "total": 10
     },
-    "Shubham Chauhan": {
-      "bugs": 8,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
     "Javed Ali": {
       "bugs": 17,
       "tasks": 3,
@@ -26548,26 +26577,12 @@
       "stories": 0,
       "total": 2
     },
-    "Alok Gupta": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
-    },
     "Abhishek Dhok": {
       "bugs": 6,
       "tasks": 2,
       "subtasks": 2,
       "stories": 0,
       "total": 10
-    },
-    "Adikeshava Reddy": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
     },
     "Moore Meghana": {
       "bugs": 11,
@@ -26683,12 +26698,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 327,
     "High": 308,
-    "Medium": 747,
+    "Medium": 748,
+    "Highest": 327,
     "Lowest": 2,
     "Low": 19
   },
-  "updated_at": "2026-02-18T11:55:20Z",
-  "total_issues": 1900
+  "updated_at": "2026-02-18T13:41:40Z",
+  "total_issues": 1901
 }
