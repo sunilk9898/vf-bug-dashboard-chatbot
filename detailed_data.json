@@ -1,9 +1,37 @@
 {
   "bugs": [
     {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2123",
+      "summary": "Naveen => Back button redirection from offer & Plan page ",
+      "status": "Invalid",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-16",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1305",
       "summary": "(Shruti) OTP is not auto-read",
-      "status": "On Hold- For Clarification",
+      "status": "Closed",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
@@ -11,6 +39,34 @@
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Sameeksha Vinodiya",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -137,20 +193,6 @@
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -319,20 +361,6 @@
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -543,20 +571,6 @@
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2123",
-      "summary": "Naveen => Back button redirection from offer & Plan page ",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-16",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1310,20 +1324,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Sameeksha Vinodiya",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19547,6 +19547,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-2074",
+      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1655",
+      "summary": "how to show if there is to many buttons in CD page mainly for FLIQS Channel CD page ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-13",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-18",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-587",
       "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
       "status": "Testing On hold",
@@ -19680,20 +19722,6 @@
       "assignee": "Javed Ali",
       "platform": "ANDROID",
       "created": "2026-02-12",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2074",
-      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-11",
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -19963,20 +19991,6 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-16",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -21040,20 +21054,6 @@
       "created": "2025-12-23",
       "updated": "2026-02-11",
       "duedate": "2026-01-09",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1655",
-      "summary": "how to show if there is to many buttons in CD page mainly for FLIQS Channel CD page ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-13",
-      "updated": "2026-02-11",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26279,9 +26279,10 @@
       "stories": 0,
       "total": 35,
       "statuses": {
-        "On Hold- For Clarification": 2,
-        "In Progress": 7,
-        "Issue Accepted": 15,
+        "Issue Accepted": 14,
+        "Invalid": 1,
+        "In Progress": 8,
+        "Closed": 1,
         "Reopened": 1,
         "Ready For Test": 5,
         "Dev Complete": 2,
@@ -26305,12 +26306,40 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 2,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
     "vzyfeedback": {
       "bugs": 1144,
       "tasks": 287,
       "subtasks": 7,
       "stories": 0,
       "total": 1442
+    },
+    "Namrata Kurariya": {
+      "bugs": 4,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "abhilash.ramesh": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "Sameeksha Vinodiya": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "Srinidhi.Raju": {
       "bugs": 8,
@@ -26332,20 +26361,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 10
-    },
-    "Yashika Krishnani": {
-      "bugs": 2,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
-    "Namrata Kurariya": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -26374,13 +26389,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 23
-    },
-    "abhilash.ramesh": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
     },
     "Javed Ali": {
       "bugs": 17,
@@ -26430,13 +26438,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Sameeksha Vinodiya": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Alok Gupta": {
       "bugs": 9,
@@ -26573,12 +26574,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 742,
     "Highest": 326,
     "High": 307,
-    "Medium": 742,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-18T05:39:45Z",
+  "updated_at": "2026-02-18T07:17:18Z",
   "total_issues": 1893
 }
