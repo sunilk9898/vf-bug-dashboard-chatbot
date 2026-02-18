@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2005",
+      "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2014",
+      "summary": "Mobile: Category option is showing only in bhakti and kids section but  not showing in series and movies section user has to scroll then only categories are dispalyed.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2028",
+      "summary": "Mobile: Bottom navigation bar is inaccessible as it overlaps with device navigation buttons.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1975",
+      "summary": "Mobile : Currently playing episode is not highlighted in the episode list.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1978",
+      "summary": "Mobile: Web subscription page redirects back to mobile app, blocking subscription flow.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1981",
+      "summary": "Mobile : Fullscreen toggle icon is missing on the video player for all videos, preventing users from switching videos to fullscreen mode.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1989",
+      "summary": "Mobile: Settings icon is missing on the video player during video playback",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1779",
+      "summary": "Web-After navigating from the Home Page to the Series module, Series and Spotlight videos take excessive time to load, causing noticeable playback lag.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-01-22",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2019",
+      "summary": "Mobile: After changing the language to Hindi in the VZY application, the Home, Live TV, and New & Now sections are not displayed in Hindi, whereas the My Vibe section is correctly translated into Hindi.",
+      "status": "Parked",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2059",
       "summary": "Inconsistent TOP NAV in \"My vibes\" section",
       "status": "Issue Accepted",
@@ -1569,20 +1709,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2005",
-      "summary": "Mobile : Keyboard opens unexpectedly when scanner is launched",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1757",
       "summary": "(Sagar)- Found issue in Fliqs integration",
       "status": "Closed",
@@ -1919,20 +2045,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1779",
-      "summary": "Web-After navigating from the Home Page to the Series module, Series and Spotlight videos take excessive time to load, causing noticeable playback lag.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-01-22",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1988",
       "summary": "Web: After logging in and selecting Free for Kids, no video plays and a blank screen is shown.",
       "status": "Ready For Test",
@@ -2165,104 +2277,6 @@
       "platform": "IOS",
       "created": "2026-01-25",
       "updated": "2026-02-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2028",
-      "summary": "Mobile: Bottom navigation bar is inaccessible as it overlaps with device navigation buttons.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2019",
-      "summary": "Mobile: After changing the language to Hindi in the VZY application, the Home, Live TV, and New & Now sections are not displayed in Hindi, whereas the My Vibe section is correctly translated into Hindi.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2014",
-      "summary": "Mobile: Category option is showing only in bhakti and kids section but  not showing in series and movies section user has to scroll then only categories are dispalyed.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1989",
-      "summary": "Mobile: Settings icon is missing on the video player during video playback",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1981",
-      "summary": "Mobile : Fullscreen toggle icon is missing on the video player for all videos, preventing users from switching videos to fullscreen mode.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1978",
-      "summary": "Mobile: Web subscription page redirects back to mobile app, blocking subscription flow.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1975",
-      "summary": "Mobile : Currently playing episode is not highlighted in the episode list.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -19547,6 +19561,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-593",
+      "summary": "UXCam integration instead of Clarity",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "WEB",
+      "created": "2025-11-18",
+      "updated": "2026-02-18",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2118",
+      "summary": "Facebook SDK Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2026-02-13",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2074",
       "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
       "status": "In Progress",
@@ -19722,20 +19764,6 @@
       "assignee": "Javed Ali",
       "platform": "ANDROID",
       "created": "2026-02-12",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2118",
-      "summary": "Facebook SDK Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-02-13",
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -20187,20 +20215,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-593",
-      "summary": "UXCam integration instead of Clarity",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "WEB",
-      "created": "2025-11-18",
-      "updated": "2026-02-13",
-      "duedate": "2026-01-30",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -26272,6 +26286,16 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1,
+      "statuses": {
+        "Open": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 16,
       "tasks": 19,
@@ -26279,9 +26303,9 @@
       "stories": 0,
       "total": 35,
       "statuses": {
+        "In Progress": 8,
         "Issue Accepted": 14,
         "Invalid": 1,
-        "In Progress": 8,
         "Closed": 1,
         "Reopened": 1,
         "Ready For Test": 5,
@@ -26306,19 +26330,47 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Yashika Krishnani": {
-      "bugs": 2,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
     "vzyfeedback": {
       "bugs": 1144,
       "tasks": 287,
       "subtasks": 7,
       "stories": 0,
       "total": 1442
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Yashika Krishnani": {
+      "bugs": 2,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "Namrata Kurariya": {
       "bugs": 4,
@@ -26348,19 +26400,12 @@
       "stories": 0,
       "total": 8
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
     "shadab Hussain": {
       "bugs": 4,
-      "tasks": 6,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 10
+      "total": 9
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -26382,13 +26427,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Javed Ali": {
       "bugs": 17,
@@ -26418,26 +26456,12 @@
       "stories": 0,
       "total": 2
     },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
     "Unassigned": {
       "bugs": 29,
       "tasks": 32,
       "subtasks": 0,
       "stories": 0,
       "total": 65
-    },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Alok Gupta": {
       "bugs": 9,
@@ -26574,12 +26598,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 742,
-    "Highest": 326,
     "High": 307,
+    "Medium": 743,
+    "Highest": 326,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-18T07:17:18Z",
-  "total_issues": 1893
+  "updated_at": "2026-02-18T09:05:09Z",
+  "total_issues": 1894
 }
