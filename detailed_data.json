@@ -3,14 +3,56 @@
     {
       "key": "VF-1305",
       "summary": "(Shruti) OTP is not auto-read",
-      "status": "Issue Accepted",
+      "status": "On Hold- For Clarification",
       "priority": "Highest",
-      "assignee": "Yashika Krishnani",
+      "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-12-18",
-      "updated": "2026-02-17",
+      "updated": "2026-02-18",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2022",
+      "summary": "Mobile: Search shows \u201cOops, we couldn\u2019t find anything. Try different keywords\u201d message briefly before displaying valid results",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2136",
+      "summary": "Fliqs - Report",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2142",
+      "summary": "Vivre Issue: Top 10 rail getting enabled automatically ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Unknown",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -259,20 +301,6 @@
       "priority": "Medium",
       "assignee": "Srinidhi.Raju",
       "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2136",
-      "summary": "Fliqs - Report",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
       "created": "2026-02-17",
       "updated": "2026-02-17",
       "duedate": "",
@@ -1479,20 +1507,6 @@
       "platform": "Kaltura",
       "created": "2026-02-11",
       "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2022",
-      "summary": "Mobile: Search shows \u201cOops, we couldn\u2019t find anything. Try different keywords\u201d message briefly before displaying valid results",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -19533,6 +19547,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-18",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1894",
+      "summary": "Notification sticky count",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-468",
       "summary": "Geo Blocking - Phase 1 ",
       "status": "In Progress",
@@ -19911,20 +19953,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1894",
-      "summary": "Notification sticky count",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2097",
       "summary": "MS Clarity/UxCAM",
       "status": "Duplicate",
@@ -20004,20 +20032,6 @@
       "created": "2026-02-03",
       "updated": "2026-02-16",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -25919,6 +25933,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1964",
+      "summary": "iOS - Claver Tap - Notification Inbox",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-04",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1951",
       "summary": "ATV - Parameters need to add in the generate OTP API for 5000 user login support",
       "status": "Ready For Test",
@@ -26023,20 +26051,6 @@
       "priority": "Medium",
       "assignee": "Javed Ali",
       "platform": "ANDROID",
-      "created": "2026-02-04",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1964",
-      "summary": "iOS - Claver Tap - Notification Inbox",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
       "created": "2026-02-04",
       "updated": "2026-02-13",
       "duedate": "",
@@ -26265,12 +26279,12 @@
       "stories": 0,
       "total": 35,
       "statuses": {
+        "On Hold- For Clarification": 2,
         "In Progress": 7,
-        "Issue Accepted": 16,
+        "Issue Accepted": 15,
         "Reopened": 1,
         "Ready For Test": 5,
         "Dev Complete": 2,
-        "On Hold- For Clarification": 1,
         "Open": 3
       }
     },
@@ -26282,21 +26296,35 @@
       "total": 49,
       "statuses": {
         "Ready For Test": 32,
+        "Testing On hold": 1,
         "Reopened": 3,
         "In Progress": 1,
-        "Closed": 12,
-        "Testing On hold": 1
+        "Closed": 12
       }
     }
   },
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1143,
+      "bugs": 1144,
       "tasks": 287,
       "subtasks": 7,
       "stories": 0,
-      "total": 1441
+      "total": 1442
+    },
+    "Srinidhi.Raju": {
+      "bugs": 8,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -26306,11 +26334,11 @@
       "total": 10
     },
     "Yashika Krishnani": {
-      "bugs": 3,
+      "bugs": 2,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 7
+      "total": 6
     },
     "Namrata Kurariya": {
       "bugs": 5,
@@ -26388,20 +26416,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 35
-    },
-    "Srinidhi.Raju": {
-      "bugs": 8,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "Unassigned": {
       "bugs": 29,
@@ -26561,10 +26575,10 @@
   "priority_breakdown": {
     "Highest": 326,
     "High": 307,
+    "Medium": 742,
     "Low": 19,
-    "Medium": 741,
     "Lowest": 2
   },
-  "updated_at": "2026-02-18T03:17:51Z",
-  "total_issues": 1892
+  "updated_at": "2026-02-18T05:39:45Z",
+  "total_issues": 1893
 }
