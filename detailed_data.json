@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2138",
+      "summary": "Fliqs TVOD / SVOD - UI",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1546",
       "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
       "status": "Reopened",
@@ -650,20 +664,6 @@
       "status": "Open",
       "priority": "Medium",
       "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2138",
-      "summary": "Fliqs TVOD / SVOD - UI",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
       "platform": "ATV",
       "created": "2026-02-17",
       "updated": "2026-02-17",
@@ -19659,6 +19659,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-18",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-462",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-18",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2065",
       "summary": "FAQ Section to be hidden from all the touch points",
       "status": "Dev Complete",
@@ -19753,20 +19781,6 @@
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-18",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20144,20 +20158,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-16",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-462",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-16",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -26384,6 +26384,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Ready For Test": 33,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
+        "Reopened": 1,
+        "In Progress": 1,
+        "Closed": 12
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 16,
       "tasks": 19,
@@ -26401,21 +26416,6 @@
         "Open": 3
       }
     },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Ready For Test": 33,
-        "Dev Complete": 1,
-        "Testing On hold": 1,
-        "Reopened": 1,
-        "In Progress": 1,
-        "Closed": 12
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -26430,6 +26430,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1145,
+      "tasks": 287,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1443
+    },
     "Yashika Krishnani": {
       "bugs": 2,
       "tasks": 4,
@@ -26450,13 +26457,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "vzyfeedback": {
-      "bugs": 1144,
-      "tasks": 287,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1442
     },
     "Alok Gupta": {
       "bugs": 9,
@@ -26522,11 +26522,11 @@
       "total": 8
     },
     "Srinidhi.Raju": {
-      "bugs": 8,
+      "bugs": 7,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 8
+      "total": 7
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -26698,12 +26698,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 308,
     "Medium": 748,
+    "High": 308,
     "Highest": 327,
     "Lowest": 2,
     "Low": 19
   },
-  "updated_at": "2026-02-18T13:41:40Z",
+  "updated_at": "2026-02-18T15:05:39Z",
   "total_issues": 1901
 }
