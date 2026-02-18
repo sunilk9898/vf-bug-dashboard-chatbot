@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2144",
+      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2149",
+      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2145",
+      "summary": "(Tamanna) - Zee5 trailers not playing.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2141",
+      "summary": "Live TV guide",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "Unknown",
+      "created": "2026-02-17",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2138",
       "summary": "Fliqs TVOD / SVOD - UI",
       "status": "Open",
@@ -99,20 +169,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2149",
-      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-18",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2146",
       "summary": "(Shivani) - On opening the LG app, only a blank screen is appearing.",
       "status": "Open",
@@ -157,34 +213,6 @@
     {
       "key": "VF-2147",
       "summary": "(Tamanna) - Content Duration Displaying Only in Minutes.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2145",
-      "summary": "(Tamanna) - Zee5 trailers not playing.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2144",
-      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
       "status": "Open",
       "priority": "Medium",
       "assignee": "Unassigned",
@@ -575,20 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2141",
-      "summary": "Live TV guide",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "Unknown",
-      "created": "2026-02-17",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1802",
       "summary": "Mobile: Terms & Conditions link redirects to a blank page",
       "status": "Closed",
@@ -767,20 +781,6 @@
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19659,6 +19659,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-18",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-481",
       "summary": "Purchases (TVOD or Individual SVOD)",
       "status": "Ready For Test",
@@ -19781,20 +19795,6 @@
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-18",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26391,11 +26391,10 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Ready For Test": 33,
-        "Dev Complete": 1,
-        "Testing On hold": 1,
-        "Reopened": 1,
         "In Progress": 1,
+        "Ready For Test": 34,
+        "Dev Complete": 1,
+        "Reopened": 1,
         "Closed": 12
       }
     },
@@ -26430,6 +26429,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Shubham Chauhan": {
+      "bugs": 11,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Vikas Mishra": {
+      "bugs": 37,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "devaraj": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 10
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
     "vzyfeedback": {
       "bugs": 1145,
       "tasks": 287,
@@ -26465,19 +26492,12 @@
       "stories": 0,
       "total": 14
     },
-    "Shubham Chauhan": {
-      "bugs": 9,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "Unassigned": {
-      "bugs": 35,
+      "bugs": 32,
       "tasks": 32,
       "subtasks": 0,
       "stories": 0,
-      "total": 71
+      "total": 68
     },
     "abhilash.ramesh": {
       "bugs": 12,
@@ -26542,26 +26562,12 @@
       "stories": 0,
       "total": 5
     },
-    "devaraj": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
-    },
     "Javed Ali": {
       "bugs": 17,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
       "total": 23
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Manikanta P": {
       "bugs": 4,
@@ -26618,13 +26624,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "Vikas Mishra": {
-      "bugs": 36,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 38
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -26699,11 +26698,11 @@
   },
   "priority_breakdown": {
     "Medium": 748,
-    "High": 308,
     "Highest": 327,
+    "High": 308,
     "Lowest": 2,
     "Low": 19
   },
-  "updated_at": "2026-02-18T16:09:45Z",
+  "updated_at": "2026-02-18T17:20:55Z",
   "total_issues": 1901
 }
