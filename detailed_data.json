@@ -19533,6 +19533,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-468",
+      "summary": "Geo Blocking - Phase 1 ",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-18",
+      "duedate": "2025-12-05",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1732",
       "summary": "iOS SDK update to 26 or later",
       "status": "Issue Accepted",
@@ -19878,20 +19892,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-16",
       "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-468",
-      "summary": "Geo Blocking - Phase 1 ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-16",
-      "duedate": "2025-12-05",
       "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -26265,9 +26265,9 @@
       "stories": 0,
       "total": 35,
       "statuses": {
-        "In Progress": 6,
+        "In Progress": 7,
         "Issue Accepted": 16,
-        "Reopened": 2,
+        "Reopened": 1,
         "Ready For Test": 5,
         "Dev Complete": 2,
         "On Hold- For Clarification": 1,
@@ -26291,6 +26291,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1143,
+      "tasks": 287,
+      "subtasks": 7,
+      "stories": 0,
+      "total": 1441
+    },
     "shadab Hussain": {
       "bugs": 4,
       "tasks": 6,
@@ -26367,13 +26374,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 14
-    },
-    "vzyfeedback": {
-      "bugs": 1143,
-      "tasks": 287,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1441
     },
     "Karan Mahboobani": {
       "bugs": 0,
@@ -26565,6 +26565,6 @@
     "Medium": 741,
     "Lowest": 2
   },
-  "updated_at": "2026-02-17T23:45:36Z",
+  "updated_at": "2026-02-18T03:17:51Z",
   "total_issues": 1892
 }
