@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2149",
+      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2146",
+      "summary": "(Shivani) - On opening the LG app, only a blank screen is appearing.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "LG_TV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1889",
+      "summary": "Carousel Bottom shadow config from Vivre (Business Team)",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2147",
+      "summary": "(Tamanna) - Content Duration Displaying Only in Minutes.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2145",
+      "summary": "(Tamanna) - Zee5 trailers not playing.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2144",
+      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1982",
+      "summary": "Web: YouTube video in Self Help section is displayed as Unavailable under OTT Plans and Bundle.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1984",
+      "summary": "Onida TV: Genre preference selection is not reflected on Home page content",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-06",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2012",
       "summary": "Web: Top 10 sections and banners are not displaying properly on system across Movies and Series pages",
       "status": "Ready For Test",
@@ -1205,20 +1331,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1889",
-      "summary": "Carousel Bottom shadow config from Vivre (Business Team)",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2020",
       "summary": "MI TV: Episode list glitches when scrolling up",
       "status": "Ready For Test",
@@ -2199,20 +2311,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1984",
-      "summary": "Onida TV: Genre preference selection is not reflected on Home page content",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-06",
-      "updated": "2026-02-08",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1977",
       "summary": "Web: Even after changing the language, the series on the home page does not change.",
       "status": "Duplicate",
@@ -2331,20 +2429,6 @@
       "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1982",
-      "summary": "Web: YouTube video in Self Help section is displayed as Unavailable under OTT Plans and Bundle.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
       "created": "2026-02-06",
       "updated": "2026-02-06",
       "duedate": "",
@@ -19563,7 +19647,7 @@
     {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
-      "status": "Reopened",
+      "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
@@ -19571,6 +19655,20 @@
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1971",
+      "summary": "Parameter need to pass from VZY to plan & offer",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -21320,20 +21418,6 @@
       "created": "2025-11-18",
       "updated": "2026-02-05",
       "duedate": "2025-12-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1971",
-      "summary": "Parameter need to pass from VZY to plan & offer",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-05",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26293,20 +26377,21 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Reopened": 3,
-        "Ready For Test": 32,
+        "Ready For Test": 33,
         "Testing On hold": 1,
+        "Reopened": 2,
         "In Progress": 1,
         "Closed": 12
       }
     },
     "VZY Sprint (16 March 2026)": {
       "bugs": 0,
-      "tasks": 1,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 1,
+      "total": 2,
       "statuses": {
+        "On Hold- For Clarification": 1,
         "Open": 1
       }
     },
@@ -26330,12 +26415,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 35,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 71
+    },
     "vzyfeedback": {
       "bugs": 1144,
       "tasks": 287,
       "subtasks": 7,
       "stories": 0,
       "total": 1442
+    },
+    "abhilash.ramesh": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
     },
     "BalaKumar": {
       "bugs": 14,
@@ -26378,13 +26477,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "abhilash.ramesh": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "Sameeksha Vinodiya": {
       "bugs": 6,
@@ -26455,13 +26547,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 2
-    },
-    "Unassigned": {
-      "bugs": 29,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 65
     },
     "Alok Gupta": {
       "bugs": 9,
@@ -26598,12 +26683,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 327,
+    "High": 308,
+    "Medium": 747,
     "Lowest": 2,
-    "Medium": 743,
-    "High": 307,
-    "Highest": 326,
     "Low": 19
   },
-  "updated_at": "2026-02-18T11:07:21Z",
-  "total_issues": 1894
+  "updated_at": "2026-02-18T11:55:20Z",
+  "total_issues": 1900
 }
