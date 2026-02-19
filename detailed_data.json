@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2135",
+      "summary": "TVOD / SVOD - CTA",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2045",
+      "summary": "MI TV: Episodes 35 and 36 of Ek Din Ek Jeevan do not start playback and return to info page, while Episode 33 shows abnormal seek behavior with progress bar jumping.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2146",
+      "summary": "(Shivani) - On opening the LG app, only a blank screen is appearing.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2046",
+      "summary": "MI TV: Tournament title does not update when switching tournaments in DP World ILT20 2025.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2047",
+      "summary": "MI TV: Playback of Episode 3 from King Richard series takes excessive time to start.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2048",
+      "summary": "MI TV: Playback does not start and auto-navigates back when user clicks Watch Now on Ek Din Ek Jeevan.",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2051",
+      "summary": "MI TV: Wishlist button UI does not update when rapidly tapping on My Wishlist for searched content.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2149",
+      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2052",
+      "summary": "Onida TV: Application freezes during ad playback for Champions League content with Ad Pod stuck and Skip Ad timer not progressing.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2129",
       "summary": "Fliqs TVOD / SVOD",
       "status": "Open",
@@ -35,20 +189,6 @@
       "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2135",
-      "summary": "TVOD / SVOD - CTA",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
       "created": "2026-02-17",
       "updated": "2026-02-19",
       "duedate": "",
@@ -407,20 +547,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2149",
-      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-02-18",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2145",
       "summary": "(Tamanna) - Zee5 trailers not playing.",
       "status": "Issue Accepted",
@@ -445,20 +571,6 @@
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Sameeksha Vinodiya",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -512,20 +624,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-06",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2146",
-      "summary": "(Shivani) - On opening the LG app, only a blank screen is appearing.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "LG_TV",
-      "created": "2026-02-18",
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -946,20 +1044,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-02-09",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-17",
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1513,34 +1597,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2045",
-      "summary": "MI TV: Episodes 35 and 36 of Ek Din Ek Jeevan do not start playback and return to info page, while Episode 33 shows abnormal seek behavior with progress bar jumping.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2046",
-      "summary": "MI TV: Tournament title does not update when switching tournaments in DP World ILT20 2025.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2081",
       "summary": "(Tamanna) - Thumbnails Getting Cut After Clicking 'More Like This'",
       "status": "Closed",
@@ -1555,20 +1611,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2047",
-      "summary": "MI TV: Playback of Episode 3 from King Richard series takes excessive time to start.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2083",
       "summary": "(Tamanna) - Episode Duration Showing 0m for Pavitra Rishta Series",
       "status": "Closed",
@@ -1576,20 +1618,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-11",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2048",
-      "summary": "MI TV: Playback does not start and auto-navigates back when user clicks Watch Now on Ek Din Ek Jeevan.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1632,34 +1660,6 @@
       "assignee": "Unassigned",
       "platform": "LG_TV",
       "created": "2026-02-16",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2051",
-      "summary": "MI TV: Wishlist button UI does not update when rapidly tapping on My Wishlist for searched content.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2052",
-      "summary": "Onida TV: Application freezes during ad playback for Champions League content with Ad Pod stuck and Skip Ad timer not progressing.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26059,6 +26059,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1950",
+      "summary": "Smart TV - Parameters need to add in the generate OTP API for 5000 user login support",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1964",
       "summary": "iOS - Claver Tap - Notification Inbox",
       "status": "Ready For Test",
@@ -26283,20 +26297,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1950",
-      "summary": "Smart TV - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-623",
       "summary": "\u2018Explore more\u2019 option would be shown basis search keywords\u2026 If there\u2019s no search input/keyword, default list would be displayed on Explore more- explore more option exists.. Horizon has to implement mapping with search keywords.",
       "status": "Ready For Test",
@@ -26398,6 +26398,20 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Closed": 12,
+        "In Progress": 1,
+        "Ready For Test": 34,
+        "Dev Complete": 1,
+        "Reopened": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 16,
       "tasks": 19,
@@ -26415,20 +26429,6 @@
         "Open": 3
       }
     },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "In Progress": 1,
-        "Ready For Test": 34,
-        "Dev Complete": 1,
-        "Reopened": 1,
-        "Closed": 12
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -26443,12 +26443,47 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
     "Akash Kushwaha": {
       "bugs": 7,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 9
+    },
+    "vzyfeedback": {
+      "bugs": 1144,
+      "tasks": 287,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1443
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
+    },
+    "Yashika Krishnani": {
+      "bugs": 3,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "BalaKumar": {
+      "bugs": 15,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
     },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
@@ -26457,23 +26492,9 @@
       "stories": 0,
       "total": 36
     },
-    "vzyfeedback": {
-      "bugs": 1144,
-      "tasks": 287,
-      "subtasks": 7,
-      "stories": 0,
-      "total": 1442
-    },
     "Sameeksha Vinodiya": {
-      "bugs": 6,
+      "bugs": 5,
       "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Yashika Krishnani": {
-      "bugs": 2,
-      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 6
@@ -26492,13 +26513,6 @@
       "stories": 0,
       "total": 15
     },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
-    },
     "Shubham Chauhan": {
       "bugs": 11,
       "tasks": 5,
@@ -26513,33 +26527,12 @@
       "stories": 0,
       "total": 8
     },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
-    },
-    "devaraj": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
-    },
     "Rajkumar A": {
       "bugs": 5,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
       "total": 21
-    },
-    "Vikas Mishra": {
-      "bugs": 37,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -26549,11 +26542,11 @@
       "total": 1
     },
     "Unassigned": {
-      "bugs": 32,
+      "bugs": 31,
       "tasks": 32,
       "subtasks": 0,
       "stories": 0,
-      "total": 68
+      "total": 67
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -26639,6 +26632,13 @@
       "stories": 0,
       "total": 11
     },
+    "Vikas Mishra": {
+      "bugs": 36,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 38
+    },
     "Aditya Shrivastava": {
       "bugs": 0,
       "tasks": 5,
@@ -26704,12 +26704,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 725,
     "High": 327,
     "Highest": 332,
-    "Medium": 725,
     "Lowest": 2,
     "Low": 19
   },
-  "updated_at": "2026-02-19T05:38:06Z",
+  "updated_at": "2026-02-19T07:16:18Z",
   "total_issues": 1902
 }
