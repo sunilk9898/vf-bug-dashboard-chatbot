@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2160",
+      "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2154",
       "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
       "status": "Open",
@@ -26499,11 +26513,11 @@
   "releases": {},
   "assignee_workload": {
     "Unassigned": {
-      "bugs": 32,
+      "bugs": 33,
       "tasks": 32,
       "subtasks": 0,
       "stories": 0,
-      "total": 68
+      "total": 69
     },
     "Dinjit Dinesh": {
       "bugs": 21,
@@ -26759,12 +26773,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 333,
+    "Highest": 334,
     "Medium": 726,
     "High": 327,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-19T11:07:43Z",
-  "total_issues": 1906
+  "updated_at": "2026-02-19T11:55:12Z",
+  "total_issues": 1907
 }
