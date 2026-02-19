@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2135",
+      "summary": "TVOD / SVOD - CTA",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2080",
+      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-11",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2031",
+      "summary": "Mobile: PowerSports video does not play in Home section",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2136",
       "summary": "Fliqs - Report",
       "status": "Issue Accepted",
@@ -412,20 +454,6 @@
       "status": "Open",
       "priority": "High",
       "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2135",
-      "summary": "TVOD / SVOD - CTA",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-02-17",
       "updated": "2026-02-19",
@@ -1100,20 +1128,6 @@
       "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-02-06",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2080",
-      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-11",
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -2123,20 +2137,6 @@
       "platform": "Mobile",
       "created": "2026-02-06",
       "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2031",
-      "summary": "Mobile: PowerSports video does not play in Home section",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-10",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -26503,9 +26503,9 @@
       "stories": 0,
       "total": 35,
       "statuses": {
+        "Issue Accepted": 12,
         "On Hold- For Clarification": 1,
         "In Progress": 9,
-        "Issue Accepted": 12,
         "Reopened": 2,
         "Dev Complete": 2,
         "Invalid": 1,
@@ -26540,6 +26540,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "avinash waghmare": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "vzyfeedback": {
+      "bugs": 1147,
+      "tasks": 288,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1447
+    },
     "Yashika Krishnani": {
       "bugs": 6,
       "tasks": 4,
@@ -26561,26 +26582,12 @@
       "stories": 0,
       "total": 39
     },
-    "vzyfeedback": {
-      "bugs": 1147,
-      "tasks": 288,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1447
-    },
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "Shubham Chauhan": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 17
+      "total": 16
     },
     "Javed Ali": {
       "bugs": 19,
@@ -26624,26 +26631,19 @@
       "stories": 0,
       "total": 35
     },
-    "Namrata Kurariya": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
-    "Akash Kushwaha": {
-      "bugs": 4,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 6
-    },
     "devaraj": {
       "bugs": 7,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 9
+    },
+    "Akash Kushwaha": {
+      "bugs": 3,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 5
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -26802,11 +26802,11 @@
   },
   "priority_breakdown": {
     "High": 327,
-    "Highest": 336,
     "Medium": 726,
+    "Highest": 336,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-19T16:04:25Z",
+  "updated_at": "2026-02-19T17:14:09Z",
   "total_issues": 1909
 }
