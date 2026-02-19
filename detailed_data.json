@@ -15,6 +15,20 @@
       "fixversion": ""
     },
     {
+      "key": "VF-2159",
+      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2111",
       "summary": "Link redirection is not working on on ios and android",
       "status": "In Progress",
@@ -26484,19 +26498,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 37
-    },
     "Unassigned": {
       "bugs": 32,
       "tasks": 32,
       "subtasks": 0,
       "stories": 0,
       "total": 68
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 38
     },
     "vzyfeedback": {
       "bugs": 1143,
@@ -26746,11 +26760,11 @@
   },
   "priority_breakdown": {
     "Highest": 333,
+    "Medium": 726,
     "High": 327,
-    "Medium": 725,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-19T10:06:12Z",
-  "total_issues": 1905
+  "updated_at": "2026-02-19T11:07:43Z",
+  "total_issues": 1906
 }
