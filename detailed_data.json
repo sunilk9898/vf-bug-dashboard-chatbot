@@ -1,10 +1,136 @@
 {
   "bugs": [
     {
+      "key": "VF-1913",
+      "summary": "Content Download Speed",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2018",
+      "summary": "MI TV: Incorrect content plays when navigating to next episode from Sports section",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2020",
+      "summary": "MI TV: Episode list glitches when scrolling up",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2149",
+      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2032",
+      "summary": "MI TV: Episodes fail to start playback and return to episode list for Daan Sthapana series.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2034",
+      "summary": "MI TV: Episodes do not start playback and redirect back to episode list for Dharm Yoddha Garuda series",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2125",
       "summary": "Conviva - Feedbacks",
       "status": "Open",
       "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2044",
+      "summary": "MI TV: Right-side tournament episode list takes excessive time to load after returning from playback.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2128",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Open",
+      "priority": "High",
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2026-02-17",
@@ -120,20 +246,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2149",
-      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-18",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -393,20 +505,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2128",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2132",
       "summary": "Fliqs TVOD / SVOD - CTA issue",
       "status": "Open",
@@ -557,20 +655,6 @@
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -977,20 +1061,6 @@
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1913",
-      "summary": "Content Download Speed",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1485,40 +1555,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2018",
-      "summary": "MI TV: Incorrect content plays when navigating to next episode from Sports section",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1973",
       "summary": "Mobile: Finding Nemo: trailers are not playing for videos when the trailer option is selected.",
       "status": "Ready For Test",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2020",
-      "summary": "MI TV: Episode list glitches when scrolling up",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-02-06",
       "updated": "2026-02-16",
       "duedate": "",
@@ -1545,48 +1587,6 @@
       "summary": "MI TV: Live sports video shows only audio after navigating back and replaying",
       "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2032",
-      "summary": "MI TV: Episodes fail to start playback and return to episode list for Daan Sthapana series.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2034",
-      "summary": "MI TV: Episodes do not start playback and redirect back to episode list for Dharm Yoddha Garuda series",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2044",
-      "summary": "MI TV: Right-side tournament episode list takes excessive time to load after returning from playback.",
-      "status": "Ready For Test",
-      "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
@@ -26405,11 +26405,10 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "Reopened": 1,
+        "Ready For Test": 35,
         "Closed": 12,
-        "In Progress": 1,
-        "Ready For Test": 34,
-        "Dev Complete": 1,
-        "Reopened": 1
+        "Dev Complete": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -26443,6 +26442,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Javed Ali": {
+      "bugs": 18,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 24
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "vzyfeedback": {
+      "bugs": 1143,
+      "tasks": 287,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1442
+    },
+    "Namrata Kurariya": {
+      "bugs": 5,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
     "Dinjit Dinesh": {
       "bugs": 20,
       "tasks": 15,
@@ -26457,13 +26484,6 @@
       "stories": 0,
       "total": 9
     },
-    "vzyfeedback": {
-      "bugs": 1144,
-      "tasks": 287,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1443
-    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
@@ -26477,13 +26497,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
     },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
@@ -26513,19 +26526,19 @@
       "stories": 0,
       "total": 15
     },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
     "Shubham Chauhan": {
       "bugs": 11,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Rajkumar A": {
       "bugs": 5,
@@ -26555,13 +26568,6 @@
       "stories": 0,
       "total": 7
     },
-    "Namrata Kurariya": {
-      "bugs": 4,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "shadab Hussain": {
       "bugs": 4,
       "tasks": 5,
@@ -26575,13 +26581,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "Javed Ali": {
-      "bugs": 17,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 23
     },
     "Manikanta P": {
       "bugs": 4,
@@ -26706,10 +26705,10 @@
   "priority_breakdown": {
     "Medium": 725,
     "High": 327,
+    "Low": 19,
     "Highest": 332,
-    "Lowest": 2,
-    "Low": 19
+    "Lowest": 2
   },
-  "updated_at": "2026-02-19T07:16:18Z",
+  "updated_at": "2026-02-19T09:04:55Z",
   "total_issues": 1902
 }
