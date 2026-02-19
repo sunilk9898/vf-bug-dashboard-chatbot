@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-1916",
+      "summary": "Trailer in PIP mode",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2160",
       "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
       "status": "Open",
@@ -725,20 +767,6 @@
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1916",
-      "summary": "Trailer in PIP mode",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26475,10 +26503,9 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "Ready For Test": 35,
         "Reopened": 2,
-        "Ready For Test": 34,
-        "Closed": 12,
-        "Dev Complete": 1
+        "Closed": 12
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -26512,12 +26539,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1144,
+      "tasks": 287,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1443
+    },
     "Unassigned": {
-      "bugs": 33,
+      "bugs": 35,
       "tasks": 32,
       "subtasks": 0,
       "stories": 0,
-      "total": 69
+      "total": 71
     },
     "Dinjit Dinesh": {
       "bugs": 21,
@@ -26525,13 +26559,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 38
-    },
-    "vzyfeedback": {
-      "bugs": 1143,
-      "tasks": 287,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1442
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -26597,11 +26624,11 @@
       "total": 6
     },
     "Alok Gupta": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 4,
       "subtasks": 1,
       "stories": 0,
-      "total": 14
+      "total": 13
     },
     "abhilash.ramesh": {
       "bugs": 12,
@@ -26773,12 +26800,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 334,
     "Medium": 726,
+    "Highest": 336,
     "High": 327,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-19T11:55:12Z",
-  "total_issues": 1907
+  "updated_at": "2026-02-19T13:43:23Z",
+  "total_issues": 1909
 }
