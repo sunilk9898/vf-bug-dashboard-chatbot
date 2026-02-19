@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2154",
+      "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2111",
+      "summary": "Link redirection is not working on on ios and android",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1913",
       "summary": "Content Download Speed",
       "status": "Reopened",
@@ -1198,20 +1226,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2111",
-      "summary": "Link redirection is not working on on ios and android",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -19673,6 +19687,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-2153",
+      "summary": "Conviva: Session Tags & Custom Parameters Validation",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1930",
+      "summary": "Ultra Jhakaas Integration",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2152",
+      "summary": "Need help on content ingestion ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-587",
       "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
       "status": "Ready For Test",
@@ -20186,20 +20242,6 @@
       "created": "2025-11-14",
       "updated": "2026-02-16",
       "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1930",
-      "summary": "Ultra Jhakaas Integration",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-16",
-      "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -26405,8 +26447,8 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Reopened": 1,
-        "Ready For Test": 35,
+        "Reopened": 2,
+        "Ready For Test": 34,
         "Closed": 12,
         "Dev Complete": 1
       }
@@ -26418,10 +26460,10 @@
       "stories": 0,
       "total": 35,
       "statuses": {
-        "Issue Accepted": 14,
+        "In Progress": 9,
+        "Issue Accepted": 13,
         "Reopened": 2,
         "Dev Complete": 2,
-        "In Progress": 8,
         "Invalid": 1,
         "Closed": 1,
         "Ready For Test": 4,
@@ -26442,6 +26484,41 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
+    "Unassigned": {
+      "bugs": 32,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 68
+    },
+    "vzyfeedback": {
+      "bugs": 1143,
+      "tasks": 287,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1442
+    },
+    "shadab Hussain": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 15,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
     "Javed Ali": {
       "bugs": 18,
       "tasks": 3,
@@ -26456,26 +26533,12 @@
       "stories": 0,
       "total": 8
     },
-    "vzyfeedback": {
-      "bugs": 1143,
-      "tasks": 287,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1442
-    },
     "Namrata Kurariya": {
       "bugs": 5,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
     },
     "Akash Kushwaha": {
       "bugs": 7,
@@ -26497,13 +26560,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -26554,26 +26610,12 @@
       "stories": 0,
       "total": 1
     },
-    "Unassigned": {
-      "bugs": 31,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 67
-    },
     "Suyog Lanje": {
       "bugs": 1,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "shadab Hussain": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -26703,12 +26745,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 725,
+    "Highest": 333,
     "High": 327,
+    "Medium": 725,
     "Low": 19,
-    "Highest": 332,
     "Lowest": 2
   },
-  "updated_at": "2026-02-19T09:04:55Z",
-  "total_issues": 1902
+  "updated_at": "2026-02-19T10:06:12Z",
+  "total_issues": 1905
 }
