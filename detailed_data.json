@@ -1,27 +1,97 @@
 {
   "bugs": [
     {
-      "key": "VF-1916",
-      "summary": "Trailer in PIP mode",
-      "status": "Ready For Test",
-      "priority": "Medium",
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Highest",
       "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
+      "platform": "WEB",
+      "created": "2026-02-17",
       "updated": "2026-02-19",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
     {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "Open",
+      "key": "VF-2140",
+      "summary": "Fliqs TVOD / SVOD - Pay Now",
+      "status": "Onhold-For Tech Dependency",
       "priority": "Highest",
-      "assignee": "Unassigned",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
+      "assignee": "vzyfeedback",
+      "platform": "DishIT",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2141",
+      "summary": "Live TV guide",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2142",
+      "summary": "Vivre Issue: Top 10 rail getting enabled automatically ",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2147",
+      "summary": "(Tamanna) - Content Duration Displaying Only in Minutes.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2145",
+      "summary": "(Tamanna) - Zee5 trailers not playing.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2150",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-18",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -31,9 +101,9 @@
     {
       "key": "VF-2161",
       "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Highest",
-      "assignee": "Unassigned",
+      "assignee": "Yashika Krishnani",
       "platform": "ANDROID",
       "created": "2026-02-19",
       "updated": "2026-02-19",
@@ -45,10 +115,24 @@
     {
       "key": "VF-2160",
       "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Highest",
-      "assignee": "Unassigned",
+      "assignee": "Javed Ali",
       "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2151",
+      "summary": "FLIQS channel logos in Setting section",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
       "created": "2026-02-19",
       "updated": "2026-02-19",
       "duedate": "",
@@ -59,9 +143,9 @@
     {
       "key": "VF-2154",
       "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Highest",
-      "assignee": "Unassigned",
+      "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-02-19",
       "updated": "2026-02-19",
@@ -71,16 +155,72 @@
       "fixversion": ""
     },
     {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2159",
       "summary": "Clevertap InBox Notifiaction (Android/Ios)",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
+      "assignee": "kamaldeeps",
       "platform": "ANDROID",
       "created": "2026-02-19",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1916",
+      "summary": "Trailer in PIP mode",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -421,48 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2139",
-      "summary": "Fliqs TVOD / SVOD - Order Summary",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2140",
-      "summary": "Fliqs TVOD / SVOD - Pay Now",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2151",
-      "summary": "FLIQS channel logos in Setting section",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-02-19",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2054",
       "summary": "Onida TV: Ad pod freezes on screen when playback starts for Introduction of Finalists episode.",
       "status": "Closed",
@@ -687,34 +785,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2141",
-      "summary": "Live TV guide",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "Unknown",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2142",
-      "summary": "Vivre Issue: Top 10 rail getting enabled automatically ",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "Unknown",
-      "created": "2026-02-18",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "Reopened",
@@ -743,20 +813,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2145",
-      "summary": "(Tamanna) - Zee5 trailers not playing.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1574",
       "summary": "GTM | Firebase | Missing parameters in firebase same availabe on GTM (IOS)",
       "status": "In Review",
@@ -764,20 +820,6 @@
       "assignee": "Adikeshava Reddy",
       "platform": "IOS",
       "created": "2025-12-30",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2150",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -799,20 +841,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1889",
       "summary": "Carousel Bottom shadow config from Vivre (Business Team)",
       "status": "Closed",
@@ -820,20 +848,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-29",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2147",
-      "summary": "(Tamanna) - Content Duration Displaying Only in Minutes.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1002,20 +1016,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-06",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2143",
-      "summary": "Clevertap event integration - Fire Tv",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26540,25 +26540,74 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1144,
+      "bugs": 1147,
       "tasks": 287,
       "subtasks": 8,
       "stories": 0,
-      "total": 1443
+      "total": 1446
     },
-    "Unassigned": {
-      "bugs": 35,
-      "tasks": 32,
+    "avinash waghmare": {
+      "bugs": 6,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 71
+      "total": 10
+    },
+    "Shubham Chauhan": {
+      "bugs": 12,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 17
+    },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Javed Ali": {
+      "bugs": 19,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
+    },
+    "BalaKumar": {
+      "bugs": 15,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
+    "abhilash.ramesh": {
+      "bugs": 13,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Karan Mahboobani": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 3
+    },
+    "kamaldeeps": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
     },
     "Dinjit Dinesh": {
-      "bugs": 21,
+      "bugs": 19,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 38
+      "total": 36
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -26568,25 +26617,11 @@
       "total": 9
     },
     "Amudha Kaliamoorthi": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 37
-    },
-    "Javed Ali": {
-      "bugs": 18,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 24
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
+      "total": 36
     },
     "Namrata Kurariya": {
       "bugs": 5,
@@ -26596,25 +26631,18 @@
       "total": 9
     },
     "Akash Kushwaha": {
+      "bugs": 4,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 6
+    },
+    "devaraj": {
       "bugs": 7,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 9
-    },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
-    },
-    "Yashika Krishnani": {
-      "bugs": 3,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -26629,27 +26657,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 13
-    },
-    "abhilash.ramesh": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
-    },
-    "Shubham Chauhan": {
-      "bugs": 11,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Rajkumar A": {
       "bugs": 5,
@@ -26686,12 +26693,12 @@
       "stories": 1,
       "total": 14
     },
-    "Karan Mahboobani": {
-      "bugs": 0,
-      "tasks": 0,
-      "subtasks": 2,
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 32,
+      "subtasks": 0,
       "stories": 0,
-      "total": 2
+      "total": 65
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -26756,13 +26763,6 @@
       "stories": 0,
       "total": 3
     },
-    "kamaldeeps": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
-    },
     "Vedant Kajale": {
       "bugs": 0,
       "tasks": 1,
@@ -26800,12 +26800,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 726,
     "Highest": 336,
     "High": 327,
+    "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-19T13:43:23Z",
+  "updated_at": "2026-02-19T15:07:15Z",
   "total_issues": 1909
 }
