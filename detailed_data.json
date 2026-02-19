@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2136",
+      "summary": "Fliqs - Report",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2137",
+      "summary": "Fliqs TVOD / SVOD - wrong content",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "Unknown",
+      "created": "2026-02-18",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2138",
+      "summary": "Fliqs TVOD / SVOD - UI",
+      "status": "Duplicate",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2139",
       "summary": "Fliqs TVOD / SVOD - Order Summary",
       "status": "Onhold-For Tech Dependency",
@@ -148,20 +204,6 @@
       "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-02-19",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-18",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -547,20 +589,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2136",
-      "summary": "Fliqs - Report",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ANDROID",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2054",
       "summary": "Onida TV: Ad pod freezes on screen when playback starts for Introduction of Finalists episode.",
       "status": "Closed",
@@ -750,34 +778,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2137",
-      "summary": "Fliqs TVOD / SVOD - wrong content",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2138",
-      "summary": "Fliqs TVOD / SVOD - UI",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-17",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19743,6 +19743,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2110",
+      "summary": "Not getting UTM Source in Deeplink ",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2153",
       "summary": "Conviva: Session Tags & Custom Parameters Validation",
       "status": "Open",
@@ -20030,20 +20044,6 @@
       "assignee": "Aniruddh Patil",
       "platform": "CMS Adaptor",
       "created": "2026-01-23",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2110",
-      "summary": "Not getting UTM Source in Deeplink ",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
       "updated": "2026-02-17",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -26496,6 +26496,24 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 16,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35,
+      "statuses": {
+        "On Hold- For Clarification": 1,
+        "In Progress": 9,
+        "Issue Accepted": 12,
+        "Reopened": 2,
+        "Dev Complete": 2,
+        "Invalid": 1,
+        "Closed": 1,
+        "Ready For Test": 4,
+        "Open": 3
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 14,
       "tasks": 18,
@@ -26506,23 +26524,6 @@
         "Ready For Test": 35,
         "Reopened": 2,
         "Closed": 12
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 16,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35,
-      "statuses": {
-        "In Progress": 9,
-        "Issue Accepted": 13,
-        "Reopened": 2,
-        "Dev Complete": 2,
-        "Invalid": 1,
-        "Closed": 1,
-        "Ready For Test": 4,
-        "Open": 3
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -26539,12 +26540,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Dinjit Dinesh": {
+      "bugs": 19,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "Vikas Mishra": {
+      "bugs": 37,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
     "vzyfeedback": {
       "bugs": 1147,
-      "tasks": 287,
+      "tasks": 288,
       "subtasks": 8,
       "stories": 0,
-      "total": 1446
+      "total": 1447
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -26560,19 +26582,12 @@
       "stories": 0,
       "total": 17
     },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "Javed Ali": {
       "bugs": 19,
-      "tasks": 3,
+      "tasks": 2,
       "subtasks": 3,
       "stories": 0,
-      "total": 25
+      "total": 24
     },
     "BalaKumar": {
       "bugs": 15,
@@ -26580,13 +26595,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 24
-    },
-    "abhilash.ramesh": {
-      "bugs": 13,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Karan Mahboobani": {
       "bugs": 1,
@@ -26602,13 +26610,6 @@
       "stories": 0,
       "total": 2
     },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
-    },
     "shadab Hussain": {
       "bugs": 4,
       "tasks": 5,
@@ -26617,11 +26618,11 @@
       "total": 9
     },
     "Amudha Kaliamoorthi": {
-      "bugs": 14,
+      "bugs": 13,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 36
+      "total": 35
     },
     "Namrata Kurariya": {
       "bugs": 5,
@@ -26657,6 +26658,13 @@
       "subtasks": 1,
       "stories": 0,
       "total": 13
+    },
+    "abhilash.ramesh": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
     },
     "Rajkumar A": {
       "bugs": 5,
@@ -26735,13 +26743,6 @@
       "stories": 0,
       "total": 11
     },
-    "Vikas Mishra": {
-      "bugs": 36,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 38
-    },
     "Aditya Shrivastava": {
       "bugs": 0,
       "tasks": 5,
@@ -26800,12 +26801,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 336,
     "High": 327,
+    "Highest": 336,
     "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-19T15:07:15Z",
+  "updated_at": "2026-02-19T16:04:25Z",
   "total_issues": 1909
 }
