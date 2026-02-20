@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2166",
+      "summary": "Missing CP LOGOS on thumbnails",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2154",
+      "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2149",
+      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-18",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2057",
+      "summary": "Fliqs channel page",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-09",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2147",
       "summary": "(Tamanna) - Content Duration Displaying Only in Minutes.",
       "status": "Testing On hold",
@@ -127,20 +183,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2166",
-      "summary": "Missing CP LOGOS on thumbnails",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2135",
       "summary": "TVOD / SVOD - CTA",
       "status": "Dev Complete",
@@ -148,20 +190,6 @@
       "assignee": "Namrata Kurariya",
       "platform": "ATV",
       "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2057",
-      "summary": "Fliqs channel page",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-09",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -533,20 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2154",
-      "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2063",
       "summary": "New On VZY Rail not showing correct data",
       "status": "Dev Complete",
@@ -750,20 +764,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2149",
-      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-18",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19799,6 +19799,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-02-20",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1064",
       "summary": "Geo Blocking - Phase 2 (as per BRD)",
       "status": "Open",
@@ -19834,20 +19862,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2026-02-04",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-01-30",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
@@ -20382,20 +20396,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-16",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-02-16",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -26573,8 +26573,8 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Ready For Test": 27,
         "Reopened": 3,
+        "Ready For Test": 27,
         "Closed": 19
       }
     },
@@ -26611,12 +26611,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
     "vzyfeedback": {
-      "bugs": 1157,
+      "bugs": 1159,
       "tasks": 288,
       "subtasks": 8,
       "stories": 0,
-      "total": 1457
+      "total": 1459
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
     },
     "Javed Ali": {
       "bugs": 20,
@@ -26640,18 +26654,11 @@
       "total": 15
     },
     "Namrata Kurariya": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
-    },
-    "Karan Mahboobani": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 4
+      "total": 12
     },
     "avinash waghmare": {
       "bugs": 9,
@@ -26659,13 +26666,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "abhilash.ramesh": {
       "bugs": 12,
@@ -26680,13 +26680,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 14
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -26729,6 +26722,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
+    },
+    "Karan Mahboobani": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 3
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -26872,12 +26872,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 726,
-    "Highest": 338,
     "High": 329,
+    "Highest": 338,
+    "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T11:46:59Z",
+  "updated_at": "2026-02-20T12:43:02Z",
   "total_issues": 1914
 }
