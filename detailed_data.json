@@ -1,13 +1,13 @@
 {
   "bugs": [
     {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
+      "key": "VF-2135",
+      "summary": "TVOD / SVOD - CTA",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-11",
+      "platform": "ATV",
+      "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -17,7 +17,7 @@
     {
       "key": "VF-2073",
       "summary": "the \u2018View All\u2019 option not available for Sara rails.",
-      "status": "Issue Accepted",
+      "status": "In Progress",
       "priority": "High",
       "assignee": "Namrata Kurariya",
       "platform": "ATV",
@@ -29,6 +29,62 @@
       "fixversion": ""
     },
     {
+      "key": "VF-2133",
+      "summary": "Fliqs TVOD / SVOD - UI issue",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2154",
+      "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2111",
+      "summary": "Link redirection is not working on on ios and android",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2128",
       "summary": "Fliqs TVOD / SVOD",
       "status": "Issue Accepted",
@@ -36,6 +92,62 @@
       "assignee": "Javed Ali",
       "platform": "ATV",
       "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2063",
+      "summary": "New On VZY Rail not showing correct data",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-10",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2130",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-11",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -57,40 +169,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2130",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Invalid",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2131",
       "summary": "Fliqs TVOD / SVOD",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "shadab Hussain",
       "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "ATV",
       "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
@@ -121,34 +205,6 @@
       "platform": "ANDROID",
       "created": "2026-02-17",
       "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2133",
-      "summary": "Fliqs TVOD / SVOD - UI issue",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2135",
-      "summary": "TVOD / SVOD - CTA",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -204,20 +260,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "Unknown",
-      "created": "2026-02-18",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -379,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2154",
-      "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-19",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2143",
       "summary": "Clevertap event integration - Fire Tv",
       "status": "Issue Accepted",
@@ -445,20 +473,6 @@
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2111",
-      "summary": "Link redirection is not working on on ios and android",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -753,20 +767,6 @@
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2063",
-      "summary": "New On VZY Rail not showing correct data",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-10",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19743,6 +19743,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2110",
       "summary": "Not getting UTM Source in Deeplink ",
       "status": "On Hold- For Clarification",
@@ -19851,20 +19865,6 @@
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26503,11 +26503,11 @@
       "stories": 0,
       "total": 35,
       "statuses": {
-        "Issue Accepted": 12,
+        "In Progress": 10,
+        "Dev Complete": 3,
+        "Issue Accepted": 10,
         "On Hold- For Clarification": 1,
-        "In Progress": 9,
         "Reopened": 2,
-        "Dev Complete": 2,
         "Invalid": 1,
         "Closed": 1,
         "Ready For Test": 4,
@@ -26521,8 +26521,8 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Ready For Test": 35,
-        "Reopened": 2,
+        "Reopened": 3,
+        "Ready For Test": 34,
         "Closed": 12
       }
     },
@@ -26541,11 +26541,25 @@
   "releases": {},
   "assignee_workload": {
     "Namrata Kurariya": {
-      "bugs": 8,
+      "bugs": 9,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 13
+    },
+    "BalaKumar": {
+      "bugs": 15,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
+    "Alok Gupta": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
     },
     "Javed Ali": {
       "bugs": 20,
@@ -26554,26 +26568,33 @@
       "stories": 0,
       "total": 25
     },
+    "Vikas Mishra": {
+      "bugs": 37,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "vzyfeedback": {
+      "bugs": 1148,
+      "tasks": 288,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1448
+    },
+    "abhilash.ramesh": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
     "shadab Hussain": {
-      "bugs": 7,
+      "bugs": 5,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
-    },
-    "Akash Kushwaha": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
+      "total": 10
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -26595,20 +26616,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "vzyfeedback": {
-      "bugs": 1147,
-      "tasks": 288,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1447
-    },
-    "Vikas Mishra": {
-      "bugs": 37,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Shubham Chauhan": {
       "bugs": 11,
@@ -26651,20 +26658,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Alok Gupta": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
-    },
-    "abhilash.ramesh": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
     },
     "Rajkumar A": {
       "bugs": 5,
@@ -26728,6 +26721,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 10
+    },
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 2
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -26802,11 +26802,11 @@
   },
   "priority_breakdown": {
     "High": 327,
-    "Medium": 726,
     "Highest": 336,
+    "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T03:11:28Z",
+  "updated_at": "2026-02-20T04:58:23Z",
   "total_issues": 1909
 }
