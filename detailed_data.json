@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2159",
+      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2042",
       "summary": "LG TV, Samsung TV: Unrelated content is recommended in More Like This for Live Table Tennis Championship.",
       "status": "In Progress",
@@ -162,20 +176,6 @@
       "assignee": "Vikas Mishra",
       "platform": "WEB",
       "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2159",
-      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -26573,8 +26573,8 @@
       "stories": 0,
       "total": 41,
       "statuses": {
-        "Ready For Test": 8,
-        "Dev Complete": 10,
+        "Ready For Test": 9,
+        "Dev Complete": 9,
         "Testing On hold": 1,
         "In Progress": 7,
         "Issue Accepted": 8,
@@ -26611,19 +26611,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1173,
+      "tasks": 289,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1474
+    },
     "abhilash.ramesh": {
       "bugs": 7,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 10
-    },
-    "vzyfeedback": {
-      "bugs": 1172,
-      "tasks": 289,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1473
     },
     "Karan Mahboobani": {
       "bugs": 2,
@@ -26674,13 +26674,6 @@
       "stories": 0,
       "total": 9
     },
-    "Alok Gupta": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
-    },
     "Abhishek Dhok": {
       "bugs": 6,
       "tasks": 2,
@@ -26729,6 +26722,13 @@
       "subtasks": 1,
       "stories": 0,
       "total": 9
+    },
+    "Alok Gupta": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 13
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -26872,12 +26872,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 329,
     "Medium": 726,
+    "High": 329,
     "Highest": 338,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T15:00:46Z",
+  "updated_at": "2026-02-20T15:53:27Z",
   "total_issues": 1915
 }
