@@ -1,9 +1,37 @@
 {
   "bugs": [
     {
+      "key": "VF-2057",
+      "summary": "Fliqs channel page",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-09",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2166",
+      "summary": "Missing CP LOGOS on thumbnails",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2164",
       "summary": "(Shivani) - Hoichoi >> latest Release rail >> The Watch Now button is not clickable for some content in the Latest Release rail. ",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Highest",
       "assignee": "avinash waghmare",
       "platform": "ATV",
@@ -15,13 +43,69 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2057",
-      "summary": "Fliqs channel page",
+      "key": "VF-2135",
+      "summary": "TVOD / SVOD - CTA",
       "status": "In Progress",
       "priority": "High",
-      "assignee": "Karan Mahboobani",
+      "assignee": "Namrata Kurariya",
       "platform": "ATV",
-      "created": "2026-02-09",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2165",
+      "summary": "Notifications page UI",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -183,20 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2166",
-      "summary": "Missing CP LOGOS on thumbnails",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2148",
       "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
       "status": "On Hold- For Clarification",
@@ -204,20 +274,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2165",
-      "summary": "Notifications page UI",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -246,20 +302,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ATV",
-      "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -330,20 +372,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2135",
-      "summary": "TVOD / SVOD - CTA",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "ATV",
-      "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -673,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2143",
       "summary": "Clevertap event integration - Fire Tv",
       "status": "Issue Accepted",
@@ -694,20 +708,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26612,6 +26612,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Karan Mahboobani": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 5
+    },
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
     "avinash waghmare": {
       "bugs": 9,
       "tasks": 4,
@@ -26619,12 +26633,12 @@
       "stories": 0,
       "total": 13
     },
-    "Karan Mahboobani": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 2,
+    "Namrata Kurariya": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
       "stories": 0,
-      "total": 5
+      "total": 13
     },
     "Javed Ali": {
       "bugs": 22,
@@ -26639,13 +26653,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "Alok Gupta": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
     },
     "Dinjit Dinesh": {
       "bugs": 16,
@@ -26674,20 +26681,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 14
-    },
-    "Srinidhi.Raju": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
-    "Namrata Kurariya": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "BalaKumar": {
       "bugs": 13,
@@ -26880,12 +26873,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 338,
     "High": 329,
+    "Highest": 338,
     "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T09:58:26Z",
+  "updated_at": "2026-02-20T10:56:08Z",
   "total_issues": 1914
 }
