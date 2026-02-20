@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2131",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Rajkumar A",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2141",
+      "summary": "Live TV guide",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2129",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2163",
+      "summary": "VZY Logo on JusPay payment page",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2135",
       "summary": "TVOD / SVOD - CTA",
       "status": "Issue Accepted",
@@ -155,34 +239,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2129",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2131",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2132",
       "summary": "Fliqs TVOD / SVOD - CTA issue",
       "status": "Onhold-For Tech Dependency",
@@ -301,20 +357,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "DishIT",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2141",
-      "summary": "Live TV guide",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-02-17",
       "updated": "2026-02-19",
       "duedate": "",
@@ -659,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2051",
       "summary": "MI TV: Wishlist button UI does not update when rapidly tapping on My Wishlist for searched content.",
       "status": "Closed",
@@ -809,20 +837,6 @@
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Rajkumar A",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26496,24 +26510,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 16,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35,
-      "statuses": {
-        "In Progress": 10,
-        "Dev Complete": 3,
-        "Issue Accepted": 10,
-        "On Hold- For Clarification": 1,
-        "Reopened": 2,
-        "Invalid": 1,
-        "Closed": 1,
-        "Ready For Test": 4,
-        "Open": 3
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 14,
       "tasks": 18,
@@ -26524,6 +26520,24 @@
         "Reopened": 3,
         "Ready For Test": 34,
         "Closed": 12
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 16,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35,
+      "statuses": {
+        "In Progress": 11,
+        "Dev Complete": 3,
+        "Issue Accepted": 10,
+        "On Hold- For Clarification": 1,
+        "Reopened": 1,
+        "Invalid": 1,
+        "Closed": 1,
+        "Ready For Test": 4,
+        "Open": 3
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -26541,11 +26555,53 @@
   "releases": {},
   "assignee_workload": {
     "Namrata Kurariya": {
-      "bugs": 9,
+      "bugs": 10,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 14
+    },
+    "Yashika Krishnani": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "vzyfeedback": {
+      "bugs": 1148,
+      "tasks": 288,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1448
+    },
+    "Rajkumar A": {
+      "bugs": 5,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
+    },
+    "avinash waghmare": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "shadab Hussain": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Dinjit Dinesh": {
+      "bugs": 16,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
     },
     "BalaKumar": {
       "bugs": 15,
@@ -26575,47 +26631,12 @@
       "stories": 0,
       "total": 39
     },
-    "vzyfeedback": {
-      "bugs": 1148,
-      "tasks": 288,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1448
-    },
     "abhilash.ramesh": {
       "bugs": 11,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "shadab Hussain": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 32
-    },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "avinash waghmare": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "Shubham Chauhan": {
       "bugs": 11,
@@ -26658,13 +26679,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Rajkumar A": {
-      "bugs": 5,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -26802,11 +26816,11 @@
   },
   "priority_breakdown": {
     "High": 327,
-    "Highest": 336,
+    "Highest": 337,
     "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T04:58:23Z",
-  "total_issues": 1909
+  "updated_at": "2026-02-20T05:51:26Z",
+  "total_issues": 1910
 }
