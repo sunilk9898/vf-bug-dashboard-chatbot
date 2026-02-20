@@ -1,12 +1,96 @@
 {
   "bugs": [
     {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2167",
+      "summary": "Live Event not available on Kaltura",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Kaltura",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2164",
       "summary": "(Shivani) - Hoichoi >> latest Release rail >> The Watch Now button is not clickable for some content in the Latest Release rail. ",
       "status": "Open",
       "priority": "Highest",
-      "assignee": "Unassigned",
+      "assignee": "Kiran JR",
       "platform": "ATV",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2062",
+      "summary": "PIP Mode Controls",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2166",
+      "summary": "Missing CP LOGOS on thumbnails",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2165",
+      "summary": "Notifications page UI",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
       "created": "2026-02-20",
       "updated": "2026-02-20",
       "duedate": "",
@@ -25,6 +109,20 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2144",
+      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -379,20 +477,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2063",
       "summary": "New On VZY Rail not showing correct data",
       "status": "Dev Complete",
@@ -645,20 +729,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2018",
       "summary": "MI TV: Incorrect content plays when navigating to next episode from Sports section",
       "status": "Closed",
@@ -827,20 +897,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2062",
-      "summary": "PIP Mode Controls",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2120",
       "summary": "Genre reflecting twice on FE",
       "status": "Reopened",
@@ -863,20 +919,6 @@
       "platform": "ATV",
       "created": "2026-02-06",
       "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2144",
-      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -2555,20 +2597,6 @@
       "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1985",
-      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
       "created": "2026-02-06",
       "updated": "2026-02-06",
       "duedate": "",
@@ -19771,6 +19799,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1985",
+      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1953",
       "summary": "Need to add new parameter in the Conviva events",
       "status": "Closed",
@@ -26524,6 +26566,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 14,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Reopened": 3,
+        "Closed": 19,
+        "Dev Complete": 1,
+        "Ready For Test": 26
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 16,
       "tasks": 19,
@@ -26543,19 +26598,6 @@
         "Open": 3
       }
     },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Closed": 19,
-        "Dev Complete": 1,
-        "Reopened": 2,
-        "Ready For Test": 27
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -26570,12 +26612,47 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 30,
-      "tasks": 32,
+    "avinash waghmare": {
+      "bugs": 7,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 66
+      "total": 11
+    },
+    "Dinjit Dinesh": {
+      "bugs": 17,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
+    },
+    "Kiran JR": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Alok Gupta": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "vzyfeedback": {
+      "bugs": 1150,
+      "tasks": 288,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1450
     },
     "Namrata Kurariya": {
       "bugs": 9,
@@ -26583,6 +26660,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -26597,27 +26681,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 26
-    },
-    "Alok Gupta": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
-    },
-    "Dinjit Dinesh": {
-      "bugs": 16,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
-    },
-    "vzyfeedback": {
-      "bugs": 1148,
-      "tasks": 288,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1448
     },
     "Karan Mahboobani": {
       "bugs": 3,
@@ -26634,18 +26697,18 @@
       "total": 15
     },
     "Shubham Chauhan": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 13
     },
     "Vikas Mishra": {
-      "bugs": 38,
+      "bugs": 37,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 40
+      "total": 39
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -26675,26 +26738,12 @@
       "stories": 0,
       "total": 21
     },
-    "avinash waghmare": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "shadab Hussain": {
       "bugs": 4,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -26730,6 +26779,13 @@
       "subtasks": 0,
       "stories": 1,
       "total": 14
+    },
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 65
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -26801,13 +26857,6 @@
       "stories": 0,
       "total": 1
     },
-    "Kiran JR": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -26831,12 +26880,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 329,
     "Highest": 338,
-    "High": 327,
     "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T07:58:49Z",
-  "total_issues": 1911
+  "updated_at": "2026-02-20T08:59:46Z",
+  "total_issues": 1914
 }
