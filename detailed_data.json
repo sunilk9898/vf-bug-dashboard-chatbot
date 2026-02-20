@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2135",
+      "summary": "TVOD / SVOD - CTA",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2166",
       "summary": "Missing CP LOGOS on thumbnails",
       "status": "Closed",
@@ -176,20 +190,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2135",
-      "summary": "TVOD / SVOD - CTA",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "ATV",
-      "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26611,6 +26611,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Namrata Kurariya": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
     "Yashika Krishnani": {
       "bugs": 6,
       "tasks": 4,
@@ -26652,13 +26659,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 15
-    },
-    "Namrata Kurariya": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "avinash waghmare": {
       "bugs": 9,
@@ -26878,6 +26878,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T12:43:02Z",
+  "updated_at": "2026-02-20T12:45:14Z",
   "total_issues": 1914
 }
