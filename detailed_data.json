@@ -1,16 +1,142 @@
 {
   "bugs": [
     {
-      "key": "VF-2133",
-      "summary": "Fliqs TVOD / SVOD - UI issue",
+      "key": "VF-2042",
+      "summary": "LG TV, Samsung TV: Unrelated content is recommended in More Like This for Live Table Tennis Championship.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1764",
+      "summary": "Recent Searches ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-01-21",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1980",
+      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "Unknown",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2063",
+      "summary": "New On VZY Rail not showing correct data",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "Unknown",
+      "created": "2026-02-10",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2026",
+      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
       "status": "Dev Complete",
       "priority": "High",
       "assignee": "Vikas Mishra",
       "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2087",
+      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-12",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
       "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
-      "sprint": "No Sprint",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2129",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -22,6 +148,202 @@
       "assignee": "Vikas Mishra",
       "platform": "WEB",
       "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2133",
+      "summary": "Fliqs TVOD / SVOD - UI issue",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2159",
+      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2163",
+      "summary": "VZY Logo on JusPay payment page",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2128",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2062",
+      "summary": "PIP Mode Controls",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2111",
+      "summary": "Link redirection is not working on on ios and android",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2134",
+      "summary": "Fliqs TVOD / SVOD - Error toast",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1992",
+      "summary": "Mobile: Login page opens unexpectedly from Help & Policy section.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1994",
+      "summary": "Mobile: Incorrect navigation occurs when accessing options under the Help & Policy section.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2001",
+      "summary": "Mobile: Age restriction is not enforced in Kid profiles.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2135",
+      "summary": "TVOD / SVOD - CTA",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2136",
+      "summary": "Fliqs - Report",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2072",
+      "summary": "Content recommendation under similar to this is not correct",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -67,34 +389,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2129",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2135",
-      "summary": "TVOD / SVOD - CTA",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -162,20 +456,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ATV",
-      "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -253,20 +533,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2163",
-      "summary": "VZY Logo on JusPay payment page",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2165",
       "summary": "Notifications page UI",
       "status": "In Progress",
@@ -323,62 +589,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2134",
-      "summary": "Fliqs TVOD / SVOD - Error toast",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2136",
-      "summary": "Fliqs - Report",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2159",
-      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2167",
       "summary": "Live Event not available on Kaltura",
       "status": "Issue Accepted",
@@ -393,34 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-11",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2111",
-      "summary": "Link redirection is not working on on ios and android",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1890",
       "summary": "Content not getting ingested on time",
       "status": "Reopened",
@@ -431,20 +613,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2062",
-      "summary": "PIP Mode Controls",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -519,20 +687,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2015",
       "summary": "MI TV: Video continues playing while buffering during quality upgrade from 720p to 1080p",
       "status": "Testing On hold",
@@ -547,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2128",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "In Progress",
@@ -568,20 +708,6 @@
       "assignee": "Rajkumar A",
       "platform": "WEB",
       "created": "2026-02-03",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2063",
-      "summary": "New On VZY Rail not showing correct data",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-10",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -1261,20 +1387,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2026",
-      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1902",
       "summary": "Delete Account",
       "status": "Closed",
@@ -1849,20 +1961,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2087",
-      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-12",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1908",
       "summary": "Content Viewing Sun Nxt - SAM / LG ",
       "status": "Ready For Test",
@@ -1873,48 +1971,6 @@
       "updated": "2026-02-16",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1994",
-      "summary": "Mobile: Incorrect navigation occurs when accessing options under the Help & Policy section.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1992",
-      "summary": "Mobile: Login page opens unexpectedly from Help & Policy section.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2001",
-      "summary": "Mobile: Age restriction is not enforced in Kid profiles.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "Mobile",
-      "created": "2026-02-06",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2038,20 +2094,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-01-20",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2072",
-      "summary": "Content recommendation under similar to this is not correct",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "WEB",
-      "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2395,20 +2437,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1980",
-      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2058",
       "summary": "Fliqs followed channels in settings screen",
       "status": "On Hold- For Clarification",
@@ -2472,20 +2500,6 @@
       "assignee": "Abhishek Dhok",
       "platform": "IOS",
       "created": "2026-01-30",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2042",
-      "summary": "LG TV, Samsung TV: Unrelated content is recommended in More Like This for Live Table Tennis Championship.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3410,20 +3424,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-12-30",
-      "updated": "2026-02-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1764",
-      "summary": "Recent Searches ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-01-21",
       "updated": "2026-02-01",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19799,6 +19799,104 @@
   ],
   "tasks": [
     {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1611",
+      "summary": "Content badge Enhancement",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "ATV",
+      "created": "2026-01-09",
+      "updated": "2026-02-20",
+      "duedate": "2026-01-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1960",
+      "summary": "Clavertap - FLIQS SVOD & TVOD ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2074",
+      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1928",
+      "summary": "Shorts Tv Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1961",
+      "summary": "CloudTV App",
+      "status": "Invalid",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1734",
+      "summary": "VZY One to be with VZY",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Namrata Kurariya",
+      "platform": "LG_TV",
+      "created": "2026-01-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-454",
       "summary": "Casting",
       "status": "Reopened",
@@ -19967,20 +20065,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1971",
       "summary": "Parameter need to pass from VZY to plan & offer",
       "status": "On Hold- For Clarification",
@@ -20016,20 +20100,6 @@
       "assignee": "Suyog Lanje",
       "platform": "ANDROID",
       "created": "2026-02-13",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2074",
-      "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-11",
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -20117,20 +20187,6 @@
       "updated": "2026-02-17",
       "duedate": "2026-03-13",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1734",
-      "summary": "VZY One to be with VZY",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Namrata Kurariya",
-      "platform": "LG_TV",
-      "created": "2026-01-20",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -21451,20 +21507,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1928",
-      "summary": "Shorts Tv Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1926",
       "summary": "Aoo NXT Integration",
       "status": "Open",
@@ -21661,20 +21703,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1960",
-      "summary": "Clavertap - FLIQS SVOD & TVOD ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1092",
       "summary": "Content Playback",
       "status": "In Progress",
@@ -21694,20 +21722,6 @@
       "status": "Open",
       "priority": "Highest",
       "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-04",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1961",
-      "summary": "CloudTV App",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-02-04",
       "updated": "2026-02-04",
@@ -21992,20 +22006,6 @@
       "created": "2025-12-04",
       "updated": "2026-01-29",
       "duedate": "2025-11-14",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1611",
-      "summary": "Content badge Enhancement",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "ATV",
-      "created": "2026-01-09",
-      "updated": "2026-01-29",
-      "duedate": "2026-01-30",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26227,6 +26227,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1968",
+      "summary": "iOS - Branch.io Intregation (Standered)",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Abhishek Dhok",
+      "platform": "IOS",
+      "created": "2026-02-04",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1954",
       "summary": "Web - Need to add new parameter in the Conviva events",
       "status": "Closed",
@@ -26369,20 +26383,6 @@
     {
       "key": "VF-1948",
       "summary": "iOS - Parameters need to add in the generate OTP API for 5000 user login support",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1968",
-      "summary": "iOS - Branch.io Intregation (Standered)",
       "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "Abhishek Dhok",
@@ -26567,16 +26567,16 @@
   ],
   "sprints": {
     "VZY Sprint (27 Feb 2026)": {
-      "bugs": 16,
+      "bugs": 22,
       "tasks": 19,
       "subtasks": 0,
       "stories": 0,
-      "total": 35,
+      "total": 41,
       "statuses": {
-        "Ready For Test": 5,
-        "Dev Complete": 5,
+        "Ready For Test": 8,
+        "Dev Complete": 10,
         "Testing On hold": 1,
-        "In Progress": 9,
+        "In Progress": 7,
         "Issue Accepted": 8,
         "On Hold- For Clarification": 1,
         "Reopened": 1,
@@ -26586,14 +26586,14 @@
       }
     },
     "VZY Sprint (13 Feb 2026)": {
-      "bugs": 14,
+      "bugs": 15,
       "tasks": 18,
       "subtasks": 17,
       "stories": 0,
-      "total": 49,
+      "total": 50,
       "statuses": {
+        "Ready For Test": 28,
         "Reopened": 3,
-        "Ready For Test": 27,
         "Closed": 19
       }
     },
@@ -26611,47 +26611,47 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
-    "avinash waghmare": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "vzyfeedback": {
-      "bugs": 1160,
-      "tasks": 288,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1460
-    },
-    "shadab Hussain": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
-    "Namrata Kurariya": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 4,
+    "abhilash.ramesh": {
+      "bugs": 7,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 10
+    },
+    "vzyfeedback": {
+      "bugs": 1172,
+      "tasks": 289,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1473
+    },
+    "Karan Mahboobani": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 4
+    },
+    "Moore Meghana": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 15
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
     },
     "BalaKumar": {
       "bugs": 13,
@@ -26661,11 +26661,67 @@
       "total": 23
     },
     "Javed Ali": {
-      "bugs": 20,
+      "bugs": 18,
       "tasks": 2,
       "subtasks": 3,
       "stories": 0,
-      "total": 25
+      "total": 23
+    },
+    "shadab Hussain": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Alok Gupta": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "Abhishek Dhok": {
+      "bugs": 6,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 10
+    },
+    "Yashika Krishnani": {
+      "bugs": 4,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Namrata Kurariya": {
+      "bugs": 4,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "avinash waghmare": {
+      "bugs": 8,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Shubham Chauhan": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 30,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 64
     },
     "devaraj": {
       "bugs": 7,
@@ -26673,27 +26729,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 9
-    },
-    "Alok Gupta": {
-      "bugs": 10,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
-    "abhilash.ramesh": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
-    "Moore Meghana": {
-      "bugs": 12,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -26723,20 +26758,6 @@
       "stories": 0,
       "total": 21
     },
-    "Shubham Chauhan": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
-    "Karan Mahboobani": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 3
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
       "tasks": 18,
@@ -26764,27 +26785,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "Manikanta P": {
-      "bugs": 4,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 14
-    },
-    "Unassigned": {
-      "bugs": 29,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 65
-    },
-    "Abhishek Dhok": {
-      "bugs": 6,
-      "tasks": 2,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -26878,6 +26878,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T13:34:13Z",
-  "total_issues": 1914
+  "updated_at": "2026-02-20T15:00:46Z",
+  "total_issues": 1915
 }
