@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2164",
+      "summary": "(Shivani) - Hoichoi >> latest Release rail >> The Watch Now button is not clickable for some content in the Latest Release rail. ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2073",
+      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2159",
+      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2163",
+      "summary": "VZY Logo on JusPay payment page",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2048",
+      "summary": "MI TV: Playback does not start and auto-navigates back when user clicks Watch Now on Ek Din Ek Jeevan.",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2057",
+      "summary": "Fliqs channel page",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-09",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2160",
+      "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2084",
+      "summary": "View All option not available ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-12",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2069",
       "summary": "View All option not working correctly ",
       "status": "In Progress",
@@ -155,20 +295,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2131",
       "summary": "Fliqs TVOD / SVOD",
       "status": "In Progress",
@@ -235,34 +361,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2163",
-      "summary": "VZY Logo on JusPay payment page",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2073",
-      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -505,20 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2160",
-      "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2143",
       "summary": "Clevertap event integration - Fire Tv",
       "status": "Issue Accepted",
@@ -526,20 +610,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2159",
-      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -715,20 +785,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2048",
-      "summary": "MI TV: Playback does not start and auto-navigates back when user clicks Watch Now on Ek Din Ek Jeevan.",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2051",
       "summary": "MI TV: Wishlist button UI does not update when rapidly tapping on My Wishlist for searched content.",
       "status": "Closed",
@@ -771,34 +827,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Sameeksha Vinodiya",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2057",
-      "summary": "Fliqs channel page",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-09",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2062",
       "summary": "PIP Mode Controls",
       "status": "In Progress",
@@ -809,20 +837,6 @@
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2084",
-      "summary": "View All option not available ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-12",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26517,9 +26531,10 @@
       "stories": 0,
       "total": 35,
       "statuses": {
-        "Dev Complete": 5,
         "In Progress": 10,
-        "Issue Accepted": 9,
+        "Testing On hold": 1,
+        "Dev Complete": 5,
+        "Issue Accepted": 8,
         "On Hold- For Clarification": 1,
         "Reopened": 1,
         "Invalid": 1,
@@ -26555,26 +26570,40 @@
   },
   "releases": {},
   "assignee_workload": {
-    "abhilash.ramesh": {
-      "bugs": 12,
-      "tasks": 3,
+    "Unassigned": {
+      "bugs": 30,
+      "tasks": 32,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 66
     },
-    "Shubham Chauhan": {
-      "bugs": 10,
-      "tasks": 5,
+    "Namrata Kurariya": {
+      "bugs": 9,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 13
     },
-    "Vikas Mishra": {
-      "bugs": 38,
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Javed Ali": {
+      "bugs": 21,
       "tasks": 2,
-      "subtasks": 0,
+      "subtasks": 3,
       "stories": 0,
-      "total": 40
+      "total": 26
+    },
+    "Alok Gupta": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
     },
     "Dinjit Dinesh": {
       "bugs": 16,
@@ -26590,12 +26619,33 @@
       "stories": 0,
       "total": 1448
     },
-    "Javed Ali": {
-      "bugs": 20,
-      "tasks": 2,
-      "subtasks": 3,
+    "Karan Mahboobani": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 2,
       "stories": 0,
-      "total": 25
+      "total": 5
+    },
+    "abhilash.ramesh": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "Shubham Chauhan": {
+      "bugs": 9,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -26618,34 +26668,6 @@
       "stories": 0,
       "total": 9
     },
-    "Namrata Kurariya": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Karan Mahboobani": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 4
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
-    },
     "Rajkumar A": {
       "bugs": 5,
       "tasks": 16,
@@ -26667,12 +26689,12 @@
       "stories": 0,
       "total": 9
     },
-    "kamaldeeps": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 1,
       "stories": 0,
-      "total": 2
+      "total": 23
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -26680,20 +26702,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 35
-    },
-    "Sameeksha Vinodiya": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
-    "Alok Gupta": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -26722,13 +26730,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 14
-    },
-    "Unassigned": {
-      "bugs": 29,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 65
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -26779,6 +26780,20 @@
       "stories": 0,
       "total": 3
     },
+    "kamaldeeps": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Sameeksha Vinodiya": {
+      "bugs": 4,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
     "Vedant Kajale": {
       "bugs": 0,
       "tasks": 1,
@@ -26816,12 +26831,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 338,
     "High": 327,
     "Medium": 726,
     "Low": 19,
-    "Highest": 337,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T07:14:54Z",
-  "total_issues": 1910
+  "updated_at": "2026-02-20T07:58:49Z",
+  "total_issues": 1911
 }
