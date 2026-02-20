@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2164",
+      "summary": "(Shivani) - Hoichoi >> latest Release rail >> The Watch Now button is not clickable for some content in the Latest Release rail. ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2057",
+      "summary": "Fliqs channel page",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-09",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2134",
+      "summary": "Fliqs TVOD / SVOD - Error toast",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2136",
+      "summary": "Fliqs - Report",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2159",
+      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2163",
+      "summary": "VZY Logo on JusPay payment page",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2167",
+      "summary": "Live Event not available on Kaltura",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-20",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-11",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2111",
+      "summary": "Link redirection is not working on on ios and android",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1890",
       "summary": "Content not getting ingested on time",
       "status": "Reopened",
@@ -11,34 +165,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2167",
-      "summary": "Live Event not available on Kaltura",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Kaltura",
-      "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2164",
-      "summary": "(Shivani) - Hoichoi >> latest Release rail >> The Watch Now button is not clickable for some content in the Latest Release rail. ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -127,20 +253,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2125",
       "summary": "Conviva - Feedbacks",
       "status": "In Progress",
@@ -155,34 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2159",
-      "summary": "Clevertap InBox Notifiaction (Android/Ios)",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2163",
-      "summary": "VZY Logo on JusPay payment page",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2048",
       "summary": "MI TV: Playback does not start and auto-navigates back when user clicks Watch Now on Ek Din Ek Jeevan.",
       "status": "Testing On hold",
@@ -190,20 +274,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2057",
-      "summary": "Fliqs channel page",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-09",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -239,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-11",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2151",
       "summary": "FLIQS channel logos in Setting section",
       "status": "Dev Complete",
@@ -263,20 +319,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2111",
-      "summary": "Link redirection is not working on on ios and android",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Vikas Mishra",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -407,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "In Progress",
@@ -519,20 +547,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2134",
-      "summary": "Fliqs TVOD / SVOD - Error toast",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2080",
       "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
       "status": "Issue Accepted",
@@ -554,20 +568,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-06",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2136",
-      "summary": "Fliqs - Report",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-17",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19799,6 +19799,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1064",
+      "summary": "Geo Blocking - Phase 2 (as per BRD)",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-02-20",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1985",
       "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
       "status": "Issue Accepted",
@@ -20788,20 +20802,6 @@
       "created": "2026-02-13",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1064",
-      "summary": "Geo Blocking - Phase 2 (as per BRD)",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-05",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26566,6 +26566,25 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 16,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35,
+      "statuses": {
+        "Dev Complete": 5,
+        "In Progress": 10,
+        "Testing On hold": 1,
+        "Issue Accepted": 8,
+        "On Hold- For Clarification": 1,
+        "Reopened": 1,
+        "Invalid": 1,
+        "Closed": 1,
+        "Ready For Test": 4,
+        "Open": 3
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 14,
       "tasks": 18,
@@ -26577,25 +26596,6 @@
         "Closed": 19,
         "Dev Complete": 1,
         "Ready For Test": 26
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 16,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35,
-      "statuses": {
-        "In Progress": 10,
-        "Testing On hold": 1,
-        "Dev Complete": 5,
-        "Issue Accepted": 8,
-        "On Hold- For Clarification": 1,
-        "Reopened": 1,
-        "Invalid": 1,
-        "Closed": 1,
-        "Ready For Test": 4,
-        "Open": 3
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -26613,29 +26613,64 @@
   "releases": {},
   "assignee_workload": {
     "avinash waghmare": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Karan Mahboobani": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 5
+    },
+    "Javed Ali": {
+      "bugs": 22,
+      "tasks": 2,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 27
+    },
+    "Yashika Krishnani": {
       "bugs": 7,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 11
     },
-    "Dinjit Dinesh": {
-      "bugs": 17,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
-    },
-    "Kiran JR": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "Alok Gupta": {
       "bugs": 9,
       "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "Dinjit Dinesh": {
+      "bugs": 16,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
+    "vzyfeedback": {
+      "bugs": 1150,
+      "tasks": 288,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1450
+    },
+    "abhilash.ramesh": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "Moore Meghana": {
+      "bugs": 12,
+      "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 14
@@ -26646,13 +26681,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "vzyfeedback": {
-      "bugs": 1150,
-      "tasks": 288,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1450
     },
     "Namrata Kurariya": {
       "bugs": 9,
@@ -26668,47 +26696,12 @@
       "stories": 0,
       "total": 23
     },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
-    "Javed Ali": {
-      "bugs": 21,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 26
-    },
-    "Karan Mahboobani": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 5
-    },
-    "abhilash.ramesh": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
     "Shubham Chauhan": {
       "bugs": 8,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "Vikas Mishra": {
-      "bugs": 37,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -26794,13 +26787,6 @@
       "stories": 0,
       "total": 10
     },
-    "Moore Meghana": {
-      "bugs": 11,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
-    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 5,
@@ -26814,6 +26800,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
+    },
+    "Vikas Mishra": {
+      "bugs": 36,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 38
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -26857,6 +26850,13 @@
       "stories": 0,
       "total": 1
     },
+    "Kiran JR": {
+      "bugs": 5,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -26880,12 +26880,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 329,
     "Highest": 338,
+    "High": 329,
     "Medium": 726,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T08:59:46Z",
+  "updated_at": "2026-02-20T09:58:26Z",
   "total_issues": 1914
 }
