@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2015",
+      "summary": "MI TV: Video continues playing while buffering during quality upgrade from 720p to 1080p",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2131",
       "summary": "Fliqs TVOD / SVOD",
       "status": "Issue Accepted",
@@ -155,20 +197,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2128",
       "summary": "Fliqs TVOD / SVOD",
       "status": "Issue Accepted",
@@ -218,20 +246,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-11",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1629,20 +1643,6 @@
       "summary": "MI TV: Video playback breaks on rapid seek causing blank screen with only audio",
       "status": "Ready For Test",
       "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2015",
-      "summary": "MI TV: Video continues playing while buffering during quality upgrade from 720p to 1080p",
-      "status": "Ready For Test",
-      "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
@@ -26561,12 +26561,12 @@
       "stories": 0,
       "total": 14
     },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
+    "BalaKumar": {
+      "bugs": 15,
+      "tasks": 8,
+      "subtasks": 1,
       "stories": 0,
-      "total": 11
+      "total": 24
     },
     "vzyfeedback": {
       "bugs": 1148,
@@ -26574,6 +26574,13 @@
       "subtasks": 8,
       "stories": 0,
       "total": 1448
+    },
+    "Yashika Krishnani": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "Rajkumar A": {
       "bugs": 5,
@@ -26602,13 +26609,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
     },
     "Alok Gupta": {
       "bugs": 9,
@@ -26816,11 +26816,11 @@
   },
   "priority_breakdown": {
     "High": 327,
-    "Highest": 337,
     "Medium": 726,
+    "Highest": 337,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-20T05:51:26Z",
+  "updated_at": "2026-02-20T06:09:37Z",
   "total_issues": 1910
 }

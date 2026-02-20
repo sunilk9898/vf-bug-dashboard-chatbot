@@ -10,10 +10,10 @@
     },
     "ATV": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
-      "REOPENED": 3,
+      "IN PROGRESS": 3,
+      "REOPENED": 4,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 11,
+      "ISSUE ACCEPTED": 10,
       "PARKED": 0
     },
     "CMS": {
@@ -90,14 +90,14 @@
     },
     "WEB": {
       "OPEN": 0,
-      "IN PROGRESS": 3,
+      "IN PROGRESS": 4,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 6,
+      "ISSUE ACCEPTED": 5,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-20T05:51:26Z",
+  "updated_at": "2026-02-20T06:09:37Z",
   "total_issues_fetched": 1910,
   "project": "VF"
 }
