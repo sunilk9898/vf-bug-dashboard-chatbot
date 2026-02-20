@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2073",
+      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2128",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2129",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2130",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2131",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2132",
+      "summary": "Fliqs TVOD / SVOD - CTA issue",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2134",
+      "summary": "Fliqs TVOD / SVOD - Error toast",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2133",
+      "summary": "Fliqs TVOD / SVOD - UI issue",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2135",
       "summary": "TVOD / SVOD - CTA",
       "status": "Issue Accepted",
@@ -421,20 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2044",
       "summary": "MI TV: Right-side tournament episode list takes excessive time to load after returning from playback.",
       "status": "Closed",
@@ -442,20 +568,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2128",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-17",
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -575,48 +687,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2129",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2130",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2131",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2054",
       "summary": "Onida TV: Ad pod freezes on screen when playback starts for Introduction of Finalists episode.",
       "status": "Closed",
@@ -701,34 +771,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2073",
-      "summary": "the \u2018View All\u2019 option not available for Sara rails.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2084",
       "summary": "View All option not available ",
       "status": "Issue Accepted",
@@ -753,48 +795,6 @@
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2132",
-      "summary": "Fliqs TVOD / SVOD - CTA issue",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2133",
-      "summary": "Fliqs TVOD / SVOD - UI issue",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2134",
-      "summary": "Fliqs TVOD / SVOD - Error toast",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26541,11 +26541,53 @@
   "releases": {},
   "assignee_workload": {
     "Namrata Kurariya": {
-      "bugs": 6,
+      "bugs": 8,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 10
+      "total": 12
+    },
+    "Javed Ali": {
+      "bugs": 20,
+      "tasks": 2,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
+    },
+    "shadab Hussain": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Akash Kushwaha": {
+      "bugs": 1,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 3
+    },
+    "BalaKumar": {
+      "bugs": 15,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
+    "Dinjit Dinesh": {
+      "bugs": 15,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 32
+    },
+    "Yashika Krishnani": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "avinash waghmare": {
       "bugs": 7,
@@ -26561,20 +26603,6 @@
       "stories": 0,
       "total": 1447
     },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
-    },
     "Vikas Mishra": {
       "bugs": 37,
       "tasks": 2,
@@ -26588,20 +26616,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "Javed Ali": {
-      "bugs": 19,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 24
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
     },
     "Karan Mahboobani": {
       "bugs": 1,
@@ -26617,13 +26631,6 @@
       "stories": 0,
       "total": 2
     },
-    "shadab Hussain": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
       "tasks": 18,
@@ -26637,13 +26644,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 9
-    },
-    "Akash Kushwaha": {
-      "bugs": 3,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 5
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -26660,11 +26660,11 @@
       "total": 13
     },
     "abhilash.ramesh": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 14
     },
     "Rajkumar A": {
       "bugs": 5,
@@ -26807,6 +26807,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-19T23:46:05Z",
+  "updated_at": "2026-02-20T03:11:28Z",
   "total_issues": 1909
 }
