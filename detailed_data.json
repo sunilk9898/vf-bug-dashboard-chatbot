@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2165",
+      "summary": "Notifications page UI",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-02-21",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2167",
       "summary": "Live Event not available on Kaltura",
       "status": "In Progress",
@@ -540,20 +554,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2165",
-      "summary": "Notifications page UI",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26611,6 +26611,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Alok Gupta": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 13
+    },
     "avinash waghmare": {
       "bugs": 8,
       "tasks": 5,
@@ -26722,13 +26729,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 9
-    },
-    "Alok Gupta": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -26878,6 +26878,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-21T14:44:51Z",
+  "updated_at": "2026-02-21T16:48:39Z",
   "total_issues": 1915
 }
