@@ -19799,6 +19799,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2077",
+      "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-22",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2065",
       "summary": "FAQ Section to be hidden from all the touch points",
       "status": "Ready For Test",
@@ -21390,20 +21404,6 @@
       "created": "2026-02-12",
       "updated": "2026-02-12",
       "duedate": "2026-05-29",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2077",
-      "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26611,6 +26611,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1173,
+      "tasks": 289,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1474
+    },
     "Alok Gupta": {
       "bugs": 8,
       "tasks": 4,
@@ -26624,13 +26631,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "vzyfeedback": {
-      "bugs": 1173,
-      "tasks": 289,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1474
     },
     "abhilash.ramesh": {
       "bugs": 7,
@@ -26878,6 +26878,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-22T03:16:52Z",
+  "updated_at": "2026-02-22T05:30:55Z",
   "total_issues": 1915
 }
