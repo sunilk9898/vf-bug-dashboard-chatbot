@@ -1,6 +1,356 @@
 {
   "bugs": [
     {
+      "key": "VF-2187",
+      "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2137",
+      "summary": "Fliqs TVOD / SVOD - wrong content",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2140",
+      "summary": "Fliqs TVOD / SVOD - Pay Now",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "DishIT",
+      "created": "2026-02-17",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2186",
+      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2042",
+      "summary": "LG TV, Samsung TV: Unrelated content is recommended in More Like This for Live Table Tennis Championship.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2185",
+      "summary": "TV oneplus: Video freezes when seeking forward in Episode 2 of Pariksha Pe Charcha from Home section",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2184",
+      "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2058",
+      "summary": "Fliqs followed channels in settings screen",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "LG_TV",
+      "created": "2026-02-09",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2086",
+      "summary": "Fancode content is appearing on New On VZY rail",
+      "status": "Parked",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2163",
+      "summary": "VZY Logo on JusPay payment page",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-20",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2177",
+      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2183",
+      "summary": "TV One plus:Multiple non-crime genre contents displayed under Best in Crime section in Series.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2178",
+      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2179",
+      "summary": "TV: Watch Live TV content tiles disappear after navigating to Sports TV",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2180",
+      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2181",
+      "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2182",
+      "summary": "TV One plus: After resuming the movie and series, only audio plays and no video is displayed.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2172",
+      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-934",
+      "summary": "Complete Catalogue not Synced for available CP",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Manikanta P",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-23",
+      "duedate": "2025-12-08",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2170",
+      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the immediate next episode",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2173",
+      "summary": "TV: Frequently app gets stuck and buttons not working as expected",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2174",
+      "summary": "TV: Subscription error displayed when playing Horror genre movies from Fliqs OTT",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1536",
+      "summary": "Live TV Playback Issue",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-26",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2176",
+      "summary": "TV: Profiles and devices not displayed after reopening app and black screen observed on subsequent reopen",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2175",
       "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
       "status": "Issue Accepted",
@@ -36,48 +386,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-02-17",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2172",
-      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2173",
-      "summary": "TV: Frequently app gets stuck and buttons not working as expected",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2174",
-      "summary": "TV: Subscription error displayed when playing Horror genre movies from Fliqs OTT",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -176,34 +484,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-17",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2163",
-      "summary": "VZY Logo on JusPay payment page",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-02-20",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2170",
-      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the immediate next episode",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -361,20 +641,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2042",
-      "summary": "LG TV, Samsung TV: Unrelated content is recommended in More Like This for Live Table Tennis Championship.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -883,54 +1149,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2137",
-      "summary": "Fliqs TVOD / SVOD - wrong content",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2138",
       "summary": "Fliqs TVOD / SVOD - UI",
       "status": "Duplicate",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2139",
-      "summary": "Fliqs TVOD / SVOD - Order Summary",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2140",
-      "summary": "Fliqs TVOD / SVOD - Pay Now",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "DishIT",
       "created": "2026-02-17",
       "updated": "2026-02-19",
       "duedate": "",
@@ -1793,20 +2017,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1536",
-      "summary": "Live TV Playback Issue",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-26",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1867",
       "summary": "Application gets stuck",
       "status": "Ready For Test",
@@ -2064,20 +2274,6 @@
       "status": "On Hold- For Clarification",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2086",
-      "summary": "Fancode content is appearing on New On VZY rail",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
       "platform": "Kaltura",
       "created": "2026-02-12",
       "updated": "2026-02-13",
@@ -2521,20 +2717,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2058",
-      "summary": "Fliqs followed channels in settings screen",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "LG_TV",
-      "created": "2026-02-09",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1914",
       "summary": "City List dropdown",
       "status": "Closed",
@@ -2614,20 +2796,6 @@
       "created": "2026-01-13",
       "updated": "2026-02-07",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-934",
-      "summary": "Complete Catalogue not Synced for available CP",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-07",
-      "duedate": "2025-12-08",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -19883,6 +20051,90 @@
   ],
   "tasks": [
     {
+      "key": "VF-1896",
+      "summary": "CleverTap Pending task (IOS)",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-01-29",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1766",
+      "summary": "Profile Management",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-835",
+      "summary": "CLONE - Fliqs Channel Pages ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2025-12-01",
+      "updated": "2026-02-23",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1184",
+      "summary": "View All for Continue Watching & My list",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2025-12-16",
+      "updated": "2026-02-23",
+      "duedate": "2026-01-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2077",
+      "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1904",
       "summary": "Fliqs - Report",
       "status": "Closed",
@@ -19906,20 +20158,6 @@
       "created": "2025-11-28",
       "updated": "2026-02-23",
       "duedate": "2026-02-28",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1766",
-      "summary": "Profile Management",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-23",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -19949,34 +20187,6 @@
       "updated": "2026-02-22",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2077",
-      "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-22",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -20681,20 +20891,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-835",
-      "summary": "CLONE - Fliqs Channel Pages ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2025-12-01",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-05",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-821",
       "summary": "Smart CTAs\tVaries by subscription: Play / Rent / Subscribe / Watch Live / Resume with Progress bar",
       "status": "Closed",
@@ -21265,20 +21461,6 @@
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1184",
-      "summary": "View All for Continue Watching & My list",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2025-12-16",
-      "updated": "2026-02-12",
-      "duedate": "2026-01-31",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -21934,20 +22116,6 @@
       "assignee": "Aditya Shrivastava",
       "platform": "LG_TV",
       "created": "2025-12-24",
-      "updated": "2026-02-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1896",
-      "summary": "CleverTap Pending task (IOS)",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-01-29",
       "updated": "2026-02-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26650,6 +26818,25 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 22,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41,
+      "statuses": {
+        "Closed": 2,
+        "In Progress": 8,
+        "Ready For Test": 7,
+        "Dev Complete": 9,
+        "Testing On hold": 1,
+        "Issue Accepted": 8,
+        "On Hold- For Clarification": 1,
+        "Reopened": 1,
+        "Invalid": 1,
+        "Open": 3
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -26660,25 +26847,6 @@
         "Closed": 22,
         "Ready For Test": 25,
         "Reopened": 3
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 22,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41,
-      "statuses": {
-        "In Progress": 8,
-        "Ready For Test": 8,
-        "Dev Complete": 9,
-        "Testing On hold": 1,
-        "Issue Accepted": 8,
-        "On Hold- For Clarification": 1,
-        "Reopened": 1,
-        "Invalid": 1,
-        "Closed": 1,
-        "Open": 3
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -26695,33 +26863,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Shubham Chauhan": {
-      "bugs": 10,
-      "tasks": 5,
+    "Unassigned": {
+      "bugs": 37,
+      "tasks": 30,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 73
+    },
+    "Dinjit Dinesh": {
+      "bugs": 15,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 32
     },
     "vzyfeedback": {
-      "bugs": 1174,
+      "bugs": 1175,
       "tasks": 291,
       "subtasks": 8,
       "stories": 0,
-      "total": 1477
-    },
-    "Karan Mahboobani": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 5
-    },
-    "Akash Kushwaha": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
+      "total": 1478
     },
     "abhilash.ramesh": {
       "bugs": 7,
@@ -26730,12 +26891,47 @@
       "stories": 0,
       "total": 10
     },
-    "Unassigned": {
-      "bugs": 30,
-      "tasks": 30,
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 66
+      "total": 35
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Shubham Chauhan": {
+      "bugs": 15,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
+    "Javed Ali": {
+      "bugs": 18,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 24
+    },
+    "Karan Mahboobani": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 5
+    },
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 16
     },
     "Yashika Krishnani": {
       "bugs": 5,
@@ -26743,13 +26939,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -26766,11 +26955,11 @@
       "total": 13
     },
     "avinash waghmare": {
-      "bugs": 6,
+      "bugs": 5,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 8
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -26778,13 +26967,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 11
-    },
-    "Manikanta P": {
-      "bugs": 5,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 15
     },
     "Vikas Mishra": {
       "bugs": 39,
@@ -26797,13 +26979,6 @@
       "bugs": 13,
       "tasks": 9,
       "subtasks": 1,
-      "stories": 0,
-      "total": 23
-    },
-    "Javed Ali": {
-      "bugs": 18,
-      "tasks": 2,
-      "subtasks": 3,
       "stories": 0,
       "total": 23
     },
@@ -26828,12 +27003,12 @@
       "stories": 0,
       "total": 9
     },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 16,
-      "subtasks": 0,
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
-      "total": 32
+      "total": 2
     },
     "Amit Kumar Tiwari": {
       "bugs": 4,
@@ -26848,13 +27023,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 21
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -26956,12 +27124,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 332,
-    "Medium": 729,
+    "High": 342,
     "Highest": 338,
+    "Medium": 731,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-23T09:08:18Z",
-  "total_issues": 1922
+  "updated_at": "2026-02-23T10:12:39Z",
+  "total_issues": 1934
 }
