@@ -1,11 +1,53 @@
 {
   "bugs": [
     {
+      "key": "VF-2189",
+      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2188",
+      "summary": "TV: Episode count mismatch in series page",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2204",
+      "summary": "Web: Updated location is displayed incorrectly and city list is not shown in Location.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Aniruddh Patil",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2205",
       "summary": "Web: Login page layout breaks on refresh and valid Indian mobile number shows invalid validation message.",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "High",
-      "assignee": "Unassigned",
+      "assignee": "BalaKumar",
       "platform": "Mobile",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -15,12 +57,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2191",
-      "summary": "TV: Episodes are missing in India's got talent show",
+      "key": "VF-2199",
+      "summary": "Payment Gateway UI",
       "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -43,25 +85,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2193",
-      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2194",
       "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "Issue Accepted",
+      "status": "On Hold- For Clarification",
       "priority": "Medium",
-      "assignee": "Karan Mahboobani",
+      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -73,10 +101,290 @@
     {
       "key": "VF-2195",
       "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2082",
+      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2170",
+      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the immediate next episode",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2178",
+      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2172",
+      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2173",
+      "summary": "TV: Frequently app gets stuck and buttons not working as expected",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2174",
+      "summary": "TV: Subscription error displayed when playing Horror genre movies from Fliqs OTT",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2177",
+      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2175",
+      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2181",
+      "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2180",
+      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2179",
+      "summary": "TV: Watch Live TV content tiles disappear after navigating to Sports TV",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2182",
+      "summary": "TV One plus: After resuming the movie and series, only audio plays and no video is displayed.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2183",
+      "summary": "TV One plus:Multiple non-crime genre contents displayed under Best in Crime section in Series.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2184",
+      "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2185",
+      "summary": "TV oneplus: Video freezes when seeking forward in Episode 2 of Pariksha Pe Charcha from Home section",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2186",
+      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2187",
+      "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2190",
+      "summary": "TV: When changed the video quality in movie called OBSESSION , screen in getting redirected to home page.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2191",
+      "summary": "TV: Episodes are missing in India's got talent show",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2193",
+      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -113,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2199",
-      "summary": "Payment Gateway UI",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2202",
       "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
       "status": "Issue Accepted",
@@ -146,20 +440,6 @@
       "status": "Duplicate",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2204",
-      "summary": "Web: Updated location is displayed incorrectly and city list is not shown in Location.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
       "platform": "WEB",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -211,36 +491,8 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2182",
-      "summary": "TV One plus: After resuming the movie and series, only audio plays and no video is displayed.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2176",
       "summary": "TV: Profiles and devices not displayed after reopening app and black screen observed on subsequent reopen",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2177",
-      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Shubham Chauhan",
@@ -260,62 +512,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-11",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2190",
-      "summary": "TV: When changed the video quality in movie called OBSESSION , screen in getting redirected to home page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2189",
-      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2188",
-      "summary": "TV: Episode count mismatch in series page",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "LG_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2187",
-      "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -365,20 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2186",
-      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2042",
       "summary": "LG TV, Samsung TV: Unrelated content is recommended in More Like This for Live Table Tennis Championship.",
       "status": "Dev Complete",
@@ -386,34 +568,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "LG_TV",
       "created": "2026-02-06",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2185",
-      "summary": "TV oneplus: Video freezes when seeking forward in Episode 2 of Pariksha Pe Charcha from Home section",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2184",
-      "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -463,90 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2183",
-      "summary": "TV One plus:Multiple non-crime genre contents displayed under Best in Crime section in Series.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2178",
-      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2179",
-      "summary": "TV: Watch Live TV content tiles disappear after navigating to Sports TV",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2180",
-      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2181",
-      "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2172",
-      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-934",
       "summary": "Complete Catalogue not Synced for available CP",
       "status": "In Progress",
@@ -561,48 +631,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2170",
-      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the immediate next episode",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2173",
-      "summary": "TV: Frequently app gets stuck and buttons not working as expected",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2174",
-      "summary": "TV: Subscription error displayed when playing Horror genre movies from Fliqs OTT",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1536",
       "summary": "Live TV Playback Issue",
       "status": "Closed",
@@ -610,20 +638,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-12-26",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2175",
-      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2557,20 +2571,6 @@
       "platform": "Kaltura",
       "created": "2026-02-11",
       "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2082",
-      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -27115,19 +27115,33 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 39,
-      "tasks": 30,
+    "devaraj": {
+      "bugs": 11,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 13
+    },
+    "Aniruddh Patil": {
+      "bugs": 1,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 75
+      "total": 6
     },
-    "avinash waghmare": {
-      "bugs": 6,
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
+    "Yashika Krishnani": {
+      "bugs": 7,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 10
     },
     "Javed Ali": {
       "bugs": 20,
@@ -27136,37 +27150,30 @@
       "stories": 0,
       "total": 26
     },
-    "devaraj": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
+    "vzyfeedback": {
+      "bugs": 1191,
+      "tasks": 291,
+      "subtasks": 8,
       "stories": 0,
-      "total": 11
-    },
-    "Karan Mahboobani": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 6
+      "total": 1494
     },
     "Shubham Chauhan": {
-      "bugs": 18,
+      "bugs": 11,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 23
+      "total": 16
     },
-    "Yashika Krishnani": {
-      "bugs": 6,
+    "avinash waghmare": {
+      "bugs": 8,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 11
     },
-    "Suyog Lanje": {
-      "bugs": 2,
-      "tasks": 5,
+    "Kiran JR": {
+      "bugs": 6,
+      "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 7
@@ -27177,20 +27184,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "vzyfeedback": {
-      "bugs": 1178,
-      "tasks": 291,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1481
-    },
-    "Kiran JR": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -27213,12 +27206,26 @@
       "stories": 0,
       "total": 35
     },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 9,
       "subtasks": 0,
       "stories": 1,
       "total": 16
+    },
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 30,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 65
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -27234,6 +27241,13 @@
       "stories": 0,
       "total": 13
     },
+    "Karan Mahboobani": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 4
+    },
     "Moore Meghana": {
       "bugs": 9,
       "tasks": 1,
@@ -27247,13 +27261,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 42
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -27289,13 +27296,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -27382,6 +27382,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-23T15:06:52Z",
+  "updated_at": "2026-02-23T16:39:24Z",
   "total_issues": 1952
 }
