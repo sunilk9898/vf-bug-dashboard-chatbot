@@ -1,6 +1,216 @@
 {
   "bugs": [
     {
+      "key": "VF-2175",
+      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2171",
+      "summary": "TV: Video resumes automatically after being paused",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2141",
+      "summary": "Live TV guide",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-17",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2172",
+      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2173",
+      "summary": "TV: Frequently app gets stuck and buttons not working as expected",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2174",
+      "summary": "TV: Subscription error displayed when playing Horror genre movies from Fliqs OTT",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2142",
+      "summary": "Vivre Issue: Top 10 rail getting enabled automatically ",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-18",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1913",
+      "summary": "Content Download Speed",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1916",
+      "summary": "Trailer in PIP mode",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2128",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2134",
+      "summary": "Fliqs TVOD / SVOD - Error toast",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2135",
+      "summary": "TVOD / SVOD - CTA",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2136",
+      "summary": "Fliqs - Report",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-17",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2163",
+      "summary": "VZY Logo on JusPay payment page",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-02-20",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2170",
+      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the immediate next episode",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2059",
       "summary": "Inconsistent TOP NAV in \"My vibes\" section",
       "status": "In Progress",
@@ -92,20 +302,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-20",
-      "updated": "2026-02-22",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2141",
-      "summary": "Live TV guide",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-17",
       "updated": "2026-02-22",
       "duedate": "",
       "sprint": "No Sprint",
@@ -295,34 +491,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2163",
-      "summary": "VZY Logo on JusPay payment page",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2128",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1546",
       "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
       "status": "In Progress",
@@ -330,20 +498,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "ANDROID",
       "created": "2025-12-29",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2134",
-      "summary": "Fliqs TVOD / SVOD - Error toast",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -386,34 +540,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-06",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2135",
-      "summary": "TVOD / SVOD - CTA",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2136",
-      "summary": "Fliqs - Report",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-17",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -529,20 +655,6 @@
       "updated": "2026-02-20",
       "duedate": "2026-01-20",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1913",
-      "summary": "Content Download Speed",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -827,20 +939,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2142",
-      "summary": "Vivre Issue: Top 10 rail getting enabled automatically ",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-02-18",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2150",
       "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
       "status": "Duplicate",
@@ -865,20 +963,6 @@
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1916",
-      "summary": "Trailer in PIP mode",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19799,6 +19883,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-1904",
+      "summary": "Fliqs - Report",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-01-30",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-819",
+      "summary": "Content Logics\tRail reordering basis xx sessions",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2025-11-28",
+      "updated": "2026-02-23",
+      "duedate": "2026-02-28",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1766",
       "summary": "Profile Management",
       "status": "In Progress",
@@ -19962,20 +20074,6 @@
       "created": "2025-11-14",
       "updated": "2026-02-20",
       "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1904",
-      "summary": "Fliqs - Report",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-01-30",
-      "updated": "2026-02-20",
-      "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -21236,20 +21334,6 @@
       "created": "2025-12-08",
       "updated": "2026-02-12",
       "duedate": "2025-12-31",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-819",
-      "summary": "Content Logics\tRail reordering basis xx sessions",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2025-11-28",
-      "updated": "2026-02-12",
-      "duedate": "2026-02-28",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26566,6 +26650,18 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 50,
+      "statuses": {
+        "Closed": 22,
+        "Ready For Test": 25,
+        "Reopened": 3
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 22,
       "tasks": 19,
@@ -26585,18 +26681,6 @@
         "Open": 3
       }
     },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 50,
-      "statuses": {
-        "Ready For Test": 28,
-        "Reopened": 3,
-        "Closed": 19
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -26611,19 +26695,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 29,
-      "tasks": 30,
+    "Shubham Chauhan": {
+      "bugs": 10,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 65
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
+      "total": 15
     },
     "vzyfeedback": {
       "bugs": 1174,
@@ -26631,6 +26708,41 @@
       "subtasks": 8,
       "stories": 0,
       "total": 1477
+    },
+    "Karan Mahboobani": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 5
+    },
+    "Akash Kushwaha": {
+      "bugs": 1,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 3
+    },
+    "abhilash.ramesh": {
+      "bugs": 7,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Unassigned": {
+      "bugs": 30,
+      "tasks": 30,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 66
+    },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -26659,20 +26771,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "abhilash.ramesh": {
-      "bugs": 7,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
-    "Karan Mahboobani": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 4
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -26723,13 +26821,6 @@
       "stories": 0,
       "total": 8
     },
-    "Shubham Chauhan": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "devaraj": {
       "bugs": 7,
       "tasks": 1,
@@ -26743,13 +26834,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 32
-    },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 2
     },
     "Amit Kumar Tiwari": {
       "bugs": 4,
@@ -26872,12 +26956,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 329,
-    "Medium": 726,
+    "High": 332,
+    "Medium": 729,
     "Highest": 338,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-23T07:21:29Z",
-  "total_issues": 1916
+  "updated_at": "2026-02-23T09:08:18Z",
+  "total_issues": 1922
 }
