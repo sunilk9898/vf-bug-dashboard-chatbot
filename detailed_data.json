@@ -1,12 +1,40 @@
 {
   "bugs": [
     {
+      "key": "VF-2205",
+      "summary": "Web: Login page layout breaks on refresh and valid Indian mobile number shows invalid validation message.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2191",
       "summary": "TV: Episodes are missing in India's got talent show",
       "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2196",
+      "summary": "Disapperaing Carousel banners",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -49,20 +77,6 @@
       "priority": "High",
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2196",
-      "summary": "Disapperaing Carousel banners",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -27101,12 +27115,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 39,
+      "tasks": 30,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 75
+    },
     "avinash waghmare": {
       "bugs": 6,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Javed Ali": {
+      "bugs": 20,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 26
     },
     "devaraj": {
       "bugs": 9,
@@ -27129,26 +27157,19 @@
       "stories": 0,
       "total": 23
     },
-    "Suyog Lanje": {
-      "bugs": 3,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
-    "Javed Ali": {
-      "bugs": 19,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
-    },
     "Yashika Krishnani": {
       "bugs": 6,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "Namrata Kurariya": {
       "bugs": 5,
@@ -27163,13 +27184,6 @@
       "subtasks": 8,
       "stories": 0,
       "total": 1481
-    },
-    "Unassigned": {
-      "bugs": 38,
-      "tasks": 30,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 74
     },
     "Kiran JR": {
       "bugs": 6,
@@ -27362,12 +27376,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 351,
     "Medium": 740,
-    "High": 350,
     "Highest": 338,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-23T13:42:20Z",
-  "total_issues": 1951
+  "updated_at": "2026-02-23T15:06:52Z",
+  "total_issues": 1952
 }
