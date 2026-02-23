@@ -1,12 +1,12 @@
 {
   "bugs": [
     {
-      "key": "VF-2199",
-      "summary": "Payment Gateway UI",
-      "status": "Open",
+      "key": "VF-2191",
+      "summary": "TV: Episodes are missing in India's got talent show",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -15,11 +15,53 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Open",
+      "key": "VF-2193",
+      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2196",
+      "summary": "Disapperaing Carousel banners",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
       "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -31,9 +73,9 @@
     {
       "key": "VF-2197",
       "summary": "Refresh screen functionality",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
+      "assignee": "Javed Ali",
       "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -43,11 +85,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2196",
-      "summary": "Disapperaing Carousel banners",
-      "status": "Open",
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
+      "assignee": "Yashika Krishnani",
       "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -57,26 +99,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2194",
-      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "Open",
+      "key": "VF-2199",
+      "summary": "Payment Gateway UI",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -85,12 +113,68 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2193",
-      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
+      "key": "VF-2202",
+      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2203",
+      "summary": "Web: Series text in top navigation remains in English after changing App Display Language.",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2204",
+      "summary": "Web: Updated location is displayed incorrectly and city list is not shown in Location.",
       "status": "Open",
       "priority": "High",
       "assignee": "Unassigned",
-      "platform": "SAM_TV",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2200",
+      "summary": "Web: City not fetched in Location field and Save button remains disabled",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2201",
+      "summary": "Web: Incorrect redirection occurs, user is navigated to Home page of older app version 2026.02.18.04.43 when exiting Plans & Offers page from version 2026.02.18.04.44.",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -101,9 +185,9 @@
     {
       "key": "VF-2192",
       "summary": "TV(Samsung TV):Season number and episode number not displayed in episode list",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Unassigned",
+      "assignee": "devaraj",
       "platform": "SAM_TV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -113,13 +197,55 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2191",
-      "summary": "TV: Episodes are missing in India's got talent show",
+      "key": "VF-2182",
+      "summary": "TV One plus: After resuming the movie and series, only audio plays and no video is displayed.",
       "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
+      "priority": "High",
+      "assignee": "Kiran JR",
       "platform": "ATV",
       "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2176",
+      "summary": "TV: Profiles and devices not displayed after reopening app and black screen observed on subsequent reopen",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2177",
+      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2072",
+      "summary": "Content recommendation under similar to this is not correct",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -323,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2177",
-      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2183",
       "summary": "TV One plus:Multiple non-crime genre contents displayed under Best in Crime section in Series.",
       "status": "Open",
@@ -398,20 +510,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2182",
-      "summary": "TV One plus: After resuming the movie and series, only audio plays and no video is displayed.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
       "platform": "ATV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -498,20 +596,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-12-26",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2176",
-      "summary": "TV: Profiles and devices not displayed after reopening app and black screen observed on subsequent reopen",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -974,20 +1058,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-06",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2072",
-      "summary": "Content recommendation under similar to this is not correct",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-11",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27031,19 +27101,82 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Srinidhi.Raju": {
-      "bugs": 4,
-      "tasks": 0,
+    "avinash waghmare": {
+      "bugs": 6,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 4
+      "total": 9
+    },
+    "devaraj": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
+    "Karan Mahboobani": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 6
+    },
+    "Shubham Chauhan": {
+      "bugs": 18,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 23
+    },
+    "Suyog Lanje": {
+      "bugs": 3,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Javed Ali": {
+      "bugs": 19,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Namrata Kurariya": {
+      "bugs": 5,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "vzyfeedback": {
+      "bugs": 1178,
+      "tasks": 291,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1481
     },
     "Unassigned": {
-      "bugs": 45,
+      "bugs": 38,
       "tasks": 30,
       "subtasks": 0,
       "stories": 0,
-      "total": 81
+      "total": 74
+    },
+    "Kiran JR": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -27051,13 +27184,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 32
-    },
-    "vzyfeedback": {
-      "bugs": 1175,
-      "tasks": 291,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1478
     },
     "abhilash.ramesh": {
       "bugs": 7,
@@ -27073,47 +27199,12 @@
       "stories": 0,
       "total": 35
     },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
-    "Javed Ali": {
-      "bugs": 18,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 24
-    },
-    "Karan Mahboobani": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 5
-    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 9,
       "subtasks": 0,
       "stories": 1,
       "total": 16
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -27128,13 +27219,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 13
-    },
-    "avinash waghmare": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -27163,20 +27247,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 10
-    },
-    "Namrata Kurariya": {
-      "bugs": 4,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
-    "devaraj": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 9
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -27269,13 +27339,6 @@
       "stories": 0,
       "total": 1
     },
-    "Kiran JR": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -27299,12 +27362,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 738,
-    "High": 347,
+    "Medium": 740,
+    "High": 350,
     "Highest": 338,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-23T11:09:18Z",
-  "total_issues": 1946
+  "updated_at": "2026-02-23T13:42:20Z",
+  "total_issues": 1951
 }

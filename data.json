@@ -1,19 +1,19 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 4,
+      "OPEN": 0,
       "IN PROGRESS": 4,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 4,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 11,
+      "OPEN": 7,
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 12,
+      "ISSUE ACCEPTED": 15,
       "PARKED": 0
     },
     "CMS": {
@@ -29,7 +29,7 @@
       "IN PROGRESS": 1,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -81,23 +81,23 @@
       "PARKED": 2
     },
     "SAM_TV": {
-      "OPEN": 3,
+      "OPEN": 1,
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-23T11:09:18Z",
-  "total_issues_fetched": 1946,
+  "updated_at": "2026-02-23T13:42:20Z",
+  "total_issues_fetched": 1951,
   "project": "VF"
 }
