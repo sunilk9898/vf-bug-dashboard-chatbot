@@ -1,6 +1,174 @@
 {
   "bugs": [
     {
+      "key": "VF-2199",
+      "summary": "Payment Gateway UI",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2196",
+      "summary": "Disapperaing Carousel banners",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2193",
+      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2192",
+      "summary": "TV(Samsung TV):Season number and episode number not displayed in episode list",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2191",
+      "summary": "TV: Episodes are missing in India's got talent show",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2190",
+      "summary": "TV: When changed the video quality in movie called OBSESSION , screen in getting redirected to home page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2189",
+      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2188",
+      "summary": "TV: Episode count mismatch in series page",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "LG_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2187",
       "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
       "status": "Open",
@@ -26863,12 +27031,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Srinidhi.Raju": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
     "Unassigned": {
-      "bugs": 37,
+      "bugs": 45,
       "tasks": 30,
       "subtasks": 0,
       "stories": 0,
-      "total": 73
+      "total": 81
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -27124,12 +27299,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 342,
+    "Medium": 738,
+    "High": 347,
     "Highest": 338,
-    "Medium": 731,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-23T10:12:39Z",
-  "total_issues": 1934
+  "updated_at": "2026-02-23T11:09:18Z",
+  "total_issues": 1946
 }
