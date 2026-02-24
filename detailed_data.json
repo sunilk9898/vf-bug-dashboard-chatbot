@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2186",
+      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2223",
+      "summary": "Web: Language options mismatch between My Vibe section in app and web application.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2080",
+      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-11",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2222",
+      "summary": "Web: Episode not playing despite being marked as Free.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2215",
+      "summary": "(Tamanna) - MX player CP logo not showing on thumbnails.",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2191",
+      "summary": "TV: Episodes are missing in India's got talent show",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2149",
+      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-18",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2154",
+      "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-19",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Sameeksha Vinodiya",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2199",
+      "summary": "Payment Gateway UI",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2160",
       "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
       "status": "Closed",
@@ -22,20 +162,6 @@
       "assignee": "avinash waghmare",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2215",
-      "summary": "(Tamanna) - MX player CP logo not showing on thumbnails.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -407,20 +533,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2199",
-      "summary": "Payment Gateway UI",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2198",
       "summary": "FLIQS Order summary page",
       "status": "Issue Accepted",
@@ -428,20 +540,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -729,20 +827,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2186",
-      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2187",
       "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
       "status": "On Hold- For Clarification",
@@ -763,20 +847,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2191",
-      "summary": "TV: Episodes are missing in India's got talent show",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -1359,34 +1429,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2154",
-      "summary": "Naveen => UltraJhakass cp is not working on WEB (prod and PReprod)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2149",
-      "summary": "NAVEEN => LGP THUMBNAIL REDIRECTION ON THE BLACK SCREEN AFTER CLICK ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-18",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2057",
       "summary": "Fliqs channel page",
       "status": "Testing On hold",
@@ -1579,20 +1621,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2080",
-      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-11",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -27301,12 +27329,12 @@
       "stories": 0,
       "total": 51,
       "statuses": {
+        "Issue Accepted": 12,
+        "In Progress": 11,
         "Open": 4,
         "Dev Complete": 9,
         "Onhold-For Tech Dependency": 1,
         "Ready For Test": 8,
-        "In Progress": 11,
-        "Issue Accepted": 12,
         "Closed": 2,
         "Testing On hold": 1,
         "On Hold- For Clarification": 1,
@@ -27341,32 +27369,53 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1195,
+      "bugs": 1197,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1497
-    },
-    "avinash waghmare": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
+      "total": 1499
     },
     "Unassigned": {
-      "bugs": 33,
+      "bugs": 35,
       "tasks": 31,
       "subtasks": 0,
       "stories": 0,
-      "total": 70
+      "total": 72
     },
     "Amudha Kaliamoorthi": {
-      "bugs": 13,
+      "bugs": 14,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 35
+      "total": 36
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
+    "Sameeksha Vinodiya": {
+      "bugs": 5,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Alok Gupta": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
+    "avinash waghmare": {
+      "bugs": 8,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "Dinjit Dinesh": {
       "bugs": 18,
@@ -27397,11 +27446,11 @@
       "total": 6
     },
     "Yashika Krishnani": {
-      "bugs": 5,
+      "bugs": 4,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 8
+      "total": 7
     },
     "Javed Ali": {
       "bugs": 20,
@@ -27431,13 +27480,6 @@
       "stories": 0,
       "total": 11
     },
-    "Alok Gupta": {
-      "bugs": 10,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 10,
@@ -27453,11 +27495,11 @@
       "total": 11
     },
     "Shubham Chauhan": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 13
     },
     "Kiran JR": {
       "bugs": 6,
@@ -27486,13 +27528,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 42
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -27571,13 +27606,6 @@
       "stories": 0,
       "total": 1
     },
-    "Sameeksha Vinodiya": {
-      "bugs": 4,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
     "Vedant Kajale": {
       "bugs": 0,
       "tasks": 1,
@@ -27608,12 +27636,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 360,
+    "Medium": 743,
     "Highest": 341,
-    "Medium": 742,
-    "High": 359,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T09:18:58Z",
-  "total_issues": 1968
+  "updated_at": "2026-02-24T10:09:22Z",
+  "total_issues": 1970
 }
