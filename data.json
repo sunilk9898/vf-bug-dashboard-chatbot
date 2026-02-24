@@ -9,11 +9,11 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 1,
-      "IN PROGRESS": 2,
-      "REOPENED": 0,
+      "OPEN": 3,
+      "IN PROGRESS": 1,
+      "REOPENED": 6,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 4,
       "PARKED": 0
     },
     "CMS": {
@@ -29,7 +29,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -66,7 +66,7 @@
     },
     "LG_TV": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 3,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-24T10:09:22Z",
-  "total_issues_fetched": 1970,
+  "updated_at": "2026-02-24T11:08:00Z",
+  "total_issues_fetched": 1972,
   "project": "VF"
 }
