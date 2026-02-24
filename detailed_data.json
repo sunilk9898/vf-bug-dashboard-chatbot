@@ -1,6 +1,202 @@
 {
   "bugs": [
     {
+      "key": "VF-2229",
+      "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Abhishek Dhok",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2228",
+      "summary": "Mobile: Movie does not resume from last watched position and restarts from beginning on clicking Watch Now",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2226",
+      "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2227",
+      "summary": "Mobile: Incorrect device model is displayed in the application shows iPhone 14 Pro instead of iPhone 14.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2224",
+      "summary": "(Tamanna) - Fancode content \"ISL 2025- 2026\" not available.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2231",
+      "summary": "Mobile: Device back button does not work in Help & Policy pages navigation possible only through in-app back option.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2230",
+      "summary": "Mobile: Trailer does not play when user selects Shabad - Reet aur Riwaaz content from Series section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2232",
+      "summary": "Mobile: Button text is not visible for Continue and Verify OTP buttons on Login screen.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2233",
+      "summary": "Mobile: Incorrect audio language label Ko displayed and subtitles not available for Broken content.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2234",
+      "summary": "Mobile: Error popup displayed when selecting ND24 News from More Like This section in Live TV player.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2235",
+      "summary": "Mobile: Shared movie link redirects to Play Store instead of opening the specific movie in the VZY application",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2220",
+      "summary": "Sports Videos tagged as movie : Kaltura Issue",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2177",
+      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2175",
+      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2125",
       "summary": "Conviva - Feedbacks",
       "status": "Closed",
@@ -22,20 +218,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2235",
-      "summary": "Mobile: Shared movie link redirects to Play Store instead of opening the specific movie in the VZY application",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -71,82 +253,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2234",
-      "summary": "Mobile: Error popup displayed when selecting ND24 News from More Like This section in Live TV player.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2222",
       "summary": "Web: Episode not playing despite being marked as Free.",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Amudha Kaliamoorthi",
       "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2233",
-      "summary": "Mobile: Incorrect audio language label Ko displayed and subtitles not available for Broken content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2232",
-      "summary": "Mobile: Button text is not visible for Continue and Verify OTP buttons on Login screen.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2231",
-      "summary": "Mobile: Device back button does not work in Help & Policy pages navigation possible only through in-app back option.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2230",
-      "summary": "Mobile: Trailer does not play when user selects Shabad - Reet aur Riwaaz content from Series section.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
       "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
@@ -288,20 +400,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2229",
-      "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -645,20 +743,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2228",
-      "summary": "Mobile: Movie does not resume from last watched position and restarts from beginning on clicking Watch Now",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2200",
       "summary": "Web: City not fetched in Location field and Save button remains disabled",
       "status": "Closed",
@@ -715,20 +799,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2227",
-      "summary": "Mobile: Incorrect device model is displayed in the application shows iPhone 14 Pro instead of iPhone 14.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2186",
       "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
       "status": "Reopened",
@@ -736,20 +806,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2226",
-      "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -781,34 +837,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2220",
-      "summary": "Sports Videos tagged as movie : Kaltura Issue",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2224",
-      "summary": "(Tamanna) - Fancode content \"ISL 2025- 2026\" not available.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1625,20 +1653,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2175",
-      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2161",
       "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
       "status": "In Progress",
@@ -1826,20 +1840,6 @@
       "status": "On Hold- For Clarification",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2177",
-      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -27497,10 +27497,10 @@
       "stories": 0,
       "total": 53,
       "statuses": {
+        "In Progress": 11,
         "Closed": 11,
-        "Issue Accepted": 14,
+        "Issue Accepted": 13,
         "Ready For Test": 5,
-        "In Progress": 10,
         "Open": 4,
         "Dev Complete": 4,
         "Onhold-For Tech Dependency": 1,
@@ -27536,12 +27536,61 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Abhishek Dhok": {
+      "bugs": 7,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "shadab Hussain": {
+      "bugs": 6,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "avinash waghmare": {
+      "bugs": 7,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 19
+    },
     "Javed Ali": {
-      "bugs": 20,
+      "bugs": 22,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
-      "total": 26
+      "total": 28
+    },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Shubham Chauhan": {
+      "bugs": 12,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 17
     },
     "vzyfeedback": {
       "bugs": 1213,
@@ -27549,13 +27598,6 @@
       "subtasks": 8,
       "stories": 0,
       "total": 1515
-    },
-    "Unassigned": {
-      "bugs": 40,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 77
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -27568,13 +27610,6 @@
       "bugs": 7,
       "tasks": 0,
       "subtasks": 2,
-      "stories": 0,
-      "total": 9
-    },
-    "shadab Hussain": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 0,
       "stories": 0,
       "total": 9
     },
@@ -27592,26 +27627,12 @@
       "stories": 0,
       "total": 6
     },
-    "avinash waghmare": {
-      "bugs": 8,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "abhilash.ramesh": {
       "bugs": 4,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Shubham Chauhan": {
-      "bugs": 10,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "devaraj": {
       "bugs": 9,
@@ -27620,27 +27641,6 @@
       "stories": 0,
       "total": 11
     },
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 16
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
-    },
-    "Abhishek Dhok": {
-      "bugs": 6,
-      "tasks": 2,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
-    },
     "Namrata Kurariya": {
       "bugs": 5,
       "tasks": 4,
@@ -27648,19 +27648,26 @@
       "stories": 0,
       "total": 9
     },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
+    "Unassigned": {
+      "bugs": 30,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 67
+    },
     "Sameeksha Vinodiya": {
       "bugs": 5,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Yashika Krishnani": {
-      "bugs": 4,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Manikanta P": {
       "bugs": 6,
@@ -27675,13 +27682,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Suyog Lanje": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Vikas Mishra": {
       "bugs": 36,
@@ -27797,12 +27797,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 748,
     "High": 367,
+    "Medium": 748,
     "Highest": 341,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T16:14:41Z",
+  "updated_at": "2026-02-24T17:20:19Z",
   "total_issues": 1982
 }
