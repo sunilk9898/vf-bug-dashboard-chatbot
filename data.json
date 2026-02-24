@@ -73,7 +73,7 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 4,
+      "OPEN": 10,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -89,7 +89,7 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-24T13:03:46Z",
-  "total_issues_fetched": 1976,
+  "updated_at": "2026-02-24T13:44:29Z",
+  "total_issues_fetched": 1982,
   "project": "VF"
 }

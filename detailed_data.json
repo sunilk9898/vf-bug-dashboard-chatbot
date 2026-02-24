@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2235",
+      "summary": "Mobile: Shared movie link redirects to Play Store instead of opening the specific movie in the VZY application",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2216",
+      "summary": "Web: Blank screen displayed when playing Republic TV in Live TV section.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2219",
+      "summary": "Web: Movie video is not displayed; only the movie name is visible. ",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2234",
+      "summary": "Mobile: Error popup displayed when selecting ND24 News from More Like This section in Live TV player.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2222",
+      "summary": "Web: Episode not playing despite being marked as Free.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2233",
+      "summary": "Mobile: Incorrect audio language label Ko displayed and subtitles not available for Broken content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2232",
+      "summary": "Mobile: Button text is not visible for Continue and Verify OTP buttons on Login screen.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2231",
+      "summary": "Mobile: Device back button does not work in Help & Policy pages navigation possible only through in-app back option.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2230",
+      "summary": "Mobile: Trailer does not play when user selects Shabad - Reet aur Riwaaz content from Series section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1974",
+      "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2042",
       "summary": "LG TV, Samsung TV: Unrelated content is recommended in More Like This for Live Table Tennis Championship.",
       "status": "Closed",
@@ -106,20 +246,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2219",
-      "summary": "Web: Movie video is not displayed; only the movie name is visible. ",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -561,20 +687,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2216",
-      "summary": "Web: Blank screen displayed when playing Republic TV in Live TV section.",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2159",
       "summary": "Clevertap InBox Notifiaction (Android/Ios)",
       "status": "Closed",
@@ -679,20 +791,6 @@
       "priority": "Medium",
       "assignee": "BalaKumar",
       "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2222",
-      "summary": "Web: Episode not playing despite being marked as Free.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
       "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
@@ -927,20 +1025,6 @@
     {
       "key": "VF-1972",
       "summary": "MI TV: U-rated account displays A-rated and U/A content in Movies section on Home page",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1974",
-      "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
       "status": "Reopened",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -27452,12 +27536,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 40,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 77
+    },
     "vzyfeedback": {
-      "bugs": 1213,
+      "bugs": 1212,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1515
+      "total": 1514
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Karan Mahboobani": {
+      "bugs": 7,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 9
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -27465,13 +27570,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Unassigned": {
-      "bugs": 34,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 71
     },
     "Dinjit Dinesh": {
       "bugs": 16,
@@ -27515,26 +27613,12 @@
       "stories": 0,
       "total": 11
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 12,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
-    },
     "Javed Ali": {
       "bugs": 20,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
       "total": 26
-    },
-    "Karan Mahboobani": {
-      "bugs": 6,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 8
     },
     "Alok Gupta": {
       "bugs": 11,
@@ -27544,11 +27628,11 @@
       "total": 16
     },
     "BalaKumar": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 9,
       "subtasks": 1,
       "stories": 0,
-      "total": 25
+      "total": 24
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -27713,12 +27797,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 362,
-    "Medium": 747,
+    "High": 367,
+    "Medium": 748,
     "Highest": 341,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T13:03:46Z",
-  "total_issues": 1976
+  "updated_at": "2026-02-24T13:44:29Z",
+  "total_issues": 1982
 }
