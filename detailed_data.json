@@ -1,6 +1,174 @@
 {
   "bugs": [
     {
+      "key": "VF-2206",
+      "summary": "SARA Search does not work",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2175",
+      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2199",
+      "summary": "Payment Gateway UI",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2196",
+      "summary": "Disapperaing Carousel banners",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2205",
+      "summary": "Web: Login page layout breaks on refresh and valid Indian mobile number shows invalid validation message.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "Mobile",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2202",
+      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2189",
       "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
       "status": "Issue Accepted",
@@ -35,48 +203,6 @@
       "priority": "High",
       "assignee": "Aniruddh Patil",
       "platform": "WEB",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2205",
-      "summary": "Web: Login page layout breaks on refresh and valid Indian mobile number shows invalid validation message.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "Mobile",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2199",
-      "summary": "Payment Gateway UI",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2196",
-      "summary": "Disapperaing Carousel banners",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -203,20 +329,6 @@
       "priority": "High",
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2175",
-      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -385,48 +497,6 @@
       "priority": "High",
       "assignee": "devaraj",
       "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2202",
-      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -799,20 +869,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2062",
       "summary": "PIP Mode Controls",
       "status": "Closed",
@@ -1037,20 +1093,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1992",
       "summary": "Mobile: Login page opens unexpectedly from Help & Policy section.",
       "status": "Ready For Test",
@@ -1211,34 +1253,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
       "created": "2026-02-19",
       "updated": "2026-02-20",
       "duedate": "",
@@ -20303,6 +20317,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1931",
+      "summary": "Amazon Prime Integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1896",
       "summary": "CleverTap Pending task (IOS)",
       "status": "In Progress",
@@ -22005,20 +22033,6 @@
       "platform": "CMS",
       "created": "2026-02-11",
       "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1931",
-      "summary": "Amazon Prime Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-10",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
@@ -27071,22 +27085,33 @@
   ],
   "sprints": {
     "VZY Sprint (27 Feb 2026)": {
-      "bugs": 22,
+      "bugs": 31,
       "tasks": 19,
       "subtasks": 0,
       "stories": 0,
-      "total": 41,
+      "total": 50,
       "statuses": {
+        "Open": 4,
+        "In Progress": 11,
+        "Issue Accepted": 12,
+        "Reopened": 2,
         "Closed": 2,
-        "In Progress": 8,
         "Ready For Test": 7,
         "Dev Complete": 9,
         "Testing On hold": 1,
-        "Issue Accepted": 8,
         "On Hold- For Clarification": 1,
-        "Reopened": 1,
-        "Invalid": 1,
-        "Open": 3
+        "Invalid": 1
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 0,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3,
+      "statuses": {
+        "Open": 2,
+        "On Hold- For Clarification": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -27100,21 +27125,66 @@
         "Ready For Test": 25,
         "Reopened": 3
       }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 0,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2,
-      "statuses": {
-        "On Hold- For Clarification": 1,
-        "Open": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "abhilash.ramesh": {
+      "bugs": 8,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "avinash waghmare": {
+      "bugs": 8,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Alok Gupta": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
+    "Javed Ali": {
+      "bugs": 21,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 27
+    },
+    "Namrata Kurariya": {
+      "bugs": 5,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "vzyfeedback": {
+      "bugs": 1191,
+      "tasks": 290,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1493
+    },
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 10,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 17
+    },
     "devaraj": {
       "bugs": 11,
       "tasks": 1,
@@ -27129,47 +27199,12 @@
       "stories": 0,
       "total": 6
     },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
-    },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
-    "Javed Ali": {
-      "bugs": 20,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 26
-    },
-    "vzyfeedback": {
-      "bugs": 1191,
-      "tasks": 291,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1494
-    },
     "Shubham Chauhan": {
       "bugs": 11,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "avinash waghmare": {
-      "bugs": 8,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "Kiran JR": {
       "bugs": 6,
@@ -27178,26 +27213,12 @@
       "stories": 0,
       "total": 7
     },
-    "Namrata Kurariya": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "Dinjit Dinesh": {
       "bugs": 15,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
       "total": 32
-    },
-    "abhilash.ramesh": {
-      "bugs": 7,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -27213,13 +27234,6 @@
       "stories": 0,
       "total": 6
     },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 16
-    },
     "Unassigned": {
       "bugs": 29,
       "tasks": 30,
@@ -27233,13 +27247,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Alok Gupta": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
     },
     "Karan Mahboobani": {
       "bugs": 2,
@@ -27261,6 +27268,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 42
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -27376,12 +27390,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 339,
     "High": 351,
     "Medium": 740,
-    "Highest": 338,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-23T23:47:40Z",
-  "total_issues": 1952
+  "updated_at": "2026-02-24T03:14:55Z",
+  "total_issues": 1953
 }
