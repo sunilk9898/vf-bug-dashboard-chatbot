@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2221",
+      "summary": "Hotstar content thumbnail issue : Kaltura Issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Kaltura",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2220",
+      "summary": "Sports Videos tagged as movie : Kaltura Issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Kaltura",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2167",
       "summary": "Live Event not available on Kaltura",
       "status": "Ready For Test",
@@ -20457,6 +20485,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2152",
+      "summary": "Need help on content ingestion ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS",
+      "created": "2026-02-19",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1960",
       "summary": " A Clavertap - FLIQS SVOD & TVOD ",
       "status": "Issue Accepted",
@@ -20831,20 +20873,6 @@
       "updated": "2026-02-19",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2152",
-      "summary": "Need help on content ingestion ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS",
-      "created": "2026-02-19",
-      "updated": "2026-02-19",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -27312,6 +27340,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
     "avinash waghmare": {
       "bugs": 10,
       "tasks": 3,
@@ -27360,13 +27402,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Dinjit Dinesh": {
-      "bugs": 16,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "Javed Ali": {
       "bugs": 20,
@@ -27430,13 +27465,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -27580,12 +27608,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 742,
     "High": 359,
     "Highest": 341,
-    "Medium": 740,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T08:39:56Z",
-  "total_issues": 1966
+  "updated_at": "2026-02-24T09:07:49Z",
+  "total_issues": 1968
 }

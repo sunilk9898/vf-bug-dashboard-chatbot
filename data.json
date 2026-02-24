@@ -57,7 +57,7 @@
       "PARKED": 0
     },
     "Kaltura": {
-      "OPEN": 1,
+      "OPEN": 3,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-24T08:39:56Z",
-  "total_issues_fetched": 1966,
+  "updated_at": "2026-02-24T09:07:49Z",
+  "total_issues_fetched": 1968,
   "project": "VF"
 }
