@@ -2,8 +2,8 @@
   "data": {
     "ANDROID": {
       "OPEN": 1,
-      "IN PROGRESS": 4,
-      "REOPENED": 1,
+      "IN PROGRESS": 3,
+      "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 4,
       "PARKED": 1
@@ -65,7 +65,7 @@
       "PARKED": 1
     },
     "LG_TV": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -89,8 +89,8 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 0,
-      "IN PROGRESS": 2,
+      "OPEN": 1,
+      "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-24T06:13:52Z",
-  "total_issues_fetched": 1962,
+  "updated_at": "2026-02-24T07:18:19Z",
+  "total_issues_fetched": 1965,
   "project": "VF"
 }

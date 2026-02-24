@@ -3,11 +3,81 @@
     {
       "key": "VF-2204",
       "summary": "Web: Updated location is displayed incorrectly and city list is not shown in Location.",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "High",
       "assignee": "Namrata Kurariya",
       "platform": "WEB",
       "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2193",
+      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2216",
+      "summary": "Web: Blank screen displayed when playing Republic TV in Live TV section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -22,20 +92,6 @@
       "assignee": "Javed Ali",
       "platform": "ATV",
       "created": "2026-02-17",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -87,20 +143,6 @@
     {
       "key": "VF-2189",
       "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2193",
-      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "avinash waghmare",
@@ -175,20 +217,6 @@
       "priority": "High",
       "assignee": "Srinidhi.Raju",
       "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
-      "platform": "LG_TV",
       "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
@@ -991,20 +1019,6 @@
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -20429,6 +20443,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-1960",
+      "summary": " A Clavertap - FLIQS SVOD & TVOD ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2218",
+      "summary": "Vivre feature flag ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "Unknown",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2217",
+      "summary": "(Awadhesh) KPI Improvement - VZY page check with Security Header",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2213",
       "summary": "Fliqs Report \u2013 Dashboard Availability",
       "status": "Open",
@@ -20606,20 +20662,6 @@
       "created": "2026-01-09",
       "updated": "2026-02-20",
       "duedate": "2026-01-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1960",
-      "summary": "Clavertap - FLIQS SVOD & TVOD ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-20",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -27212,21 +27254,22 @@
   "sprints": {
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 31,
-      "tasks": 19,
+      "tasks": 20,
       "subtasks": 0,
       "stories": 0,
-      "total": 50,
+      "total": 51,
       "statuses": {
-        "Dev Complete": 8,
-        "Reopened": 2,
+        "Open": 4,
+        "Dev Complete": 9,
+        "Onhold-For Tech Dependency": 1,
         "Ready For Test": 8,
-        "In Progress": 12,
+        "In Progress": 11,
         "Issue Accepted": 12,
         "Closed": 2,
         "Testing On hold": 1,
         "On Hold- For Clarification": 1,
-        "Invalid": 1,
-        "Open": 3
+        "Reopened": 1,
+        "Invalid": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -27262,26 +27305,54 @@
       "stories": 0,
       "total": 10
     },
-    "Javed Ali": {
-      "bugs": 21,
+    "avinash waghmare": {
+      "bugs": 10,
       "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 27
-    },
-    "Unassigned": {
-      "bugs": 31,
-      "tasks": 31,
       "subtasks": 0,
       "stories": 0,
-      "total": 68
+      "total": 13
     },
     "vzyfeedback": {
-      "bugs": 1192,
+      "bugs": 1194,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1494
+      "total": 1496
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Dinjit Dinesh": {
+      "bugs": 16,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
+    },
+    "Unassigned": {
+      "bugs": 32,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 69
+    },
+    "Javed Ali": {
+      "bugs": 20,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 26
     },
     "shadab Hussain": {
       "bugs": 4,
@@ -27289,13 +27360,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "avinash waghmare": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Karan Mahboobani": {
       "bugs": 4,
@@ -27305,18 +27369,11 @@
       "total": 6
     },
     "Srinidhi.Raju": {
-      "bugs": 2,
+      "bugs": 1,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 2
-    },
-    "Dinjit Dinesh": {
-      "bugs": 16,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
+      "total": 1
     },
     "abhilash.ramesh": {
       "bugs": 8,
@@ -27324,13 +27381,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Alok Gupta": {
       "bugs": 10,
@@ -27437,13 +27487,6 @@
       "stories": 0,
       "total": 1
     },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 5,
@@ -27523,12 +27566,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 357,
+    "High": 358,
     "Medium": 740,
     "Highest": 341,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T06:13:52Z",
-  "total_issues": 1962
+  "updated_at": "2026-02-24T07:18:19Z",
+  "total_issues": 1965
 }
