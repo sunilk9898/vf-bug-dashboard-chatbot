@@ -1184,6 +1184,8 @@
         // ============================================
         // INSIGHTS TAB - Quality Analytics
         // ============================================
+        let insightsData = {};
+
         function renderInsights() {
             if (!dashboardData) return;
             const data = dashboardData;
@@ -1364,7 +1366,79 @@
                 }).join('')}
                 </tbody></table></div>`;
 
-            document.getElementById('insightsGrid').innerHTML = agingHTML + reopenHTML + staleHTML + assigneeHTML + riskHTML + velocityHTML;
+            // Store data for Excel export
+            insightsData = { agingBugs, reopenedBugs, reopenByPlatform, reopenByAssignee,
+                             staleBugs, sortedAssignees, assigneeHighPri,
+                             riskSorted, resPlatSorted, closedBugs, avgRes, avgAge };
+
+            const downloadBar = `<div style="text-align:right;margin-bottom:12px"><button class="btn-excel-download" onclick="exportInsightsExcel()" title="Download all analytics as Excel">&#x1F4E5; Download Analytics Excel</button></div>`;
+            document.getElementById('insightsGrid').innerHTML = downloadBar + agingHTML + reopenHTML + staleHTML + assigneeHTML + riskHTML + velocityHTML;
+        }
+
+        function exportInsightsExcel() {
+            if (typeof XLSX === 'undefined') { alert('Excel library not loaded. Please refresh.'); return; }
+            const d = insightsData;
+            if (!d.agingBugs) { alert('Analytics data not loaded. Please switch to Quality Analytics tab first.'); return; }
+
+            const wb = XLSX.utils.book_new();
+            const autoSize = (headers, rows) => headers.map((h, i) => {
+                let maxLen = h.length;
+                rows.forEach(r => { if (r[i] && String(r[i]).length > maxLen) maxLen = String(r[i]).length; });
+                return { wch: Math.min(Math.max(maxLen + 2, 10), 50) };
+            });
+
+            // Sheet 1: Bug Aging (all active bugs with age)
+            const agingH = ['Ticket ID', 'Summary', 'Age (Days)', 'Status', 'Priority', 'Assignee', 'Platform', 'Sprint', 'Created', 'Updated'];
+            const agingR = d.agingBugs.map(b => [b.key, b.summary, b.age, b.status, b.priority, b.assignee, b.platform, b.sprint||'', b.created, b.updated]);
+            const ws1 = XLSX.utils.aoa_to_sheet([agingH, ...agingR]);
+            ws1['!cols'] = autoSize(agingH, agingR);
+            XLSX.utils.book_append_sheet(wb, ws1, 'Bug Aging');
+
+            // Sheet 2: Reopen Analysis
+            const reopenH = ['Ticket ID', 'Summary', 'Age (Days)', 'Assignee', 'Platform', 'Created', 'Updated'];
+            const reopenR = d.reopenedBugs.map(b => [b.key, b.summary, b.age, b.assignee, b.platform, b.created, b.updated]);
+            const ws2 = XLSX.utils.aoa_to_sheet([reopenH, ...reopenR]);
+            ws2['!cols'] = autoSize(reopenH, reopenR);
+            XLSX.utils.book_append_sheet(wb, ws2, 'Reopen Analysis');
+
+            // Sheet 3: Stale Bugs (14+ days without update)
+            const staleH = ['Ticket ID', 'Summary', 'Days Since Update', 'Status', 'Assignee', 'Platform', 'Created', 'Updated'];
+            const staleR = d.staleBugs.map(b => [b.key, b.summary, b.daysSinceUpdate, b.status, b.assignee, b.platform, b.created, b.updated]);
+            const ws3 = XLSX.utils.aoa_to_sheet([staleH, ...staleR]);
+            ws3['!cols'] = autoSize(staleH, staleR);
+            XLSX.utils.book_append_sheet(wb, ws3, 'Stale Bugs');
+
+            // Sheet 4: Assignee Workload
+            const wlH = ['Assignee', 'Active Bugs', 'High/Highest Priority', 'Load Status'];
+            const wlR = d.sortedAssignees.map(([a, c]) => {
+                const hp = d.assigneeHighPri[a] || 0;
+                const load = c >= 6 ? 'Overloaded' : c >= 3 ? 'High' : 'Normal';
+                return [a, c, hp, load];
+            });
+            const ws4 = XLSX.utils.aoa_to_sheet([wlH, ...wlR]);
+            ws4['!cols'] = autoSize(wlH, wlR);
+            XLSX.utils.book_append_sheet(wb, ws4, 'Assignee Workload');
+
+            // Sheet 5: Platform Risk
+            const riskH = ['Platform', 'Total Bugs', 'High', 'Highest', 'Unattended', 'Risk Score'];
+            const riskR = d.riskSorted.map(r => [r.platform, r.total, r.high, r.highest, r.unattended, r.score]);
+            const ws5 = XLSX.utils.aoa_to_sheet([riskH, ...riskR]);
+            ws5['!cols'] = autoSize(riskH, riskR);
+            XLSX.utils.book_append_sheet(wb, ws5, 'Platform Risk');
+
+            // Sheet 6: Resolution Velocity
+            const velH = ['Platform', 'Closed Bug Count', 'Avg Days to Resolve', 'Speed'];
+            const velR = d.resPlatSorted.map(r => {
+                const spd = r.avg <= 7 ? 'Fast' : r.avg <= 30 ? 'Normal' : 'Slow';
+                return [r.platform, r.count, r.avg, spd];
+            });
+            const ws6 = XLSX.utils.aoa_to_sheet([velH, ...velR]);
+            ws6['!cols'] = autoSize(velH, velR);
+            XLSX.utils.book_append_sheet(wb, ws6, 'Resolution Velocity');
+
+            const dt = new Date();
+            const dateStr = dt.getFullYear().toString() + String(dt.getMonth()+1).padStart(2,'0') + String(dt.getDate()).padStart(2,'0');
+            XLSX.writeFile(wb, `Quality_Analytics_${dateStr}.xlsx`);
         }
 
         // ============================================
@@ -1372,6 +1446,7 @@
         // ============================================
         let taskSortCol = 'key';
         let taskSortAsc = false;
+        let lastFilteredTasks = [];
 
         function getTaskStatusClass(status) {
             const s = (status || '').toLowerCase();
@@ -1448,6 +1523,7 @@
                 const cmp = va.toString().localeCompare(vb.toString(), undefined, { numeric: true });
                 return taskSortAsc ? cmp : -cmp;
             });
+            lastFilteredTasks = filtered;
 
             // Summary cards
             const openCount = allTasks.filter(t => t.status === 'Open').length;
@@ -1517,12 +1593,53 @@
             html += `</tbody></table>`;
 
             if (filtered.length > maxRows) {
-                html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${maxRows} of ${filtered.length} tasks. Use filters to narrow down.</div>`;
+                html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${maxRows} of ${filtered.length} tasks. Use filters to narrow down. <button class="btn-excel-download" onclick="exportTaskExcel()" title="Download filtered tasks as Excel">&#x1F4E5; Download Excel</button></div>`;
             } else {
-                html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${filtered.length} of ${allTasks.length} tasks.</div>`;
+                html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${filtered.length} of ${allTasks.length} tasks. <button class="btn-excel-download" onclick="exportTaskExcel()" title="Download filtered tasks as Excel">&#x1F4E5; Download Excel</button></div>`;
             }
 
             document.getElementById('taskTableArea').innerHTML = html;
+        }
+
+        function exportTaskExcel() {
+            if (typeof XLSX === 'undefined') { alert('Excel library not loaded. Please refresh.'); return; }
+            if (!lastFilteredTasks || lastFilteredTasks.length === 0) { alert('No tasks to export. Adjust your filters.'); return; }
+
+            const headers = [
+                'Ticket ID', 'Summary', 'Type', 'Status', 'Priority', 'Assignee',
+                'Platform', 'Sprint', 'ETA (Due Date)', 'Created', 'Updated', 'Fix Version'
+            ];
+            const rows = lastFilteredTasks.map(t => [
+                t.key || '', t.summary || '', t.type || '', t.status || '', t.priority || '',
+                t.assignee || '', t.platform || '', t.sprint || '', t.duedate || '',
+                t.created || '', t.updated || '', t.fixversion || ''
+            ]);
+
+            const wsData = [headers, ...rows];
+            const ws = XLSX.utils.aoa_to_sheet(wsData);
+            ws['!cols'] = headers.map((h, i) => {
+                let maxLen = h.length;
+                rows.forEach(r => { if (r[i] && r[i].length > maxLen) maxLen = r[i].length; });
+                return { wch: Math.min(Math.max(maxLen + 2, 10), 50) };
+            });
+
+            const wb = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(wb, ws, 'Task Report');
+
+            const filterParts = [];
+            const sf = document.getElementById('taskStatusFilter')?.value;
+            const pf = document.getElementById('taskPlatformFilter')?.value;
+            const af = document.getElementById('taskAssigneeFilter')?.value;
+            const spf = document.getElementById('taskSprintFilter')?.value;
+            if (sf && sf !== 'all') filterParts.push(sf.replace(/\s+/g, ''));
+            if (pf && pf !== 'all') filterParts.push(pf.replace(/\s+/g, ''));
+            if (af && af !== 'all') filterParts.push(af.replace(/\s+/g, '_').substring(0, 15));
+            if (spf && spf !== 'all') filterParts.push('Sprint');
+
+            const filterTag = filterParts.length > 0 ? filterParts.join('_') : 'AllTasks';
+            const d = new Date();
+            const dateStr = d.getFullYear().toString() + String(d.getMonth()+1).padStart(2,'0') + String(d.getDate()).padStart(2,'0');
+            XLSX.writeFile(wb, `Task_Report_${dateStr}_${filterTag}.xlsx`);
         }
 
         // ============================================
