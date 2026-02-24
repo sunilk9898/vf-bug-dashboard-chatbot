@@ -3,11 +3,95 @@
     {
       "key": "VF-2225",
       "summary": "(Tamanna) - Sonyliv content \"The Kapil Sharma Show\" getting 0 episodes.",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Unassigned",
+      "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1905",
+      "summary": "Related content - iOS",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Abhishek Dhok",
+      "platform": "IOS",
+      "created": "2026-01-30",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1671",
+      "summary": "(Shruti) Search by Name Is Not Working",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-01-15",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2193",
+      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1492",
+      "summary": "Like & Followed",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2025-12-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly ",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1689",
+      "summary": "Naveen -> Missing Content in \u201cPeople Also Watched\u201d Section",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-01-15",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -787,20 +871,6 @@
     {
       "key": "VF-2189",
       "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2193",
-      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "avinash waghmare",
@@ -1761,20 +1831,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -3277,20 +3333,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1905",
-      "summary": "Related content - iOS",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "IOS",
-      "created": "2026-01-30",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1977",
       "summary": "Web: Even after changing the language, the series on the home page does not change.",
       "status": "Duplicate",
@@ -4488,20 +4530,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-23",
-      "updated": "2026-01-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1492",
-      "summary": "Like & Followed",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Rajkumar A",
-      "platform": "CMS Adaptor",
-      "created": "2025-12-23",
       "updated": "2026-01-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -7519,20 +7547,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1671",
-      "summary": "(Shruti) Search by Name Is Not Working",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Ranjitha br",
-      "platform": "Unknown",
-      "created": "2026-01-15",
-      "updated": "2026-01-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1704",
       "summary": "Naveen -> Something Went Wrong\u201d on View Past Ticket \u2013 Help / Write to Us",
       "status": "Duplicate",
@@ -8044,20 +8058,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2025-12-23",
-      "updated": "2026-01-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1689",
-      "summary": "Naveen -> Missing Content in \u201cPeople Also Watched\u201d Section",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-01-15",
       "updated": "2026-01-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27357,11 +27357,11 @@
       "stories": 0,
       "total": 51,
       "statuses": {
+        "Issue Accepted": 13,
         "Ready For Test": 11,
-        "Issue Accepted": 12,
         "In Progress": 11,
         "Open": 4,
-        "Dev Complete": 6,
+        "Dev Complete": 5,
         "Onhold-For Tech Dependency": 1,
         "Closed": 2,
         "Testing On hold": 1,
@@ -27396,19 +27396,33 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 37,
-      "tasks": 31,
+    "Shubham Chauhan": {
+      "bugs": 10,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 74
+      "total": 15
+    },
+    "Abhishek Dhok": {
+      "bugs": 6,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 10
     },
     "vzyfeedback": {
-      "bugs": 1201,
+      "bugs": 1205,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1503
+      "total": 1507
+    },
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "Chiranjit Chatterjee": {
       "bugs": 1,
@@ -27424,12 +27438,12 @@
       "stories": 0,
       "total": 7
     },
-    "Namrata Kurariya": {
-      "bugs": 6,
-      "tasks": 4,
+    "Unassigned": {
+      "bugs": 36,
+      "tasks": 31,
       "subtasks": 0,
       "stories": 0,
-      "total": 10
+      "total": 73
     },
     "Javed Ali": {
       "bugs": 20,
@@ -27444,13 +27458,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 23
-    },
-    "Shubham Chauhan": {
-      "bugs": 9,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -27481,11 +27488,11 @@
       "total": 36
     },
     "avinash waghmare": {
-      "bugs": 6,
+      "bugs": 5,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 8
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -27516,11 +27523,11 @@
       "total": 1
     },
     "abhilash.ramesh": {
-      "bugs": 8,
+      "bugs": 7,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 11
+      "total": 10
     },
     "Manikanta P": {
       "bugs": 6,
@@ -27558,18 +27565,11 @@
       "total": 11
     },
     "Vikas Mishra": {
-      "bugs": 37,
+      "bugs": 36,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 40
-    },
-    "Abhishek Dhok": {
-      "bugs": 6,
-      "tasks": 2,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
+      "total": 39
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -27586,11 +27586,11 @@
       "total": 11
     },
     "Rajkumar A": {
-      "bugs": 5,
+      "bugs": 4,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 21
+      "total": 20
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -27627,19 +27627,19 @@
       "stories": 0,
       "total": 4
     },
-    "Ranjitha br": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
-    },
     "kamaldeeps": {
       "bugs": 1,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 1
+    },
+    "Ranjitha br": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 2
     },
     "Vedant Kajale": {
       "bugs": 0,
@@ -27672,11 +27672,11 @@
   },
   "priority_breakdown": {
     "Medium": 745,
-    "Low": 19,
     "High": 360,
     "Highest": 341,
+    "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T11:08:00Z",
+  "updated_at": "2026-02-24T11:56:14Z",
   "total_issues": 1972
 }
