@@ -1,9 +1,107 @@
 {
   "bugs": [
     {
+      "key": "VF-2129",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2208",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2207",
+      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Kaltura",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2206",
       "summary": "SARA Search does not work",
-      "status": "Open",
+      "status": "In Progress",
       "priority": "Highest",
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
@@ -890,20 +988,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-12",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2129",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-02-17",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -20317,6 +20401,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2213",
+      "summary": "Fliqs Report \u2013 Dashboard Availability",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "CMS",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1931",
       "summary": "Amazon Prime Integration",
       "status": "Open",
@@ -27091,16 +27189,16 @@
       "stories": 0,
       "total": 50,
       "statuses": {
-        "Open": 4,
-        "In Progress": 11,
+        "Ready For Test": 8,
+        "In Progress": 12,
         "Issue Accepted": 12,
         "Reopened": 2,
         "Closed": 2,
-        "Ready For Test": 7,
-        "Dev Complete": 9,
+        "Dev Complete": 8,
         "Testing On hold": 1,
         "On Hold- For Clarification": 1,
-        "Invalid": 1
+        "Invalid": 1,
+        "Open": 3
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -27129,6 +27227,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "shadab Hussain": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Unassigned": {
+      "bugs": 29,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 66
+    },
+    "Srinidhi.Raju": {
+      "bugs": 5,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
+    "Dinjit Dinesh": {
+      "bugs": 16,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
     "abhilash.ramesh": {
       "bugs": 8,
       "tasks": 3,
@@ -27213,13 +27339,6 @@
       "stories": 0,
       "total": 7
     },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 32
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
       "tasks": 18,
@@ -27233,20 +27352,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Unassigned": {
-      "bugs": 29,
-      "tasks": 30,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 65
-    },
-    "shadab Hussain": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Karan Mahboobani": {
       "bugs": 2,
@@ -27390,12 +27495,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 339,
-    "High": 351,
+    "High": 356,
+    "Highest": 340,
     "Medium": 740,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T03:14:55Z",
-  "total_issues": 1953
+  "updated_at": "2026-02-24T05:04:07Z",
+  "total_issues": 1960
 }
