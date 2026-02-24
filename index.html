@@ -447,7 +447,17 @@
         }
         .btn-refresh:hover { background: #2563eb; }
         .btn-refresh:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        /* ========== EXCEL DOWNLOAD ========== */
+        .btn-excel-download {
+            background: none; border: 1px solid #334155; color: #94a3b8;
+            cursor: pointer; font-size: 12px; padding: 4px 10px;
+            border-radius: 6px; transition: all 0.2s; margin-left: 8px;
+            vertical-align: middle;
+        }
+        .btn-excel-download:hover { color: #34d399; border-color: #34d399; background: rgba(52,211,153,0.1); }
     </style>
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
 </head>
 <body>
     <div class="loading-overlay" id="loading">
@@ -1015,6 +1025,7 @@
         // ============================================
         let bugSortCol = 'key';
         let bugSortAsc = false;
+        let lastFilteredBugs = [];
 
         function renderBugDetails() {
             if (!allIssues || !allIssues.bugs) {
@@ -1068,6 +1079,7 @@
                 const cmp = va.toString().localeCompare(vb.toString(), undefined, { numeric: true });
                 return bugSortAsc ? cmp : -cmp;
             });
+            lastFilteredBugs = filtered;
 
             // Build table
             const sortIcon = (col) => bugSortCol === col ? (bugSortAsc ? ' &#9650;' : ' &#9660;') : '';
@@ -1106,8 +1118,67 @@
                 </tr>`;
             });
             html += `</tbody></table>`;
-            html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${Math.min(maxRows, filtered.length)} of ${filtered.length} bugs (${allBugs.length} total).</div>`;
+            html += `<div class="task-count-badge" style="padding:12px;text-align:center">Showing ${Math.min(maxRows, filtered.length)} of ${filtered.length} bugs (${allBugs.length} total). <button class="btn-excel-download" onclick="exportBugExcel()" title="Download filtered bugs as Excel">&#x1F4E5; Download Excel</button></div>`;
             document.getElementById('bugDetailTable').innerHTML = html;
+        }
+
+        function exportBugExcel() {
+            if (typeof XLSX === 'undefined') {
+                alert('Excel library not loaded. Please refresh the page and try again.');
+                return;
+            }
+            if (!lastFilteredBugs || lastFilteredBugs.length === 0) {
+                alert('No bugs to export. Adjust your filters.');
+                return;
+            }
+
+            const headers = [
+                'Ticket ID', 'Summary', 'Status', 'Priority', 'Assignee',
+                'Platform', 'Sprint', 'Created', 'Updated', 'Due Date',
+                'Fix Version', 'Type'
+            ];
+
+            const rows = lastFilteredBugs.map(b => [
+                b.key || '', b.summary || '', b.status || '', b.priority || '',
+                b.assignee || '', b.platform || '', b.sprint || '',
+                b.created || '', b.updated || '', b.duedate || '',
+                b.fixversion || '', b.type || ''
+            ]);
+
+            const wsData = [headers, ...rows];
+            const ws = XLSX.utils.aoa_to_sheet(wsData);
+
+            // Auto-size columns
+            ws['!cols'] = headers.map((h, i) => {
+                let maxLen = h.length;
+                rows.forEach(r => { if (r[i] && r[i].length > maxLen) maxLen = r[i].length; });
+                return { wch: Math.min(Math.max(maxLen + 2, 10), 50) };
+            });
+
+            const wb = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(wb, ws, 'Bug Report');
+
+            // Build filename from active filters
+            const filterParts = [];
+            const sf = document.getElementById('bugStatusFilter')?.value;
+            const pf = document.getElementById('bugPlatformFilter')?.value;
+            const af = document.getElementById('bugAssigneeFilter')?.value;
+            const prf = document.getElementById('bugPriorityFilter')?.value;
+            const spf = document.getElementById('bugSprintFilter')?.value;
+
+            if (sf && sf !== 'all') filterParts.push(sf.replace(/\s+/g, ''));
+            if (pf && pf !== 'all') filterParts.push(pf.replace(/\s+/g, ''));
+            if (af && af !== 'all') filterParts.push(af.replace(/\s+/g, '_').substring(0, 15));
+            if (prf && prf !== 'all') filterParts.push(prf);
+            if (spf && spf !== 'all') filterParts.push('Sprint');
+
+            const filterTag = filterParts.length > 0 ? filterParts.join('_') : 'AllBugs';
+            const d = new Date();
+            const dateStr = d.getFullYear().toString() +
+                String(d.getMonth() + 1).padStart(2, '0') +
+                String(d.getDate()).padStart(2, '0');
+
+            XLSX.writeFile(wb, `Bug_Report_${dateStr}_${filterTag}.xlsx`);
         }
 
         // ============================================
