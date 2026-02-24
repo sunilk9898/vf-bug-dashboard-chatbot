@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2160",
+      "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2145",
+      "summary": "(Tamanna) - Zee5 trailers not playing.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2215",
+      "summary": "(Tamanna) - MX player CP logo not showing on thumbnails.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2221",
       "summary": "Hotstar content thumbnail issue : Kaltura Issue",
       "status": "Open",
@@ -50,20 +92,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2215",
-      "summary": "(Tamanna) - MX player CP logo not showing on thumbnails.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1317,20 +1345,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2145",
-      "summary": "(Tamanna) - Zee5 trailers not playing.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2166",
       "summary": "Missing CP LOGOS on thumbnails",
       "status": "Closed",
@@ -1410,20 +1424,6 @@
       "created": "2026-01-07",
       "updated": "2026-02-20",
       "duedate": "2026-01-20",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2160",
-      "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -27340,6 +27340,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1195,
+      "tasks": 290,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1497
+    },
+    "avinash waghmare": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Unassigned": {
+      "bugs": 33,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 70
+    },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
       "tasks": 18,
@@ -27354,33 +27375,12 @@
       "stories": 0,
       "total": 36
     },
-    "avinash waghmare": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
     "Karan Mahboobani": {
       "bugs": 5,
       "tasks": 0,
       "subtasks": 2,
       "stories": 0,
       "total": 7
-    },
-    "Unassigned": {
-      "bugs": 33,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 70
-    },
-    "vzyfeedback": {
-      "bugs": 1195,
-      "tasks": 290,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1497
     },
     "Namrata Kurariya": {
       "bugs": 6,
@@ -27608,12 +27608,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 341,
     "Medium": 742,
     "High": 359,
-    "Highest": 341,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T09:08:50Z",
+  "updated_at": "2026-02-24T09:18:58Z",
   "total_issues": 1968
 }
