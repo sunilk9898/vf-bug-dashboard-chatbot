@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2167",
+      "summary": "Live Event not available on Kaltura",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-20",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2178",
+      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2215",
+      "summary": "(Tamanna) - MX player CP logo not showing on thumbnails.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2176",
+      "summary": "TV: Profiles and devices not displayed after reopening app and black screen observed on subsequent reopen",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2219",
+      "summary": "Web: Movie video is not displayed; only the movie name is visible. ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2189",
+      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2204",
       "summary": "Web: Updated location is displayed incorrectly and city list is not shown in Location.",
       "status": "Dev Complete",
@@ -99,20 +183,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2215",
-      "summary": "(Tamanna) - MX player CP logo not showing on thumbnails.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2209",
       "summary": "FLIQS QR to subscribe / rent",
       "status": "Testing On hold",
@@ -134,20 +204,6 @@
       "assignee": "shadab Hussain",
       "platform": "Mobile",
       "created": "2025-12-11",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2189",
-      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -463,20 +519,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2178",
-      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2172",
       "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
       "status": "On Hold- For Clarification",
@@ -735,20 +777,6 @@
       "priority": "Medium",
       "assignee": "devaraj",
       "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2176",
-      "summary": "TV: Profiles and devices not displayed after reopening app and black screen observed on subsequent reopen",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -1085,20 +1113,6 @@
       "priority": "High",
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-02-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2167",
-      "summary": "Live Event not available on Kaltura",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-02-20",
       "updated": "2026-02-21",
       "duedate": "",
@@ -27298,13 +27312,6 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Namrata Kurariya": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "avinash waghmare": {
       "bugs": 10,
       "tasks": 3,
@@ -27312,12 +27319,33 @@
       "stories": 0,
       "total": 13
     },
+    "Karan Mahboobani": {
+      "bugs": 5,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 7
+    },
+    "Unassigned": {
+      "bugs": 33,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 70
+    },
     "vzyfeedback": {
-      "bugs": 1194,
+      "bugs": 1195,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1496
+      "total": 1497
+    },
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -27340,13 +27368,6 @@
       "stories": 0,
       "total": 34
     },
-    "Unassigned": {
-      "bugs": 32,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 69
-    },
     "Javed Ali": {
       "bugs": 20,
       "tasks": 3,
@@ -27360,13 +27381,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Karan Mahboobani": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 6
     },
     "Srinidhi.Raju": {
       "bugs": 1,
@@ -27404,11 +27418,11 @@
       "total": 11
     },
     "Shubham Chauhan": {
-      "bugs": 11,
+      "bugs": 9,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 14
     },
     "Kiran JR": {
       "bugs": 6,
@@ -27566,12 +27580,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 358,
-    "Medium": 740,
+    "High": 359,
     "Highest": 341,
+    "Medium": 740,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T07:18:19Z",
-  "total_issues": 1965
+  "updated_at": "2026-02-24T08:39:56Z",
+  "total_issues": 1966
 }
