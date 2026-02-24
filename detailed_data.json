@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2204",
+      "summary": "Web: Updated location is displayed incorrectly and city list is not shown in Location.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2215",
+      "summary": "(Tamanna) - MX player CP logo not showing on thumbnails.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1133",
+      "summary": "(Awadhesh) iOS Mobile Crash Rate Issue - BENCHMARK: <0.50%",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "Mobile",
+      "created": "2025-12-11",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2189",
+      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2193",
+      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2208",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2214",
+      "summary": "(Tamanna) - Multiple fancode live matches not playing.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2129",
       "summary": "Fliqs TVOD / SVOD",
       "status": "Ready For Test",
@@ -35,48 +189,6 @@
       "priority": "High",
       "assignee": "Srinidhi.Raju",
       "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2209",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2208",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
       "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
@@ -197,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2196",
       "summary": "Disapperaing Carousel banners",
       "status": "Issue Accepted",
@@ -267,40 +365,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2189",
-      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2188",
       "summary": "TV: Episode count mismatch in series page",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "devaraj",
       "platform": "LG_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2204",
-      "summary": "Web: Updated location is displayed incorrectly and city list is not shown in Location.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Aniruddh Patil",
-      "platform": "WEB",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -581,20 +651,6 @@
       "priority": "Medium",
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2193",
-      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -1131,20 +1187,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -3046,20 +3088,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-06",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1133",
-      "summary": "(Awadhesh) iOS Mobile Crash Rate Issue - BENCHMARK: <0.50%",
-      "status": "Parked",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "Mobile",
-      "created": "2025-12-11",
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27189,12 +27217,12 @@
       "stories": 0,
       "total": 50,
       "statuses": {
+        "Dev Complete": 8,
+        "Reopened": 2,
         "Ready For Test": 8,
         "In Progress": 12,
         "Issue Accepted": 12,
-        "Reopened": 2,
         "Closed": 2,
-        "Dev Complete": 8,
         "Testing On hold": 1,
         "On Hold- For Clarification": 1,
         "Invalid": 1,
@@ -27227,6 +27255,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Javed Ali": {
+      "bugs": 21,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 27
+    },
+    "Unassigned": {
+      "bugs": 31,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 68
+    },
+    "vzyfeedback": {
+      "bugs": 1192,
+      "tasks": 290,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1494
+    },
     "shadab Hussain": {
       "bugs": 4,
       "tasks": 5,
@@ -27234,19 +27290,26 @@
       "stories": 0,
       "total": 9
     },
-    "Unassigned": {
-      "bugs": 29,
-      "tasks": 31,
+    "avinash waghmare": {
+      "bugs": 10,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 66
+      "total": 13
+    },
+    "Karan Mahboobani": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 6
     },
     "Srinidhi.Raju": {
-      "bugs": 5,
+      "bugs": 2,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 5
+      "total": 2
     },
     "Dinjit Dinesh": {
       "bugs": 16,
@@ -27256,13 +27319,6 @@
       "total": 33
     },
     "abhilash.ramesh": {
-      "bugs": 8,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "avinash waghmare": {
       "bugs": 8,
       "tasks": 3,
       "subtasks": 0,
@@ -27283,27 +27339,6 @@
       "stories": 0,
       "total": 15
     },
-    "Javed Ali": {
-      "bugs": 21,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 27
-    },
-    "Namrata Kurariya": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
-    "vzyfeedback": {
-      "bugs": 1191,
-      "tasks": 290,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1493
-    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 10,
@@ -27312,18 +27347,11 @@
       "total": 17
     },
     "devaraj": {
-      "bugs": 11,
+      "bugs": 9,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 13
-    },
-    "Aniruddh Patil": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
+      "total": 11
     },
     "Shubham Chauhan": {
       "bugs": 11,
@@ -27352,13 +27380,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Karan Mahboobani": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 4
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -27415,6 +27436,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 1
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -27495,12 +27523,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 356,
-    "Highest": 340,
+    "High": 357,
     "Medium": 740,
+    "Highest": 341,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T05:04:07Z",
-  "total_issues": 1960
+  "updated_at": "2026-02-24T06:13:52Z",
+  "total_issues": 1962
 }
