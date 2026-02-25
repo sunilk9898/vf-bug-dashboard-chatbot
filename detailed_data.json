@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2283",
+      "summary": "TV: Microphone (Voice Search) feature not displayed",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "Kanika Gupta",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2225",
       "summary": "(Tamanna) - Sonyliv content \"The Kapil Sharma Show\" getting 0 episodes.",
       "status": "Testing On hold",
@@ -595,20 +609,6 @@
       "priority": "High",
       "assignee": "Unassigned",
       "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2283",
-      "summary": "TV: Microphone (Voice Search) feature not displayed",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "LG_TV",
       "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
@@ -28558,6 +28558,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Kanika Gupta": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
     "vzyfeedback": {
       "bugs": 1233,
       "tasks": 290,
@@ -28620,13 +28627,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 7
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -28697,6 +28697,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -28833,12 +28840,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 770,
     "High": 413,
+    "Medium": 770,
     "Highest": 346,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-25T15:10:38Z",
+  "updated_at": "2026-02-25T16:20:33Z",
   "total_issues": 2056
 }
