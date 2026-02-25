@@ -1,6 +1,272 @@
 {
   "bugs": [
     {
+      "key": "VF-2254",
+      "summary": "Mobile: An Invalid Search error message is displayed when selecting a music channel from search results.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2253",
+      "summary": "Mobile: An error occurs when clicking on the show Udaya Comedy from search results.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2251",
+      "summary": "Mobile: Movies are accessible and playable from the About Us section.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2249",
+      "summary": "Mobile: The application crashes shortly after being opened.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2248",
+      "summary": "Mobile: Content Language and Genre Preference section displays blank screen",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2241",
+      "summary": "Mobile: Incorrect country code is shown for India",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2239",
+      "summary": "Mobile: Language change not reflected in sub-modules after updating from Settings",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2274",
+      "summary": "TV: Home page category sections displayed incorrectly under Movies section",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2237",
+      "summary": "Mobile: Extra bottom navigation sections displayed after user login",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1990",
+      "summary": "Web: Paused live stream resumes directly to live instead of the paused position after 1 minute. There should be Go Live option",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2171",
+      "summary": "TV: Video resumes automatically after being paused",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1974",
+      "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2294",
+      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2283",
+      "summary": "TV: Microphone (Voice Search) feature not displayed",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2293",
+      "summary": "TV: Subscribe shown on specific device for Fliqs Series",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2273",
+      "summary": "TV: Incorrect content displayed under New Releases section in Movies",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2151",
+      "summary": "FLIQS channel logos in Setting section",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-19",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2292",
+      "summary": "TV: Episode are excessively divided than the official episodes announced, audio has only Hindi and none option .",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2270",
+      "summary": "Samsung and LG TV: Season number and episode number not displayed on Samsung and LG TV",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2291",
       "summary": "TV: Resume playback not working for Discovery+ content",
       "status": "Open",
@@ -50,20 +316,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2254",
-      "summary": "Mobile: An Invalid Search error message is displayed when selecting a music channel from search results.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -141,20 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2253",
-      "summary": "Mobile: An error occurs when clicking on the show Udaya Comedy from search results.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2287",
       "summary": "TV: Duplicate movie entry shows subscription prompt for the same account",
       "status": "Open",
@@ -197,51 +435,9 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2251",
-      "summary": "Mobile: Movies are accessible and playable from the About Us section.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2250",
       "summary": "Mobile: \"Watch Now\" and Play button not functioning - Video not playing",
       "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2249",
-      "summary": "Mobile: The application crashes shortly after being opened.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2248",
-      "summary": "Mobile: Content Language and Genre Preference section displays blank screen",
-      "status": "Ready For Test",
       "priority": "High",
       "assignee": "Unassigned",
       "platform": "Mobile",
@@ -365,20 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2171",
-      "summary": "TV: Video resumes automatically after being paused",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2243",
       "summary": "Mobile: Duplicate \"Skip Intro\" button appears when user clicks Play and Pause during movie playback.",
       "status": "Ready For Test",
@@ -435,20 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1974",
-      "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2284",
       "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
       "status": "Open",
@@ -477,20 +645,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2241",
-      "summary": "Mobile: Incorrect country code is shown for India",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2195",
       "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
       "status": "On Hold- For Clarification",
@@ -509,20 +663,6 @@
       "summary": "Mobile: Login page buffers and does not proceed after entering a valid phone number and tapping Continue.",
       "status": "Ready For Test",
       "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2239",
-      "summary": "Mobile: Language change not reflected in sub-modules after updating from Settings",
-      "status": "Ready For Test",
-      "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-25",
@@ -568,34 +708,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2237",
-      "summary": "Mobile: Extra bottom navigation sections displayed after user login",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2283",
-      "summary": "TV: Microphone (Voice Search) feature not displayed",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "LG_TV",
-      "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -763,48 +875,6 @@
       "priority": "High",
       "assignee": "Unassigned",
       "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2274",
-      "summary": "TV: Home page category sections displayed incorrectly under Movies section",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "LG_TV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2270",
-      "summary": "Samsung and LG TV: Season number and episode number not displayed on Samsung and LG TV",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "LG_TV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2273",
-      "summary": "TV: Incorrect content displayed under New Releases section in Movies",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "LG_TV",
       "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
@@ -1142,20 +1212,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-03",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1990",
-      "summary": "Web: Paused live stream resumes directly to live instead of the paused position after 1 minute. There should be Go Live option",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-06",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -3132,20 +3188,6 @@
       "created": "2026-01-07",
       "updated": "2026-02-20",
       "duedate": "2026-01-20",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2151",
-      "summary": "FLIQS channel logos in Setting section",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-19",
-      "updated": "2026-02-20",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -28267,9 +28309,9 @@
       "stories": 0,
       "total": 53,
       "statuses": {
+        "Issue Accepted": 12,
         "Ready For Test": 6,
         "Closed": 12,
-        "Issue Accepted": 12,
         "Dev Complete": 6,
         "In Progress": 8,
         "Open": 4,
@@ -28306,12 +28348,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 70,
-      "tasks": 31,
-      "subtasks": 0,
+    "vzyfeedback": {
+      "bugs": 1225,
+      "tasks": 290,
+      "subtasks": 8,
       "stories": 0,
-      "total": 108
+      "total": 1527
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
     },
     "Namrata Kurariya": {
       "bugs": 6,
@@ -28320,12 +28369,33 @@
       "stories": 0,
       "total": 11
     },
-    "vzyfeedback": {
-      "bugs": 1216,
-      "tasks": 290,
-      "subtasks": 8,
+    "Karan Mahboobani": {
+      "bugs": 10,
+      "tasks": 0,
+      "subtasks": 2,
       "stories": 0,
-      "total": 1518
+      "total": 12
+    },
+    "Unassigned": {
+      "bugs": 61,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 99
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Chiranjit Chatterjee": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
     },
     "Alok Gupta": {
       "bugs": 14,
@@ -28340,13 +28410,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 35
-    },
-    "Karan Mahboobani": {
-      "bugs": 10,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
     },
     "Srinidhi.Raju": {
       "bugs": 3,
@@ -28368,13 +28431,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 11
-    },
-    "Chiranjit Chatterjee": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
     },
     "Shubham Chauhan": {
       "bugs": 9,
@@ -28425,13 +28481,6 @@
       "stories": 0,
       "total": 9
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 6,
@@ -28452,13 +28501,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 10
-    },
-    "BalaKumar": {
-      "bugs": 12,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 22
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -28581,12 +28623,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 401,
-    "Medium": 764,
-    "Highest": 346,
+    "High": 402,
+    "Medium": 766,
     "Low": 19,
+    "Highest": 346,
     "Lowest": 2
   },
-  "updated_at": "2026-02-25T11:10:35Z",
-  "total_issues": 2038
+  "updated_at": "2026-02-25T11:53:57Z",
+  "total_issues": 2041
 }
