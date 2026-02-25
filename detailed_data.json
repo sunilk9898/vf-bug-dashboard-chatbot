@@ -1,6 +1,174 @@
 {
   "bugs": [
     {
+      "key": "VF-2269",
+      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the next sequential episode. The defect is not fixed.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2266",
+      "summary": "Mobile: SD 540p Video does not play in the selected resolution after changing video quality.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2267",
+      "summary": "Mobile: Random numerical characters appear within subtitle text during video playback.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2192",
+      "summary": "TV(Samsung TV):Season number and episode number not displayed in episode list",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2125",
+      "summary": "Conviva - Feedbacks",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2186",
+      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2184",
+      "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2229",
+      "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2264",
+      "summary": "Mobile: Downloaded content is shared across profiles and deletion in one profile reflects in another profile",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2177",
+      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2190",
+      "summary": "TV: When changed the video quality in movie called OBSESSION , screen in getting redirected to home page.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2182",
+      "summary": "TV One plus: After resuming the movie and series, only audio plays and no video is displayed.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2181",
       "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
       "status": "Open",
@@ -85,52 +253,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2267",
-      "summary": "Mobile: Random numerical characters appear within subtitle text during video playback.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2266",
-      "summary": "Mobile: SD 540p Video does not play in the selected resolution after changing video quality.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2265",
       "summary": "Mobile: Play Pause button visibility is inconsistent during video playback",
       "status": "Open",
       "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2264",
-      "summary": "Mobile: Downloaded content is shared across profiles and deletion in one profile reflects in another profile",
-      "status": "Open",
-      "priority": "High",
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-25",
@@ -330,20 +456,6 @@
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2229",
-      "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "Mobile",
-      "created": "2026-02-24",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -855,20 +967,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2177",
-      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2175",
       "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
       "status": "Issue Accepted",
@@ -879,20 +977,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2125",
-      "summary": "Conviva - Feedbacks",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1453,20 +1537,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2186",
-      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2395,34 +2465,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2182",
-      "summary": "TV One plus: After resuming the movie and series, only audio plays and no video is displayed.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2184",
-      "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2185",
       "summary": "TV oneplus: Video freezes when seeking forward in Episode 2 of Pariksha Pe Charcha from Home section",
       "status": "On Hold- For Clarification",
@@ -2439,20 +2481,6 @@
     {
       "key": "VF-2187",
       "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2190",
-      "summary": "TV: When changed the video quality in movie called OBSESSION , screen in getting redirected to home page.",
       "status": "On Hold- For Clarification",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -2485,20 +2513,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2192",
-      "summary": "TV(Samsung TV):Season number and episode number not displayed in episode list",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -27945,10 +27959,10 @@
       "stories": 0,
       "total": 53,
       "statuses": {
+        "Closed": 12,
         "Ready For Test": 5,
         "Issue Accepted": 13,
         "Dev Complete": 6,
-        "Closed": 12,
         "In Progress": 8,
         "Open": 4,
         "Onhold-For Tech Dependency": 1,
@@ -27984,38 +27998,66 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1215,
-      "tasks": 290,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1517
-    },
     "Unassigned": {
-      "bugs": 62,
+      "bugs": 60,
       "tasks": 31,
       "subtasks": 0,
       "stories": 0,
-      "total": 100
+      "total": 98
+    },
+    "Javed Ali": {
+      "bugs": 24,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 30
+    },
+    "Chiranjit Chatterjee": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "Karan Mahboobani": {
-      "bugs": 8,
+      "bugs": 9,
       "tasks": 0,
       "subtasks": 2,
       "stories": 0,
-      "total": 10
-    },
-    "Abhishek Dhok": {
-      "bugs": 7,
-      "tasks": 2,
-      "subtasks": 2,
-      "stories": 0,
       "total": 11
+    },
+    "Shubham Chauhan": {
+      "bugs": 11,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
     },
     "shadab Hussain": {
       "bugs": 6,
       "tasks": 5,
       "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "vzyfeedback": {
+      "bugs": 1214,
+      "tasks": 290,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1516
+    },
+    "Kiran JR": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Abhishek Dhok": {
+      "bugs": 7,
+      "tasks": 2,
+      "subtasks": 2,
       "stories": 0,
       "total": 11
     },
@@ -28040,13 +28082,6 @@
       "stories": 0,
       "total": 8
     },
-    "Shubham Chauhan": {
-      "bugs": 11,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
-    },
     "Moore Meghana": {
       "bugs": 9,
       "tasks": 1,
@@ -28060,13 +28095,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 19
-    },
-    "Javed Ali": {
-      "bugs": 21,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 27
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -28104,11 +28132,11 @@
       "total": 7
     },
     "devaraj": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 11
+      "total": 10
     },
     "BalaKumar": {
       "bugs": 12,
@@ -28130,13 +28158,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 17
-    },
-    "Kiran JR": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Vikas Mishra": {
       "bugs": 36,
@@ -28245,12 +28266,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 389,
+    "High": 390,
     "Medium": 758,
     "Highest": 341,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-25T07:17:33Z",
-  "total_issues": 2015
+  "updated_at": "2026-02-25T09:07:59Z",
+  "total_issues": 2016
 }
