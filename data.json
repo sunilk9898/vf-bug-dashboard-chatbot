@@ -1,7 +1,7 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 0,
+      "OPEN": 6,
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -9,9 +9,9 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 5,
-      "IN PROGRESS": 1,
-      "REOPENED": 5,
+      "OPEN": 9,
+      "IN PROGRESS": 2,
+      "REOPENED": 3,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 7,
       "PARKED": 0
@@ -43,7 +43,7 @@
     "DishIT": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 1,
+      "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 1
@@ -65,7 +65,7 @@
       "PARKED": 1
     },
     "LG_TV": {
-      "OPEN": 0,
+      "OPEN": 4,
       "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -73,11 +73,11 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 30,
+      "OPEN": 17,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 7,
+      "ISSUE ACCEPTED": 10,
       "PARKED": 1
     },
     "SAM_TV": {
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-25T09:09:17Z",
-  "total_issues_fetched": 2016,
+  "updated_at": "2026-02-25T10:11:52Z",
+  "total_issues_fetched": 2031,
   "project": "VF"
 }
