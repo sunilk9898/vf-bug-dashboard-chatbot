@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2230",
+      "summary": "Mobile: Trailer does not play when user selects Shabad - Reet aur Riwaaz content from Series section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2229",
       "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
       "status": "Issue Accepted",
@@ -76,20 +90,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2230",
-      "summary": "Mobile: Trailer does not play when user selects Shabad - Reet aur Riwaaz content from Series section.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-02-24",
       "updated": "2026-02-24",
@@ -27536,6 +27536,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Moore Meghana": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
     "Abhishek Dhok": {
       "bugs": 7,
       "tasks": 2,
@@ -27571,19 +27578,19 @@
       "stories": 0,
       "total": 19
     },
-    "Javed Ali": {
-      "bugs": 22,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 28
-    },
     "Yashika Krishnani": {
       "bugs": 5,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 8
+    },
+    "Javed Ali": {
+      "bugs": 21,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 27
     },
     "Shubham Chauhan": {
       "bugs": 12,
@@ -27767,13 +27774,6 @@
       "stories": 0,
       "total": 1
     },
-    "Moore Meghana": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
-    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -27803,6 +27803,6 @@
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-24T23:48:08Z",
+  "updated_at": "2026-02-25T03:16:04Z",
   "total_issues": 1982
 }
