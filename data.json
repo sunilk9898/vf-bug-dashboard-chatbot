@@ -2,14 +2,14 @@
   "data": {
     "ANDROID": {
       "OPEN": 0,
-      "IN PROGRESS": 3,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 5,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 1,
       "REOPENED": 6,
       "IN REVIEW": 0,
@@ -29,7 +29,7 @@
       "IN PROGRESS": 1,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -43,7 +43,7 @@
     "DishIT": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 1
@@ -73,11 +73,11 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 1,
-      "IN PROGRESS": 0,
+      "OPEN": 10,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 9,
+      "ISSUE ACCEPTED": 8,
       "PARKED": 1
     },
     "SAM_TV": {
@@ -90,14 +90,14 @@
     },
     "WEB": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
-      "REOPENED": 1,
+      "IN PROGRESS": 0,
+      "REOPENED": 2,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 4,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-25T03:16:04Z",
-  "total_issues_fetched": 1982,
+  "updated_at": "2026-02-25T05:39:22Z",
+  "total_issues_fetched": 1991,
   "project": "VF"
 }

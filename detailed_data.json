@@ -1,13 +1,69 @@
 {
   "bugs": [
     {
-      "key": "VF-2230",
-      "summary": "Mobile: Trailer does not play when user selects Shabad - Reet aur Riwaaz content from Series section.",
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1990",
+      "summary": "Web: Paused live stream resumes directly to live instead of the paused position after 1 minute. There should be Go Live option",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2244",
+      "summary": "Mobile: Duplicate audio language options are displayed in the audio selection menu during video playback.",
       "status": "Open",
       "priority": "High",
-      "assignee": "Moore Meghana",
+      "assignee": "Unassigned",
       "platform": "Mobile",
-      "created": "2026-02-24",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2243",
+      "summary": "Mobile: Duplicate \"Skip Intro\" button appears when user clicks Play and Pause during movie playback.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2242",
+      "summary": "Mobile: Continue Watching content is displayed across all user profiles instead of being profile-specific.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -22,7 +78,245 @@
       "assignee": "Abhishek Dhok",
       "platform": "Mobile",
       "created": "2026-02-24",
-      "updated": "2026-02-24",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2241",
+      "summary": "Mobile: Incorrect country code is shown for India",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2226",
+      "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2240",
+      "summary": "Mobile: Login page buffers and does not proceed after entering a valid phone number and tapping Continue.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2239",
+      "summary": "Mobile: Language change not reflected in sub-modules after updating from Settings",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2238",
+      "summary": "Mobile: \"Continue to Pay\" button gets disabled after navigating back from payment gateway",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2237",
+      "summary": "Mobile: Extra bottom navigation sections displayed after user login",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2236",
+      "summary": "Mobile: Login button enabled without validation when USA country code is selected with Indian mobile number",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2219",
+      "summary": "Web: Movie video is not displayed; only the movie name is visible. ",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2224",
+      "summary": "(Tamanna) - Fancode content \"ISL 2025- 2026\" not available.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2140",
+      "summary": "Fliqs TVOD / SVOD - Pay Now",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "DishIT",
+      "created": "2026-02-17",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2138",
+      "summary": "Fliqs TVOD / SVOD - UI",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-17",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2131",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2230",
+      "summary": "Mobile: Trailer does not play when user selects Shabad - Reet aur Riwaaz content from Series section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -43,40 +337,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2226",
-      "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2227",
       "summary": "Mobile: Incorrect device model is displayed in the application shows iPhone 14 Pro instead of iPhone 14.",
       "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "Suyog Lanje",
       "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2224",
-      "summary": "(Tamanna) - Fancode content \"ISL 2025- 2026\" not available.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
@@ -228,20 +494,6 @@
       "key": "VF-2216",
       "summary": "Web: Blank screen displayed when playing Republic TV in Live TV section.",
       "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2219",
-      "summary": "Web: Movie video is not displayed; only the movie name is visible. ",
-      "status": "On Hold- For Clarification",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "WEB",
@@ -729,20 +981,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2139",
-      "summary": "Fliqs TVOD / SVOD - Order Summary",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2200",
       "summary": "Web: City not fetched in Location field and Save button remains disabled",
       "status": "Closed",
@@ -1047,20 +1285,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2131",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1653,34 +1877,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2198",
       "summary": "FLIQS Order summary page",
       "status": "Issue Accepted",
@@ -1756,20 +1952,6 @@
       "status": "On Hold- For Clarification",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -2009,20 +2191,6 @@
       "priority": "Highest",
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2140",
-      "summary": "Fliqs TVOD / SVOD - Pay Now",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "DishIT",
       "created": "2026-02-17",
       "updated": "2026-02-23",
       "duedate": "",
@@ -2395,20 +2563,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Rajkumar A",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2130",
       "summary": "Fliqs TVOD / SVOD",
       "status": "Invalid",
@@ -2417,20 +2571,6 @@
       "platform": "IOS",
       "created": "2026-02-17",
       "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2138",
-      "summary": "Fliqs TVOD / SVOD - UI",
-      "status": "Duplicate",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -2793,20 +2933,6 @@
       "priority": "Highest",
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1990",
-      "summary": "Web: Paused live stream resumes directly to live instead of the paused position after 1 minute. There should be Go Live option",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
       "created": "2026-02-06",
       "updated": "2026-02-17",
       "duedate": "",
@@ -27497,12 +27623,12 @@
       "stories": 0,
       "total": 53,
       "statuses": {
-        "In Progress": 11,
-        "Closed": 11,
-        "Issue Accepted": 13,
         "Ready For Test": 5,
+        "Issue Accepted": 13,
+        "Dev Complete": 6,
+        "Closed": 12,
+        "In Progress": 8,
         "Open": 4,
-        "Dev Complete": 4,
         "Onhold-For Tech Dependency": 1,
         "Testing On hold": 1,
         "On Hold- For Clarification": 1,
@@ -27536,12 +27662,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Moore Meghana": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
+    "vzyfeedback": {
+      "bugs": 1215,
+      "tasks": 290,
+      "subtasks": 8,
       "stories": 0,
-      "total": 11
+      "total": 1517
+    },
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Unassigned": {
+      "bugs": 39,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 76
     },
     "Abhishek Dhok": {
       "bugs": 7,
@@ -27557,40 +27697,12 @@
       "stories": 0,
       "total": 11
     },
-    "Suyog Lanje": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "avinash waghmare": {
-      "bugs": 7,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 19
-    },
     "Yashika Krishnani": {
       "bugs": 5,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Javed Ali": {
-      "bugs": 21,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 27
     },
     "Shubham Chauhan": {
       "bugs": 12,
@@ -27599,12 +27711,40 @@
       "stories": 0,
       "total": 17
     },
-    "vzyfeedback": {
-      "bugs": 1213,
-      "tasks": 290,
-      "subtasks": 8,
+    "Moore Meghana": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
-      "total": 1515
+      "total": 11
+    },
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 19
+    },
+    "Javed Ali": {
+      "bugs": 21,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 27
+    },
+    "avinash waghmare": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -27648,26 +27788,12 @@
       "stories": 0,
       "total": 11
     },
-    "Namrata Kurariya": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "BalaKumar": {
-      "bugs": 13,
+      "bugs": 12,
       "tasks": 9,
       "subtasks": 1,
       "stories": 0,
-      "total": 23
-    },
-    "Unassigned": {
-      "bugs": 30,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 67
+      "total": 22
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -27711,13 +27837,6 @@
       "stories": 0,
       "total": 11
     },
-    "Rajkumar A": {
-      "bugs": 4,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
     "Adikeshava Reddy": {
       "bugs": 1,
       "tasks": 0,
@@ -27745,6 +27864,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
+    },
+    "Rajkumar A": {
+      "bugs": 3,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
     },
     "Harsh Pratap Singh": {
       "bugs": 4,
@@ -27797,12 +27923,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 367,
-    "Medium": 748,
     "Highest": 341,
     "Low": 19,
+    "High": 374,
+    "Medium": 750,
     "Lowest": 2
   },
-  "updated_at": "2026-02-25T03:16:04Z",
-  "total_issues": 1982
+  "updated_at": "2026-02-25T05:39:22Z",
+  "total_issues": 1991
 }
