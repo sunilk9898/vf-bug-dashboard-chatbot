@@ -5,12 +5,26 @@
       "summary": "TV: Microphone (Voice Search) feature not displayed",
       "status": "On Hold- For Clarification",
       "priority": "High",
-      "assignee": "Kanika Gupta",
+      "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1990",
+      "summary": "Web: Paused live stream resumes directly to live instead of the paused position after 1 minute. There should be Go Live option",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-06",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -571,20 +585,6 @@
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1990",
-      "summary": "Web: Paused live stream resumes directly to live instead of the paused position after 1 minute. There should be Go Live option",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-06",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -28519,12 +28519,12 @@
       "stories": 0,
       "total": 53,
       "statuses": {
+        "Closed": 14,
         "Onhold-For Tech Dependency": 2,
-        "Closed": 13,
-        "Issue Accepted": 11,
         "Ready For Test": 5,
         "Dev Complete": 6,
         "In Progress": 8,
+        "Issue Accepted": 10,
         "Open": 4,
         "Testing On hold": 1,
         "On Hold- For Clarification": 1,
@@ -28558,26 +28558,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Kanika Gupta": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
-    },
     "vzyfeedback": {
-      "bugs": 1233,
+      "bugs": 1234,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1535
-    },
-    "Unassigned": {
-      "bugs": 73,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 111
+      "total": 1536
     },
     "Namrata Kurariya": {
       "bugs": 7,
@@ -28585,6 +28571,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
+    },
+    "Unassigned": {
+      "bugs": 73,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 111
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -28841,11 +28834,11 @@
   },
   "priority_breakdown": {
     "High": 413,
+    "Low": 19,
     "Medium": 770,
     "Highest": 346,
-    "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-25T16:20:33Z",
+  "updated_at": "2026-02-25T18:14:35Z",
   "total_issues": 2056
 }
