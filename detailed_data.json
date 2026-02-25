@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2225",
+      "summary": "(Tamanna) - Sonyliv content \"The Kapil Sharma Show\" getting 0 episodes.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2186",
+      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2178",
+      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2309",
+      "summary": "Web: Home page is not updated based on selected Genre Preferences after profile update",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2308",
       "summary": "Web: Incorrect redirection occurs when selecting Formula 1 content from Sports section",
       "status": "Open",
@@ -344,20 +400,6 @@
       "assignee": "Unassigned",
       "platform": "LG_TV",
       "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2178",
-      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1275,20 +1317,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2186",
-      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2184",
       "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
       "status": "Issue Accepted",
@@ -1366,20 +1394,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2225",
-      "summary": "(Tamanna) - Sonyliv content \"The Kapil Sharma Show\" getting 0 episodes.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-24",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -28544,19 +28558,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 72,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 110
-    },
     "vzyfeedback": {
-      "bugs": 1230,
+      "bugs": 1233,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1532
+      "total": 1535
+    },
+    "Unassigned": {
+      "bugs": 73,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 111
     },
     "Namrata Kurariya": {
       "bugs": 7,
@@ -28586,13 +28600,6 @@
       "stories": 0,
       "total": 9
     },
-    "Karan Mahboobani": {
-      "bugs": 8,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
-    },
     "abhilash.ramesh": {
       "bugs": 5,
       "tasks": 3,
@@ -28606,6 +28613,13 @@
       "subtasks": 1,
       "stories": 0,
       "total": 23
+    },
+    "Karan Mahboobani": {
+      "bugs": 5,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 7
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
@@ -28820,11 +28834,11 @@
   },
   "priority_breakdown": {
     "Medium": 770,
-    "High": 412,
+    "High": 413,
     "Highest": 346,
     "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-25T13:43:54Z",
-  "total_issues": 2055
+  "updated_at": "2026-02-25T15:10:38Z",
+  "total_issues": 2056
 }
