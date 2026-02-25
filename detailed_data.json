@@ -1,6 +1,398 @@
 {
   "bugs": [
     {
+      "key": "VF-2308",
+      "summary": "Web: Incorrect redirection occurs when selecting Formula 1 content from Sports section",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2307",
+      "summary": "Web: Live tag displayed for India Today in playback screen, but live playback is not available, displays a blank screen",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2306",
+      "summary": "Web: Error popup persists on screen in Search section even though user actions continue in background",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2305",
+      "summary": "Web: New Release category is not displayed in Movies section",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2304",
+      "summary": "Web: Error message displayed when setting up parental lock PIN",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2177",
+      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2303",
+      "summary": "Web: Live playback does not start for ATP-500 Abierto Mexicano and Women\u2019s National League 2025-26 despite Live tag being displayed, Fancode contents",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2302",
+      "summary": "Web--Next Episode\" button is not functioning as expected",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2301",
+      "summary": "Web: Blank screen displayed when playing Caribbean Premier League 2025 S1 Episode 1 from Sports section",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2175",
+      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2300",
+      "summary": "Web: Forward and backward seek duration is inconsistent between player controls and keyboard actions",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2299",
+      "summary": "Web: Logout confirmation popup \u201cYes\u201d button is not functional, preventing user from logging outWeb: ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2298",
+      "summary": "Mobile: Home page appears blank when switching between bottom navigation tabs",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2297",
+      "summary": "Web: Broken thumbnails displayed in New Releases category under Movies section causing improper UI rendering",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2171",
+      "summary": "TV: Video resumes automatically after being paused",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2214",
+      "summary": "(Tamanna) - Multiple fancode live matches not playing.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2296",
+      "summary": "Web: system displays an error message instead of allowing login.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2199",
+      "summary": "Payment Gateway UI",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2080",
+      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2193",
+      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2258",
+      "summary": "Mobile: Back button unresponsive on Payment Gateway after tapping \"Pay Now\"",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2257",
+      "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2295",
+      "summary": "TV: Menu panel not accessible; users cannot navigate options",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2178",
+      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2256",
+      "summary": "Mobile: Home page video is played in the background while navigating to My vibe.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2255",
+      "summary": "Mobile: Voice search captures the user voice input but displays incorrect or irrelevant content.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2254",
       "summary": "Mobile: An Invalid Search error message is displayed when selecting a music channel from search results.",
       "status": "Ready For Test",
@@ -137,20 +529,6 @@
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2171",
-      "summary": "TV: Video resumes automatically after being paused",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -337,34 +715,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2080",
-      "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2255",
-      "summary": "Mobile: Voice search captures the user voice input but displays incorrect or irrelevant content.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2288",
       "summary": "TV: Stage OTT content thumbnails are not loading and displaying black images",
       "status": "Open",
@@ -407,20 +757,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2256",
-      "summary": "Mobile: Home page video is played in the background while navigating to My vibe.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2286",
       "summary": "TV: \"Refresh Code\" button temporarily not visible on \"Sign in with Unique Code\" page",
       "status": "Open",
@@ -440,20 +776,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2258",
-      "summary": "Mobile: Back button unresponsive on Payment Gateway after tapping \"Pay Now\"",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-02-25",
       "updated": "2026-02-25",
@@ -855,20 +1177,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2275",
       "summary": "TV: Video is not visible while playing movie, but audio is audible on TV.",
       "status": "Open",
@@ -1023,20 +1331,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2177",
-      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2190",
       "summary": "TV: When changed the video quality in movie called OBSESSION , screen in getting redirected to home page.",
       "status": "Closed",
@@ -1114,20 +1408,6 @@
       "assignee": "Abhishek Dhok",
       "platform": "Mobile",
       "created": "2026-02-24",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2257",
-      "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1275,20 +1555,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2139",
-      "summary": "Fliqs TVOD / SVOD - Order Summary",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2138",
       "summary": "Fliqs TVOD / SVOD - UI",
       "status": "Closed",
@@ -1383,20 +1649,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2175",
-      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1660,20 +1912,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2025-12-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2214",
-      "summary": "(Tamanna) - Multiple fancode live matches not playing.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2038,20 +2276,6 @@
       "assignee": "Abhishek Dhok",
       "platform": "IOS",
       "created": "2026-01-30",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2193",
-      "summary": "TV: Test Asset GOB web series plays Hanuman series content",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2563,20 +2787,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2199",
-      "summary": "Payment Gateway UI",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2160",
       "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
       "status": "Closed",
@@ -2584,20 +2794,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-19",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2178",
-      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -21493,6 +21689,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1960",
+      "summary": " A Clavertap - FLIQS SVOD & TVOD ",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1632",
       "summary": "(Shruti) Hotstar Trailer Not Available",
       "status": "Issue Accepted",
@@ -21584,20 +21794,6 @@
       "assignee": "Amudha Kaliamoorthi",
       "platform": "CMS",
       "created": "2026-02-19",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1960",
-      "summary": " A Clavertap - FLIQS SVOD & TVOD ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "ATV",
-      "created": "2026-02-04",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -28309,13 +28505,13 @@
       "stories": 0,
       "total": 53,
       "statuses": {
-        "Issue Accepted": 12,
-        "Ready For Test": 6,
-        "Closed": 12,
+        "Onhold-For Tech Dependency": 2,
+        "Closed": 13,
+        "Issue Accepted": 11,
+        "Ready For Test": 5,
         "Dev Complete": 6,
         "In Progress": 8,
         "Open": 4,
-        "Onhold-For Tech Dependency": 1,
         "Testing On hold": 1,
         "On Hold- For Clarification": 1,
         "Reopened": 1,
@@ -28348,12 +28544,61 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 72,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 110
+    },
     "vzyfeedback": {
-      "bugs": 1225,
+      "bugs": 1230,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1527
+      "total": 1532
+    },
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "avinash waghmare": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Dinjit Dinesh": {
+      "bugs": 19,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Karan Mahboobani": {
+      "bugs": 8,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 10
+    },
+    "abhilash.ramesh": {
+      "bugs": 5,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "BalaKumar": {
       "bugs": 13,
@@ -28361,27 +28606,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 23
-    },
-    "Namrata Kurariya": {
-      "bugs": 6,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Karan Mahboobani": {
-      "bugs": 10,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
-    "Unassigned": {
-      "bugs": 61,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 99
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
@@ -28398,18 +28622,18 @@
       "total": 2
     },
     "Alok Gupta": {
-      "bugs": 14,
+      "bugs": 13,
       "tasks": 4,
       "subtasks": 1,
       "stories": 0,
-      "total": 19
+      "total": 18
     },
     "Javed Ali": {
-      "bugs": 29,
+      "bugs": 28,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
-      "total": 35
+      "total": 34
     },
     "Srinidhi.Raju": {
       "bugs": 3,
@@ -28417,13 +28641,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 37
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -28433,11 +28650,11 @@
       "total": 11
     },
     "Shubham Chauhan": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 13
     },
     "shadab Hussain": {
       "bugs": 6,
@@ -28467,33 +28684,12 @@
       "stories": 0,
       "total": 7
     },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "abhilash.ramesh": {
-      "bugs": 4,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "devaraj": {
       "bugs": 8,
@@ -28623,12 +28819,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 402,
-    "Medium": 766,
-    "Low": 19,
+    "Medium": 770,
+    "High": 412,
     "Highest": 346,
+    "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-25T11:53:57Z",
-  "total_issues": 2041
+  "updated_at": "2026-02-25T13:38:48Z",
+  "total_issues": 2055
 }
