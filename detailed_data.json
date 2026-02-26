@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2337",
+      "summary": "TV: Missing Episodes (12-14) in Wheel of Fortune",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2273",
+      "summary": "TV: Incorrect content displayed under New Releases section in Movies",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2339",
+      "summary": "TV: Audio options are repeated in the video player settings.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2328",
+      "summary": "TV: Incorrect spelling of \"Kabaddi\" displayed as \"Kabbadi\" in Sports section",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2271",
+      "summary": "TV: Microphone Search Displays \"Error Recognizing Speech\" Message",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2270",
+      "summary": "Samsung and LG TV: Season number and episode number not displayed on Samsung and LG TV",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2192",
+      "summary": "TV(Samsung TV/LG TV ):Season number and episode number not displayed in episode list",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "LG_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2170",
+      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the immediate next episode",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1974",
       "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
       "status": "Testing On hold",
@@ -155,20 +295,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2339",
-      "summary": "TV: Audio options are repeated in the video player settings.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2212",
       "summary": "Carousel banner images",
       "status": "Dev Complete",
@@ -221,20 +347,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2337",
-      "summary": "TV: Missing Episodes (12-14) in Wheel of Fortune",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -399,20 +511,6 @@
       "priority": "High",
       "assignee": "Unassigned",
       "platform": "SAM_TV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2328",
-      "summary": "TV: Incorrect spelling of \"Kabaddi\" displayed as \"Kabbadi\" in Sports section",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "ATV",
       "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
@@ -995,20 +1093,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2139",
-      "summary": "Fliqs TVOD / SVOD - Order Summary",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2302",
       "summary": "Web--Next Episode\" button is not functioning as expected",
       "status": "Open",
@@ -1429,20 +1513,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2273",
-      "summary": "TV: Incorrect content displayed under New Releases section in Movies",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2151",
       "summary": "FLIQS channel logos in Setting section",
       "status": "Testing On hold",
@@ -1450,20 +1520,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-19",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2270",
-      "summary": "Samsung and LG TV: Season number and episode number not displayed on Samsung and LG TV",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Chiranjit Chatterjee",
-      "platform": "LG_TV",
-      "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1751,20 +1807,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2240",
       "summary": "Mobile: Login page buffers and does not proceed after entering a valid phone number and tapping Continue.",
       "status": "Ready For Test",
@@ -1989,20 +2031,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2271",
-      "summary": "TV: Microphone Search Displays \"Error Recognizing Speech\" Message",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2266",
       "summary": "Mobile: SD 540p Video does not play in the selected resolution after changing video quality.",
       "status": "Issue Accepted",
@@ -2010,20 +2038,6 @@
       "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2192",
-      "summary": "TV(Samsung TV):Season number and episode number not displayed in episode list",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Chiranjit Chatterjee",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3564,20 +3578,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-11",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2170",
-      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the immediate next episode",
-      "status": "Duplicate",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -22123,6 +22123,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-637",
+      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2025-11-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2341",
+      "summary": "CMS Dashboard - Collection Details section to be added",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Vedant Kajale",
+      "platform": "CMS Dashboard",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2340",
       "summary": "UXCam Screen Tagging",
       "status": "Issue Accepted",
@@ -22203,20 +22231,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-637",
-      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ANDROID",
-      "created": "2025-11-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -28946,6 +28960,26 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 20,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 53,
+      "statuses": {
+        "Open": 4,
+        "Closed": 17,
+        "Dev Complete": 9,
+        "Reopened": 2,
+        "Ready For Test": 3,
+        "Onhold-For Tech Dependency": 2,
+        "Issue Accepted": 7,
+        "Testing On hold": 1,
+        "On Hold- For Clarification": 1,
+        "In Progress": 6,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -28956,26 +28990,6 @@
         "Closed": 29,
         "Reopened": 4,
         "Ready For Test": 17
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 20,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 53,
-      "statuses": {
-        "Closed": 17,
-        "Dev Complete": 9,
-        "Open": 4,
-        "Reopened": 2,
-        "Ready For Test": 3,
-        "Onhold-For Tech Dependency": 2,
-        "Issue Accepted": 7,
-        "Testing On hold": 1,
-        "On Hold- For Clarification": 1,
-        "In Progress": 6,
-        "Invalid": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -28992,26 +29006,61 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1236,
-      "tasks": 290,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1538
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 12,
+    "Dinjit Dinesh": {
+      "bugs": 19,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 34
+      "total": 38
     },
-    "Namrata Kurariya": {
-      "bugs": 7,
+    "Vedant Kajale": {
+      "bugs": 0,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "vzyfeedback": {
+      "bugs": 1240,
+      "tasks": 290,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1542
+    },
+    "Unassigned": {
+      "bugs": 97,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 135
+    },
+    "Chiranjit Chatterjee": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "Shubham Chauhan": {
+      "bugs": 8,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 13
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 12,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -29048,13 +29097,6 @@
       "stories": 0,
       "total": 9
     },
-    "Unassigned": {
-      "bugs": 100,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 138
-    },
     "Sameeksha Vinodiya": {
       "bugs": 5,
       "tasks": 1,
@@ -29076,26 +29118,12 @@
       "stories": 0,
       "total": 9
     },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 37
-    },
     "abhilash.ramesh": {
       "bugs": 5,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Chiranjit Chatterjee": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
     },
     "Srinidhi.Raju": {
       "bugs": 3,
@@ -29110,13 +29138,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 11
-    },
-    "Shubham Chauhan": {
-      "bugs": 8,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "shadab Hussain": {
       "bugs": 6,
@@ -29237,13 +29258,6 @@
       "stories": 0,
       "total": 2
     },
-    "Vedant Kajale": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
-    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -29267,12 +29281,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 432,
     "Medium": 778,
-    "Highest": 347,
+    "High": 432,
     "Low": 21,
+    "Highest": 347,
     "Lowest": 2
   },
-  "updated_at": "2026-02-26T07:17:26Z",
-  "total_issues": 2087
+  "updated_at": "2026-02-26T09:06:03Z",
+  "total_issues": 2088
 }
