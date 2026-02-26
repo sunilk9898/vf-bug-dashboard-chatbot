@@ -1,6 +1,272 @@
 {
   "bugs": [
     {
+      "key": "VF-1974",
+      "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1433",
+      "summary": "ATV FE Section titles ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-22",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2133",
+      "summary": "Fliqs TVOD / SVOD - UI issue",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2063",
+      "summary": "New On VZY Rail not showing correct data",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-10",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2064",
+      "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-10",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2220",
+      "summary": "Sports Videos tagged as movie : Kaltura Issue",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2087",
+      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-12",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2196",
+      "summary": "Disapperaing Carousel banners",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2185",
+      "summary": "TV oneplus: Video freezes when seeking forward in Episode 2 of Pariksha Pe Charcha from Home section",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2292",
+      "summary": "TV: Episode are excessively divided than the official episodes announced, audio has only Hindi and none option .",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2339",
+      "summary": "TV: Audio options are repeated in the video player settings.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2180",
+      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2338",
+      "summary": "TV: Audio selection feature has language mentioned twice for each language",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2337",
+      "summary": "TV: Missing Episodes (12-14) in Wheel of Fortune",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2336",
+      "summary": "(Shivani) Channel guide",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "LG_TV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2335",
+      "summary": "TV: Next Episode button missing and selected episode not playing in \"Plants Behaving Badly\" series",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2334",
       "summary": "TV: Irrelevant content displayed in \"More Like This\" section for Shirdi Wale Sai Baba",
       "status": "Open",
@@ -291,20 +557,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2220",
-      "summary": "Sports Videos tagged as movie : Kaltura Issue",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1149,20 +1401,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1974",
-      "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2294",
       "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
       "status": "Open",
@@ -1219,20 +1457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2292",
-      "summary": "TV: Episode are excessively divided than the official episodes announced, audio has only Hindi and none option .",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2270",
       "summary": "Samsung and LG TV: Season number and episode number not displayed on Samsung and LG TV",
       "status": "Issue Accepted",
@@ -1268,20 +1492,6 @@
       "assignee": "Unassigned",
       "platform": "ATV",
       "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2185",
-      "summary": "TV oneplus: Video freezes when seeking forward in Episode 2 of Pariksha Pe Charcha from Home section",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2633,20 +2843,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2221",
       "summary": "Hotstar content thumbnail issue : Kaltura Issue",
       "status": "Issue Accepted",
@@ -2699,20 +2895,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2063",
-      "summary": "New On VZY Rail not showing correct data",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-02-10",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2839,20 +3021,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2133",
-      "summary": "Fliqs TVOD / SVOD - UI issue",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -3347,48 +3515,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2196",
-      "summary": "Disapperaing Carousel banners",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2202",
       "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
       "status": "OnHold-For Vivre Setup",
@@ -3450,20 +3576,6 @@
       "status": "Duplicate",
       "priority": "High",
       "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2180",
-      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
@@ -3735,20 +3847,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2087",
-      "summary": "Kaltura Issue: Kaltura picking the 16x9 image for both the thumbnail and the carousel banner ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-12",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -4082,20 +4180,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-29",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2064",
-      "summary": "\"Marvel Super Heroes\" and \"The Hogwarts Chronicles\" rails are not showing up on Kids Profile ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-02-10",
       "updated": "2026-02-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5174,20 +5258,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2025-12-23",
-      "updated": "2026-02-04",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1433",
-      "summary": "ATV FE Section titles ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-22",
       "updated": "2026-02-04",
       "duedate": "",
       "sprint": "No Sprint",
@@ -22053,6 +22123,118 @@
   ],
   "tasks": [
     {
+      "key": "VF-2340",
+      "summary": "UXCam Screen Tagging",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ANDROID",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1632",
+      "summary": "(Shruti) Hotstar Trailer Not Available",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "LG_TV",
+      "created": "2026-01-12",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-587",
+      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-26",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-481",
+      "summary": "Purchases (TVOD or Individual SVOD)",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-26",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-462",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-26",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1901",
+      "summary": "Kaltura Issue",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-30",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-637",
+      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ANDROID",
+      "created": "2025-11-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1898",
+      "summary": "CleverTap Pending Items (WEB)",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-01-29",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-592",
       "summary": "Custom Defered Deep Link (DDL)",
       "status": "Dev Complete",
@@ -22088,20 +22270,6 @@
       "assignee": "Namrata Kurariya",
       "platform": "ATV",
       "created": "2026-02-04",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1632",
-      "summary": "(Shruti) Hotstar Trailer Not Available",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "LG_TV",
-      "created": "2026-01-12",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -22557,48 +22725,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-587",
-      "summary": "Notification listing page with sticky notifcation (via notification bell icon)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-02-18",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-481",
-      "summary": "Purchases (TVOD or Individual SVOD)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-18",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-462",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-18",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1971",
       "summary": "Parameter need to pass from VZY to plan & offer",
       "status": "On Hold- For Clarification",
@@ -22692,20 +22818,6 @@
       "created": "2025-12-24",
       "updated": "2026-02-17",
       "duedate": "2026-03-13",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1898",
-      "summary": "CleverTap Pending Items (WEB)",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-01-29",
-      "updated": "2026-02-17",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -22819,20 +22931,6 @@
       "updated": "2026-02-17",
       "duedate": "2025-11-28",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1901",
-      "summary": "Kaltura Issue",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-30",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -23309,20 +23407,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-637",
-      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS Adaptor",
-      "created": "2025-11-25",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -28862,26 +28946,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 20,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 53,
-      "statuses": {
-        "Reopened": 2,
-        "Ready For Test": 6,
-        "Closed": 14,
-        "Onhold-For Tech Dependency": 2,
-        "Dev Complete": 6,
-        "Issue Accepted": 10,
-        "Open": 4,
-        "Testing On hold": 1,
-        "On Hold- For Clarification": 1,
-        "In Progress": 6,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -28889,9 +28953,29 @@
       "stories": 0,
       "total": 50,
       "statuses": {
+        "Closed": 29,
         "Reopened": 4,
-        "Closed": 24,
-        "Ready For Test": 22
+        "Ready For Test": 17
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 20,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 53,
+      "statuses": {
+        "Closed": 17,
+        "Dev Complete": 9,
+        "Open": 4,
+        "Reopened": 2,
+        "Ready For Test": 3,
+        "Onhold-For Tech Dependency": 2,
+        "Issue Accepted": 7,
+        "Testing On hold": 1,
+        "On Hold- For Clarification": 1,
+        "In Progress": 6,
+        "Invalid": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -28908,33 +28992,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 96,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 134
-    },
     "vzyfeedback": {
-      "bugs": 1235,
+      "bugs": 1236,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1537
+      "total": 1538
     },
-    "Sameeksha Vinodiya": {
-      "bugs": 5,
-      "tasks": 1,
+    "Amudha Kaliamoorthi": {
+      "bugs": 12,
+      "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
+      "total": 34
     },
-    "Karan Mahboobani": {
+    "Namrata Kurariya": {
       "bugs": 7,
-      "tasks": 0,
-      "subtasks": 2,
+      "tasks": 5,
+      "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 12
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -28943,19 +29020,12 @@
       "stories": 0,
       "total": 9
     },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 10,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 17
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
       "stories": 0,
-      "total": 9
+      "total": 23
     },
     "Javed Ali": {
       "bugs": 28,
@@ -28971,12 +29041,40 @@
       "stories": 0,
       "total": 18
     },
-    "Namrata Kurariya": {
+    "Karan Mahboobani": {
       "bugs": 7,
-      "tasks": 5,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 9
+    },
+    "Unassigned": {
+      "bugs": 100,
+      "tasks": 31,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 138
+    },
+    "Sameeksha Vinodiya": {
+      "bugs": 5,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 10,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 17
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Dinjit Dinesh": {
       "bugs": 19,
@@ -28991,13 +29089,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -29068,13 +29159,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 10
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 12,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
     },
     "Vikas Mishra": {
       "bugs": 36,
@@ -29183,12 +29267,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 776,
-    "High": 430,
+    "High": 432,
+    "Medium": 778,
+    "Highest": 347,
     "Low": 21,
-    "Highest": 346,
     "Lowest": 2
   },
-  "updated_at": "2026-02-26T06:12:47Z",
-  "total_issues": 2081
+  "updated_at": "2026-02-26T07:17:26Z",
+  "total_issues": 2087
 }

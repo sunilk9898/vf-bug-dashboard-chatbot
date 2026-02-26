@@ -5,12 +5,12 @@
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 5,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 21,
-      "IN PROGRESS": 1,
+      "OPEN": 24,
+      "IN PROGRESS": 2,
       "REOPENED": 3,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 3,
@@ -65,7 +65,7 @@
       "PARKED": 1
     },
     "LG_TV": {
-      "OPEN": 1,
+      "OPEN": 2,
       "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-26T06:12:47Z",
-  "total_issues_fetched": 2081,
+  "updated_at": "2026-02-26T07:17:26Z",
+  "total_issues_fetched": 2087,
   "project": "VF"
 }
