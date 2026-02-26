@@ -1,11 +1,263 @@
 {
   "bugs": [
     {
+      "key": "VF-2334",
+      "summary": "TV: Irrelevant content displayed in \"More Like This\" section for Shirdi Wale Sai Baba",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2187",
+      "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2124",
+      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-16",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2316",
+      "summary": "Web: Subscribe button is non-functional and does not redirect to subscription page",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2333",
+      "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ANDROID",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2332",
+      "summary": "TV: Dream Sports Live and ToonzKids Ninos channels are missing in Live TV section",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2331",
+      "summary": "TV: UI buttons highlighted in red unexpectedly (Intermittent)",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2330",
+      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1166",
+      "summary": "Channel guide - ATV",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2025-12-15",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2329",
+      "summary": "TV: In the Movie section, under the Caught in the Plot title, there are two entries for The Last Witch Hunter, and only one is working",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "SAM_TV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2328",
+      "summary": "TV: Incorrect spelling of \"Kabaddi\" displayed as \"Kabbadi\" in Sports section",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2130",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2327",
+      "summary": "TV: Issue is still reproducible in the latest build, Video resumes automatically after being paused",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2326",
+      "summary": "Mobile: User is unable to view all available episodes of the series, as one episode is missing compared to the original platform.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2325",
+      "summary": "Mobile: Cookies section displays the Home screen instead of Cookies Policy content",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Sameeksha Vinodiya",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2324",
+      "summary": "Mobile: User is unable to play SonyLIV content as the video displays a blank screen and does not start playback.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2323",
+      "summary": "Mobile: User is unable to download the transaction receipt from the Transaction History screen.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2291",
       "summary": "TV: Resume playback not working for Discovery+ content",
       "status": "Dev Complete",
       "priority": "High",
-      "assignee": "Unassigned",
+      "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-25",
       "updated": "2026-02-26",
@@ -15,8 +267,22 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2321",
-      "summary": "Web: Some movie cover images are not displayed in the movie listing page",
+      "key": "VF-2269",
+      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the next sequential episode. The defect is not fixed.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2322",
+      "summary": "Web: Profile selection does not update and user remains on the same profile after switching",
       "status": "Open",
       "priority": "High",
       "assignee": "Unassigned",
@@ -31,7 +297,7 @@
     {
       "key": "VF-2220",
       "summary": "Sports Videos tagged as movie : Kaltura Issue",
-      "status": "In Progress",
+      "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
@@ -39,6 +305,20 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2321",
+      "summary": "Web: Some movie cover images are not displayed in the movie listing page",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -101,20 +381,6 @@
     {
       "key": "VF-2317",
       "summary": "Web: OTP generation fails when user clicks on Delete Account",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2316",
-      "summary": "Web: Subscribe button is non-functional and does not redirect to subscription page",
       "status": "Open",
       "priority": "High",
       "assignee": "Unassigned",
@@ -1515,20 +1781,6 @@
     {
       "key": "VF-2271",
       "summary": "TV: Microphone Search Displays \"Error Recognizing Speech\" Message",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2269",
-      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the next sequential episode. The defect is not fixed.",
       "status": "Open",
       "priority": "High",
       "assignee": "Unassigned",
@@ -2969,20 +3221,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Sameeksha Vinodiya",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2160",
       "summary": "(Shruti) Trailer autoplay gets stuck when clicking \u201cSkip Ad\u201d (ad not skipped, trailer not playing)",
       "status": "Closed",
@@ -3223,20 +3461,6 @@
     {
       "key": "VF-2180",
       "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2187",
-      "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
       "status": "On Hold- For Clarification",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -3623,20 +3847,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2130",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Invalid",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-02-17",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -4111,20 +4321,6 @@
       "platform": "ANDROID",
       "created": "2026-02-09",
       "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2124",
-      "summary": "(Shivani) - After deleting a account, why subscribe button is showing instead of Renew button ",
-      "status": "Invalid",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-02-16",
-      "updated": "2026-02-16",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -6644,20 +6840,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2025-12-30",
-      "updated": "2026-01-28",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1166",
-      "summary": "Channel guide - ATV",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-15",
       "updated": "2026-01-28",
       "duedate": "",
       "sprint": "No Sprint",
@@ -21871,6 +22053,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-592",
+      "summary": "Custom Defered Deep Link (DDL)",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-02-26",
+      "duedate": "2025-12-05",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1912",
       "summary": "Downloaded content - Continue Watching",
       "status": "Parked",
@@ -24554,20 +24750,6 @@
       "created": "2025-12-19",
       "updated": "2026-01-28",
       "duedate": "2026-01-09",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-592",
-      "summary": "Custom Defered Deep Link (DDL)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-01-28",
-      "duedate": "2025-12-05",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -28687,8 +28869,8 @@
       "stories": 0,
       "total": 53,
       "statuses": {
-        "In Progress": 8,
-        "Ready For Test": 5,
+        "Reopened": 2,
+        "Ready For Test": 6,
         "Closed": 14,
         "Onhold-For Tech Dependency": 2,
         "Dev Complete": 6,
@@ -28696,7 +28878,7 @@
         "Open": 4,
         "Testing On hold": 1,
         "On Hold- For Clarification": 1,
-        "Reopened": 1,
+        "In Progress": 6,
         "Invalid": 1
       }
     },
@@ -28727,11 +28909,32 @@
   "releases": {},
   "assignee_workload": {
     "Unassigned": {
-      "bugs": 85,
+      "bugs": 96,
       "tasks": 31,
       "subtasks": 0,
       "stories": 0,
-      "total": 123
+      "total": 134
+    },
+    "vzyfeedback": {
+      "bugs": 1235,
+      "tasks": 290,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1537
+    },
+    "Sameeksha Vinodiya": {
+      "bugs": 5,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Karan Mahboobani": {
+      "bugs": 7,
+      "tasks": 0,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 9
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -28746,13 +28949,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 17
-    },
-    "vzyfeedback": {
-      "bugs": 1235,
-      "tasks": 290,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1537
     },
     "Yashika Krishnani": {
       "bugs": 6,
@@ -28802,13 +28998,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 23
-    },
-    "Karan Mahboobani": {
-      "bugs": 5,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 7
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -28886,13 +29075,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "Sameeksha Vinodiya": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Vikas Mishra": {
       "bugs": 36,
@@ -29001,12 +29183,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 421,
-    "Medium": 774,
+    "Medium": 776,
+    "High": 430,
+    "Low": 21,
     "Highest": 346,
-    "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-26T05:02:16Z",
-  "total_issues": 2068
+  "updated_at": "2026-02-26T06:12:47Z",
+  "total_issues": 2081
 }

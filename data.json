@@ -1,15 +1,15 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 5,
-      "IN PROGRESS": 1,
-      "REOPENED": 0,
+      "OPEN": 6,
+      "IN PROGRESS": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 5,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 16,
+      "OPEN": 21,
       "IN PROGRESS": 1,
       "REOPENED": 3,
       "IN REVIEW": 0,
@@ -26,7 +26,7 @@
     },
     "CMS Adaptor": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
@@ -51,7 +51,7 @@
     "IOS": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 1,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
@@ -73,7 +73,7 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 4,
+      "OPEN": 8,
       "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -81,7 +81,7 @@
       "PARKED": 1
     },
     "SAM_TV": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -89,7 +89,7 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 24,
+      "OPEN": 25,
       "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-26T05:02:16Z",
-  "total_issues_fetched": 2068,
+  "updated_at": "2026-02-26T06:12:47Z",
+  "total_issues_fetched": 2081,
   "project": "VF"
 }
