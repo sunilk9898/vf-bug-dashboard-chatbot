@@ -1,6 +1,230 @@
 {
   "bugs": [
     {
+      "key": "VF-2275",
+      "summary": "TV: Video is not visible while playing movie, but audio is audible on TV.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2332",
+      "summary": "TV: Dream Sports Live and ToonzKids Ninos channels are missing in Live TV section",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2330",
+      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2272",
+      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2124",
+      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-16",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2392",
+      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2393",
+      "summary": "Mobile: After navigating from Help & Policy \u2192 About Us \u2192 Features and then clicking on My Vibe, the application switches to a different profile instead of staying on the current logged-in profile.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2396",
+      "summary": "Mobile: User is unable to enter a mobile number because the keyboard does not appear when clicking on the Mobile Number input field. ",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2192",
+      "summary": "TV(Samsung TV/LG TV ):Season number and episode number not displayed in episode list",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "LG_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2394",
+      "summary": "Mobile: The option displayed on long press in Watchlist shows incorrect text: \u201cRemove To Watchlist\u201d instead of \u201cRemove From Watchlist\u201d.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2387",
+      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2294",
+      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2285",
+      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2384",
+      "summary": "Mobile: When a user shares any video or content through any platform, the shared link redirects to an \u201cInvalid Request\u201d page instead of the actual content.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2357",
       "summary": "Mobile: Incorrect episode playback observed in Shark Tank India Season 2 \u2014 Episode 50 plays instead of Episode 49.",
       "status": "Issue Accepted",
@@ -337,20 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2396",
-      "summary": "Mobile: User is unable to enter a mobile number because the keyboard does not appear when clicking on the Mobile Number input field. ",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2379",
       "summary": "Mobile: Channel guide section appears blank after selecting Udaya Comedy from search results",
       "status": "Ready For Test",
@@ -407,20 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2394",
-      "summary": "Mobile: The option displayed on long press in Watchlist shows incorrect text: \u201cRemove To Watchlist\u201d instead of \u201cRemove From Watchlist\u201d.",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2199",
       "summary": "Payment Gateway UI",
       "status": "Closed",
@@ -449,20 +645,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2393",
-      "summary": "Mobile: After navigating from Help & Policy \u2192 About Us \u2192 Features and then clicking on My Vibe, the application switches to a different profile instead of staying on the current logged-in profile.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2183",
       "summary": "TV One plus:Multiple non-crime genre contents displayed under Best in Crime section in Series.",
       "status": "Ready For Test",
@@ -470,20 +652,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2392",
-      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -645,20 +813,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2387",
-      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2196",
       "summary": "Disapperaing Carousel banners",
       "status": "Closed",
@@ -731,20 +885,6 @@
     {
       "key": "VF-2372",
       "summary": "Mobile: Downloaded invoice from Transaction History does not contain customer and consignee details",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2384",
-      "summary": "Mobile: When a user shares any video or content through any platform, the shared link redirects to an \u201cInvalid Request\u201d page instead of the actual content.",
       "status": "Open",
       "priority": "High",
       "assignee": "Unassigned",
@@ -1429,20 +1569,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2294",
-      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1905",
       "summary": "Related content - iOS",
       "status": "Closed",
@@ -1590,20 +1716,6 @@
       "assignee": "Chiranjit Chatterjee",
       "platform": "LG_TV",
       "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2192",
-      "summary": "TV(Samsung TV/LG TV ):Season number and episode number not displayed in episode list",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Chiranjit Chatterjee",
-      "platform": "LG_TV",
-      "created": "2026-02-23",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1821,54 +1933,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2124",
-      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-02-16",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2316",
       "summary": "Web: Subscribe button is non-functional and does not redirect to subscription page",
       "status": "Open",
       "priority": "High",
       "assignee": "Unassigned",
       "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2332",
-      "summary": "TV: Dream Sports Live and ToonzKids Ninos channels are missing in Live TV section",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2330",
-      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
       "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
@@ -2745,20 +2815,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2285",
-      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2259",
       "summary": "Mobile: Application takes too long to enter the selected profile from the Manage Profile section.",
       "status": "Ready For Test",
@@ -3018,34 +3074,6 @@
       "assignee": "Moore Meghana",
       "platform": "Mobile",
       "created": "2026-02-24",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2275",
-      "summary": "TV: Video is not visible while playing movie, but audio is audible on TV.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2272",
-      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -4355,20 +4383,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2207",
       "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
       "status": "Open",
@@ -4403,20 +4417,6 @@
       "priority": "High",
       "assignee": "devaraj",
       "platform": "LG_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2194",
-      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-02-23",
       "updated": "2026-02-23",
       "duedate": "",
@@ -29798,6 +29798,48 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 123,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 161
+    },
+    "vzyfeedback": {
+      "bugs": 1265,
+      "tasks": 290,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1567
+    },
+    "abhilash.ramesh": {
+      "bugs": 7,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Karan Mahboobani": {
+      "bugs": 11,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 14
+    },
+    "Chiranjit Chatterjee": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
     "Javed Ali": {
       "bugs": 34,
       "tasks": 3,
@@ -29805,33 +29847,12 @@
       "stories": 0,
       "total": 40
     },
-    "vzyfeedback": {
-      "bugs": 1260,
-      "tasks": 290,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1562
-    },
-    "Unassigned": {
-      "bugs": 130,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 168
-    },
     "Yashika Krishnani": {
       "bugs": 5,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "abhilash.ramesh": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Dinjit Dinesh": {
       "bugs": 18,
@@ -29861,26 +29882,12 @@
       "stories": 0,
       "total": 12
     },
-    "Karan Mahboobani": {
-      "bugs": 11,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 14
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Alok Gupta": {
-      "bugs": 10,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
     },
     "avinash waghmare": {
       "bugs": 5,
@@ -29920,13 +29927,6 @@
     "Vedant Kajale": {
       "bugs": 0,
       "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
-    "Chiranjit Chatterjee": {
-      "bugs": 2,
-      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 2
@@ -30073,12 +30073,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 799,
     "High": 458,
-    "Highest": 347,
+    "Medium": 799,
     "Low": 29,
+    "Highest": 347,
     "Lowest": 2
   },
-  "updated_at": "2026-02-26T13:44:23Z",
+  "updated_at": "2026-02-26T15:06:50Z",
   "total_issues": 2144
 }

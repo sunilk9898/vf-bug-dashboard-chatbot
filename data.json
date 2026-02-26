@@ -9,7 +9,7 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 11,
+      "OPEN": 6,
       "IN PROGRESS": 2,
       "REOPENED": 2,
       "IN REVIEW": 0,
@@ -66,18 +66,18 @@
     },
     "LG_TV": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 36,
+      "OPEN": 30,
       "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 14,
+      "ISSUE ACCEPTED": 15,
       "PARKED": 1
     },
     "SAM_TV": {
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-26T13:44:23Z",
+  "updated_at": "2026-02-26T15:06:50Z",
   "total_issues_fetched": 2144,
   "project": "VF"
 }
