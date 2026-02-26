@@ -1,6 +1,398 @@
 {
   "bugs": [
     {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Sameeksha Vinodiya",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2277",
+      "summary": "Content player and playback",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2389",
+      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2388",
+      "summary": "Mobile : When User 1 likes a video, it is automatically marked as liked in another profile under the same account.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2379",
+      "summary": "Mobile: Channel guide section appears blank after selecting Udaya Comedy from search results",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2387",
+      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2196",
+      "summary": "Disapperaing Carousel banners",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2386",
+      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2189",
+      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2385",
+      "summary": "Mobile: Spelling mistake observed in the Notification text.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2058",
+      "summary": "Fliqs followed channels in settings screen",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-09",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2273",
+      "summary": "TV: Incorrect content displayed under New Releases section in Movies",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2372",
+      "summary": "Mobile: Downloaded invoice from Transaction History does not contain customer and consignee details",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2384",
+      "summary": "Mobile: When a user shares any video or content through any platform, the shared link redirects to an \u201cInvalid Request\u201d page instead of the actual content.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2181",
+      "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2383",
+      "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2382",
+      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2331",
+      "summary": "TV: UI buttons highlighted in red unexpectedly (Intermittent)",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2380",
+      "summary": "Web: User is unable to login to the application when using the Microsoft Edge browser. ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2289",
+      "summary": "TV: Like and Report options are missing for some movies and series",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2377",
+      "summary": "Mobile: Search suggestion shows incorrect recent word instead of content name when typing \u201cShark Tank India\u201d",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2376",
+      "summary": "Mobile: Button alignment is incorrect for the Gender Preference \u2013 Other option. ",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2375",
+      "summary": "Mobile: Downloaded content \u201cBaat Ek Raaz Ki\u201d is not playable in offline mode from Downloads section",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2374",
       "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
       "status": "Open",
@@ -35,20 +427,6 @@
       "priority": "High",
       "assignee": "Unassigned",
       "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2372",
-      "summary": "Web: Downloaded invoice from Transaction History does not contain customer and consignee details",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ANDROID",
       "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
@@ -729,20 +1107,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2289",
-      "summary": "TV: Like and Report options are missing for some movies and series",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1905",
       "summary": "Related content - iOS",
       "status": "Closed",
@@ -862,20 +1226,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2273",
-      "summary": "TV: Incorrect content displayed under New Releases section in Movies",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-25",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1079,34 +1429,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2196",
-      "summary": "Disapperaing Carousel banners",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2185",
       "summary": "TV oneplus: Video freezes when seeking forward in Episode 2 of Pariksha Pe Charcha from Home section",
       "status": "Ready For Test",
@@ -1135,20 +1457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2180",
       "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
       "status": "Testing On hold",
@@ -1159,20 +1467,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1261,20 +1555,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2331",
-      "summary": "TV: UI buttons highlighted in red unexpectedly (Intermittent)",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2330",
       "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
       "status": "Open",
@@ -1341,20 +1621,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Sameeksha Vinodiya",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2409,20 +2675,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2181",
-      "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2262",
       "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
       "status": "Issue Accepted",
@@ -2526,20 +2778,6 @@
       "status": "Open",
       "priority": "Highest",
       "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2277",
-      "summary": "Content player and playback",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
       "platform": "ANDROID",
       "created": "2026-02-25",
       "updated": "2026-02-25",
@@ -3445,20 +3683,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2058",
-      "summary": "Fliqs followed channels in settings screen",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-09",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2165",
       "summary": "Notifications page UI",
       "status": "Ready For Test",
@@ -3949,20 +4173,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2189",
-      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "On Hold- For Clarification",
@@ -4001,20 +4211,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2209",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -22599,6 +22795,48 @@
       "fixversion": ""
     },
     {
+      "key": "VF-1930",
+      "summary": "Ultra Jhakaas Integration",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-02-26",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2378",
+      "summary": "Clevertap - Fliqs",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "LG_TV",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1920",
       "summary": "Stage Integration",
       "status": "Closed",
@@ -22683,20 +22921,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1930",
-      "summary": "Ultra Jhakaas Integration",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-684",
       "summary": "Amazon payment gateway integration",
       "status": "Ready For Test",
@@ -22734,20 +22958,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-26",
       "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-02-26",
-      "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -29429,13 +29639,13 @@
       "stories": 0,
       "total": 52,
       "statuses": {
+        "Dev Complete": 8,
+        "Ready For Test": 6,
         "On Hold- For Clarification": 2,
-        "Closed": 19,
-        "Ready For Test": 4,
-        "Dev Complete": 10,
-        "Reopened": 2,
+        "Closed": 20,
         "Onhold-For Tech Dependency": 2,
         "Issue Accepted": 5,
+        "Reopened": 1,
         "In Progress": 6,
         "Invalid": 1,
         "Open": 1
@@ -29448,66 +29658,32 @@
       "stories": 0,
       "total": 50,
       "statuses": {
+        "Dev Complete": 2,
         "Closed": 37,
         "Ready For Test": 9,
-        "Reopened": 4
+        "Reopened": 2
       }
     },
     "VZY Sprint (16 March 2026)": {
       "bugs": 0,
-      "tasks": 4,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 4,
+      "total": 5,
       "statuses": {
-        "Open": 3,
+        "Open": 4,
         "On Hold- For Clarification": 1
       }
     }
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 120,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 158
-    },
-    "Karan Mahboobani": {
-      "bugs": 11,
-      "tasks": 0,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 13
-    },
-    "vzyfeedback": {
-      "bugs": 1245,
-      "tasks": 290,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1547
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 6,
+    "Sameeksha Vinodiya": {
+      "bugs": 5,
+      "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Javed Ali": {
-      "bugs": 29,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 35
     },
     "Dinjit Dinesh": {
       "bugs": 19,
@@ -29516,12 +29692,26 @@
       "stories": 0,
       "total": 38
     },
-    "Alok Gupta": {
-      "bugs": 13,
-      "tasks": 4,
-      "subtasks": 1,
+    "vzyfeedback": {
+      "bugs": 1250,
+      "tasks": 290,
+      "subtasks": 8,
       "stories": 0,
-      "total": 18
+      "total": 1552
+    },
+    "Unassigned": {
+      "bugs": 130,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 168
+    },
+    "Javed Ali": {
+      "bugs": 30,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 36
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -29529,6 +29719,41 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Moore Meghana": {
+      "bugs": 9,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 12
+    },
+    "Karan Mahboobani": {
+      "bugs": 11,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 14
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
     },
     "Shubham Chauhan": {
       "bugs": 8,
@@ -29586,13 +29811,6 @@
       "stories": 0,
       "total": 11
     },
-    "Sameeksha Vinodiya": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 10,
@@ -29613,13 +29831,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Moore Meghana": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
     },
     "shadab Hussain": {
       "bugs": 6,
@@ -29742,12 +29953,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 794,
-    "High": 448,
-    "Low": 22,
+    "High": 453,
     "Highest": 347,
+    "Low": 28,
+    "Medium": 797,
     "Lowest": 2
   },
-  "updated_at": "2026-02-26T11:07:21Z",
-  "total_issues": 2121
+  "updated_at": "2026-02-26T11:55:43Z",
+  "total_issues": 2136
 }
