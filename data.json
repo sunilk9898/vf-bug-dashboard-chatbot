@@ -9,7 +9,7 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 17,
+      "OPEN": 16,
       "IN PROGRESS": 1,
       "REOPENED": 3,
       "IN REVIEW": 0,
@@ -73,11 +73,11 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 3,
-      "IN PROGRESS": 3,
+      "OPEN": 4,
+      "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 12,
+      "ISSUE ACCEPTED": 9,
       "PARKED": 1
     },
     "SAM_TV": {
@@ -89,15 +89,15 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 13,
+      "OPEN": 24,
       "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-26T03:11:28Z",
-  "total_issues_fetched": 2056,
+  "updated_at": "2026-02-26T05:02:16Z",
+  "total_issues_fetched": 2068,
   "project": "VF"
 }

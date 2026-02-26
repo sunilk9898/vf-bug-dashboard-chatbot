@@ -1,14 +1,308 @@
 {
   "bugs": [
     {
+      "key": "VF-2291",
+      "summary": "TV: Resume playback not working for Discovery+ content",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2321",
+      "summary": "Web: Some movie cover images are not displayed in the movie listing page",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2220",
+      "summary": "Sports Videos tagged as movie : Kaltura Issue",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-934",
+      "summary": "Complete Catalogue not Synced for available CP",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Manikanta P",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-26",
+      "duedate": "2025-12-08",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2320",
+      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2319",
+      "summary": "Web: Profile information and Add Profile option are not displayed in My Vibe section",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2318",
+      "summary": "Web: After restarting and clicking on a movie, the video is not playing and not visible.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2317",
+      "summary": "Web: OTP generation fails when user clicks on Delete Account",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2316",
+      "summary": "Web: Subscribe button is non-functional and does not redirect to subscription page",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2315",
+      "summary": "Web: Duplicate listing of \u201cThe Last Witch Hunter\u201d and playback shows blank screen on play",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2314",
+      "summary": "Web: Incorrect channel redirection occurs when selecting Zee Malayalam in Live TV",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2313",
+      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2312",
+      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2311",
+      "summary": "Web: When I click on Zee News Kannada under Live TV, it is playing Zee News Tamil instead of the selected channel.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2310",
+      "summary": "Web: No action triggered when clicking OTT options under \u201cBrowse by OTT\u201d category on Home screen",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2222",
+      "summary": "Web: Episode not playing despite being marked as Free.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2232",
+      "summary": "Mobile: Button text is not visible for Continue and Verify OTP buttons on Login screen.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2233",
+      "summary": "Mobile: Incorrect audio language label Ko displayed and subtitles not available for Broken content.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2234",
+      "summary": "Mobile: Error popup displayed when selecting ND24 News from More Like This section in Live TV player.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2235",
+      "summary": "Mobile: Shared movie link redirects to Play Store instead of opening the specific movie in the VZY application",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2283",
       "summary": "TV: Microphone (Voice Search) feature not displayed",
-      "status": "On Hold- For Clarification",
+      "status": "Ready For Test",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-02-25",
-      "updated": "2026-02-25",
+      "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -687,20 +981,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2291",
-      "summary": "TV: Resume playback not working for Discovery+ content",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2290",
       "summary": "TV: Trailer/glimpse continues playing in background after starting playback (Inconsistent)",
       "status": "Open",
@@ -764,20 +1044,6 @@
       "assignee": "Unassigned",
       "platform": "ATV",
       "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2235",
-      "summary": "Mobile: Shared movie link redirects to Play Store instead of opening the specific movie in the VZY application",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-02-24",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1499,20 +1765,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2161",
       "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
       "status": "Dev Complete",
@@ -1611,62 +1863,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2232",
-      "summary": "Mobile: Button text is not visible for Continue and Verify OTP buttons on Login screen.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2233",
-      "summary": "Mobile: Incorrect audio language label Ko displayed and subtitles not available for Broken content.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2234",
-      "summary": "Mobile: Error popup displayed when selecting ND24 News from More Like This section in Live TV player.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2220",
-      "summary": "Sports Videos tagged as movie : Kaltura Issue",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2205",
       "summary": "Web: Login page layout breaks on refresh and valid Indian mobile number shows invalid validation message.",
       "status": "Onhold-For Tech Dependency",
@@ -1686,20 +1882,6 @@
       "status": "Onhold-For Tech Dependency",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2222",
-      "summary": "Web: Episode not playing despite being marked as Free.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
       "platform": "WEB",
       "created": "2026-02-24",
       "updated": "2026-02-24",
@@ -3132,20 +3314,6 @@
       "created": "2026-02-12",
       "updated": "2026-02-23",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-934",
-      "summary": "Complete Catalogue not Synced for available CP",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-23",
-      "duedate": "2025-12-08",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -21703,6 +21871,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1912",
+      "summary": "Downloaded content - Continue Watching",
+      "status": "Parked",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1960",
       "summary": " A Clavertap - FLIQS SVOD & TVOD ",
       "status": "In Progress",
@@ -23651,20 +23833,6 @@
     {
       "key": "VF-1911",
       "summary": "Downloaded content - Resume issue",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1912",
-      "summary": "Downloaded content - Continue Watching",
       "status": "Reopened",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -28519,11 +28687,11 @@
       "stories": 0,
       "total": 53,
       "statuses": {
+        "In Progress": 8,
+        "Ready For Test": 5,
         "Closed": 14,
         "Onhold-For Tech Dependency": 2,
-        "Ready For Test": 5,
         "Dev Complete": 6,
-        "In Progress": 8,
         "Issue Accepted": 10,
         "Open": 4,
         "Testing On hold": 1,
@@ -28558,26 +28726,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1234,
-      "tasks": 290,
-      "subtasks": 8,
-      "stories": 0,
-      "total": 1536
-    },
-    "Namrata Kurariya": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Unassigned": {
-      "bugs": 73,
+      "bugs": 85,
       "tasks": 31,
       "subtasks": 0,
       "stories": 0,
-      "total": 111
+      "total": 123
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -28586,12 +28740,19 @@
       "stories": 0,
       "total": 9
     },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 17,
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 10,
       "subtasks": 0,
+      "stories": 1,
+      "total": 17
+    },
+    "vzyfeedback": {
+      "bugs": 1235,
+      "tasks": 290,
+      "subtasks": 8,
       "stories": 0,
-      "total": 37
+      "total": 1537
     },
     "Yashika Krishnani": {
       "bugs": 6,
@@ -28599,6 +28760,34 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 34
+    },
+    "Alok Gupta": {
+      "bugs": 13,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 18
+    },
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Dinjit Dinesh": {
+      "bugs": 19,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
     },
     "abhilash.ramesh": {
       "bugs": 5,
@@ -28627,20 +28816,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "Alok Gupta": {
-      "bugs": 13,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 18
-    },
-    "Javed Ali": {
-      "bugs": 28,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 34
     },
     "Srinidhi.Raju": {
       "bugs": 3,
@@ -28691,13 +28866,6 @@
       "stories": 0,
       "total": 7
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 6,
@@ -28712,19 +28880,19 @@
       "stories": 0,
       "total": 10
     },
+    "Amudha Kaliamoorthi": {
+      "bugs": 12,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
     "Sameeksha Vinodiya": {
       "bugs": 5,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 10,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 17
     },
     "Vikas Mishra": {
       "bugs": 36,
@@ -28833,12 +29001,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 413,
-    "Low": 19,
-    "Medium": 770,
+    "High": 421,
+    "Medium": 774,
     "Highest": 346,
+    "Low": 19,
     "Lowest": 2
   },
-  "updated_at": "2026-02-26T03:11:28Z",
-  "total_issues": 2056
+  "updated_at": "2026-02-26T05:02:16Z",
+  "total_issues": 2068
 }
