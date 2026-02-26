@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2275",
       "summary": "TV: Video is not visible while playing movie, but audio is audible on TV.",
       "status": "Ready For Test",
@@ -795,20 +809,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -29751,11 +29751,11 @@
       "stories": 0,
       "total": 52,
       "statuses": {
+        "In Progress": 8,
         "Dev Complete": 7,
-        "Ready For Test": 9,
+        "Ready For Test": 8,
         "Reopened": 2,
         "Closed": 21,
-        "In Progress": 7,
         "On Hold- For Clarification": 1,
         "Issue Accepted": 3,
         "Invalid": 1,
@@ -29798,12 +29798,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Javed Ali": {
+      "bugs": 35,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 41
+    },
     "vzyfeedback": {
-      "bugs": 1266,
+      "bugs": 1265,
       "tasks": 290,
       "subtasks": 8,
       "stories": 0,
-      "total": 1568
+      "total": 1567
     },
     "abhilash.ramesh": {
       "bugs": 7,
@@ -29839,13 +29846,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 16
-    },
-    "Javed Ali": {
-      "bugs": 34,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 40
     },
     "Yashika Krishnani": {
       "bugs": 5,
@@ -30073,12 +30073,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 458,
     "Medium": 799,
+    "High": 458,
     "Low": 29,
     "Highest": 347,
     "Lowest": 2
   },
-  "updated_at": "2026-02-26T16:08:28Z",
+  "updated_at": "2026-02-26T17:18:26Z",
   "total_issues": 2144
 }
