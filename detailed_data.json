@@ -1,6 +1,230 @@
 {
   "bugs": [
     {
+      "key": "VF-2226",
+      "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2227",
+      "summary": "Mobile: Incorrect device model is displayed in the application shows iPhone 14 Pro instead of iPhone 14.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2228",
+      "summary": "Mobile: Movie does not resume from last watched position and restarts from beginning on clicking Watch Now",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2229",
+      "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2311",
+      "summary": "Web: When I click on Zee News Kannada under Live TV, it is playing Zee News Tamil instead of the selected channel.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2391",
+      "summary": "Mobile: Season 1 is not accessible in Korean series, and episode details display duplicate episode numbers instead of proper season and episode format.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2380",
+      "summary": "Web: User is unable to login to the application when using the Microsoft Edge browser. ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2383",
+      "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2386",
+      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2388",
+      "summary": "Mobile : When User 1 likes a video, it is automatically marked as liked in another profile under the same account.",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2389",
+      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2390",
+      "summary": "Mobile : After logging in, the Kids profile option is not visible in the Manage Profile section, even though it was selected during profile setup.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2372",
+      "summary": "Mobile: Downloaded invoice from Transaction History does not contain customer and consignee details",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2395",
+      "summary": "Mobile: User is unable to delete a profile because the Delete option is not visible in the Manage Profile section.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2397",
+      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2368",
+      "summary": "Mobile (RFE): City name Chikkamagaluru is not appearing in search results",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Aniruddh Patil",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2197",
       "summary": "Refresh screen functionality",
       "status": "In Progress",
@@ -533,20 +757,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2397",
-      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2376",
       "summary": "Mobile: Button alignment is incorrect for the Gender Preference \u2013 Other option. ",
       "status": "Ready For Test",
@@ -596,20 +806,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2395",
-      "summary": "Mobile: User is unable to delete a profile because the Delete option is not visible in the Manage Profile section.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -673,34 +869,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2391",
-      "summary": "Mobile: Season 1 is not accessible in Korean series, and episode details display duplicate episode numbers instead of proper season and episode format.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2390",
-      "summary": "Mobile : After logging in, the Kids profile option is not visible in the Manage Profile section, even though it was selected during profile setup.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2231",
       "summary": "Mobile: Device back button does not work in Help & Policy pages navigation possible only through in-app back option.",
       "status": "Issue Accepted",
@@ -757,34 +925,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2389",
-      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2388",
-      "summary": "Mobile : When User 1 likes a video, it is automatically marked as liked in another profile under the same account.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2198",
       "summary": "FLIQS Order summary page",
       "status": "Ready For Test",
@@ -823,20 +963,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2386",
-      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -883,20 +1009,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2372",
-      "summary": "Mobile: Downloaded invoice from Transaction History does not contain customer and consignee details",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2181",
       "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
       "status": "Ready For Test",
@@ -911,40 +1023,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2383",
-      "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2331",
       "summary": "TV: UI buttons highlighted in red unexpectedly (Intermittent)",
       "status": "Ready For Test",
       "priority": "Low",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2380",
-      "summary": "Web: User is unable to login to the application when using the Microsoft Edge browser. ",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "WEB",
       "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
@@ -997,20 +1081,6 @@
     {
       "key": "VF-2370",
       "summary": "Mobile: Transaction History option is not available under My Vibe section",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2368",
-      "summary": "Mobile (RFE): City name Chikkamagaluru is not appearing in search results",
       "status": "Open",
       "priority": "Medium",
       "assignee": "Unassigned",
@@ -2171,20 +2241,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2311",
-      "summary": "Web: When I click on Zee News Kannada under Live TV, it is playing Zee News Tamil instead of the selected channel.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2222",
       "summary": "Web: Episode not playing despite being marked as Free.",
       "status": "Ready For Test",
@@ -3123,20 +3179,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2229",
-      "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2264",
       "summary": "Mobile: Downloaded content is shared across profiles and deletion in one profile reflects in another profile",
       "status": "Dev Complete",
@@ -3207,20 +3249,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2228",
-      "summary": "Mobile: Movie does not resume from last watched position and restarts from beginning on clicking Watch Now",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Abhishek Dhok",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1492",
       "summary": "Like & Followed",
       "status": "Closed",
@@ -3235,54 +3263,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2252",
-      "summary": "Mobile: Liked movies and followed channels from Profile A are visible in Profile B.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2224",
       "summary": "(Tamanna) - Fancode content \"ISL 2025- 2026\" not available.",
       "status": "Closed",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2227",
-      "summary": "Mobile: Incorrect device model is displayed in the application shows iPhone 14 Pro instead of iPhone 14.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2226",
-      "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "Mobile",
       "created": "2026-02-24",
       "updated": "2026-02-25",
       "duedate": "",
@@ -22893,6 +22879,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2252",
+      "summary": "Mobile: Liked movies and followed channels from Profile A are visible in Profile B.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-451",
       "summary": "Comprehensive list of all Nudge",
       "status": "In Progress",
@@ -29744,6 +29744,17 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 1,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5,
+      "statuses": {
+        "Issue Accepted": 1,
+        "Open": 4
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 33,
       "tasks": 19,
@@ -29784,33 +29795,65 @@
         "Ready For Test": 9,
         "Reopened": 2
       }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 0,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4,
-      "statuses": {
-        "Open": 4
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1269,
+      "tasks": 291,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1572
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
+    },
     "Javed Ali": {
-      "bugs": 35,
+      "bugs": 37,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
-      "total": 41
+      "total": 43
     },
-    "vzyfeedback": {
-      "bugs": 1265,
-      "tasks": 290,
-      "subtasks": 8,
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 3,
+      "subtasks": 0,
       "stories": 0,
-      "total": 1567
+      "total": 42
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Unassigned": {
+      "bugs": 111,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 149
+    },
+    "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 17
+    },
+    "Aniruddh Patil": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "abhilash.ramesh": {
       "bugs": 7,
@@ -29826,33 +29869,12 @@
       "stories": 0,
       "total": 14
     },
-    "Unassigned": {
-      "bugs": 122,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 160
-    },
     "Chiranjit Chatterjee": {
       "bugs": 2,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 16
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Dinjit Dinesh": {
       "bugs": 18,
@@ -29882,13 +29904,6 @@
       "stories": 0,
       "total": 12
     },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
     "avinash waghmare": {
       "bugs": 5,
       "tasks": 3,
@@ -29904,18 +29919,11 @@
       "total": 13
     },
     "Abhishek Dhok": {
-      "bugs": 7,
+      "bugs": 6,
       "tasks": 2,
       "subtasks": 2,
       "stories": 0,
-      "total": 11
-    },
-    "Vikas Mishra": {
-      "bugs": 37,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
+      "total": 10
     },
     "BalaKumar": {
       "bugs": 12,
@@ -29931,13 +29939,6 @@
       "stories": 0,
       "total": 2
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 12,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
-    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 10,
@@ -29952,13 +29953,6 @@
       "stories": 0,
       "total": 1
     },
-    "shadab Hussain": {
-      "bugs": 6,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "Kiran JR": {
       "bugs": 6,
       "tasks": 1,
@@ -29966,12 +29960,12 @@
       "stories": 0,
       "total": 7
     },
-    "Suyog Lanje": {
-      "bugs": 2,
+    "shadab Hussain": {
+      "bugs": 4,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 7
+      "total": 9
     },
     "devaraj": {
       "bugs": 7,
@@ -29979,6 +29973,13 @@
       "subtasks": 1,
       "stories": 0,
       "total": 9
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -30073,12 +30074,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 457,
     "Medium": 799,
-    "High": 458,
     "Low": 29,
     "Highest": 347,
     "Lowest": 2
   },
-  "updated_at": "2026-02-26T23:45:49Z",
+  "updated_at": "2026-02-27T03:09:13Z",
   "total_issues": 2144
 }
