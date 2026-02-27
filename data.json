@@ -11,7 +11,7 @@
     "ATV": {
       "OPEN": 1,
       "IN PROGRESS": 2,
-      "REOPENED": 1,
+      "REOPENED": 5,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 4,
       "PARKED": 0
@@ -77,7 +77,7 @@
       "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 20,
+      "ISSUE ACCEPTED": 15,
       "PARKED": 1
     },
     "SAM_TV": {
@@ -91,9 +91,9 @@
     "WEB": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 1,
+      "REOPENED": 4,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 4,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 0
     },
     "Unknown": {
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-27T09:00:29Z",
+  "updated_at": "2026-02-27T10:00:07Z",
   "total_issues_fetched": 2148,
   "project": "VF"
 }
