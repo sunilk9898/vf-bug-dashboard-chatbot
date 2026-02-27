@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-934",
+      "summary": "Complete Catalogue not Synced for available CP",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Manikanta P",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-02-27",
+      "duedate": "2025-12-08",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2225",
+      "summary": "(Tamanna) - Sonyliv content \"The Kapil Sharma Show\" getting 0 episodes.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2175",
+      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2177",
+      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2178",
+      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1890",
       "summary": "Content not getting ingested on time",
       "status": "Ready For Test",
@@ -3151,20 +3221,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-934",
-      "summary": "Complete Catalogue not Synced for available CP",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-26",
-      "duedate": "2025-12-08",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2233",
       "summary": "Mobile: Incorrect audio language label Ko displayed and subtitles not available for Broken content.",
       "status": "Closed",
@@ -3231,62 +3287,6 @@
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2225",
-      "summary": "(Tamanna) - Sonyliv content \"The Kapil Sharma Show\" getting 0 episodes.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2178",
-      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2177",
-      "summary": "TV: Resume playback not working for Sony LIV show \"MasterChef\"",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2175",
-      "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -29897,12 +29897,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 4,
+    "Manikanta P": {
+      "bugs": 8,
+      "tasks": 10,
       "subtasks": 0,
-      "stories": 0,
-      "total": 10
+      "stories": 1,
+      "total": 19
     },
     "vzyfeedback": {
       "bugs": 1315,
@@ -29910,6 +29910,13 @@
       "subtasks": 9,
       "stories": 0,
       "total": 1620
+    },
+    "avinash waghmare": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -29980,13 +29987,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Manikanta P": {
-      "bugs": 8,
-      "tasks": 10,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 19
     },
     "Namrata Kurariya": {
       "bugs": 6,
@@ -30158,12 +30158,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 461,
-    "Medium": 799,
     "Highest": 348,
+    "Medium": 799,
+    "High": 461,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T17:54:45Z",
+  "updated_at": "2026-02-27T19:03:36Z",
   "total_issues": 2151
 }
