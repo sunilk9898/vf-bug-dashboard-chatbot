@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2401",
+      "summary": "(Shivani) - After sharing the content on another platform, when I click the same shared link, I am redirected to the web app instead of the mobile app.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "Mobile",
+      "created": "2026-02-27",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2328",
+      "summary": "TV: Incorrect spelling of \"Kabaddi\" displayed as \"Kabbadi\" in Sports section",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2287",
+      "summary": "TV: Duplicate movie entry shows subscription prompt for the same account",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2227",
+      "summary": "Mobile: Incorrect device model is displayed in the application shows iPhone 14 Pro instead of iPhone 14.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2402",
+      "summary": "(Tamanna) - Sanskar content wrong.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-27",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2231",
+      "summary": "Mobile: Device back button does not work in Help & Policy pages navigation possible only through in-app back option.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2320",
+      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2229",
+      "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2228",
+      "summary": "Mobile: Movie does not resume from last watched position and restarts from beginning on clicking Watch Now",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2311",
+      "summary": "Web: When I click on Zee News Kannada under Live TV, it is playing Zee News Tamil instead of the selected channel.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2314",
+      "summary": "Web: Incorrect channel redirection occurs when selecting Zee Malayalam in Live TV",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2226",
+      "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1084",
+      "summary": "Content related\u00a0",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2025-12-09",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1759",
       "summary": "CONTENT DETAIL PAGE UI ISSUES",
       "status": "In Progress",
@@ -211,20 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2328",
-      "summary": "TV: Incorrect spelling of \"Kabaddi\" displayed as \"Kabbadi\" in Sports section",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2244",
       "summary": "Mobile: Duplicate audio language options are displayed in the audio selection menu during video playback.",
       "status": "Dev Complete",
@@ -327,20 +495,6 @@
       "summary": "Web: Some movie cover images are not displayed in the movie listing page",
       "status": "Closed",
       "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2320",
-      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
-      "status": "Reopened",
-      "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-26",
@@ -1107,20 +1261,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2231",
-      "summary": "Mobile: Device back button does not work in Help & Policy pages navigation possible only through in-app back option.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2188",
       "summary": "TV: Episode count mismatch in series page",
       "status": "Invalid",
@@ -1597,34 +1737,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2401",
-      "summary": "(Shivani) - After sharing the content on another platform, when I click the same shared link, I am redirected to the web app instead of the mobile app.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "Mobile",
-      "created": "2026-02-27",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2287",
-      "summary": "TV: Duplicate movie entry shows subscription prompt for the same account",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2382",
       "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
       "status": "Onhold-For Tech Dependency",
@@ -1947,34 +2059,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2314",
-      "summary": "Web: Incorrect channel redirection occurs when selecting Zee Malayalam in Live TV",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2311",
-      "summary": "Web: When I click on Zee News Kannada under Live TV, it is playing Zee News Tamil instead of the selected channel.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2349",
       "summary": "Mobile: Playback freezes when setting video quality to Data Saver for Thillu Mullu movie",
       "status": "Duplicate",
@@ -2150,62 +2234,6 @@
       "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2226",
-      "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2227",
-      "summary": "Mobile: Incorrect device model is displayed in the application shows iPhone 14 Pro instead of iPhone 14.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2228",
-      "summary": "Mobile: Movie does not resume from last watched position and restarts from beginning on clicking Watch Now",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2229",
-      "summary": "Mobile: When the user selects Gemini Music from the Music section, the application navigates to the wrong platform.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-24",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -22921,6 +22949,146 @@
   ],
   "tasks": [
     {
+      "key": "VF-1932",
+      "summary": "Times Play Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1766",
+      "summary": "Profile Management",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2404",
+      "summary": "LAST 9 POC",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "LG_TV",
+      "created": "2026-02-27",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2403",
+      "summary": "Play Flix CP integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2152",
+      "summary": "Need help on content ingestion ",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS",
+      "created": "2026-02-19",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1055",
+      "summary": "Clevertap Notifications (push / in-app)",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-09",
+      "updated": "2026-02-27",
+      "duedate": "2025-12-10",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-672",
+      "summary": "Android - Live TV interface",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2025-11-27",
+      "updated": "2026-02-27",
+      "duedate": "2025-12-08",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-594",
+      "summary": "Conviva",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Smridhi Anand",
+      "platform": "ATV",
+      "created": "2025-11-18",
+      "updated": "2026-02-27",
+      "duedate": "2026-01-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-468",
+      "summary": "Geo Blocking - Phase 1 ",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-02-27",
+      "duedate": "2025-12-05",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2378",
+      "summary": "Clevertap - Fliqs",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "LG_TV",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1930",
       "summary": "Ultra Jhakaas Integration",
       "status": "Dev Complete",
@@ -23085,20 +23253,6 @@
       "updated": "2026-02-26",
       "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2378",
-      "summary": "Clevertap - Fliqs",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "LG_TV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -23439,20 +23593,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2152",
-      "summary": "Need help on content ingestion ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "CMS",
-      "created": "2026-02-19",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2217",
       "summary": "(Awadhesh) KPI Improvement - VZY page check with Security Header",
       "status": "Open",
@@ -23502,20 +23642,6 @@
       "assignee": "Suyog Lanje",
       "platform": "IOS",
       "created": "2026-01-29",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1766",
-      "summary": "Profile Management",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23747,20 +23873,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-468",
-      "summary": "Geo Blocking - Phase 1 ",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-18",
-      "duedate": "2025-12-05",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1897",
       "summary": "CleverTap Pending tasks (Android)",
       "status": "Issue Accepted",
@@ -23910,20 +24022,6 @@
       "created": "2025-11-28",
       "updated": "2026-02-16",
       "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1932",
-      "summary": "Times Play Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-16",
-      "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -24867,20 +24965,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1055",
-      "summary": "Clevertap Notifications (push / in-app)",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-09",
-      "updated": "2026-02-09",
-      "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-716",
       "summary": "ANDROID - Home screen banner \u2013 2:3",
       "status": "Ready For Test",
@@ -25044,20 +25128,6 @@
       "created": "2025-11-17",
       "updated": "2026-02-04",
       "duedate": "2025-12-03",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-672",
-      "summary": "Android - Live TV interface",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2025-11-27",
-      "updated": "2026-02-04",
-      "duedate": "2025-12-08",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25954,20 +26024,6 @@
       "created": "2025-11-28",
       "updated": "2026-01-12",
       "duedate": "2025-12-12",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-594",
-      "summary": "Conviva",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Smridhi Anand",
-      "platform": "ATV",
-      "created": "2025-11-18",
-      "updated": "2026-01-12",
-      "duedate": "2026-01-30",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -29803,6 +29859,18 @@
         "Invalid": 1
       }
     },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 1,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5,
+      "statuses": {
+        "Issue Accepted": 1,
+        "Invalid": 1,
+        "Open": 3
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -29815,17 +29883,6 @@
         "Closed": 40,
         "Ready For Test": 6,
         "Reopened": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 1,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5,
-      "statuses": {
-        "Invalid": 1,
-        "Open": 4
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -29841,26 +29898,75 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Yashika Krishnani": {
-      "bugs": 10,
-      "tasks": 2,
-      "subtasks": 0,
+    "vzyfeedback": {
+      "bugs": 1302,
+      "tasks": 291,
+      "subtasks": 9,
       "stories": 0,
-      "total": 12
+      "total": 1606
     },
-    "avinash waghmare": {
-      "bugs": 7,
-      "tasks": 3,
+    "shadab Hussain": {
+      "bugs": 5,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 10
     },
-    "vzyfeedback": {
-      "bugs": 1300,
-      "tasks": 291,
-      "subtasks": 9,
+    "Yashika Krishnani": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
       "stories": 0,
-      "total": 1604
+      "total": 13
+    },
+    "Dinjit Dinesh": {
+      "bugs": 15,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Unassigned": {
+      "bugs": 74,
+      "tasks": 33,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 114
+    },
+    "avinash waghmare": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
+    },
+    "Smridhi Anand": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Karan Mahboobani": {
+      "bugs": 12,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 15
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
     },
     "Shubham Chauhan": {
       "bugs": 10,
@@ -29871,17 +29977,10 @@
     },
     "Javed Ali": {
       "bugs": 33,
-      "tasks": 3,
+      "tasks": 2,
       "subtasks": 3,
       "stories": 0,
-      "total": 39
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
+      "total": 38
     },
     "Kiran JR": {
       "bugs": 8,
@@ -29896,13 +29995,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Unassigned": {
-      "bugs": 73,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 112
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -29939,13 +30031,6 @@
       "stories": 0,
       "total": 9
     },
-    "Namrata Kurariya": {
-      "bugs": 6,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "Aniruddh Patil": {
       "bugs": 1,
       "tasks": 6,
@@ -29953,19 +30038,19 @@
       "stories": 0,
       "total": 7
     },
-    "Karan Mahboobani": {
-      "bugs": 13,
-      "tasks": 1,
-      "subtasks": 2,
+    "Namrata Kurariya": {
+      "bugs": 5,
+      "tasks": 5,
+      "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 10
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
-      "tasks": 17,
+      "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 34
+      "total": 33
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -29973,27 +30058,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "shadab Hussain": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
-    },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30051,13 +30115,6 @@
       "stories": 0,
       "total": 11
     },
-    "Smridhi Anand": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "Aditya Shrivastava": {
       "bugs": 0,
       "tasks": 5,
@@ -30109,12 +30166,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 459,
-    "Highest": 348,
-    "Medium": 799,
+    "High": 461,
     "Low": 29,
+    "Medium": 799,
+    "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T10:08:42Z",
-  "total_issues": 2147
+  "updated_at": "2026-02-27T10:59:20Z",
+  "total_issues": 2151
 }
