@@ -5,15 +5,15 @@
       "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 5,
+      "ISSUE ACCEPTED": 4,
       "PARKED": 1
     },
     "ATV": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
-      "REOPENED": 3,
+      "IN PROGRESS": 1,
+      "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 4,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "CMS": {
@@ -29,7 +29,7 @@
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -66,7 +66,7 @@
     },
     "LG_TV": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
@@ -74,10 +74,10 @@
     },
     "Mobile": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 14,
+      "ISSUE ACCEPTED": 7,
       "PARKED": 1
     },
     "SAM_TV": {
@@ -90,10 +90,10 @@
     },
     "WEB": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
-      "REOPENED": 3,
+      "IN PROGRESS": 2,
+      "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "Unknown": {
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-27T11:47:23Z",
+  "updated_at": "2026-02-27T13:32:51Z",
   "total_issues_fetched": 2151,
   "project": "VF"
 }
