@@ -1,13 +1,209 @@
 {
   "bugs": [
     {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2222",
+      "summary": "Web: Episode not playing despite being marked as Free.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2207",
+      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2272",
       "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
       "status": "Reopened",
       "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2281",
+      "summary": "2:3 banner home",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2279",
+      "summary": "Search functionality",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2277",
+      "summary": "Content player and playback",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2282",
+      "summary": "TV: Hindi audio is playing for the movie, but the Audio option shows None instead of the selected language.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2183",
+      "summary": "TV One plus:Multiple non-crime genre contents displayed under Best in Crime section in Series.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2285",
+      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
+      "status": "Testing On hold",
+      "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2181",
+      "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2331",
+      "summary": "TV: UI buttons highlighted in red unexpectedly (Intermittent)",
+      "status": "Duplicate",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -455,20 +651,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2285",
-      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
@@ -1499,20 +1681,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2371",
       "summary": "Mobile: Same device displayed twice in Manage Devices with \u201cNow Streaming\u201d and \u201cLast Active\u201d statuses indicating session duplication.",
       "status": "Invalid",
@@ -2143,20 +2311,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2194",
-      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2357",
       "summary": "Mobile: Incorrect episode playback observed in Shark Tank India Season 2 \u2014 Episode 50 plays instead of Episode 49.",
       "status": "Issue Accepted",
@@ -2213,20 +2367,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2281",
-      "summary": "2:3 banner home",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2280",
       "summary": "16:9 carousel metadata dots",
       "status": "Ready For Test",
@@ -2251,48 +2391,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2279",
-      "summary": "Search functionality",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2183",
-      "summary": "TV One plus:Multiple non-crime genre contents displayed under Best in Crime section in Series.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2277",
-      "summary": "Content player and playback",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2332,34 +2430,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-02-09",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2181",
-      "summary": "TV: \"Error recognizing speech\" message displayed during Voice Search",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2331",
-      "summary": "TV: UI buttons highlighted in red unexpectedly (Intermittent)",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2433,20 +2503,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2969,20 +3025,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2222",
-      "summary": "Web: Episode not playing despite being marked as Free.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2233",
       "summary": "Mobile: Incorrect audio language label Ko displayed and subtitles not available for Broken content.",
       "status": "Closed",
@@ -3151,20 +3193,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2080",
       "summary": "(Tamanna) - In Discovery , Issue with Mixed Season Episodes Display.",
       "status": "Closed",
@@ -3269,20 +3297,6 @@
       "priority": "High",
       "assignee": "Javed Ali",
       "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2282",
-      "summary": "TV: Hindi audio is playing for the movie, but the Audio option shows None instead of the selected language.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
       "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
@@ -4502,20 +4516,6 @@
       "assignee": "shadab Hussain",
       "platform": "Mobile",
       "created": "2025-12-11",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2207",
-      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Kaltura",
-      "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5959,20 +5959,6 @@
       "platform": "LG_TV",
       "created": "2026-02-06",
       "updated": "2026-02-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1084",
-      "summary": "Content related\u00a0",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2025-12-09",
-      "updated": "2026-02-06",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -29800,19 +29786,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 50,
-      "statuses": {
-        "Dev Complete": 2,
-        "Closed": 40,
-        "Reopened": 2,
-        "Ready For Test": 6
-      }
-    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 33,
       "tasks": 19,
@@ -29820,15 +29793,28 @@
       "stories": 0,
       "total": 52,
       "statuses": {
+        "In Progress": 10,
         "Ready For Test": 10,
         "Testing On hold": 2,
         "Dev Complete": 5,
-        "Reopened": 1,
-        "In Progress": 9,
         "Closed": 21,
         "On Hold- For Clarification": 1,
         "Issue Accepted": 2,
         "Invalid": 1
+      }
+    },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 50,
+      "statuses": {
+        "In Progress": 1,
+        "Dev Complete": 2,
+        "Closed": 40,
+        "Ready For Test": 6,
+        "Reopened": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -29855,12 +29841,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 10,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "avinash waghmare": {
+      "bugs": 7,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
     "vzyfeedback": {
-      "bugs": 1301,
+      "bugs": 1300,
       "tasks": 291,
       "subtasks": 9,
       "stories": 0,
-      "total": 1605
+      "total": 1604
+    },
+    "Shubham Chauhan": {
+      "bugs": 10,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
     },
     "Javed Ali": {
       "bugs": 33,
@@ -29869,12 +29876,19 @@
       "stories": 0,
       "total": 39
     },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
+    },
     "Kiran JR": {
-      "bugs": 7,
+      "bugs": 8,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 8
+      "total": 9
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -29883,19 +29897,12 @@
       "stories": 0,
       "total": 14
     },
-    "Yashika Krishnani": {
-      "bugs": 10,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Unassigned": {
-      "bugs": 74,
+      "bugs": 73,
       "tasks": 32,
       "subtasks": 0,
       "stories": 0,
-      "total": 113
+      "total": 112
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -29903,20 +29910,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
-    },
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Vedant Kajale": {
       "bugs": 1,
@@ -29974,13 +29967,6 @@
       "stories": 0,
       "total": 34
     },
-    "Shubham Chauhan": {
-      "bugs": 9,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "Adikeshava Reddy": {
       "bugs": 1,
       "tasks": 0,
@@ -29996,18 +29982,18 @@
       "total": 10
     },
     "BalaKumar": {
-      "bugs": 14,
+      "bugs": 13,
       "tasks": 9,
       "subtasks": 1,
       "stories": 0,
-      "total": 24
+      "total": 23
     },
     "Dinjit Dinesh": {
-      "bugs": 18,
+      "bugs": 15,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 37
+      "total": 34
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30123,12 +30109,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 460,
-    "Low": 29,
-    "Medium": 799,
+    "High": 459,
     "Highest": 348,
+    "Medium": 799,
+    "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T10:00:07Z",
-  "total_issues": 2148
+  "updated_at": "2026-02-27T10:08:42Z",
+  "total_issues": 2147
 }
