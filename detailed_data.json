@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2305",
+      "summary": "Web: New Release category is not displayed in Movies section",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2342",
+      "summary": "(Tamanna) - Multiple test content showing on shemaroo me series rail.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2296",
+      "summary": "Web: system displays an error message instead of allowing login.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2397",
+      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2380",
+      "summary": "Web: User is unable to login to the application when using the Microsoft Edge browser. ",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2226",
       "summary": "Mobile: User is unable to play the video from Sports section after searching for BCPL Auction and clicking on Watch Now.",
       "status": "Ready For Test",
@@ -81,20 +151,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2380",
-      "summary": "Web: User is unable to login to the application when using the Microsoft Edge browser. ",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -189,20 +245,6 @@
       "priority": "High",
       "assignee": "Yashika Krishnani",
       "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2397",
-      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
       "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
@@ -1485,20 +1527,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2296",
-      "summary": "Web: system displays an error message instead of allowing login.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2350",
       "summary": "Mobile: When the user clicks on the Profile option, the application redirects to the Home page instead of displaying profile details.",
       "status": "Open",
@@ -1716,20 +1744,6 @@
       "assignee": "Unassigned",
       "platform": "ATV",
       "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2342",
-      "summary": "(Tamanna) - Multiple test content showing on shemaroo me series rail.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2439,20 +2453,6 @@
     {
       "key": "VF-2306",
       "summary": "Web: Error popup persists on screen in Search section even though user actions continue in background",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2305",
-      "summary": "Web: New Release category is not displayed in Movies section",
       "status": "Open",
       "priority": "High",
       "assignee": "Unassigned",
@@ -22879,6 +22879,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1927",
+      "summary": "Namma Flix Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2252",
       "summary": "Mobile: Liked movies and followed channels from Profile A are visible in Profile B.",
       "status": "On Hold- For Clarification",
@@ -23911,20 +23925,6 @@
       "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1927",
-      "summary": "Namma Flix Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -29744,6 +29744,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 52,
+      "statuses": {
+        "In Progress": 9,
+        "Dev Complete": 7,
+        "Ready For Test": 8,
+        "Reopened": 2,
+        "Closed": 21,
+        "On Hold- For Clarification": 1,
+        "Issue Accepted": 3,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 1,
       "tasks": 4,
@@ -29753,24 +29770,6 @@
       "statuses": {
         "Issue Accepted": 1,
         "Open": 4
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 52,
-      "statuses": {
-        "In Progress": 8,
-        "Dev Complete": 7,
-        "Ready For Test": 8,
-        "Reopened": 2,
-        "Closed": 21,
-        "On Hold- For Clarification": 1,
-        "Issue Accepted": 3,
-        "Invalid": 1,
-        "Open": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -29799,12 +29798,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 109,
+      "tasks": 31,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 147
+    },
     "vzyfeedback": {
-      "bugs": 1269,
+      "bugs": 1272,
       "tasks": 291,
       "subtasks": 8,
       "stories": 0,
-      "total": 1572
+      "total": 1575
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -29820,26 +29833,12 @@
       "stories": 0,
       "total": 43
     },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 42
-    },
     "Yashika Krishnani": {
       "bugs": 8,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 10
-    },
-    "Unassigned": {
-      "bugs": 111,
-      "tasks": 31,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 149
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -29925,12 +29924,12 @@
       "stories": 0,
       "total": 10
     },
-    "BalaKumar": {
-      "bugs": 12,
-      "tasks": 9,
-      "subtasks": 1,
+    "Vikas Mishra": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 0,
       "stories": 0,
-      "total": 22
+      "total": 40
     },
     "Vedant Kajale": {
       "bugs": 0,
@@ -30080,6 +30079,6 @@
     "Highest": 347,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T03:09:13Z",
+  "updated_at": "2026-02-27T04:57:09Z",
   "total_issues": 2144
 }
