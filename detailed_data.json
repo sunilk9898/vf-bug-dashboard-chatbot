@@ -1,13 +1,195 @@
 {
   "bugs": [
     {
+      "key": "VF-2251",
+      "summary": "Mobile: Movies are accessible and playable from the About Us section.",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "Vedant Kajale",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2120",
+      "summary": "Genre reflecting twice on FE",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-13",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2167",
+      "summary": "Live Event not available on Kaltura",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-20",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2278",
+      "summary": "Series player iconography",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2280",
+      "summary": "16:9 carousel metadata dots",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2402",
+      "summary": "(Tamanna) - Sanskar content wrong.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-27",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2304",
+      "summary": "Web: Error message displayed when setting up parental lock PIN",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2317",
+      "summary": "Web: OTP generation fails when user clicks on Delete Account",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2401",
       "summary": "(Shivani) - After sharing the content on another platform, when I click the same shared link, I am redirected to the web app instead of the mobile app.",
-      "status": "Issue Accepted",
+      "status": "In Progress",
       "priority": "High",
       "assignee": "shadab Hussain",
       "platform": "Mobile",
       "created": "2026-02-27",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2124",
+      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Manikanta P",
+      "platform": "IOS",
+      "created": "2026-02-16",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2282",
+      "summary": "TV: Hindi audio is playing for the movie, but the Audio option shows None instead of the selected language.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -50,20 +232,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2402",
-      "summary": "(Tamanna) - Sanskar content wrong.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-02-27",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -183,20 +351,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1890",
       "summary": "Content not getting ingested on time",
       "status": "In Progress",
@@ -253,20 +407,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2194",
       "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
       "status": "Testing On hold",
@@ -315,20 +455,6 @@
       "priority": "Highest",
       "assignee": "Javed Ali",
       "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2282",
-      "summary": "TV: Hindi audio is playing for the movie, but the Audio option shows None instead of the selected language.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
       "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
@@ -589,20 +715,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2317",
-      "summary": "Web: OTP generation fails when user clicks on Delete Account",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2316",
       "summary": "Web: Subscribe button is non-functional and does not redirect to subscription page",
       "status": "Closed",
@@ -733,20 +845,6 @@
       "summary": "Web: Blank screen displayed when playing Caribbean Premier League 2025 S1 Episode 1 from Sports section",
       "status": "Closed",
       "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2304",
-      "summary": "Web: Error message displayed when setting up parental lock PIN",
-      "status": "Reopened",
-      "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-25",
@@ -1156,20 +1254,6 @@
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2381",
-      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Ranjitha br",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1667,20 +1751,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2120",
-      "summary": "Genre reflecting twice on FE",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-13",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2193",
       "summary": "TV: Test Asset GOB web series plays Hanuman series content",
       "status": "Closed",
@@ -2143,20 +2213,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2278",
-      "summary": "Series player iconography",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2361",
       "summary": "Mobile: Top english channels we can see Hindi channel",
       "status": "Invalid",
@@ -2297,20 +2353,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2124",
-      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-02-16",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2210",
       "summary": "Content Badges",
       "status": "Dev Complete",
@@ -2391,20 +2433,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2280",
-      "summary": "16:9 carousel metadata dots",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -3249,20 +3277,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2251",
-      "summary": "Mobile: Movies are accessible and playable from the About Us section.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2151",
       "summary": "FLIQS channel logos in Setting section",
       "status": "Testing On hold",
@@ -4082,20 +4096,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2167",
-      "summary": "Live Event not available on Kaltura",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-20",
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29849,11 +29849,11 @@
       "stories": 0,
       "total": 52,
       "statuses": {
-        "In Progress": 10,
-        "Ready For Test": 10,
+        "Closed": 22,
+        "Dev Complete": 6,
+        "In Progress": 9,
+        "Ready For Test": 9,
         "Testing On hold": 2,
-        "Dev Complete": 5,
-        "Closed": 21,
         "On Hold- For Clarification": 1,
         "Issue Accepted": 2,
         "Invalid": 1
@@ -29898,12 +29898,47 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Vedant Kajale": {
+      "bugs": 2,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
     "vzyfeedback": {
-      "bugs": 1302,
+      "bugs": 1300,
       "tasks": 291,
       "subtasks": 9,
       "stories": 0,
-      "total": 1606
+      "total": 1604
+    },
+    "Alok Gupta": {
+      "bugs": 15,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
+    "Javed Ali": {
+      "bugs": 33,
+      "tasks": 2,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 38
+    },
+    "Yashika Krishnani": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "shadab Hussain": {
       "bugs": 5,
@@ -29912,12 +29947,19 @@
       "stories": 0,
       "total": 10
     },
-    "Yashika Krishnani": {
-      "bugs": 10,
-      "tasks": 3,
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 10,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 18
+    },
+    "Kiran JR": {
+      "bugs": 8,
+      "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 9
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -29927,11 +29969,11 @@
       "total": 35
     },
     "Unassigned": {
-      "bugs": 74,
+      "bugs": 73,
       "tasks": 33,
       "subtasks": 0,
       "stories": 0,
-      "total": 114
+      "total": 113
     },
     "avinash waghmare": {
       "bugs": 7,
@@ -29939,13 +29981,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -29962,11 +29997,11 @@
       "total": 15
     },
     "BalaKumar": {
-      "bugs": 14,
+      "bugs": 13,
       "tasks": 9,
       "subtasks": 1,
       "stories": 0,
-      "total": 24
+      "total": 23
     },
     "Shubham Chauhan": {
       "bugs": 10,
@@ -29974,20 +30009,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "Javed Ali": {
-      "bugs": 33,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 38
-    },
-    "Kiran JR": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -30003,26 +30024,12 @@
       "stories": 0,
       "total": 6
     },
-    "Vedant Kajale": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
     "Ajay Kushwaha": {
       "bugs": 11,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "Ranjitha br": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
     },
     "devaraj": {
       "bugs": 7,
@@ -30037,13 +30044,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Namrata Kurariya": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -30086,13 +30086,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 10,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 17
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -30143,6 +30136,13 @@
       "stories": 0,
       "total": 1
     },
+    "Ranjitha br": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 2
+    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -30167,11 +30167,11 @@
   },
   "priority_breakdown": {
     "High": 461,
+    "Highest": 348,
     "Low": 29,
     "Medium": 799,
-    "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T10:59:20Z",
+  "updated_at": "2026-02-27T11:47:23Z",
   "total_issues": 2151
 }
