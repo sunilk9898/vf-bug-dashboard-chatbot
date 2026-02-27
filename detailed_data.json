@@ -1,6 +1,300 @@
 {
   "bugs": [
     {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1974",
+      "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2294",
+      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2284",
+      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2272",
+      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2184",
+      "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2186",
+      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2282",
+      "summary": "TV: Hindi audio is playing for the movie, but the Audio option shows None instead of the selected language.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2313",
+      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2171",
+      "summary": "TV: Video resumes automatically after being paused",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2362",
+      "summary": "Mobile: Sony Pix channel icon not displayed correctly in Sony Liv category under Live TV.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2257",
+      "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2260",
+      "summary": "Mobile: Episode duration displayed as 0 min for content under Australian Open category in Sports section",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2374",
+      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2377",
+      "summary": "Mobile: Search suggestion shows incorrect recent word instead of content name when typing \u201cShark Tank India\u201d",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Ranjitha br",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-03-02",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-03-02",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2385",
+      "summary": "Mobile: Spelling mistake observed in the Notification text.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2386",
       "summary": "Mobile: Spelling or text error observed in checkbox label. ",
       "status": "Ready For Test",
@@ -9,7 +303,7 @@
       "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
-      "duedate": "",
+      "duedate": "2026-02-27",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -22,6 +316,48 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2389",
+      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "avinash waghmare",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2397",
+      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2281",
+      "summary": "2:3 banner home",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -39,48 +375,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2284",
-      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2381",
-      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -113,39 +407,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2377",
-      "summary": "Mobile: Search suggestion shows incorrect recent word instead of content name when typing \u201cShark Tank India\u201d",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Ranjitha br",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2292",
       "summary": "TV: Episode are excessively divided than the official episodes announced, audio has only Hindi and none option .",
       "status": "Onhold-For Tech Dependency",
       "priority": "Medium",
       "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2272",
-      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-25",
       "updated": "2026-02-27",
@@ -162,20 +428,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2184",
-      "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -211,96 +463,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2281",
-      "summary": "2:3 banner home",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2385",
-      "summary": "Mobile: Spelling mistake observed in the Notification text.",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2282",
-      "summary": "TV: Hindi audio is playing for the movie, but the Audio option shows None instead of the selected language.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2260",
-      "summary": "Mobile: Episode duration displayed as 0 min for content under Australian Open category in Sports section",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2344",
       "summary": "TV: While navigating through the left-side navigation panel, the home screen navigates in the background behind the navigation panel.",
       "status": "Not Reproducible",
       "priority": "Medium",
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2294",
-      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2389",
-      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "avinash waghmare",
-      "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
@@ -358,34 +526,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2362",
-      "summary": "Mobile: Sony Pix channel icon not displayed correctly in Sony Liv category under Live TV.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2313",
-      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -501,20 +641,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -683,20 +809,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1625,20 +1737,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2374",
-      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2239",
       "summary": "Mobile: Language change not reflected in sub-modules after updating from Settings",
       "status": "Closed",
@@ -2395,20 +2493,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2397",
-      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2388",
       "summary": "Mobile : When User 1 likes a video, it is automatically marked as liked in another profile under the same account.",
       "status": "Duplicate",
@@ -2461,20 +2545,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2570,20 +2640,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2257",
-      "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-25",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2927,20 +2983,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1974",
-      "summary": "ATV: User can select conflicting Content Rating (A) and Age Group (Pre-school) settings",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-06",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1433",
       "summary": "ATV FE Section titles ",
       "status": "Closed",
@@ -3207,20 +3249,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2186",
-      "summary": "TV: Device Specific (one plus): Duplicate profile options displayed when navigating to Kids Profile",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2178",
       "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
       "status": "Testing On hold",
@@ -3253,20 +3281,6 @@
       "summary": "TV: Resume playback not working for Discovery+ show 'Who Wants To Be A Millionaire' , episode always starts from beginning",
       "status": "Testing On hold",
       "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2171",
-      "summary": "TV: Video resumes automatically after being paused",
-      "status": "Testing On hold",
-      "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
@@ -4519,20 +4533,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -22951,9 +22951,9 @@
     {
       "key": "VF-1766",
       "summary": "Profile Management",
-      "status": "Dev Complete",
+      "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "Yashika Krishnani",
+      "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-21",
       "updated": "2026-02-27",
@@ -29842,6 +29842,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 50,
+      "statuses": {
+        "Ready For Test": 7,
+        "Dev Complete": 2,
+        "Closed": 40,
+        "Reopened": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 33,
       "tasks": 19,
@@ -29849,12 +29862,12 @@
       "stories": 0,
       "total": 52,
       "statuses": {
+        "Ready For Test": 11,
+        "In Progress": 9,
         "On Hold- For Clarification": 2,
         "Closed": 22,
-        "Dev Complete": 6,
-        "In Progress": 8,
-        "Ready For Test": 9,
         "Testing On hold": 2,
+        "Dev Complete": 3,
         "Issue Accepted": 2,
         "Invalid": 1
       }
@@ -29871,20 +29884,6 @@
         "Open": 3
       }
     },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 50,
-      "statuses": {
-        "In Progress": 1,
-        "Dev Complete": 2,
-        "Closed": 40,
-        "Ready For Test": 6,
-        "Reopened": 1
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 0,
       "tasks": 1,
@@ -29898,26 +29897,54 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1309,
-      "tasks": 291,
-      "subtasks": 9,
-      "stories": 0,
-      "total": 1613
-    },
-    "Alok Gupta": {
-      "bugs": 15,
+    "avinash waghmare": {
+      "bugs": 6,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 19
+      "total": 10
+    },
+    "vzyfeedback": {
+      "bugs": 1315,
+      "tasks": 292,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1620
     },
     "Yashika Krishnani": {
-      "bugs": 12,
-      "tasks": 3,
+      "bugs": 8,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 10
+    },
+    "Javed Ali": {
+      "bugs": 30,
+      "tasks": 2,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 35
+    },
+    "Ranjitha br": {
+      "bugs": 1,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 3
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -29926,26 +29953,12 @@
       "stories": 0,
       "total": 6
     },
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "shadab Hussain": {
       "bugs": 5,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 10
-    },
-    "Ranjitha br": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
     },
     "Karan Mahboobani": {
       "bugs": 11,
@@ -29960,13 +29973,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "Kiran JR": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Shubham Chauhan": {
       "bugs": 7,
@@ -29996,13 +30002,6 @@
       "stories": 0,
       "total": 10
     },
-    "Javed Ali": {
-      "bugs": 30,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 35
-    },
     "Vedant Kajale": {
       "bugs": 2,
       "tasks": 2,
@@ -30024,12 +30023,12 @@
       "stories": 0,
       "total": 113
     },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
+    "Kiran JR": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 0,
       "stories": 0,
-      "total": 23
+      "total": 8
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -30159,12 +30158,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 29,
-    "Medium": 799,
     "High": 461,
+    "Medium": 799,
     "Highest": 348,
+    "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T16:57:19Z",
+  "updated_at": "2026-02-27T17:54:45Z",
   "total_issues": 2151
 }
