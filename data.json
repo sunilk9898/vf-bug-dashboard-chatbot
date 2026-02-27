@@ -5,15 +5,15 @@
       "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 4,
+      "ISSUE ACCEPTED": 5,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 5,
-      "IN PROGRESS": 2,
-      "REOPENED": 2,
+      "OPEN": 1,
+      "IN PROGRESS": 3,
+      "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 5,
       "PARKED": 0
     },
     "CMS": {
@@ -27,7 +27,7 @@
     "CMS Adaptor": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 2,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
       "PARKED": 0
@@ -52,7 +52,7 @@
       "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 1,
-      "IN REVIEW": 1,
+      "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
     },
@@ -73,39 +73,31 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 6,
+      "OPEN": 0,
       "IN PROGRESS": 2,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 25,
+      "ISSUE ACCEPTED": 21,
       "PARKED": 1
     },
     "SAM_TV": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 11,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
-      "PARKED": 0
-    },
-    "Unknown": {
-      "OPEN": 1,
-      "IN PROGRESS": 0,
-      "REOPENED": 0,
-      "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 5,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-27T06:07:15Z",
-  "total_issues_fetched": 2146,
+  "updated_at": "2026-02-27T07:11:48Z",
+  "total_issues_fetched": 2148,
   "project": "VF"
 }
