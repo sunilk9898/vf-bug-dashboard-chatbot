@@ -1,6 +1,370 @@
 {
   "bugs": [
     {
+      "key": "VF-2265",
+      "summary": "Mobile: Play Pause button visibility is inconsistent during video playback",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2263",
+      "summary": "Mobile: Duplicate device entries displayed in Manage Devices section",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2267",
+      "summary": "Mobile: Random numerical characters appear within subtitle text during video playback.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2261",
+      "summary": "Mobile: Home page marquee is not displayed",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2313",
+      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2259",
+      "summary": "Mobile: Application takes too long to enter the selected profile from the Manage Profile section.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2256",
+      "summary": "Mobile: Home page video is played in the background while navigating to My vibe.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2254",
+      "summary": "Mobile: An Invalid Search error message is displayed when selecting a music channel from search results.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2253",
+      "summary": "Mobile: An error occurs when clicking on the show Udaya Comedy from search results.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2000",
+      "summary": "MI TV: Playback lags heavily after prolonged application usage",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-06",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2375",
+      "summary": "Mobile: Downloaded content \u201cBaat Ek Raaz Ki\u201d is not playable in offline mode from Downloads section",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2249",
+      "summary": "Mobile: The application crashes shortly after being opened.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2248",
+      "summary": "Mobile: Content Language and Genre Preference section displays blank screen",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2247",
+      "summary": "Mobile: \"Explore More\" option is unresponsive in Privacy Policy section",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Ranjitha br",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2245",
+      "summary": "Mobile: Categories are not displayed in dropdown for Help and View Past Tickets in Help Center page.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2330",
+      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2243",
+      "summary": "Mobile: Duplicate \"Skip Intro\" button appears when user clicks Play and Pause during movie playback.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2242",
+      "summary": "Mobile: Continue Watching content is displayed across all user profiles instead of being profile-specific.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2240",
+      "summary": "Mobile: Login page buffers and does not proceed after entering a valid phone number and tapping Continue.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1530",
+      "summary": "Naveen => VZY app is taking more than 20 seconds to launch on Samsung TV.",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2025-12-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2231",
+      "summary": "Mobile: Device back button does not work in Help & Policy pages navigation possible only through in-app back option.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2188",
+      "summary": "TV: Episode count mismatch in series page",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2389",
+      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Aniruddh Patil",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2189",
+      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2369",
       "summary": "Mobile: Device back button does not work on Privacy Policy page in Help and Policy section.",
       "status": "Testing On hold",
@@ -133,20 +497,6 @@
       "priority": "Medium",
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2389",
-      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "avinash waghmare",
-      "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
@@ -449,20 +799,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2231",
-      "summary": "Mobile: Device back button does not work in Help & Policy pages navigation possible only through in-app back option.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1574",
       "summary": "GTM | Firebase | Missing parameters in firebase same availabe on GTM (IOS)",
       "status": "Ready For Test",
@@ -512,20 +848,6 @@
       "assignee": "shadab Hussain",
       "platform": "Mobile",
       "created": "2026-02-27",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1530",
-      "summary": "Naveen => VZY app is taking more than 20 seconds to launch on Samsung TV.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2025-12-24",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1485,20 +1807,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2330",
-      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2272",
       "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
       "status": "Ready For Test",
@@ -1639,20 +1947,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2189",
-      "summary": "TV: Multiple audio languages displayed on series page but only one available during playback",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2273",
       "summary": "TV: Incorrect content displayed under New Releases section in Movies",
       "status": "Ready For Test",
@@ -1672,20 +1966,6 @@
       "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-19",
       "updated": "2026-02-26",
@@ -1758,20 +2038,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2375",
-      "summary": "Mobile: Downloaded content \u201cBaat Ek Raaz Ki\u201d is not playable in offline mode from Downloads section",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1859,20 +2125,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2381",
-      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2010,20 +2262,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2313",
-      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2871,81 +3109,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2256",
-      "summary": "Mobile: Home page video is played in the background while navigating to My vibe.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2254",
-      "summary": "Mobile: An Invalid Search error message is displayed when selecting a music channel from search results.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2253",
-      "summary": "Mobile: An error occurs when clicking on the show Udaya Comedy from search results.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2251",
       "summary": "Mobile: Movies are accessible and playable from the About Us section.",
       "status": "In Progress",
       "priority": "High",
       "assignee": "BalaKumar",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2249",
-      "summary": "Mobile: The application crashes shortly after being opened.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2248",
-      "summary": "Mobile: Content Language and Genre Preference section displays blank screen",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-25",
       "updated": "2026-02-25",
@@ -2969,52 +3137,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2263",
-      "summary": "Mobile: Duplicate device entries displayed in Manage Devices section",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2250",
       "summary": "Mobile: \"Watch Now\" and Play button not functioning - Video not playing",
       "status": "Issue Accepted",
       "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2247",
-      "summary": "Mobile: \"Explore More\" option is unresponsive in Privacy Policy section",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2259",
-      "summary": "Mobile: Application takes too long to enter the selected profile from the Manage Profile section.",
-      "status": "Ready For Test",
-      "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-25",
@@ -3053,53 +3179,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2245",
-      "summary": "Mobile: Categories are not displayed in dropdown for Help and View Past Tickets in Help Center page.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2244",
       "summary": "Mobile: Duplicate audio language options are displayed in the audio selection menu during video playback.",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2243",
-      "summary": "Mobile: Duplicate \"Skip Intro\" button appears when user clicks Play and Pause during movie playback.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2242",
-      "summary": "Mobile: Continue Watching content is displayed across all user profiles instead of being profile-specific.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-25",
       "updated": "2026-02-25",
@@ -3151,52 +3235,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2240",
-      "summary": "Mobile: Login page buffers and does not proceed after entering a valid phone number and tapping Continue.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2261",
-      "summary": "Mobile: Home page marquee is not displayed",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2262",
       "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
       "status": "Issue Accepted",
       "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2267",
-      "summary": "Mobile: Random numerical characters appear within subtitle text during video playback.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
       "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-02-25",
@@ -3213,20 +3255,6 @@
       "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2265",
-      "summary": "Mobile: Play Pause button visibility is inconsistent during video playback",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
       "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
@@ -4495,20 +4523,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2188",
-      "summary": "TV: Episode count mismatch in series page",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-02-23",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2082",
       "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
       "status": "On Hold- For Clarification",
@@ -5131,20 +5145,6 @@
       "priority": "High",
       "assignee": "devaraj",
       "platform": "SAM_TV",
-      "created": "2026-02-06",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2000",
-      "summary": "MI TV: Playback lags heavily after prolonged application usage",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
       "created": "2026-02-06",
       "updated": "2026-02-17",
       "duedate": "",
@@ -22935,6 +22935,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1734",
+      "summary": "VZY One to be with VZY",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Namrata Kurariya",
+      "platform": "LG_TV",
+      "created": "2026-01-20",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1930",
       "summary": "Ultra Jhakaas Integration",
       "status": "Dev Complete",
@@ -23645,20 +23659,6 @@
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1734",
-      "summary": "VZY One to be with VZY",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Namrata Kurariya",
-      "platform": "LG_TV",
-      "created": "2026-01-20",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -29800,6 +29800,24 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 52,
+      "statuses": {
+        "Testing On hold": 1,
+        "Ready For Test": 11,
+        "Dev Complete": 5,
+        "Reopened": 1,
+        "In Progress": 9,
+        "Closed": 21,
+        "On Hold- For Clarification": 1,
+        "Issue Accepted": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -29811,23 +29829,6 @@
         "Closed": 37,
         "Ready For Test": 9,
         "Reopened": 2
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 52,
-      "statuses": {
-        "Ready For Test": 11,
-        "Reopened": 1,
-        "In Progress": 9,
-        "Dev Complete": 5,
-        "Closed": 21,
-        "On Hold- For Clarification": 1,
-        "Issue Accepted": 3,
-        "Invalid": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -29854,6 +29855,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1300,
+      "tasks": 291,
+      "subtasks": 8,
+      "stories": 0,
+      "total": 1603
+    },
     "Unassigned": {
       "bugs": 74,
       "tasks": 32,
@@ -29861,26 +29869,19 @@
       "stories": 0,
       "total": 113
     },
-    "vzyfeedback": {
-      "bugs": 1298,
-      "tasks": 291,
-      "subtasks": 8,
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 1,
       "stories": 0,
-      "total": 1601
+      "total": 19
     },
-    "Javed Ali": {
-      "bugs": 38,
-      "tasks": 3,
-      "subtasks": 3,
+    "Ranjitha br": {
+      "bugs": 1,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
-      "total": 44
-    },
-    "Yashika Krishnani": {
-      "bugs": 9,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
+      "total": 3
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -29889,12 +29890,40 @@
       "stories": 0,
       "total": 14
     },
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
+    "devaraj": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
       "total": 9
+    },
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Aniruddh Patil": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Javed Ali": {
+      "bugs": 34,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 40
+    },
+    "Yashika Krishnani": {
+      "bugs": 9,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "Karan Mahboobani": {
       "bugs": 13,
@@ -29911,18 +29940,11 @@
       "total": 34
     },
     "Shubham Chauhan": {
-      "bugs": 10,
+      "bugs": 9,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
-    },
-    "Namrata Kurariya": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
+      "total": 14
     },
     "Adikeshava Reddy": {
       "bugs": 1,
@@ -29945,19 +29967,12 @@
       "stories": 0,
       "total": 10
     },
-    "devaraj": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 1,
+    "avinash waghmare": {
+      "bugs": 5,
+      "tasks": 3,
+      "subtasks": 0,
       "stories": 0,
-      "total": 9
-    },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 17
+      "total": 8
     },
     "BalaKumar": {
       "bugs": 14,
@@ -29993,13 +30008,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 12
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -30092,13 +30100,6 @@
       "stories": 0,
       "total": 1
     },
-    "Ranjitha br": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 2
-    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -30122,12 +30123,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 29,
-    "High": 460,
     "Medium": 799,
+    "High": 460,
     "Highest": 348,
+    "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T07:57:50Z",
+  "updated_at": "2026-02-27T09:00:29Z",
   "total_issues": 2148
 }
