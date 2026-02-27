@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2284",
+      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2381",
       "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
       "status": "Issue Accepted",
@@ -39,20 +81,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1877,20 +1905,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2284",
-      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2193",
       "summary": "TV: Test Asset GOB web series plays Hanuman series content",
       "status": "Closed",
@@ -2417,20 +2431,6 @@
       "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -22949,6 +22949,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1766",
+      "summary": "Profile Management",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1897",
       "summary": "CleverTap Pending tasks (Android)",
       "status": "Issue Accepted",
@@ -23057,20 +23071,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1766",
-      "summary": "Profile Management",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -29849,12 +29849,12 @@
       "stories": 0,
       "total": 52,
       "statuses": {
-        "In Progress": 9,
+        "On Hold- For Clarification": 2,
         "Closed": 22,
         "Dev Complete": 6,
+        "In Progress": 8,
         "Ready For Test": 9,
         "Testing On hold": 2,
-        "On Hold- For Clarification": 1,
         "Issue Accepted": 2,
         "Invalid": 1
       }
@@ -29898,12 +29898,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
     "Yashika Krishnani": {
       "bugs": 13,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 16
+    },
+    "vzyfeedback": {
+      "bugs": 1307,
+      "tasks": 291,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1611
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -29926,13 +29940,6 @@
       "stories": 0,
       "total": 10
     },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
     "Ranjitha br": {
       "bugs": 1,
       "tasks": 1,
@@ -29941,18 +29948,11 @@
       "total": 3
     },
     "Karan Mahboobani": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 15
-    },
-    "vzyfeedback": {
-      "bugs": 1305,
-      "tasks": 291,
-      "subtasks": 9,
-      "stories": 0,
-      "total": 1609
+      "total": 14
     },
     "abhilash.ramesh": {
       "bugs": 10,
@@ -29969,11 +29969,11 @@
       "total": 9
     },
     "Shubham Chauhan": {
-      "bugs": 8,
+      "bugs": 7,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 12
     },
     "Manikanta P": {
       "bugs": 8,
@@ -30159,12 +30159,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 799,
+    "High": 461,
     "Low": 29,
     "Highest": 348,
-    "High": 461,
-    "Medium": 799,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T13:32:51Z",
+  "updated_at": "2026-02-27T14:59:25Z",
   "total_issues": 2151
 }
