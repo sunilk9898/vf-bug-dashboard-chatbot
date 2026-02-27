@@ -1,6 +1,216 @@
 {
   "bugs": [
     {
+      "key": "VF-2369",
+      "summary": "Mobile: Device back button does not work on Privacy Policy page in Help and Policy section.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2333",
+      "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2374",
+      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2239",
+      "summary": "Mobile: Language change not reflected in sub-modules after updating from Settings",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2238",
+      "summary": "Mobile: \"Continue to Pay\" button gets disabled after navigating back from payment gateway",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2300",
+      "summary": "Web: Forward and backward seek duration is inconsistent between player controls and keyboard actions",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2237",
+      "summary": "Mobile: Extra bottom navigation sections displayed after user login",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2232",
+      "summary": "Mobile: Button text is not visible for Continue and Verify OTP buttons on Login screen.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-24",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2347",
+      "summary": "TV: Non-crime content such as Religion and Kids Series is displayed under the Best in Crime category.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2334",
+      "summary": "TV: Irrelevant content displayed in \"More Like This\" section for Shirdi Wale Sai Baba",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2389",
+      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "avinash waghmare",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2394",
+      "summary": "Mobile: The option displayed on long press in Watchlist shows incorrect text: \u201cRemove To Watchlist\u201d instead of \u201cRemove From Watchlist\u201d.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2379",
+      "summary": "Mobile: Channel guide section appears blank after selecting Udaya Comedy from search results",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2395",
+      "summary": "Mobile: User is unable to delete a profile because the Delete option is not visible in the Manage Profile section.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2342",
+      "summary": "(Tamanna) - Multiple test content showing on shemaroo me series rail.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1596",
       "summary": "(Shivani) - From Rail LGP asset is not playing but from continue watching it's playing And Delay observed while come back from the player",
       "status": "Closed",
@@ -92,20 +302,6 @@
       "assignee": "vzyfeedback",
       "platform": "DishIT",
       "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2334",
-      "summary": "TV: Irrelevant content displayed in \"More Like This\" section for Shirdi Wale Sai Baba",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -239,20 +435,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2389",
-      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2398",
       "summary": "Missing Viewer IDs in conviva s3 dump",
       "status": "Onhold-For Tech Dependency",
@@ -370,20 +552,6 @@
       "status": "Onhold-For Tech Dependency",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2379",
-      "summary": "Mobile: Channel guide section appears blank after selecting Udaya Comedy from search results",
-      "status": "Invalid",
-      "priority": "Medium",
-      "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
@@ -568,34 +736,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2300",
-      "summary": "Web: Forward and backward seek duration is inconsistent between player controls and keyboard actions",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2395",
-      "summary": "Mobile: User is unable to delete a profile because the Delete option is not visible in the Manage Profile section.",
-      "status": "Invalid",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1093,20 +1233,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2342",
-      "summary": "(Tamanna) - Multiple test content showing on shemaroo me series rail.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2321",
       "summary": "Web: Some movie cover images are not displayed in the movie listing page",
       "status": "Ready For Test",
@@ -1127,20 +1253,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2374",
-      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Adikeshava Reddy",
-      "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
@@ -1457,20 +1569,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2394",
-      "summary": "Mobile: The option displayed on long press in Watchlist shows incorrect text: \u201cRemove To Watchlist\u201d instead of \u201cRemove From Watchlist\u201d.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2194",
       "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
       "status": "Ready For Test",
@@ -1593,34 +1691,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2369",
-      "summary": "Mobile: Device back button does not work on Privacy Policy page in Help and Policy section.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2333",
-      "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2066,20 +2136,6 @@
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2347",
-      "summary": "TV: Non-crime content such as Religion and Kids Series is displayed under the Best in Crime category.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2591,20 +2647,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2232",
-      "summary": "Mobile: Button text is not visible for Continue and Verify OTP buttons on Login screen.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-24",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2233",
       "summary": "Mobile: Incorrect audio language label Ko displayed and subtitles not available for Broken content.",
       "status": "Closed",
@@ -2913,34 +2955,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2239",
-      "summary": "Mobile: Language change not reflected in sub-modules after updating from Settings",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2237",
-      "summary": "Mobile: Extra bottom navigation sections displayed after user login",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2151",
       "summary": "FLIQS channel logos in Setting section",
       "status": "Testing On hold",
@@ -3153,20 +3167,6 @@
     {
       "key": "VF-2261",
       "summary": "Mobile: Home page marquee is not displayed",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2238",
-      "summary": "Mobile: \"Continue to Pay\" button gets disabled after navigating back from payment gateway",
       "status": "Ready For Test",
       "priority": "High",
       "assignee": "Unassigned",
@@ -22935,6 +22935,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1930",
+      "summary": "Ultra Jhakaas Integration",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2074",
       "summary": "Web Issue: Series name is being displayed instead of episode names in Rail displaying episodes",
       "status": "Ready For Test",
@@ -23043,20 +23057,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1930",
-      "summary": "Ultra Jhakaas Integration",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -29800,6 +29800,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 18,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 50,
+      "statuses": {
+        "Dev Complete": 2,
+        "Closed": 37,
+        "Ready For Test": 9,
+        "Reopened": 2
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 33,
       "tasks": 19,
@@ -29837,29 +29850,37 @@
       "statuses": {
         "On Hold- For Clarification": 1
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 50,
-      "statuses": {
-        "Dev Complete": 2,
-        "Closed": 37,
-        "Ready For Test": 9,
-        "Reopened": 2
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 74,
+      "tasks": 32,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 113
+    },
     "vzyfeedback": {
-      "bugs": 1297,
+      "bugs": 1298,
       "tasks": 291,
       "subtasks": 8,
       "stories": 0,
-      "total": 1600
+      "total": 1601
+    },
+    "Javed Ali": {
+      "bugs": 38,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 44
+    },
+    "Yashika Krishnani": {
+      "bugs": 9,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -29867,6 +29888,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
+    },
+    "avinash waghmare": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Karan Mahboobani": {
       "bugs": 13,
@@ -29889,13 +29917,6 @@
       "stories": 0,
       "total": 15
     },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 38
-    },
     "Namrata Kurariya": {
       "bugs": 7,
       "tasks": 5,
@@ -29904,18 +29925,11 @@
       "total": 12
     },
     "Adikeshava Reddy": {
-      "bugs": 2,
+      "bugs": 1,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 2
-    },
-    "Javed Ali": {
-      "bugs": 37,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 43
+      "total": 1
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -29938,40 +29952,19 @@
       "stories": 0,
       "total": 9
     },
-    "Unassigned": {
-      "bugs": 74,
-      "tasks": 32,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 113
-    },
-    "Yashika Krishnani": {
-      "bugs": 9,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "avinash waghmare": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 25
-    },
     "Alok Gupta": {
       "bugs": 12,
       "tasks": 4,
       "subtasks": 1,
       "stories": 0,
       "total": 17
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
     },
     "Ajay Kushwaha": {
       "bugs": 11,
@@ -29986,6 +29979,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30122,12 +30122,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 348,
+    "Low": 29,
     "High": 460,
     "Medium": 799,
-    "Low": 29,
+    "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-02-27T07:13:44Z",
+  "updated_at": "2026-02-27T07:57:50Z",
   "total_issues": 2148
 }

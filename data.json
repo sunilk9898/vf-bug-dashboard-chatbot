@@ -93,11 +93,11 @@
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 5,
+      "ISSUE ACCEPTED": 4,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-02-27T07:13:44Z",
+  "updated_at": "2026-02-27T07:57:50Z",
   "total_issues_fetched": 2148,
   "project": "VF"
 }
