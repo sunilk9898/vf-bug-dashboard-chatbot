@@ -22949,6 +22949,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-1930",
+      "summary": "Ultra Jhakaas Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1732",
+      "summary": "iOS SDK update to 26 or later",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-01-19",
+      "updated": "2026-02-28",
+      "duedate": "2026-02-13",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2118",
+      "summary": "Facebook SDK Integration",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2026-02-13",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1766",
       "summary": "Profile Management",
       "status": "Ready For Test",
@@ -23155,20 +23197,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1930",
-      "summary": "Ultra Jhakaas Integration",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -23616,20 +23644,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-25",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1732",
-      "summary": "iOS SDK update to 26 or later",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-01-19",
-      "updated": "2026-02-25",
-      "duedate": "2026-02-13",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -29828,23 +29842,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 51,
-      "statuses": {
-        "Closed": 23,
-        "Ready For Test": 10,
-        "In Progress": 8,
-        "On Hold- For Clarification": 2,
-        "Testing On hold": 2,
-        "Dev Complete": 3,
-        "Issue Accepted": 2,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -29852,10 +29849,27 @@
       "stories": 0,
       "total": 50,
       "statuses": {
-        "Ready For Test": 7,
-        "Dev Complete": 2,
+        "Ready For Test": 8,
         "Closed": 40,
+        "Dev Complete": 1,
         "Reopened": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 52,
+      "statuses": {
+        "Closed": 24,
+        "Ready For Test": 10,
+        "In Progress": 8,
+        "On Hold- For Clarification": 2,
+        "Testing On hold": 2,
+        "Dev Complete": 3,
+        "Issue Accepted": 2,
+        "Invalid": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -29885,10 +29899,17 @@
   "assignee_workload": {
     "vzyfeedback": {
       "bugs": 1314,
-      "tasks": 292,
+      "tasks": 293,
       "subtasks": 9,
       "stories": 0,
-      "total": 1619
+      "total": 1620
+    },
+    "Suyog Lanje": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -29953,19 +29974,12 @@
       "stories": 0,
       "total": 18
     },
-    "Suyog Lanje": {
-      "bugs": 1,
+    "shadab Hussain": {
+      "bugs": 5,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 5
-    },
-    "shadab Hussain": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
+      "total": 9
     },
     "Karan Mahboobani": {
       "bugs": 11,
@@ -30150,6 +30164,6 @@
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-02-28T04:33:50Z",
-  "total_issues": 2150
+  "updated_at": "2026-02-28T05:49:52Z",
+  "total_issues": 2151
 }
