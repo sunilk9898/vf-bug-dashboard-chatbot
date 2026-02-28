@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-1574",
+      "summary": "GTM | Firebase | Missing parameters in firebase same availabe on GTM (IOS)",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2025-12-30",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1546",
+      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Sameeksha Vinodiya",
+      "platform": "ANDROID",
+      "created": "2025-12-29",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2320",
       "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
       "status": "Reopened",
@@ -659,20 +687,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1574",
-      "summary": "GTM | Firebase | Missing parameters in firebase same availabe on GTM (IOS)",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2025-12-30",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2251",
       "summary": "Mobile: Movies are accessible and playable from the About Us section.",
       "status": "Duplicate",
@@ -1299,20 +1313,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1546",
-      "summary": "WEB | GTM | Firebase | Missing parameters in firebase same availabe on GTM (Android)",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Sameeksha Vinodiya",
-      "platform": "ANDROID",
-      "created": "2025-12-29",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -23901,20 +23901,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2118",
-      "summary": "Facebook SDK Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2026-02-13",
-      "updated": "2026-02-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1655",
       "summary": "how to show if there is to many buttons in CD page mainly for FLIQS Channel CD page ",
       "status": "Reopened",
@@ -29842,6 +29828,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 51,
+      "statuses": {
+        "Closed": 23,
+        "Ready For Test": 10,
+        "In Progress": 8,
+        "On Hold- For Clarification": 2,
+        "Testing On hold": 2,
+        "Dev Complete": 3,
+        "Issue Accepted": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -29853,23 +29856,6 @@
         "Dev Complete": 2,
         "Closed": 40,
         "Reopened": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 52,
-      "statuses": {
-        "Ready For Test": 11,
-        "In Progress": 9,
-        "On Hold- For Clarification": 2,
-        "Closed": 22,
-        "Testing On hold": 2,
-        "Dev Complete": 3,
-        "Issue Accepted": 2,
-        "Invalid": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -29897,6 +29883,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1314,
+      "tasks": 292,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1619
+    },
+    "Sameeksha Vinodiya": {
+      "bugs": 5,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
     "BalaKumar": {
       "bugs": 13,
       "tasks": 9,
@@ -29917,13 +29917,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "vzyfeedback": {
-      "bugs": 1314,
-      "tasks": 292,
-      "subtasks": 9,
-      "stories": 0,
-      "total": 1619
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -29962,10 +29955,10 @@
     },
     "Suyog Lanje": {
       "bugs": 1,
-      "tasks": 5,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
+      "total": 5
     },
     "shadab Hussain": {
       "bugs": 5,
@@ -30036,13 +30029,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Sameeksha Vinodiya": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "devaraj": {
       "bugs": 7,
@@ -30158,12 +30144,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 799,
     "High": 461,
+    "Medium": 799,
     "Highest": 348,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-02-28T04:28:31Z",
-  "total_issues": 2151
+  "updated_at": "2026-02-28T04:33:50Z",
+  "total_issues": 2150
 }
