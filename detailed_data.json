@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2401",
+      "summary": "(Shivani) - After sharing the content on another platform, when I click the same shared link, I am redirected to the web app instead of the mobile app.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-27",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2281",
+      "summary": "2:3 banner home",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2387",
+      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-02-28",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2196",
+      "summary": "Disapperaing Carousel banners",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2244",
       "summary": "Mobile: Duplicate audio language options are displayed in the audio selection menu during video playback.",
       "status": "Dev Complete",
@@ -575,20 +673,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2387",
-      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2389",
       "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
       "status": "Ready For Test",
@@ -617,34 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2281",
-      "summary": "2:3 banner home",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2336",
       "summary": "(Shivani) Channel guide",
       "status": "In Progress",
@@ -652,20 +708,6 @@
       "assignee": "avinash waghmare",
       "platform": "LG_TV",
       "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2401",
-      "summary": "(Shivani) - After sharing the content on another platform, when I click the same shared link, I am redirected to the web app instead of the mobile app.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "Mobile",
-      "created": "2026-02-27",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1457,20 +1499,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2283",
       "summary": "TV: Microphone (Voice Search) feature not displayed",
       "status": "Closed",
@@ -1478,20 +1506,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2750,20 +2764,6 @@
       "status": "Closed",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2196",
-      "summary": "Disapperaing Carousel banners",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
       "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-02-26",
@@ -29863,10 +29863,10 @@
       "total": 52,
       "statuses": {
         "Closed": 24,
-        "Ready For Test": 10,
-        "In Progress": 8,
         "On Hold- For Clarification": 2,
         "Testing On hold": 2,
+        "Ready For Test": 10,
+        "In Progress": 8,
         "Dev Complete": 3,
         "Issue Accepted": 2,
         "Invalid": 1
@@ -29897,6 +29897,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1315,
+      "tasks": 293,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1621
+    },
     "Javed Ali": {
       "bugs": 30,
       "tasks": 2,
@@ -29904,12 +29911,12 @@
       "stories": 0,
       "total": 35
     },
-    "vzyfeedback": {
-      "bugs": 1314,
-      "tasks": 293,
-      "subtasks": 9,
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 0,
       "stories": 0,
-      "total": 1620
+      "total": 18
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -29966,20 +29973,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 3
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
-    },
-    "shadab Hussain": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Karan Mahboobani": {
       "bugs": 11,
@@ -30093,6 +30086,13 @@
       "stories": 0,
       "total": 32
     },
+    "shadab Hussain": {
+      "bugs": 4,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
     "Akash Kushwaha": {
       "bugs": 0,
       "tasks": 1,
@@ -30159,11 +30159,11 @@
   },
   "priority_breakdown": {
     "High": 461,
+    "Low": 29,
     "Medium": 799,
     "Highest": 348,
-    "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-02-28T06:57:32Z",
+  "updated_at": "2026-02-28T07:40:38Z",
   "total_issues": 2151
 }
