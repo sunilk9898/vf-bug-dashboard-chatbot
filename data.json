@@ -95,17 +95,9 @@
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
       "PARKED": 0
-    },
-    "Unknown": {
-      "OPEN": 0,
-      "IN PROGRESS": 1,
-      "REOPENED": 0,
-      "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
-      "PARKED": 0
     }
   },
-  "updated_at": "2026-02-28T07:40:38Z",
+  "updated_at": "2026-02-28T08:45:30Z",
   "total_issues_fetched": 2151,
   "project": "VF"
 }

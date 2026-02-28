@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2330",
+      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-26",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2401",
       "summary": "(Shivani) - After sharing the content on another platform, when I click the same shared link, I am redirected to the web app instead of the mobile app.",
       "status": "Ready For Test",
@@ -1814,20 +1828,6 @@
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2330",
-      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29897,6 +29897,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "abhilash.ramesh": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
     "vzyfeedback": {
       "bugs": 1315,
       "tasks": 293,
@@ -29980,13 +29987,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 14
-    },
-    "abhilash.ramesh": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Shubham Chauhan": {
       "bugs": 7,
@@ -30164,6 +30164,6 @@
     "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-02-28T07:40:38Z",
+  "updated_at": "2026-02-28T08:45:30Z",
   "total_issues": 2151
 }
