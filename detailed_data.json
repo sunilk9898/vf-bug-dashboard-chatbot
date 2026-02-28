@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2317",
+      "summary": "Web: OTP generation fails when user clicks on Delete Account",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-26",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2330",
       "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
       "status": "Dev Complete",
@@ -273,20 +287,6 @@
       "priority": "Medium",
       "assignee": "BalaKumar",
       "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-28",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2317",
-      "summary": "Web: OTP generation fails when user clicks on Delete Account",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
       "created": "2026-02-26",
       "updated": "2026-02-28",
       "duedate": "",
@@ -29897,19 +29897,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1316,
+      "tasks": 293,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1622
+    },
     "abhilash.ramesh": {
       "bugs": 10,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "vzyfeedback": {
-      "bugs": 1315,
-      "tasks": 293,
-      "subtasks": 9,
-      "stories": 0,
-      "total": 1621
     },
     "Javed Ali": {
       "bugs": 30,
@@ -29946,19 +29946,19 @@
       "stories": 0,
       "total": 23
     },
-    "Manikanta P": {
-      "bugs": 8,
-      "tasks": 10,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 19
-    },
     "Ajay Kushwaha": {
       "bugs": 12,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 14
+    },
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 10,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 18
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -30164,6 +30164,6 @@
     "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-02-28T10:41:10Z",
+  "updated_at": "2026-02-28T11:32:03Z",
   "total_issues": 2151
 }
