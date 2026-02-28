@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2320",
+      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2317",
+      "summary": "Web: OTP generation fails when user clicks on Delete Account",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-26",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2302",
+      "summary": "Web--Next Episode\" button is not functioning as expected",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-02-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-934",
       "summary": "Complete Catalogue not Synced for available CP",
       "status": "Ready For Test",
@@ -547,20 +589,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2317",
-      "summary": "Web: OTP generation fails when user clicks on Delete Account",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2303",
       "summary": "Web: Live playback does not start for ATP-500 Abierto Mexicano and Women\u2019s National League 2025-26 despite Live tag being displayed, Fancode contents",
       "status": "Ready For Test",
@@ -778,20 +806,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2320",
-      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2444,20 +2458,6 @@
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2302",
-      "summary": "Web--Next Episode\" button is not functioning as expected",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29897,6 +29897,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
     "Manikanta P": {
       "bugs": 8,
       "tasks": 10,
@@ -29904,12 +29911,19 @@
       "stories": 1,
       "total": 19
     },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
     "vzyfeedback": {
-      "bugs": 1315,
+      "bugs": 1314,
       "tasks": 292,
       "subtasks": 9,
       "stories": 0,
-      "total": 1620
+      "total": 1619
     },
     "avinash waghmare": {
       "bugs": 6,
@@ -29938,13 +29952,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 3
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Alok Gupta": {
       "bugs": 14,
@@ -30036,13 +30043,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "devaraj": {
       "bugs": 7,
@@ -30158,12 +30158,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 348,
     "Medium": 799,
     "High": 461,
+    "Highest": 348,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-02-28T02:40:21Z",
+  "updated_at": "2026-02-28T04:28:31Z",
   "total_issues": 2151
 }
