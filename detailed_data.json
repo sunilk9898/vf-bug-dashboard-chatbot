@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2320",
+      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "Ready For Test",
@@ -305,20 +319,6 @@
       "updated": "2026-02-28",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2320",
-      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-28",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -29897,6 +29897,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Ajay Kushwaha": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
     "vzyfeedback": {
       "bugs": 1316,
       "tasks": 293,
@@ -29905,11 +29912,11 @@
       "total": 1622
     },
     "BalaKumar": {
-      "bugs": 13,
+      "bugs": 12,
       "tasks": 9,
       "subtasks": 1,
       "stories": 0,
-      "total": 23
+      "total": 22
     },
     "Vikas Mishra": {
       "bugs": 38,
@@ -29952,13 +29959,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
     },
     "Manikanta P": {
       "bugs": 7,
@@ -30158,12 +30158,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 348,
     "Medium": 799,
+    "Highest": 348,
     "High": 461,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-03-01T08:48:11Z",
+  "updated_at": "2026-03-01T09:44:21Z",
   "total_issues": 2151
 }
