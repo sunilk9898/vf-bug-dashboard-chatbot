@@ -22949,6 +22949,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-818",
+      "summary": "Playback / Player\tListing of Episodes",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2025-11-28",
+      "updated": "2026-03-01",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1930",
       "summary": "Ultra Jhakaas Integration",
       "status": "Ready For Test",
@@ -24050,20 +24064,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-16",
       "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-818",
-      "summary": "Playback / Player\tListing of Episodes",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2025-11-28",
-      "updated": "2026-02-16",
-      "duedate": "2026-01-30",
       "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
@@ -29850,10 +29850,10 @@
       "total": 52,
       "statuses": {
         "Ready For Test": 10,
+        "In Progress": 8,
         "Closed": 24,
         "On Hold- For Clarification": 2,
         "Testing On hold": 2,
-        "In Progress": 8,
         "Dev Complete": 3,
         "Issue Accepted": 2,
         "Invalid": 1
@@ -29904,6 +29904,13 @@
       "stories": 0,
       "total": 1622
     },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
     "Vikas Mishra": {
       "bugs": 38,
       "tasks": 2,
@@ -29945,13 +29952,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -30164,6 +30164,6 @@
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-03-01T07:47:49Z",
+  "updated_at": "2026-03-01T08:48:11Z",
   "total_issues": 2151
 }
