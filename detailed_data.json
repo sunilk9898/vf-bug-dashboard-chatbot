@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-01",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2353",
       "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
       "status": "Ready For Test",
@@ -3371,20 +3385,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -29842,6 +29842,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 52,
+      "statuses": {
+        "Ready For Test": 10,
+        "Closed": 24,
+        "On Hold- For Clarification": 2,
+        "Testing On hold": 2,
+        "In Progress": 8,
+        "Dev Complete": 3,
+        "Issue Accepted": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -29853,23 +29870,6 @@
         "Ready For Test": 8,
         "Dev Complete": 1,
         "Reopened": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 52,
-      "statuses": {
-        "Closed": 24,
-        "On Hold- For Clarification": 2,
-        "Testing On hold": 2,
-        "Ready For Test": 10,
-        "In Progress": 8,
-        "Dev Complete": 3,
-        "Issue Accepted": 2,
-        "Invalid": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -29897,19 +29897,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
     "vzyfeedback": {
       "bugs": 1316,
       "tasks": 293,
       "subtasks": 9,
       "stories": 0,
       "total": 1622
+    },
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
     },
     "abhilash.ramesh": {
       "bugs": 10,
@@ -30158,12 +30158,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 348,
     "Medium": 799,
     "High": 461,
     "Low": 29,
-    "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-03-01T07:04:46Z",
+  "updated_at": "2026-03-01T07:47:49Z",
   "total_issues": 2151
 }
