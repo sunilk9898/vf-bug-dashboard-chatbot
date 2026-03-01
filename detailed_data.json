@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2353",
+      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2317",
       "summary": "Web: OTP generation fails when user clicks on Delete Account",
       "status": "Ready For Test",
@@ -1562,20 +1576,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2353",
-      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Vedant Kajale",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29897,6 +29897,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
     "vzyfeedback": {
       "bugs": 1316,
       "tasks": 293,
@@ -30010,11 +30017,11 @@
       "total": 10
     },
     "Vedant Kajale": {
-      "bugs": 2,
+      "bugs": 1,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 4
+      "total": 3
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -30064,13 +30071,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 10
-    },
-    "Vikas Mishra": {
-      "bugs": 37,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Chiranjit Chatterjee": {
       "bugs": 1,
@@ -30158,12 +30158,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 799,
     "High": 461,
     "Low": 29,
-    "Medium": 799,
     "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-03-01T03:24:05Z",
+  "updated_at": "2026-03-01T05:32:05Z",
   "total_issues": 2151
 }
