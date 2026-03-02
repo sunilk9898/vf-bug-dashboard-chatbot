@@ -1,11 +1,207 @@
 {
   "bugs": [
     {
-      "key": "VF-2353",
-      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
-      "status": "Ready For Test",
+      "key": "VF-2302",
+      "summary": "Web--Next Episode\" button is not functioning as expected",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2369",
+      "summary": "Mobile: Device back button does not work on Privacy Policy page in Help and Policy section.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2326",
+      "summary": "Mobile: User is unable to view all available episodes of the series, as one episode is missing compared to the original platform.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2317",
+      "summary": "Web: OTP generation fails when user clicks on Delete Account",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2257",
+      "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2386",
+      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2387",
+      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2272",
+      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2394",
+      "summary": "Mobile: The option displayed on long press in Watchlist shows incorrect text: \u201cRemove To Watchlist\u201d instead of \u201cRemove From Watchlist\u201d.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2284",
+      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2377",
+      "summary": "Mobile: Search suggestion shows incorrect recent word instead of content name when typing \u201cShark Tank India\u201d",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "Ranjitha br",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "2026-03-02",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2282",
+      "summary": "TV: Hindi audio is playing for the movie, but the Audio option shows None instead of the selected language.",
+      "status": "Closed",
       "priority": "Medium",
       "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2385",
+      "summary": "Mobile: Spelling mistake observed in the Notification text.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2389",
+      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "avinash waghmare",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2353",
+      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
       "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-03-02",
@@ -85,20 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2317",
-      "summary": "Web: OTP generation fails when user clicks on Delete Account",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-26",
-      "updated": "2026-02-28",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2330",
       "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
       "status": "Dev Complete",
@@ -136,20 +318,6 @@
       "created": "2026-02-25",
       "updated": "2026-02-28",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2387",
-      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-28",
-      "duedate": "2026-02-27",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -365,20 +533,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2302",
-      "summary": "Web--Next Episode\" button is not functioning as expected",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-25",
-      "updated": "2026-02-28",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-934",
       "summary": "Complete Catalogue not Synced for available CP",
       "status": "Ready For Test",
@@ -505,34 +659,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2284",
-      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2272",
-      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2184",
       "summary": "TV One plus: In shrimad ramayan s4 shree ram ki leela episode no 341 it shows ui issue it has all buttons in red and one on top has wrong siz",
       "status": "Ready For Test",
@@ -554,20 +680,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2282",
-      "summary": "TV: Hindi audio is playing for the movie, but the Audio option shows None instead of the selected language.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -659,20 +771,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2257",
-      "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2260",
       "summary": "Mobile: Episode duration displayed as 0 min for content under Australian Open category in Sports section",
       "status": "Ready For Test",
@@ -701,20 +799,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2377",
-      "summary": "Mobile: Search suggestion shows incorrect recent word instead of content name when typing \u201cShark Tank India\u201d",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Ranjitha br",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2381",
       "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
       "status": "Issue Accepted",
@@ -724,48 +808,6 @@
       "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2385",
-      "summary": "Mobile: Spelling mistake observed in the Notification text.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2386",
-      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2389",
-      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "avinash waghmare",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-02-27",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -1681,20 +1723,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2326",
-      "summary": "Mobile: User is unable to view all available episodes of the series, as one episode is missing compared to the original platform.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2265",
       "summary": "Mobile: Play Pause button visibility is inconsistent during video playback",
       "status": "Closed",
@@ -1975,20 +2003,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2369",
-      "summary": "Mobile: Device back button does not work on Privacy Policy page in Help and Policy section.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2333",
       "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
       "status": "Testing On hold",
@@ -2093,20 +2107,6 @@
       "priority": "Medium",
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2394",
-      "summary": "Mobile: The option displayed on long press in Watchlist shows incorrect text: \u201cRemove To Watchlist\u201d instead of \u201cRemove From Watchlist\u201d.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
@@ -22949,6 +22949,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1734",
+      "summary": "VZY One to be with VZY",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Namrata Kurariya",
+      "platform": "LG_TV",
+      "created": "2026-01-20",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1917",
       "summary": "Brand colour changes within the app",
       "status": "Parked",
@@ -23281,20 +23295,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1734",
-      "summary": "VZY One to be with VZY",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Namrata Kurariya",
-      "platform": "LG_TV",
-      "created": "2026-01-20",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -29503,6 +29503,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-622",
+      "summary": "Enable voice search- functionality- Exists on Mobile, has to be implemented on web.",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2025-11-22",
+      "updated": "2026-03-02",
+      "duedate": "2025-11-24",
+      "sprint": "No Sprint",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1965",
       "summary": "Android - Claver Tap - Notification Inbox",
       "status": "Closed",
@@ -29809,20 +29823,6 @@
       "sprint": "No Sprint",
       "type": "Sub-task",
       "fixversion": ""
-    },
-    {
-      "key": "VF-622",
-      "summary": "Enable voice search- functionality- Exists on Mobile, has to be implemented on web.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2025-11-22",
-      "updated": "2025-12-05",
-      "duedate": "2025-11-24",
-      "sprint": "No Sprint",
-      "type": "Sub-task",
-      "fixversion": ""
     }
   ],
   "stories": [
@@ -29842,6 +29842,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 48,
+      "statuses": {
+        "Dev Complete": 3,
+        "Closed": 25,
+        "Ready For Test": 10,
+        "On Hold- For Clarification": 2,
+        "Testing On hold": 2,
+        "In Progress": 4,
+        "Invalid": 1,
+        "Issue Accepted": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 2,
       "tasks": 8,
@@ -29853,23 +29870,6 @@
         "Issue Accepted": 1,
         "Invalid": 1,
         "Open": 3
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 48,
-      "statuses": {
-        "Closed": 25,
-        "Ready For Test": 10,
-        "On Hold- For Clarification": 2,
-        "Testing On hold": 2,
-        "In Progress": 4,
-        "Dev Complete": 3,
-        "Invalid": 1,
-        "Issue Accepted": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -29898,12 +29898,68 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Ajay Kushwaha": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "Unassigned": {
+      "bugs": 73,
+      "tasks": 33,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 113
+    },
     "vzyfeedback": {
-      "bugs": 1317,
+      "bugs": 1315,
       "tasks": 293,
       "subtasks": 9,
       "stories": 0,
-      "total": 1623
+      "total": 1621
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Kiran JR": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Ranjitha br": {
+      "bugs": 1,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 3
+    },
+    "avinash waghmare": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
     },
     "Akash Kushwaha": {
       "bugs": 0,
@@ -29926,26 +29982,12 @@
       "stories": 0,
       "total": 35
     },
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "abhilash.ramesh": {
       "bugs": 10,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "Ajay Kushwaha": {
-      "bugs": 13,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "Javed Ali": {
       "bugs": 30,
@@ -29982,20 +30024,6 @@
       "stories": 1,
       "total": 18
     },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
-    "Ranjitha br": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 3
-    },
     "Karan Mahboobani": {
       "bugs": 11,
       "tasks": 1,
@@ -30010,13 +30038,6 @@
       "stories": 0,
       "total": 12
     },
-    "Namrata Kurariya": {
-      "bugs": 6,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 5,
@@ -30030,20 +30051,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Unassigned": {
-      "bugs": 73,
-      "tasks": 33,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 113
-    },
-    "Kiran JR": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "devaraj": {
       "bugs": 7,
@@ -30072,13 +30079,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 10
-    },
-    "Vikas Mishra": {
-      "bugs": 37,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Chiranjit Chatterjee": {
       "bugs": 1,
@@ -30160,11 +30160,11 @@
   },
   "priority_breakdown": {
     "Medium": 799,
-    "Highest": 348,
-    "High": 461,
     "Low": 29,
+    "High": 461,
+    "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-03-02T04:58:52Z",
+  "updated_at": "2026-03-02T05:45:07Z",
   "total_issues": 2151
 }
