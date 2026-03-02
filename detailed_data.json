@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-933",
+      "summary": "Paid Live Content with Nagra DRM not working ",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2025-12-04",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2086",
+      "summary": "Fancode content is appearing on New On VZY rail",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2320",
       "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
       "status": "Reopened",
@@ -4712,20 +4740,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2026-02-17",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2086",
-      "summary": "Fancode content is appearing on New On VZY rail",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
       "updated": "2026-02-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -11544,20 +11558,6 @@
       "assignee": "Manikanta P",
       "platform": "CMS Dashboard",
       "created": "2025-12-29",
-      "updated": "2026-01-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-933",
-      "summary": "Paid Live Content with Nagra DRM not working ",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "DishIT",
-      "created": "2025-12-04",
       "updated": "2026-01-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29842,6 +29842,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 2,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6,
+      "statuses": {
+        "In Progress": 1,
+        "Issue Accepted": 1,
+        "Invalid": 1,
+        "Open": 3
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 33,
       "tasks": 19,
@@ -29872,18 +29885,6 @@
         "Reopened": 1
       }
     },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 1,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5,
-      "statuses": {
-        "Issue Accepted": 1,
-        "Invalid": 1,
-        "Open": 3
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 0,
       "tasks": 1,
@@ -29897,19 +29898,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Ajay Kushwaha": {
-      "bugs": 13,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
     "vzyfeedback": {
       "bugs": 1316,
       "tasks": 293,
       "subtasks": 9,
       "stories": 0,
       "total": 1622
+    },
+    "abhilash.ramesh": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Ajay Kushwaha": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
     },
     "BalaKumar": {
       "bugs": 12,
@@ -29924,13 +29932,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 40
-    },
-    "abhilash.ramesh": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Javed Ali": {
       "bugs": 30,
@@ -30158,12 +30159,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 799,
     "Highest": 348,
+    "Medium": 799,
     "High": 461,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-03-01T23:37:18Z",
+  "updated_at": "2026-03-02T03:11:47Z",
   "total_issues": 2151
 }
