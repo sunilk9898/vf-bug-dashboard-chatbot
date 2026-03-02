@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2320",
+      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2336",
+      "summary": "(Shivani) Channel guide",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Karan Mahboobani",
+      "platform": "LG_TV",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "2026-03-02",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2389",
+      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "avinash waghmare",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-79",
+      "summary": "App Language",
+      "status": "Parked",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ANDROID",
+      "created": "2025-11-05",
+      "updated": "2026-03-02",
+      "duedate": "2025-12-03",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2144",
+      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2085",
+      "summary": "Latest content is not showing up in New Releases rail of Series page.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2082",
+      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1752",
       "summary": "CP logos on thumbnails",
       "status": "In Progress",
@@ -799,20 +925,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2389",
-      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "avinash waghmare",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2353",
       "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
       "status": "Dev Complete",
@@ -851,20 +963,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2320",
-      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-01",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1158,34 +1256,6 @@
       "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "2026-03-05",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2381",
-      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2336",
-      "summary": "(Shivani) Channel guide",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "LG_TV",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -4719,20 +4789,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2082",
-      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2203",
       "summary": "Web: Series text in top navigation remains in English after changing App Display Language.",
       "status": "Duplicate",
@@ -4964,34 +5020,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-09",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2144",
-      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5581,20 +5609,6 @@
       "platform": "LG_TV",
       "created": "2026-02-16",
       "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2085",
-      "summary": "Latest content is not showing up in New Releases rail of Series page.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
-      "updated": "2026-02-13",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -11588,20 +11602,6 @@
       "created": "2025-12-17",
       "updated": "2026-01-05",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-79",
-      "summary": "App Language",
-      "status": "Parked",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-05",
-      "updated": "2026-01-02",
-      "duedate": "2025-12-03",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -29954,18 +29954,18 @@
   "releases": {},
   "assignee_workload": {
     "Akash Kushwaha": {
-      "bugs": 1,
+      "bugs": 6,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 3
+      "total": 8
     },
-    "vzyfeedback": {
-      "bugs": 1318,
-      "tasks": 294,
-      "subtasks": 9,
+    "Karan Mahboobani": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 2,
       "stories": 0,
-      "total": 1625
+      "total": 12
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -29974,19 +29974,33 @@
       "stories": 0,
       "total": 10
     },
+    "avinash waghmare": {
+      "bugs": 5,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
+    "vzyfeedback": {
+      "bugs": 1313,
+      "tasks": 294,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1620
+    },
     "Unassigned": {
       "bugs": 73,
       "tasks": 37,
       "subtasks": 0,
       "stories": 0,
       "total": 117
-    },
-    "Karan Mahboobani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
     },
     "BalaKumar": {
       "bugs": 12,
@@ -30038,18 +30052,11 @@
       "total": 3
     },
     "Ajay Kushwaha": {
-      "bugs": 13,
+      "bugs": 12,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
-    },
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
+      "total": 14
     },
     "Vikas Mishra": {
       "bugs": 38,
@@ -30142,13 +30149,6 @@
       "stories": 0,
       "total": 1
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 12,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 32
-    },
     "shadab Hussain": {
       "bugs": 4,
       "tasks": 4,
@@ -30216,10 +30216,10 @@
   "priority_breakdown": {
     "Medium": 799,
     "Highest": 348,
-    "High": 461,
     "Low": 29,
+    "High": 461,
     "Lowest": 2
   },
-  "updated_at": "2026-03-02T11:46:29Z",
+  "updated_at": "2026-03-02T13:35:48Z",
   "total_issues": 2155
 }
