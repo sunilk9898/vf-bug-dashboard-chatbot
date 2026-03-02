@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-1752",
+      "summary": "CP logos on thumbnails",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-01-20",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-933",
+      "summary": "Paid Live Content with Nagra DRM not working ",
+      "status": "Duplicate",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2025-12-04",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2272",
+      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2291",
+      "summary": "TV: Resume playback not working for Discovery+ content",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2214",
+      "summary": "(Tamanna) - Multiple fancode live matches not playing.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2162",
       "summary": "(Shruti) Blank screen appears on TV when screencasting content",
       "status": "Ready For Test",
@@ -533,20 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2214",
-      "summary": "(Tamanna) - Multiple fancode live matches not playing.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2225",
       "summary": "(Tamanna) - Sonyliv content \"The Kapil Sharma Show\" getting 0 episodes.",
       "status": "Closed",
@@ -581,20 +651,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2272",
-      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-02-25",
       "updated": "2026-03-02",
       "duedate": "",
@@ -781,20 +837,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-933",
-      "summary": "Paid Live Content with Nagra DRM not working ",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2025-12-04",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1086,20 +1128,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-21",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -3410,20 +3438,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-02-17",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2291",
-      "summary": "TV: Resume playback not working for Discovery+ content",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -6253,20 +6267,6 @@
       "platform": "ANDROID",
       "created": "2026-01-23",
       "updated": "2026-02-04",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1752",
-      "summary": "CP logos on thumbnails",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-01-20",
-      "updated": "2026-02-03",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -29905,10 +29905,10 @@
       "stories": 0,
       "total": 48,
       "statuses": {
+        "In Progress": 4,
         "Ready For Test": 12,
         "Closed": 26,
         "On Hold- For Clarification": 2,
-        "In Progress": 4,
         "Dev Complete": 2,
         "Invalid": 1,
         "Issue Accepted": 1
@@ -29953,12 +29953,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 1,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 3
+    },
     "vzyfeedback": {
       "bugs": 1318,
       "tasks": 294,
       "subtasks": 9,
       "stories": 0,
       "total": 1625
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
     },
     "Unassigned": {
       "bugs": 73,
@@ -29968,11 +29982,11 @@
       "total": 117
     },
     "Karan Mahboobani": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 12
+      "total": 11
     },
     "BalaKumar": {
       "bugs": 12,
@@ -29994,13 +30008,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 35
-    },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "devaraj": {
       "bugs": 7,
@@ -30050,13 +30057,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 40
-    },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 2
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -30214,12 +30214,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 799,
     "Highest": 348,
     "High": 461,
-    "Medium": 799,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-03-02T11:03:18Z",
+  "updated_at": "2026-03-02T11:46:29Z",
   "total_issues": 2155
 }
