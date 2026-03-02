@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2353",
+      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2221",
+      "summary": "Hotstar content thumbnail issue : Kaltura Issue",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-933",
       "summary": "Paid Live Content with Nagra DRM not working ",
       "status": "Parked",
@@ -53,20 +81,6 @@
       "updated": "2026-03-01",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2353",
-      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-01",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -4179,20 +4193,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "Unknown",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2221",
-      "summary": "Hotstar content thumbnail issue : Kaltura Issue",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
@@ -22949,6 +22949,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-1917",
+      "summary": "Brand colour changes within the app",
+      "status": "Parked",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-02",
+      "duedate": "2026-03-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1073",
+      "summary": "Sony LIV Integration (Ad Integration & Linear channel)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-03-02",
+      "duedate": "2025-12-15",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-818",
       "summary": "Playback / Player\tListing of Episodes",
       "status": "In Progress",
@@ -22956,9 +22984,37 @@
       "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2025-11-28",
-      "updated": "2026-03-01",
+      "updated": "2026-03-02",
       "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (27 Feb 2026)",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1927",
+      "summary": "Namma Flix Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2066",
+      "summary": "Branch.io with Custom integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-10",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -23271,20 +23327,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1927",
-      "summary": "Namma Flix Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-451",
       "summary": "Comprehensive list of all Nudge",
       "status": "In Progress",
@@ -23320,20 +23362,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-12",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2066",
-      "summary": "Branch.io with Custom integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-10",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -23971,20 +23999,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1073",
-      "summary": "Sony LIV Integration (Ad Integration & Linear channel)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2026-02-17",
-      "duedate": "2025-12-15",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2078",
       "summary": "Enable Help & Feedback Link in Staging Environment",
       "status": "Ready For Test",
@@ -24176,20 +24190,6 @@
       "created": "2026-02-04",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1917",
-      "summary": "Brand colour changes within the app",
-      "status": "Parked",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-13",
-      "duedate": "2026-02-28",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -29844,12 +29844,12 @@
   "sprints": {
     "VZY Sprint (16 March 2026)": {
       "bugs": 2,
-      "tasks": 4,
+      "tasks": 8,
       "subtasks": 0,
       "stories": 0,
-      "total": 6,
+      "total": 10,
       "statuses": {
-        "In Progress": 1,
+        "In Progress": 5,
         "Issue Accepted": 1,
         "Invalid": 1,
         "Open": 3
@@ -29857,19 +29857,19 @@
     },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 33,
-      "tasks": 19,
+      "tasks": 15,
       "subtasks": 0,
       "stories": 0,
-      "total": 52,
+      "total": 48,
       "statuses": {
+        "Closed": 25,
         "Ready For Test": 10,
-        "In Progress": 8,
-        "Closed": 24,
         "On Hold- For Clarification": 2,
         "Testing On hold": 2,
+        "In Progress": 4,
         "Dev Complete": 3,
-        "Issue Accepted": 2,
-        "Invalid": 1
+        "Invalid": 1,
+        "Issue Accepted": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -29899,11 +29899,39 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1316,
+      "bugs": 1317,
       "tasks": 293,
       "subtasks": 9,
       "stories": 0,
-      "total": 1622
+      "total": 1623
+    },
+    "Akash Kushwaha": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 2
+    },
+    "BalaKumar": {
+      "bugs": 12,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 22
+    },
+    "Dinjit Dinesh": {
+      "bugs": 15,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "avinash waghmare": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
     },
     "abhilash.ramesh": {
       "bugs": 10,
@@ -29918,20 +29946,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "BalaKumar": {
-      "bugs": 12,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 22
-    },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
     },
     "Javed Ali": {
       "bugs": 30,
@@ -29967,13 +29981,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 18
-    },
-    "avinash waghmare": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -30024,13 +30031,6 @@
       "stories": 0,
       "total": 3
     },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
     "Unassigned": {
       "bugs": 73,
       "tasks": 33,
@@ -30073,6 +30073,13 @@
       "stories": 0,
       "total": 10
     },
+    "Vikas Mishra": {
+      "bugs": 37,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
     "Chiranjit Chatterjee": {
       "bugs": 1,
       "tasks": 0,
@@ -30093,13 +30100,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Akash Kushwaha": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 2
     },
     "Amit Kumar Tiwari": {
       "bugs": 4,
@@ -30159,12 +30159,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 348,
     "Medium": 799,
+    "Highest": 348,
     "High": 461,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-03-02T03:11:47Z",
+  "updated_at": "2026-03-02T04:58:52Z",
   "total_issues": 2151
 }
