@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "2026-03-02",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2335",
+      "summary": "TV: Next Episode button missing and selected episode not playing in \"Plants Behaving Badly\" series",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2171",
+      "summary": "TV: Video resumes automatically after being paused",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2269",
+      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the next sequential episode. The defect is not fixed.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2327",
+      "summary": "TV: Issue is still reproducible in the latest build, Video resumes automatically after being paused",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2320",
       "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
       "status": "Reopened",
@@ -24,20 +108,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-02",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2381",
-      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
-      "status": "In Progress",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "2026-03-02",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -197,20 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2162",
       "summary": "(Shruti) Blank screen appears on TV when screencasting content",
       "status": "Ready For Test",
@@ -232,20 +288,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2171",
-      "summary": "TV: Video resumes automatically after being paused",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3109,20 +3151,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2335",
-      "summary": "TV: Next Episode button missing and selected episode not playing in \"Plants Behaving Badly\" series",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2121",
       "summary": "(Tamanna) - Issue with Pittara Live Channel \u2013 Auto Pause and Continuous Closure.",
       "status": "Closed",
@@ -3227,20 +3255,6 @@
       "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2327",
-      "summary": "TV: Issue is still reproducible in the latest build, Video resumes automatically after being paused",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
       "created": "2026-02-26",
       "updated": "2026-02-26",
       "duedate": "",
@@ -3508,20 +3522,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-02-17",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2269",
-      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the next sequential episode. The defect is not fixed.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29905,10 +29905,10 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "In Progress": 4,
-        "Ready For Test": 12,
+        "Ready For Test": 13,
         "Closed": 26,
         "On Hold- For Clarification": 2,
+        "In Progress": 3,
         "Dev Complete": 2,
         "Invalid": 1,
         "Issue Accepted": 1
@@ -29953,6 +29953,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1318,
+      "tasks": 294,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1625
+    },
+    "Yashika Krishnani": {
+      "bugs": 7,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
     "Akash Kushwaha": {
       "bugs": 6,
       "tasks": 1,
@@ -29961,18 +29975,11 @@
       "total": 8
     },
     "Karan Mahboobani": {
-      "bugs": 9,
+      "bugs": 5,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 12
-    },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
+      "total": 8
     },
     "avinash waghmare": {
       "bugs": 5,
@@ -29987,13 +29994,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "vzyfeedback": {
-      "bugs": 1313,
-      "tasks": 294,
-      "subtasks": 9,
-      "stories": 0,
-      "total": 1620
     },
     "Unassigned": {
       "bugs": 73,
@@ -30214,12 +30214,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 461,
+    "Low": 29,
     "Medium": 799,
     "Highest": 348,
-    "Low": 29,
-    "High": 461,
     "Lowest": 2
   },
-  "updated_at": "2026-03-02T13:35:48Z",
+  "updated_at": "2026-03-02T15:00:14Z",
   "total_issues": 2155
 }
