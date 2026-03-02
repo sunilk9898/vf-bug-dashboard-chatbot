@@ -90,10 +90,10 @@
     },
     "WEB": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 3,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 0,
       "PARKED": 0
     },
     "Unknown": {
@@ -105,7 +105,7 @@
       "PARKED": 1
     }
   },
-  "updated_at": "2026-03-02T10:06:42Z",
-  "total_issues_fetched": 2153,
+  "updated_at": "2026-03-02T11:03:18Z",
+  "total_issues_fetched": 2155,
   "project": "VF"
 }
