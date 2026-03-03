@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2272",
+      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2353",
       "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
       "status": "Ready For Test",
@@ -22,20 +50,6 @@
       "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2272",
-      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -78,20 +92,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29982,6 +29982,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
     "vzyfeedback": {
       "bugs": 1322,
       "tasks": 294,
@@ -30002,13 +30009,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 36
-    },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
     },
     "Karan Mahboobani": {
       "bugs": 5,
@@ -30243,12 +30243,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 461,
     "Medium": 799,
     "Highest": 350,
-    "High": 461,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T07:11:33Z",
+  "updated_at": "2026-03-03T07:55:48Z",
   "total_issues": 2157
 }
