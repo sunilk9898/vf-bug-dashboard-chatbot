@@ -1,6 +1,174 @@
 {
   "bugs": [
     {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2405",
+      "summary": "TV: The Watch Now button is displayed for series marked as Coming Soon.",
+      "status": "Duplicate",
+      "priority": "Low",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-02",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2343",
+      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2410",
+      "summary": " Fliqs journey for guest user",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2409",
+      "summary": " Fliqs journey for guest user",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2278",
+      "summary": "Series player iconography",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2178",
+      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2313",
+      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2294",
+      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2374",
+      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2279",
       "summary": "Search functionality",
       "status": "Testing On hold",
@@ -36,34 +204,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-27",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2410",
-      "summary": " Fliqs journey for guest user",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2294",
-      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -225,20 +365,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2405",
-      "summary": "TV: The Watch Now button is displayed for series marked as Coming Soon.",
-      "status": "In Progress",
-      "priority": "Low",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-02",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2257",
       "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
       "status": "Closed",
@@ -281,48 +407,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2374",
-      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-03-05",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2278",
-      "summary": "Series player iconography",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2178",
-      "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2227",
       "summary": "Mobile: Incorrect device model is displayed in the application shows iPhone 14 Pro instead of iPhone 14.",
       "status": "Closed",
@@ -330,20 +414,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2409",
-      "summary": " Fliqs journey for guest user",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-03",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -400,20 +470,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2343",
-      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -533,20 +589,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2354",
       "summary": "Mobile: Incorrect Search Result \u2013 \u201cColors Kannada\u201d Displays \u201cColors Hindi\u201d Channel",
       "status": "Closed",
@@ -617,20 +659,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2272",
       "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
       "status": "Reopened",
@@ -640,20 +668,6 @@
       "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2313",
-      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-02-27",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -694,20 +708,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-09",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -29940,6 +29940,24 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 33,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 48,
+      "statuses": {
+        "Testing On hold": 1,
+        "Ready For Test": 8,
+        "Closed": 28,
+        "Dev Complete": 3,
+        "Reopened": 1,
+        "On Hold- For Clarification": 2,
+        "In Progress": 3,
+        "Invalid": 1,
+        "Issue Accepted": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 2,
       "tasks": 8,
@@ -29952,23 +29970,6 @@
         "Issue Accepted": 1,
         "Invalid": 1,
         "Open": 3
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 33,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 48,
-      "statuses": {
-        "Ready For Test": 8,
-        "Closed": 28,
-        "Dev Complete": 4,
-        "Reopened": 1,
-        "On Hold- For Clarification": 2,
-        "In Progress": 3,
-        "Invalid": 1,
-        "Issue Accepted": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -30004,33 +30005,12 @@
       "stories": 0,
       "total": 22
     },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Javed Ali": {
-      "bugs": 30,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 35
-    },
     "vzyfeedback": {
-      "bugs": 1326,
+      "bugs": 1327,
       "tasks": 294,
       "subtasks": 9,
       "stories": 0,
-      "total": 1633
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
+      "total": 1634
     },
     "Karan Mahboobani": {
       "bugs": 6,
@@ -30039,12 +30019,26 @@
       "stories": 0,
       "total": 9
     },
-    "shadab Hussain": {
+    "Javed Ali": {
+      "bugs": 30,
+      "tasks": 2,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 35
+    },
+    "Yashika Krishnani": {
       "bugs": 5,
-      "tasks": 4,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 7
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "Akash Kushwaha": {
       "bugs": 7,
@@ -30193,6 +30187,13 @@
       "stories": 0,
       "total": 1
     },
+    "shadab Hussain": {
+      "bugs": 4,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
     "Amit Kumar Tiwari": {
       "bugs": 4,
       "tasks": 5,
@@ -30258,12 +30259,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 350,
-    "Low": 30,
     "High": 462,
     "Medium": 800,
+    "Low": 30,
+    "Highest": 350,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T13:33:28Z",
+  "updated_at": "2026-03-03T14:00:16Z",
   "total_issues": 2158
 }
