@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2354",
+      "summary": "Mobile: Incorrect Search Result \u2013 \u201cColors Kannada\u201d Displays \u201cColors Hindi\u201d Channel",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2362",
+      "summary": "Mobile: Sony Pix channel icon not displayed correctly in Sony Liv category under Live TV.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2385",
+      "summary": "Mobile: Spelling mistake observed in the Notification text.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2207",
+      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2302",
+      "summary": "Web--Next Episode\" button is not functioning as expected",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2386",
+      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2279",
+      "summary": "Search functionality",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2212",
       "summary": "Carousel banner images",
       "status": "Dev Complete",
@@ -211,20 +323,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2207",
-      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "In Progress",
@@ -400,20 +498,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-02-27",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2302",
-      "summary": "Web--Next Episode\" button is not functioning as expected",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -771,34 +855,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2385",
-      "summary": "Mobile: Spelling mistake observed in the Notification text.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2386",
-      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2387",
       "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
       "status": "Ready For Test",
@@ -889,20 +945,6 @@
       "priority": "High",
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2354",
-      "summary": "Mobile: Incorrect Search Result \u2013 \u201cColors Kannada\u201d Displays \u201cColors Hindi\u201d Channel",
-      "status": "Not Reproducible",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-03-02",
       "duedate": "",
@@ -1457,20 +1499,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2362",
-      "summary": "Mobile: Sony Pix channel icon not displayed correctly in Sony Liv category under Live TV.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-03-05",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2344",
       "summary": "TV: While navigating through the left-side navigation panel, the home screen navigates in the background behind the navigation panel.",
       "status": "Not Reproducible",
@@ -1702,20 +1730,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2279",
-      "summary": "Search functionality",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5049,20 +5063,6 @@
       "platform": "ATV",
       "created": "2026-02-09",
       "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2143",
-      "summary": "Clevertap event integration - Fire Tv",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-02-19",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -22977,6 +22977,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2110",
+      "summary": "Not getting UTM Source in Deeplink ",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-12",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1766",
       "summary": "Profile Management",
       "status": "Ready For Test",
@@ -23435,20 +23449,6 @@
       "updated": "2026-02-26",
       "duedate": "2026-01-15",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2110",
-      "summary": "Not getting UTM Source in Deeplink ",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-12",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -29933,10 +29933,10 @@
       "stories": 0,
       "total": 48,
       "statuses": {
+        "Closed": 28,
         "Dev Complete": 4,
-        "Closed": 27,
         "Reopened": 1,
-        "Ready For Test": 9,
+        "Ready For Test": 8,
         "On Hold- For Clarification": 2,
         "In Progress": 3,
         "Invalid": 1,
@@ -29982,19 +29982,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1323,
+      "tasks": 294,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1630
+    },
+    "BalaKumar": {
+      "bugs": 12,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 22
+    },
+    "Karan Mahboobani": {
+      "bugs": 5,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 8
+    },
     "Alok Gupta": {
       "bugs": 16,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "vzyfeedback": {
-      "bugs": 1322,
-      "tasks": 294,
-      "subtasks": 9,
-      "stories": 0,
-      "total": 1629
     },
     "shadab Hussain": {
       "bugs": 5,
@@ -30009,20 +30023,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 36
-    },
-    "Karan Mahboobani": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 8
-    },
-    "BalaKumar": {
-      "bugs": 12,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 22
     },
     "devaraj": {
       "bugs": 8,
@@ -30044,13 +30044,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 18
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
     },
     "Yashika Krishnani": {
       "bugs": 5,
@@ -30150,6 +30143,13 @@
       "stories": 0,
       "total": 3
     },
+    "Ajay Kushwaha": {
+      "bugs": 11,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
     "Moore Meghana": {
       "bugs": 9,
       "tasks": 2,
@@ -30243,12 +30243,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 461,
     "Medium": 799,
-    "Highest": 350,
     "Low": 29,
+    "Highest": 350,
+    "High": 461,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T07:55:48Z",
+  "updated_at": "2026-03-03T09:00:33Z",
   "total_issues": 2157
 }
