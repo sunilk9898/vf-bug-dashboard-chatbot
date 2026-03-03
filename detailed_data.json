@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2335",
+      "summary": "TV: Next Episode button missing and selected episode not playing in \"Plants Behaving Badly\" series",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2411",
+      "summary": "Wrong 2:3 Jiohotstar thumbnails",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2269",
+      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the next sequential episode. The defect is not fixed.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2343",
+      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2386",
+      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2409",
+      "summary": " Fliqs journey for guest user",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2330",
+      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2284",
+      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2292",
+      "summary": "TV: Episode are excessively divided than the official episodes announced, audio has only Hindi and none option .",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2387",
+      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2255",
+      "summary": "Mobile: Voice search captures the user voice input but displays incorrect or irrelevant content.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2354",
       "summary": "Mobile: Incorrect Search Result \u2013 \u201cColors Kannada\u201d Displays \u201cColors Hindi\u201d Channel",
       "status": "Closed",
@@ -66,20 +248,6 @@
       "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2386",
-      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-02-27",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -155,20 +323,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2409",
-      "summary": " Fliqs journey for guest user",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2278",
       "summary": "Series player iconography",
       "status": "Reopened",
@@ -192,20 +346,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-03",
       "duedate": "2026-03-05",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -505,20 +645,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2335",
-      "summary": "TV: Next Episode button missing and selected episode not playing in \"Plants Behaving Badly\" series",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2171",
       "summary": "TV: Video resumes automatically after being paused",
       "status": "Ready For Test",
@@ -526,20 +652,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2269",
-      "summary": "TV: Clicking on \"Next Episode\" plays a random episode instead of the next sequential episode. The defect is not fixed.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -729,34 +841,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2343",
-      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2255",
-      "summary": "Mobile: Voice search captures the user voice input but displays incorrect or irrelevant content.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1980",
       "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
       "status": "Ready For Test",
@@ -855,20 +939,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2387",
-      "summary": "Mobile: After deleting a profile, the deleted profile continues to appear in the profile list",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2287",
       "summary": "TV: Duplicate movie entry shows subscription prompt for the same account",
       "status": "Closed",
@@ -911,20 +981,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2292",
-      "summary": "TV: Episode are excessively divided than the official episodes announced, audio has only Hindi and none option .",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2192",
       "summary": "TV(Samsung TV/LG TV ):Season number and episode number not displayed in episode list",
       "status": "Ready For Test",
@@ -932,20 +988,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-02-23",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2330",
-      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-26",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1114,20 +1156,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-24",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2284",
-      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3133,20 +3161,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly ",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -22977,6 +22991,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1971",
+      "summary": "Parameter need to pass from VZY to plan & offer",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2110",
       "summary": "Not getting UTM Source in Deeplink ",
       "status": "Closed",
@@ -23043,20 +23071,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1971",
-      "summary": "Parameter need to pass from VZY to plan & offer",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (31 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -29933,10 +29947,10 @@
       "stories": 0,
       "total": 48,
       "statuses": {
+        "Ready For Test": 8,
         "Closed": 28,
         "Dev Complete": 4,
         "Reopened": 1,
-        "Ready For Test": 8,
         "On Hold- For Clarification": 2,
         "In Progress": 3,
         "Invalid": 1,
@@ -29983,11 +29997,53 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1323,
+      "bugs": 1322,
       "tasks": 294,
       "subtasks": 9,
       "stories": 0,
-      "total": 1630
+      "total": 1629
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Javed Ali": {
+      "bugs": 32,
+      "tasks": 2,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 37
+    },
+    "shadab Hussain": {
+      "bugs": 5,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Kiran JR": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
     },
     "BalaKumar": {
       "bugs": 12,
@@ -30002,27 +30058,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 8
-    },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
-    "shadab Hussain": {
-      "bugs": 5,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
-    "Javed Ali": {
-      "bugs": 31,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 36
     },
     "devaraj": {
       "bugs": 8,
@@ -30072,20 +30107,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 116
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
-    "Kiran JR": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -30243,12 +30264,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 799,
+    "High": 461,
+    "Medium": 800,
     "Low": 29,
     "Highest": 350,
-    "High": 461,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T09:00:33Z",
-  "total_issues": 2157
+  "updated_at": "2026-03-03T10:01:01Z",
+  "total_issues": 2158
 }
