@@ -1,9 +1,9 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
-      "REOPENED": 1,
+      "REOPENED": 3,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 4,
       "PARKED": 1
@@ -49,7 +49,7 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -90,14 +90,14 @@
     },
     "WEB": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-03T03:14:20Z",
-  "total_issues_fetched": 2155,
+  "updated_at": "2026-03-03T04:58:37Z",
+  "total_issues_fetched": 2157,
   "project": "VF"
 }

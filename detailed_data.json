@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2409",
+      "summary": " Fliqs journey for guest user",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "IOS",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2397",
+      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2410",
+      "summary": " Fliqs journey for guest user",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ANDROID",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2353",
+      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2250",
+      "summary": "Mobile: \"Watch Now\" and Play button not functioning - Video not playing",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2221",
+      "summary": "Hotstar content thumbnail issue : Kaltura Issue",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2220",
+      "summary": "Sports Videos tagged as movie : Kaltura Issue",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1084",
+      "summary": "Content related\u00a0",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2025-12-09",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2320",
+      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1752",
+      "summary": "CP logos on thumbnails",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-01-20",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2124",
       "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
       "status": "Reopened",
@@ -99,20 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2381",
       "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
       "status": "Dev Complete",
@@ -122,20 +290,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-02",
       "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2320",
-      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -239,20 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1752",
-      "summary": "CP logos on thumbnails",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-01-20",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-933",
       "summary": "Paid Live Content with Nagra DRM not working ",
       "status": "Duplicate",
@@ -332,20 +472,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-02",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2397",
-      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "2026-03-05",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -431,20 +557,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -981,34 +1093,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2353",
-      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2221",
-      "summary": "Hotstar content thumbnail issue : Kaltura Issue",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2086",
       "summary": "Fancode content is appearing on New On VZY rail",
       "status": "In Progress",
@@ -1019,20 +1103,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-03-01",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1555,20 +1625,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1084",
-      "summary": "Content related\u00a0",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2025-12-09",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2222",
       "summary": "Web: Episode not playing despite being marked as Free.",
       "status": "Closed",
@@ -1800,20 +1856,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2250",
-      "summary": "Mobile: \"Watch Now\" and Play button not functioning - Video not playing",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3441,20 +3483,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2220",
-      "summary": "Sports Videos tagged as movie : Kaltura Issue",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -29905,8 +29933,9 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "Ready For Test": 13,
+        "Reopened": 2,
         "Closed": 26,
+        "Ready For Test": 11,
         "On Hold- For Clarification": 2,
         "In Progress": 3,
         "Dev Complete": 2,
@@ -29953,19 +29982,47 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Unassigned": {
+      "bugs": 74,
+      "tasks": 37,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 118
+    },
+    "vzyfeedback": {
+      "bugs": 1322,
+      "tasks": 294,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1629
+    },
+    "Javed Ali": {
+      "bugs": 31,
+      "tasks": 2,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 36
+    },
+    "BalaKumar": {
+      "bugs": 11,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 21
+    },
+    "Akash Kushwaha": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 8
+    },
     "Manikanta P": {
       "bugs": 7,
       "tasks": 10,
       "subtasks": 0,
       "stories": 1,
       "total": 18
-    },
-    "vzyfeedback": {
-      "bugs": 1318,
-      "tasks": 294,
-      "subtasks": 9,
-      "stories": 0,
-      "total": 1625
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -29981,13 +30038,6 @@
       "stories": 0,
       "total": 9
     },
-    "Akash Kushwaha": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 8
-    },
     "Karan Mahboobani": {
       "bugs": 5,
       "tasks": 1,
@@ -29996,11 +30046,11 @@
       "total": 8
     },
     "avinash waghmare": {
-      "bugs": 5,
+      "bugs": 3,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 7
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -30009,33 +30059,12 @@
       "stories": 0,
       "total": 33
     },
-    "Unassigned": {
-      "bugs": 73,
-      "tasks": 37,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 117
-    },
-    "BalaKumar": {
-      "bugs": 12,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 22
-    },
     "abhilash.ramesh": {
       "bugs": 9,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Javed Ali": {
-      "bugs": 30,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 35
     },
     "devaraj": {
       "bugs": 7,
@@ -30064,13 +30093,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 3
-    },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -30141,6 +30163,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 10
+    },
+    "Vikas Mishra": {
+      "bugs": 37,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
     },
     "Chiranjit Chatterjee": {
       "bugs": 1,
@@ -30214,12 +30243,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 350,
     "High": 461,
     "Medium": 799,
     "Low": 29,
-    "Highest": 348,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T03:14:20Z",
-  "total_issues": 2155
+  "updated_at": "2026-03-03T04:58:37Z",
+  "total_issues": 2157
 }
