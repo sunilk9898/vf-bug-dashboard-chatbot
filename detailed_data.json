@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2278",
+      "summary": "Series player iconography",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2279",
+      "summary": "Search functionality",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2280",
+      "summary": "16:9 carousel metadata dots",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2333",
+      "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-03-02",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2302",
+      "summary": "Web--Next Episode\" button is not functioning as expected",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2397",
+      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-03-05",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2197",
       "summary": "Refresh screen functionality",
       "status": "Ready For Test",
@@ -109,62 +235,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2278",
-      "summary": "Series player iconography",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2279",
-      "summary": "Search functionality",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2381",
-      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-03-02",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1639,20 +1709,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2302",
-      "summary": "Web--Next Episode\" button is not functioning as expected",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2303",
       "summary": "Web: Live playback does not start for ATP-500 Abierto Mexicano and Women\u2019s National League 2025-26 despite Live tag being displayed, Fancode contents",
       "status": "Closed",
@@ -2255,20 +2311,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2397",
-      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-03-05",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2401",
       "summary": "(Shivani) - After sharing the content on another platform, when I click the same shared link, I am redirected to the web app instead of the mobile app.",
       "status": "Closed",
@@ -2528,20 +2570,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2143",
-      "summary": "Clevertap event integration - Fire Tv",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3109,20 +3137,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2280",
-      "summary": "16:9 carousel metadata dots",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2328",
       "summary": "TV: Incorrect spelling of \"Kabaddi\" displayed as \"Kabbadi\" in Sports section",
       "status": "OnHold-For Vivre Setup",
@@ -3270,20 +3284,6 @@
       "assignee": "devaraj",
       "platform": "LG_TV",
       "created": "2026-02-23",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2333",
-      "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30000,6 +30000,13 @@
       "stories": 0,
       "total": 1652
     },
+    "Karan Mahboobani": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 9
+    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 6,
@@ -30083,13 +30090,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Karan Mahboobani": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 9
     },
     "Akash Kushwaha": {
       "bugs": 6,
@@ -30254,12 +30254,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 800,
-    "Highest": 350,
     "High": 462,
+    "Highest": 350,
     "Low": 30,
+    "Medium": 800,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T17:07:23Z",
+  "updated_at": "2026-03-03T18:00:00Z",
   "total_issues": 2158
 }
