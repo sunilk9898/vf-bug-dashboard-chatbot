@@ -1,8 +1,260 @@
 {
   "bugs": [
     {
+      "key": "VF-2279",
+      "summary": "Search functionality",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-03-02",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-27",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2410",
+      "summary": " Fliqs journey for guest user",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2294",
       "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2386",
+      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2312",
+      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2086",
+      "summary": "Fancode content is appearing on New On VZY rail",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2336",
+      "summary": "(Shivani) Channel guide",
+      "status": "Duplicate",
+      "priority": "Highest",
+      "assignee": "Karan Mahboobani",
+      "platform": "LG_TV",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2406",
+      "summary": "Tv: No Channels Loaded in Channel Guide",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-02",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2364",
+      "summary": "Mobile: Incorrect Related Content Display \u2013 Cricket Highlights Shown Under La Liga Videos",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2250",
+      "summary": "Mobile: \"Watch Now\" and Play button not functioning - Video not playing",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2353",
+      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2327",
+      "summary": "TV: Issue is still reproducible in the latest build, Video resumes automatically after being paused",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2264",
+      "summary": "Mobile: Downloaded content is shared across profiles and deletion in one profile reflects in another profile",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2260",
+      "summary": "Mobile: Episode duration displayed as 0 min for content under Australian Open category in Sports section",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2405",
+      "summary": "TV: The Watch Now button is displayed for series marked as Coming Soon.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-02",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2257",
+      "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2284",
+      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
       "status": "Ready For Test",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -43,20 +295,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2406",
-      "summary": "Tv: No Channels Loaded in Channel Guide",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-02",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2278",
       "summary": "Series player iconography",
       "status": "Dev Complete",
@@ -66,34 +304,6 @@
       "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2405",
-      "summary": "TV: The Watch Now button is displayed for series marked as Coming Soon.",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-02",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2386",
-      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-02-27",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -134,20 +344,6 @@
       "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-27",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -295,20 +491,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2284",
-      "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2292",
       "summary": "TV: Episode are excessively divided than the official episodes announced, audio has only Hindi and none option .",
       "status": "Closed",
@@ -435,20 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2279",
-      "summary": "Search functionality",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2212",
       "summary": "Carousel banner images",
       "status": "Dev Complete",
@@ -470,20 +638,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2353",
-      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -561,20 +715,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2410",
-      "summary": " Fliqs journey for guest user",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "In Progress",
@@ -610,20 +750,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2250",
-      "summary": "Mobile: \"Watch Now\" and Play button not functioning - Video not playing",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -750,48 +876,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2327",
-      "summary": "TV: Issue is still reproducible in the latest build, Video resumes automatically after being paused",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2381",
-      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2336",
-      "summary": "(Shivani) Channel guide",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Karan Mahboobani",
-      "platform": "LG_TV",
-      "created": "2026-02-26",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -939,20 +1023,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2364",
-      "summary": "Mobile: Incorrect Related Content Display \u2013 Cricket Highlights Shown Under La Liga Videos",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2161",
       "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
       "status": "Ready For Test",
@@ -969,48 +1039,6 @@
     {
       "key": "VF-2244",
       "summary": "Mobile: Duplicate audio language options are displayed in the audio selection menu during video playback.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2257",
-      "summary": "Mobile: No confirmation message on removing item from wishlist and wishlist not updating instantly",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2260",
-      "summary": "Mobile: Episode duration displayed as 0 min for content under Australian Open category in Sports section",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2264",
-      "summary": "Mobile: Downloaded content is shared across profiles and deletion in one profile reflects in another profile",
       "status": "Ready For Test",
       "priority": "High",
       "assignee": "Javed Ali",
@@ -1369,20 +1397,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2086",
-      "summary": "Fancode content is appearing on New On VZY rail",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2192,20 +2206,6 @@
       "assignee": "vzyfeedback",
       "platform": "Kaltura",
       "created": "2026-01-13",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2312",
-      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29940,6 +29940,20 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 2,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10,
+      "statuses": {
+        "Dev Complete": 1,
+        "In Progress": 4,
+        "Issue Accepted": 1,
+        "Invalid": 1,
+        "Open": 3
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 33,
       "tasks": 15,
@@ -29967,19 +29981,6 @@
         "Reopened": 1
       }
     },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 2,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10,
-      "statuses": {
-        "In Progress": 5,
-        "Issue Accepted": 1,
-        "Invalid": 1,
-        "Open": 3
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 18,
@@ -29996,13 +29997,6 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1325,
-      "tasks": 294,
-      "subtasks": 9,
-      "stories": 0,
-      "total": 1632
-    },
     "Alok Gupta": {
       "bugs": 18,
       "tasks": 4,
@@ -30010,12 +30004,40 @@
       "stories": 0,
       "total": 22
     },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "Javed Ali": {
       "bugs": 30,
       "tasks": 2,
       "subtasks": 3,
       "stories": 0,
       "total": 35
+    },
+    "vzyfeedback": {
+      "bugs": 1326,
+      "tasks": 294,
+      "subtasks": 9,
+      "stories": 0,
+      "total": 1633
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Karan Mahboobani": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 9
     },
     "shadab Hussain": {
       "bugs": 5,
@@ -30038,27 +30060,6 @@
       "stories": 0,
       "total": 21
     },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
-    "Kiran JR": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
-    "Karan Mahboobani": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 8
-    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
@@ -30072,13 +30073,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 18
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "avinash waghmare": {
       "bugs": 2,
@@ -30157,12 +30151,12 @@
       "stories": 0,
       "total": 3
     },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 2,
+    "Kiran JR": {
+      "bugs": 7,
+      "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 8
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30205,6 +30199,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
+    },
+    "Ajay Kushwaha": {
+      "bugs": 10,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -30257,12 +30258,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 462,
     "Highest": 350,
-    "Medium": 800,
     "Low": 30,
+    "High": 462,
+    "Medium": 800,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T11:48:13Z",
+  "updated_at": "2026-03-03T13:33:28Z",
   "total_issues": 2158
 }
