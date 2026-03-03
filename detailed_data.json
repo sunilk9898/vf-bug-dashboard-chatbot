@@ -1,6 +1,202 @@
 {
   "bugs": [
     {
+      "key": "VF-2353",
+      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2409",
+      "summary": " Fliqs journey for guest user",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2272",
+      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2278",
+      "summary": "Series player iconography",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2374",
+      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2313",
+      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-27",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2290",
+      "summary": "TV: Trailer/glimpse continues playing in background after starting playback (Inconsistent)",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2262",
+      "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2410",
+      "summary": " Fliqs journey for guest user",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2210",
       "summary": "Content Badges",
       "status": "Reopened",
@@ -22,20 +218,6 @@
       "assignee": "BalaKumar",
       "platform": "CMS Adaptor",
       "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2409",
-      "summary": " Fliqs journey for guest user",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-03",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -113,34 +295,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2397",
       "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
       "status": "Ready For Test",
@@ -150,20 +304,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-03",
       "duedate": "2026-03-05",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2410",
-      "summary": " Fliqs journey for guest user",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Unassigned",
-      "platform": "ANDROID",
-      "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -179,34 +319,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2353",
-      "summary": "Mobile: Layout distortion observed when user rapidly clicks microphone icon in About Us section under Help & Policy.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -491,20 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2272",
-      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2291",
       "summary": "TV: Resume playback not working for Discovery+ content",
       "status": "Ready For Test",
@@ -554,20 +652,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2290",
-      "summary": "TV: Trailer/glimpse continues playing in background after starting playback (Inconsistent)",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1373,39 +1457,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2313",
-      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2362",
       "summary": "Mobile: Sony Pix channel icon not displayed correctly in Sony Liv category under Live TV.",
       "status": "Onhold-For Tech Dependency",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "2026-03-05",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2374",
-      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
@@ -1435,20 +1491,6 @@
       "priority": "Medium",
       "assignee": "Namrata Kurariya",
       "platform": "WEB",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2278",
-      "summary": "Series player iconography",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
       "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
@@ -1506,20 +1548,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-02-20",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2633,20 +2661,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-27",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2382",
       "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
       "status": "Onhold-For Tech Dependency",
@@ -3690,20 +3704,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-06",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2262",
-      "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-25",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29933,12 +29933,12 @@
       "stories": 0,
       "total": 48,
       "statuses": {
+        "Dev Complete": 4,
         "Closed": 27,
-        "Reopened": 3,
+        "Reopened": 1,
         "Ready For Test": 9,
         "On Hold- For Clarification": 2,
         "In Progress": 3,
-        "Dev Complete": 2,
         "Invalid": 1,
         "Issue Accepted": 1
       }
@@ -29983,18 +29983,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1323,
+      "bugs": 1322,
       "tasks": 294,
       "subtasks": 9,
       "stories": 0,
-      "total": 1630
-    },
-    "BalaKumar": {
-      "bugs": 12,
-      "tasks": 9,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 22
+      "total": 1629
     },
     "shadab Hussain": {
       "bugs": 5,
@@ -30002,6 +29995,34 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Javed Ali": {
+      "bugs": 31,
+      "tasks": 2,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 36
+    },
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
+    "Karan Mahboobani": {
+      "bugs": 5,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 8
+    },
+    "BalaKumar": {
+      "bugs": 12,
+      "tasks": 9,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 22
     },
     "devaraj": {
       "bugs": 8,
@@ -30016,13 +30037,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 8
-    },
-    "Unassigned": {
-      "bugs": 73,
-      "tasks": 37,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 117
     },
     "Manikanta P": {
       "bugs": 7,
@@ -30039,18 +30053,11 @@
       "total": 14
     },
     "Yashika Krishnani": {
-      "bugs": 7,
+      "bugs": 5,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
-    },
-    "Karan Mahboobani": {
-      "bugs": 5,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 8
+      "total": 7
     },
     "avinash waghmare": {
       "bugs": 2,
@@ -30066,19 +30073,19 @@
       "stories": 0,
       "total": 33
     },
+    "Unassigned": {
+      "bugs": 72,
+      "tasks": 37,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 116
+    },
     "abhilash.ramesh": {
       "bugs": 9,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Javed Ali": {
-      "bugs": 29,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 34
     },
     "Kiran JR": {
       "bugs": 8,
@@ -30107,13 +30114,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 35
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -30243,12 +30243,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 461,
-    "Highest": 350,
     "Medium": 799,
+    "Highest": 350,
+    "High": 461,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T06:04:28Z",
+  "updated_at": "2026-03-03T07:11:33Z",
   "total_issues": 2157
 }
