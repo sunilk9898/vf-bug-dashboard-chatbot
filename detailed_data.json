@@ -1,16 +1,128 @@
 {
   "bugs": [
     {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2207",
+      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2409",
       "summary": " Fliqs journey for guest user",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Highest",
-      "assignee": "Unassigned",
+      "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-03",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2320",
+      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2357",
+      "summary": "Mobile: Incorrect episode playback observed in Shark Tank India Season 2 \u2014 Episode 50 plays instead of Episode 49.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2250",
+      "summary": "Mobile: \"Watch Now\" and Play button not functioning - Video not playing",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1759",
+      "summary": "CONTENT DETAIL PAGE UI ISSUES",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -99,20 +211,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2250",
-      "summary": "Mobile: \"Watch Now\" and Play button not functioning - Video not playing",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2221",
       "summary": "Hotstar content thumbnail issue : Kaltura Issue",
       "status": "Closed",
@@ -148,20 +246,6 @@
       "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2025-12-09",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2320",
-      "summary": "Web: Error popup displayed when clicking Cancel button on Red Eye content in Series section",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-26",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -547,20 +631,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2244",
       "summary": "Mobile: Duplicate audio language options are displayed in the audio selection menu during video playback.",
       "status": "Ready For Test",
@@ -694,20 +764,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-02-25",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1317,20 +1373,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2313",
       "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
       "status": "Issue Accepted",
@@ -1341,20 +1383,6 @@
       "updated": "2026-02-27",
       "duedate": "2026-02-27",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1759",
-      "summary": "CONTENT DETAIL PAGE UI ISSUES",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1631,20 +1659,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2207",
-      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-02-24",
       "updated": "2026-02-27",
       "duedate": "",
@@ -3086,20 +3100,6 @@
       "status": "On Hold- For Clarification",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2357",
-      "summary": "Mobile: Incorrect episode playback observed in Shark Tank India Season 2 \u2014 Episode 50 plays instead of Episode 49.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-26",
@@ -22977,6 +22977,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1766",
+      "summary": "Profile Management",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-01-21",
+      "updated": "2026-03-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2408",
       "summary": "(Tamanna) - Match Videos Not Available After ENG vs NZ \u2013 ICC T20 World Cup.",
       "status": "Open",
@@ -22998,20 +23012,6 @@
       "assignee": "Unassigned",
       "platform": "ATV",
       "created": "2026-03-02",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1766",
-      "summary": "Profile Management",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-01-21",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29933,9 +29933,9 @@
       "stories": 0,
       "total": 48,
       "statuses": {
-        "Reopened": 2,
-        "Closed": 26,
-        "Ready For Test": 11,
+        "Closed": 27,
+        "Reopened": 3,
+        "Ready For Test": 9,
         "On Hold- For Clarification": 2,
         "In Progress": 3,
         "Dev Complete": 2,
@@ -29982,33 +29982,33 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Unassigned": {
-      "bugs": 74,
-      "tasks": 37,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 118
-    },
     "vzyfeedback": {
-      "bugs": 1322,
+      "bugs": 1323,
       "tasks": 294,
       "subtasks": 9,
       "stories": 0,
-      "total": 1629
-    },
-    "Javed Ali": {
-      "bugs": 31,
-      "tasks": 2,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 36
+      "total": 1630
     },
     "BalaKumar": {
-      "bugs": 11,
+      "bugs": 12,
       "tasks": 9,
       "subtasks": 1,
       "stories": 0,
-      "total": 21
+      "total": 22
+    },
+    "shadab Hussain": {
+      "bugs": 5,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
     },
     "Akash Kushwaha": {
       "bugs": 6,
@@ -30016,6 +30016,13 @@
       "subtasks": 1,
       "stories": 0,
       "total": 8
+    },
+    "Unassigned": {
+      "bugs": 73,
+      "tasks": 37,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 117
     },
     "Manikanta P": {
       "bugs": 7,
@@ -30046,11 +30053,11 @@
       "total": 8
     },
     "avinash waghmare": {
-      "bugs": 3,
+      "bugs": 2,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 7
+      "total": 6
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -30066,12 +30073,12 @@
       "stories": 0,
       "total": 12
     },
-    "devaraj": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 1,
+    "Javed Ali": {
+      "bugs": 29,
+      "tasks": 2,
+      "subtasks": 3,
       "stories": 0,
-      "total": 9
+      "total": 34
     },
     "Kiran JR": {
       "bugs": 8,
@@ -30178,13 +30185,6 @@
       "stories": 0,
       "total": 1
     },
-    "shadab Hussain": {
-      "bugs": 4,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Amit Kumar Tiwari": {
       "bugs": 4,
       "tasks": 5,
@@ -30243,12 +30243,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 350,
     "High": 461,
+    "Highest": 350,
     "Medium": 799,
     "Low": 29,
     "Lowest": 2
   },
-  "updated_at": "2026-03-03T04:58:37Z",
+  "updated_at": "2026-03-03T06:04:28Z",
   "total_issues": 2157
 }
