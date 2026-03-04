@@ -23019,6 +23019,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-510",
+      "summary": "Trailer auto play",
+      "status": "In Progress",
+      "priority": "Lowest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-17",
+      "updated": "2026-03-04",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-251",
+      "summary": "Playback / Player: Change Seasons",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Moore Meghana",
+      "platform": "LG_TV",
+      "created": "2025-11-10",
+      "updated": "2026-03-04",
+      "duedate": "2026-01-15",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-596",
       "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
       "status": "In Progress",
@@ -25945,20 +25973,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-251",
-      "summary": "Playback / Player: Change Seasons",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ATV",
-      "created": "2025-11-10",
-      "updated": "2026-01-22",
-      "duedate": "2026-01-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-654",
       "summary": "Live TV interface - iOS",
       "status": "Closed",
@@ -26078,20 +26092,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2025-11-25",
-      "updated": "2026-01-15",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-510",
-      "summary": "Trailer auto play",
-      "status": "Parked",
-      "priority": "Lowest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-17",
       "updated": "2026-01-15",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30000,6 +30000,13 @@
       "stories": 0,
       "total": 1651
     },
+    "Moore Meghana": {
+      "bugs": 9,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 12
+    },
     "Karan Mahboobani": {
       "bugs": 7,
       "tasks": 1,
@@ -30063,13 +30070,6 @@
       "stories": 0,
       "total": 8
     },
-    "Moore Meghana": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
-    },
     "Yashika Krishnani": {
       "bugs": 4,
       "tasks": 2,
@@ -30121,10 +30121,10 @@
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
-      "tasks": 16,
+      "tasks": 15,
       "subtasks": 0,
       "stories": 0,
-      "total": 33
+      "total": 32
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -30260,6 +30260,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-04T10:57:31Z",
+  "updated_at": "2026-03-04T11:45:55Z",
   "total_issues": 2158
 }
