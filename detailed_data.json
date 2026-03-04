@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2291",
+      "summary": "TV: Resume playback not working for Discovery+ content",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-04",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2284",
       "summary": "TV: Audio Continues to Play in Background After Exiting Playback",
       "status": "Closed",
@@ -2513,20 +2527,6 @@
       "priority": "Highest",
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2291",
-      "summary": "TV: Resume playback not working for Discovery+ content",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
@@ -30260,6 +30260,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-04T05:59:35Z",
+  "updated_at": "2026-03-04T07:06:51Z",
   "total_issues": 2158
 }
