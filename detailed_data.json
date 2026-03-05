@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2057",
+      "summary": "Fliqs channel page",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-09",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1752",
+      "summary": "CP logos on thumbnails",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-01-20",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2279",
+      "summary": "Search functionality",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2277",
+      "summary": "Content player and playback",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2416",
       "summary": "Order Summery ",
       "status": "Open",
@@ -39,20 +95,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2057",
-      "summary": "Fliqs channel page",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-09",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -104,20 +146,6 @@
       "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2279",
-      "summary": "Search functionality",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-25",
       "updated": "2026-03-05",
@@ -218,20 +246,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1752",
-      "summary": "CP logos on thumbnails",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-01-20",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2668,20 +2682,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "LG_TV",
       "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2277",
-      "summary": "Content player and playback",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30065,6 +30065,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1338,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1652
+    },
+    "Akash Kushwaha": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 8
+    },
+    "Alok Gupta": {
+      "bugs": 13,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 17
+    },
     "Srinidhi.Raju": {
       "bugs": 1,
       "tasks": 0,
@@ -30086,26 +30107,12 @@
       "stories": 0,
       "total": 12
     },
-    "vzyfeedback": {
-      "bugs": 1337,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1651
-    },
     "Manikanta P": {
       "bugs": 7,
       "tasks": 13,
       "subtasks": 0,
       "stories": 1,
       "total": 21
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -30120,13 +30127,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 115
-    },
-    "Akash Kushwaha": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 8
     },
     "Javed Ali": {
       "bugs": 26,
@@ -30333,12 +30333,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 802,
     "High": 462,
+    "Medium": 802,
     "Highest": 350,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T11:01:34Z",
+  "updated_at": "2026-03-05T11:48:43Z",
   "total_issues": 2163
 }
