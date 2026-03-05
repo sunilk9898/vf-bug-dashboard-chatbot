@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2278",
+      "summary": "Series player iconography",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2279",
+      "summary": "Search functionality",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2410",
+      "summary": " Fliqs journey for guest user",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-03",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2330",
+      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-26",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2409",
+      "summary": " Fliqs journey for guest user",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-03",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2280",
+      "summary": "16:9 carousel metadata dots",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2291",
       "summary": "TV: Resume playback not working for Discovery+ content",
       "status": "Closed",
@@ -64,48 +162,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2278",
-      "summary": "Series player iconography",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2279",
-      "summary": "Search functionality",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2280",
-      "summary": "16:9 carousel metadata dots",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -246,20 +302,6 @@
       "assignee": "devaraj",
       "platform": "SAM_TV",
       "created": "2026-02-06",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -2437,34 +2479,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2410",
-      "summary": " Fliqs journey for guest user",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2409",
-      "summary": " Fliqs journey for guest user",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2276",
       "summary": "CD page top nav",
       "status": "In Progress",
@@ -2559,20 +2573,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2330",
-      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -29615,6 +29615,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-632",
+      "summary": "Information Pop Up Information pop-up for out of app play, auto redirect - Web",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-24",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1969",
       "summary": "Web - Branch.io Intregation (Standered)",
       "status": "Ready For Test",
@@ -29895,20 +29909,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-632",
-      "summary": "Information Pop Up Information pop-up for out of app play, auto redirect - Web",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-11-24",
-      "updated": "2025-12-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-625",
       "summary": "SARA Search language preference",
       "status": "Dev Complete",
@@ -29961,8 +29961,9 @@
       "stories": 0,
       "total": 199,
       "statuses": {
+        "Reopened": 1,
         "Closed": 167,
-        "Ready For Test": 26,
+        "Ready For Test": 25,
         "In Review": 2,
         "In Progress": 2,
         "On Hold- For Clarification": 1,
@@ -30007,19 +30008,33 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Manikanta P": {
-      "bugs": 7,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 19
-    },
     "vzyfeedback": {
       "bugs": 1337,
       "tasks": 298,
       "subtasks": 12,
       "stories": 0,
       "total": 1651
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Javed Ali": {
+      "bugs": 26,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 30
+    },
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 19
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30097,20 +30112,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Javed Ali": {
-      "bugs": 26,
-      "tasks": 2,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 30
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Akash Kushwaha": {
       "bugs": 6,
@@ -30268,12 +30269,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 350,
     "High": 462,
     "Medium": 800,
-    "Highest": 350,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T03:09:11Z",
+  "updated_at": "2026-03-05T04:55:18Z",
   "total_issues": 2159
 }
