@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2151",
+      "summary": "FLIQS channel logos in Setting section",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-19",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2417",
+      "summary": "UI issues in ATV Settings Page ",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2165",
+      "summary": "Notifications page UI",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2057",
       "summary": "Fliqs channel page",
       "status": "Closed",
@@ -85,54 +169,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2151",
-      "summary": "FLIQS channel logos in Setting section",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-19",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2178",
       "summary": "TV: Autoplay plays previous episode instead of next episode for Hoichoi series",
       "status": "Closed",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
       "created": "2026-02-23",
       "updated": "2026-03-05",
       "duedate": "",
@@ -162,20 +204,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-02-26",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -875,20 +903,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-20",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2165",
-      "summary": "Notifications page UI",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
       "created": "2026-02-20",
       "updated": "2026-03-03",
       "duedate": "",
@@ -30017,9 +30031,8 @@
       "stories": 0,
       "total": 197,
       "statuses": {
-        "Onhold-For Tech Dependency": 1,
-        "Closed": 168,
-        "Dev Complete": 1,
+        "Closed": 169,
+        "Testing On hold": 1,
         "On Hold- For Clarification": 2,
         "Reopened": 1,
         "Ready For Test": 21,
@@ -30065,19 +30078,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1338,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1652
-    },
-    "Akash Kushwaha": {
-      "bugs": 6,
+    "Karan Mahboobani": {
+      "bugs": 9,
       "tasks": 1,
-      "subtasks": 1,
+      "subtasks": 2,
       "stories": 0,
-      "total": 8
+      "total": 12
+    },
+    "Aditya Shrivastava": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -30086,19 +30099,26 @@
       "stories": 0,
       "total": 17
     },
+    "vzyfeedback": {
+      "bugs": 1336,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1650
+    },
+    "Akash Kushwaha": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 8
+    },
     "Srinidhi.Raju": {
       "bugs": 1,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "Karan Mahboobani": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30282,13 +30302,6 @@
       "stories": 0,
       "total": 12
     },
-    "Aditya Shrivastava": {
-      "bugs": 0,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -30333,12 +30346,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 803,
     "High": 462,
-    "Medium": 802,
     "Highest": 350,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T11:48:43Z",
-  "total_issues": 2163
+  "updated_at": "2026-03-05T13:37:28Z",
+  "total_issues": 2164
 }
