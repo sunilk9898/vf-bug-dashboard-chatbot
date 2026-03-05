@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2416",
+      "summary": "Order Summery ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2197",
       "summary": "Refresh screen functionality",
       "status": "Onhold-For Tech Dependency",
@@ -218,20 +246,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2143",
-      "summary": "Clevertap event integration - Fire Tv",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23033,6 +23047,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-251",
+      "summary": "Playback / Player: Change Seasons",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Moore Meghana",
+      "platform": "LG_TV",
+      "created": "2025-11-10",
+      "updated": "2026-03-05",
+      "duedate": "2026-01-15",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2415",
       "summary": "{KPI] Vivre API Option to be added & Web to implement ",
       "status": "Open",
@@ -23126,20 +23154,6 @@
       "created": "2025-11-17",
       "updated": "2026-03-04",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-251",
-      "summary": "Playback / Player: Change Seasons",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Moore Meghana",
-      "platform": "LG_TV",
-      "created": "2025-11-10",
-      "updated": "2026-03-04",
-      "duedate": "2026-01-15",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -30051,6 +30065,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Karan Mahboobani": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 10
+    },
+    "Moore Meghana": {
+      "bugs": 9,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 12
+    },
     "vzyfeedback": {
       "bugs": 1337,
       "tasks": 298,
@@ -30093,13 +30128,6 @@
       "stories": 0,
       "total": 8
     },
-    "Karan Mahboobani": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
-    },
     "Javed Ali": {
       "bugs": 26,
       "tasks": 2,
@@ -30120,13 +30148,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 9
-    },
-    "Moore Meghana": {
-      "bugs": 9,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 12
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -30312,12 +30333,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 801,
+    "Medium": 802,
     "High": 462,
     "Highest": 350,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T10:02:22Z",
-  "total_issues": 2162
+  "updated_at": "2026-03-05T11:01:34Z",
+  "total_issues": 2163
 }

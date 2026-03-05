@@ -1,7 +1,7 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
@@ -10,7 +10,7 @@
     },
     "ATV": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-05T10:02:22Z",
-  "total_issues_fetched": 2162,
+  "updated_at": "2026-03-05T11:01:34Z",
+  "total_issues_fetched": 2163,
   "project": "VF"
 }
