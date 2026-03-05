@@ -1,13 +1,13 @@
 {
   "bugs": [
     {
-      "key": "VF-2151",
-      "summary": "FLIQS channel logos in Setting section",
+      "key": "VF-2417",
+      "summary": "UI issues in ATV Settings Page ",
       "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
-      "created": "2026-02-19",
+      "created": "2026-03-05",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -15,13 +15,13 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2417",
-      "summary": "UI issues in ATV Settings Page ",
-      "status": "In Progress",
+      "key": "VF-2151",
+      "summary": "FLIQS channel logos in Setting section",
+      "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
-      "created": "2026-03-05",
+      "created": "2026-02-19",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23061,20 +23061,6 @@
   ],
   "tasks": [
     {
-      "key": "VF-251",
-      "summary": "Playback / Player: Change Seasons",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Moore Meghana",
-      "platform": "LG_TV",
-      "created": "2025-11-10",
-      "updated": "2026-03-05",
-      "duedate": "2026-01-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2415",
       "summary": "{KPI] Vivre API Option to be added & Web to implement ",
       "status": "Open",
@@ -23085,6 +23071,20 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-251",
+      "summary": "Playback / Player: Change Seasons",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Moore Meghana",
+      "platform": "LG_TV",
+      "created": "2025-11-10",
+      "updated": "2026-03-05",
+      "duedate": "2026-01-15",
+      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -30024,6 +30024,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 3,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14,
+      "statuses": {
+        "Open": 4,
+        "In Progress": 8,
+        "Dev Complete": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 183,
       "tasks": 14,
@@ -30037,19 +30050,6 @@
         "Reopened": 1,
         "Ready For Test": 21,
         "In Review": 2,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 3,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14,
-      "statuses": {
-        "Open": 4,
-        "In Progress": 8,
-        "Dev Complete": 1,
         "Invalid": 1
       }
     },
@@ -30084,6 +30084,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 12
+    },
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 21
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -30126,13 +30133,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 12
-    },
-    "Manikanta P": {
-      "bugs": 7,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 21
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -30352,6 +30352,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T13:37:28Z",
+  "updated_at": "2026-03-05T15:06:11Z",
   "total_issues": 2164
 }
