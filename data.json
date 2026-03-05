@@ -90,14 +90,14 @@
     },
     "WEB": {
       "OPEN": 1,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-05T16:04:31Z",
+  "updated_at": "2026-03-05T18:21:59Z",
   "total_issues_fetched": 2164,
   "project": "VF"
 }

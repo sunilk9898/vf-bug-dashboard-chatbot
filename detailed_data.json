@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-1084",
+      "summary": "Content related\u00a0",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-12-09",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2417",
       "summary": "UI issues in ATV Settings Page ",
       "status": "Dev Complete",
@@ -2696,20 +2710,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "LG_TV",
       "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1084",
-      "summary": "Content related\u00a0",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2025-12-09",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30078,6 +30078,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1337,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1651
+    },
     "Manikanta P": {
       "bugs": 7,
       "tasks": 13,
@@ -30105,13 +30112,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 17
-    },
-    "vzyfeedback": {
-      "bugs": 1336,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1650
     },
     "Akash Kushwaha": {
       "bugs": 6,
@@ -30184,11 +30184,11 @@
       "total": 34
     },
     "BalaKumar": {
-      "bugs": 11,
+      "bugs": 10,
       "tasks": 8,
       "subtasks": 0,
       "stories": 0,
-      "total": 19
+      "total": 18
     },
     "Kiran JR": {
       "bugs": 7,
@@ -30346,12 +30346,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 803,
     "High": 462,
+    "Medium": 803,
     "Highest": 350,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T16:04:31Z",
+  "updated_at": "2026-03-05T18:21:59Z",
   "total_issues": 2164
 }
