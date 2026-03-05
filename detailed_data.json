@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2187",
+      "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2151",
+      "summary": "FLIQS channel logos in Setting section",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-19",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2057",
+      "summary": "Fliqs channel page",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-09",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2209",
       "summary": "FLIQS QR to subscribe / rent",
       "status": "On Hold- For Clarification",
@@ -2549,20 +2619,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2294",
       "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
       "status": "Testing On hold",
@@ -2654,20 +2710,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -4131,20 +4173,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2187",
-      "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1166",
       "summary": "Channel guide - ATV",
       "status": "Closed",
@@ -4194,20 +4222,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2151",
-      "summary": "FLIQS channel logos in Setting section",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-19",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5132,20 +5146,6 @@
       "assignee": "Manikanta P",
       "platform": "CMS Adaptor",
       "created": "2026-02-06",
-      "updated": "2026-02-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2057",
-      "summary": "Fliqs channel page",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-09",
       "updated": "2026-02-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30022,11 +30022,18 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1336,
+      "bugs": 1337,
       "tasks": 298,
       "subtasks": 12,
       "stories": 0,
-      "total": 1650
+      "total": 1651
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
     },
     "Unassigned": {
       "bugs": 73,
@@ -30056,13 +30063,6 @@
       "stories": 0,
       "total": 30
     },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
-    },
     "Shubham Chauhan": {
       "bugs": 7,
       "tasks": 5,
@@ -30071,11 +30071,11 @@
       "total": 12
     },
     "devaraj": {
-      "bugs": 8,
+      "bugs": 7,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 10
+      "total": 9
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -30283,11 +30283,11 @@
   },
   "priority_breakdown": {
     "High": 462,
-    "Medium": 801,
     "Highest": 350,
+    "Medium": 801,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T07:11:29Z",
+  "updated_at": "2026-03-05T07:56:00Z",
   "total_issues": 2160
 }
