@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2413",
+      "summary": "CD page episode listing Progress bar",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2180",
+      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1752",
+      "summary": "CP logos on thumbnails",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-01-20",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2172",
+      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2143",
       "summary": "Clevertap event integration - Fire Tv",
       "status": "In Progress",
@@ -67,20 +137,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2209",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2675,20 +2731,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1752",
-      "summary": "CP logos on thumbnails",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-01-20",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2124",
       "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
       "status": "Reopened",
@@ -4089,20 +4131,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2180",
-      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2187",
       "summary": "TV: Channel Guide option visible only in one profile and opens blank screen.",
       "status": "Testing On hold",
@@ -4180,20 +4208,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-19",
-      "updated": "2026-02-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2172",
-      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29961,11 +29975,11 @@
       "stories": 0,
       "total": 197,
       "statuses": {
-        "Reopened": 4,
+        "On Hold- For Clarification": 2,
+        "Reopened": 3,
         "Ready For Test": 22,
         "Closed": 167,
         "In Review": 2,
-        "On Hold- For Clarification": 1,
         "Invalid": 1
       }
     },
@@ -30007,6 +30021,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1336,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1650
+    },
+    "Unassigned": {
+      "bugs": 73,
+      "tasks": 35,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 115
+    },
+    "Akash Kushwaha": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 8
+    },
     "Karan Mahboobani": {
       "bugs": 7,
       "tasks": 1,
@@ -30020,13 +30055,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 30
-    },
-    "vzyfeedback": {
-      "bugs": 1336,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1650
     },
     "Alok Gupta": {
       "bugs": 14,
@@ -30077,13 +30105,6 @@
       "stories": 0,
       "total": 6
     },
-    "Unassigned": {
-      "bugs": 72,
-      "tasks": 35,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 114
-    },
     "Dinjit Dinesh": {
       "bugs": 15,
       "tasks": 18,
@@ -30111,13 +30132,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Akash Kushwaha": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 8
     },
     "Ranjitha br": {
       "bugs": 1,
@@ -30268,12 +30282,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 800,
-    "Highest": 350,
     "High": 462,
+    "Medium": 801,
+    "Highest": 350,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T06:03:26Z",
-  "total_issues": 2159
+  "updated_at": "2026-03-05T07:11:29Z",
+  "total_issues": 2160
 }
