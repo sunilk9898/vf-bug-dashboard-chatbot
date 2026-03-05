@@ -23019,6 +23019,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2412",
+      "summary": "CMS Dashboard",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "CMS Dashboard",
+      "created": "2026-02-09",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-510",
       "summary": "Trailer auto play",
       "status": "In Progress",
@@ -29993,6 +30007,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 19
+    },
     "vzyfeedback": {
       "bugs": 1337,
       "tasks": 298,
@@ -30111,13 +30132,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Manikanta P": {
-      "bugs": 7,
-      "tasks": 10,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 18
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -30260,6 +30274,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-04T23:44:53Z",
-  "total_issues": 2158
+  "updated_at": "2026-03-05T03:09:11Z",
+  "total_issues": 2159
 }
