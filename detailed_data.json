@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2280",
+      "summary": "16:9 carousel metadata dots",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2279",
+      "summary": "Search functionality",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2330",
+      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-26",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "Ready For Test",
@@ -225,20 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2279",
-      "summary": "Search functionality",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2197",
       "summary": "Refresh screen functionality",
       "status": "Reopened",
@@ -267,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2278",
       "summary": "Series player iconography",
       "status": "Closed",
@@ -302,34 +330,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-03",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2330",
-      "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
-      "status": "Not Reproducible",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-26",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2280",
-      "summary": "16:9 carousel metadata dots",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23033,6 +23033,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2415",
+      "summary": "{KPI] Vivre API Option to be added & Web to implement ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Manikanta P",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2414",
+      "summary": "Security SSL Certificate Upgrade to A+ from B",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "Unknown",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-684",
       "summary": "Amazon payment gateway integration",
       "status": "In Progress",
@@ -29975,8 +30003,9 @@
       "stories": 0,
       "total": 197,
       "statuses": {
+        "Dev Complete": 1,
         "On Hold- For Clarification": 2,
-        "Reopened": 3,
+        "Reopened": 2,
         "Ready For Test": 22,
         "Closed": 167,
         "In Review": 2,
@@ -29985,15 +30014,15 @@
     },
     "VZY Sprint (16 March 2026)": {
       "bugs": 3,
-      "tasks": 10,
+      "tasks": 11,
       "subtasks": 0,
       "stories": 0,
-      "total": 13,
+      "total": 14,
       "statuses": {
+        "Open": 4,
         "In Progress": 8,
         "Dev Complete": 1,
-        "Invalid": 1,
-        "Open": 3
+        "Invalid": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -30028,12 +30057,26 @@
       "stories": 0,
       "total": 1651
     },
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 21
+    },
     "Alok Gupta": {
       "bugs": 14,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 18
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "Unassigned": {
       "bugs": 73,
@@ -30076,20 +30119,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 9
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
-    "Manikanta P": {
-      "bugs": 7,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 19
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30282,12 +30311,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 462,
-    "Highest": 350,
     "Medium": 801,
+    "Highest": 350,
+    "High": 462,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T07:56:00Z",
-  "total_issues": 2160
+  "updated_at": "2026-03-05T09:01:28Z",
+  "total_issues": 2162
 }
