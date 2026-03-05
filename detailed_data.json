@@ -23061,6 +23061,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2414",
+      "summary": "Security SSL Certificate Upgrade to A+ from B",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "Unknown",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2415",
       "summary": "{KPI] Vivre API Option to be added & Web to implement ",
       "status": "Open",
@@ -23084,20 +23098,6 @@
       "created": "2025-11-10",
       "updated": "2026-03-05",
       "duedate": "2026-01-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2414",
-      "summary": "Security SSL Certificate Upgrade to A+ from B",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "Unknown",
-      "created": "2026-03-05",
-      "updated": "2026-03-05",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -30078,19 +30078,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Karan Mahboobani": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
     "Manikanta P": {
       "bugs": 7,
       "tasks": 13,
       "subtasks": 0,
       "stories": 1,
       "total": 21
+    },
+    "Karan Mahboobani": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 12
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -30352,6 +30352,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T15:06:11Z",
+  "updated_at": "2026-03-05T16:04:31Z",
   "total_issues": 2164
 }
