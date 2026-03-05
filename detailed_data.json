@@ -1,13 +1,97 @@
 {
   "bugs": [
     {
-      "key": "VF-2278",
-      "summary": "Series player iconography",
-      "status": "Closed",
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2409",
+      "summary": " Fliqs journey for guest user",
+      "status": "Dev Complete",
       "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "IOS",
+      "created": "2026-03-03",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Reopened",
+      "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
-      "created": "2026-02-25",
+      "created": "2026-02-09",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2058",
+      "summary": "Fliqs followed channels in settings screen",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-09",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -17,7 +101,63 @@
     {
       "key": "VF-2279",
       "summary": "Search functionality",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
       "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2035",
+      "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2278",
+      "summary": "Series player iconography",
+      "status": "Closed",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
@@ -43,20 +183,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2330",
       "summary": "TV: Language preference not applied content from all languages displayed despite selecting Bengali and Bhojpuri",
       "status": "Not Reproducible",
@@ -64,20 +190,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-02-26",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2409",
-      "summary": " Fliqs journey for guest user",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-03",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -155,20 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2333",
       "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
       "status": "Ready For Test",
@@ -192,20 +290,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-03",
       "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2143",
-      "summary": "Clevertap event integration - Fire Tv",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-03-03",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -239,48 +323,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2313",
       "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
       "status": "Ready For Test",
@@ -291,20 +333,6 @@
       "updated": "2026-03-03",
       "duedate": "2026-02-27",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2035",
-      "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1015,20 +1043,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
-      "created": "2026-02-24",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2209",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
       "created": "2026-02-24",
       "updated": "2026-03-03",
       "duedate": "",
@@ -3791,20 +3805,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2058",
-      "summary": "Fliqs followed channels in settings screen",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-09",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -23019,6 +23019,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-684",
+      "summary": "Amazon payment gateway integration",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "Unknown",
+      "created": "2025-11-27",
+      "updated": "2026-03-05",
+      "duedate": "2025-12-10",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1970",
+      "summary": "Sony LIV - ads tntegration on Smart TV",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "Unknown",
+      "created": "2026-02-04",
+      "updated": "2026-03-05",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-03-05",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2412",
       "summary": "CMS Dashboard",
       "status": "Ready For Test",
@@ -23057,20 +23099,6 @@
       "updated": "2026-03-04",
       "duedate": "2026-01-15",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-03-03",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -23155,20 +23183,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-684",
-      "summary": "Amazon payment gateway integration",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "Unknown",
-      "created": "2025-11-27",
-      "updated": "2026-03-03",
-      "duedate": "2025-12-10",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24233,20 +24247,6 @@
       "updated": "2026-02-17",
       "duedate": "2025-11-28",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1970",
-      "summary": "Sony LIV - ads tntegration on Smart TV",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "Unknown",
-      "created": "2026-02-04",
-      "updated": "2026-02-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -29955,44 +29955,43 @@
   ],
   "sprints": {
     "VZY Sprint (27 Feb 2026)": {
-      "bugs": 184,
-      "tasks": 15,
+      "bugs": 183,
+      "tasks": 14,
       "subtasks": 0,
       "stories": 0,
-      "total": 199,
+      "total": 197,
       "statuses": {
-        "Reopened": 1,
+        "Reopened": 4,
+        "Ready For Test": 22,
         "Closed": 167,
-        "Ready For Test": 25,
         "In Review": 2,
-        "In Progress": 2,
         "On Hold- For Clarification": 1,
         "Invalid": 1
       }
     },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 50,
-      "statuses": {
-        "In Progress": 2,
-        "Ready For Test": 8,
-        "Closed": 40
-      }
-    },
     "VZY Sprint (16 March 2026)": {
-      "bugs": 2,
-      "tasks": 8,
+      "bugs": 3,
+      "tasks": 10,
       "subtasks": 0,
       "stories": 0,
-      "total": 10,
+      "total": 13,
       "statuses": {
-        "In Progress": 5,
+        "In Progress": 8,
         "Dev Complete": 1,
         "Invalid": 1,
         "Open": 3
+      }
+    },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "In Progress": 1,
+        "Ready For Test": 8,
+        "Closed": 40
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -30008,19 +30007,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1337,
-      "tasks": 298,
-      "subtasks": 12,
+    "Karan Mahboobani": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 2,
       "stories": 0,
-      "total": 1651
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
+      "total": 10
     },
     "Javed Ali": {
       "bugs": 26,
@@ -30028,6 +30020,41 @@
       "subtasks": 2,
       "stories": 0,
       "total": 30
+    },
+    "vzyfeedback": {
+      "bugs": 1336,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1650
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
+    },
+    "Shubham Chauhan": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
+    },
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "Manikanta P": {
       "bugs": 7,
@@ -30043,26 +30070,12 @@
       "stories": 0,
       "total": 12
     },
-    "Karan Mahboobani": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
     },
     "Unassigned": {
       "bugs": 72,
@@ -30078,26 +30091,12 @@
       "stories": 0,
       "total": 34
     },
-    "Shubham Chauhan": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "BalaKumar": {
       "bugs": 11,
       "tasks": 8,
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "Alok Gupta": {
-      "bugs": 13,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 17
     },
     "Kiran JR": {
       "bugs": 7,
@@ -30269,12 +30268,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 800,
     "Highest": 350,
     "High": 462,
-    "Medium": 800,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-05T04:55:18Z",
+  "updated_at": "2026-03-05T06:03:26Z",
   "total_issues": 2159
 }

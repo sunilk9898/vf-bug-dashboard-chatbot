@@ -2,15 +2,15 @@
   "data": {
     "ANDROID": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
-      "REOPENED": 3,
+      "IN PROGRESS": 3,
+      "REOPENED": 4,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 1
     },
     "ATV": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 3,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
@@ -67,7 +67,7 @@
     "LG_TV": {
       "OPEN": 0,
       "IN PROGRESS": 2,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-05T04:55:18Z",
+  "updated_at": "2026-03-05T06:03:26Z",
   "total_issues_fetched": 2159,
   "project": "VF"
 }
