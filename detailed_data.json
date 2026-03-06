@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2422",
+      "summary": "Login Redirection Issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2421",
+      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2244",
+      "summary": "Mobile: Duplicate audio language options are displayed in the audio selection menu during video playback.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2381",
+      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-06",
+      "duedate": "2026-03-02",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2420",
+      "summary": "Conviva report showing Play Duration - 0 for all content playback on Android App",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Unassigned",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "CT In App Redirection not working ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2277",
+      "summary": "Content player and playback",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2418",
+      "summary": "CT Push Notification permission not coming ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2165",
+      "summary": "Notifications page UI",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "Dev Complete",
@@ -85,20 +225,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2165",
-      "summary": "Notifications page UI",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2198",
       "summary": "FLIQS Order summary page",
       "status": "Testing On hold",
@@ -160,20 +286,6 @@
       "status": "Testing On hold",
       "priority": "Highest",
       "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2277",
-      "summary": "Content player and playback",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-25",
       "updated": "2026-03-05",
@@ -246,20 +358,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-02-26",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -519,20 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2381",
-      "summary": "Mobile: After deleting a recent search item, it reappears when a new search is performed.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2302",
       "summary": "Web--Next Episode\" button is not functioning as expected",
       "status": "Ready For Test",
@@ -585,20 +669,6 @@
       "updated": "2026-03-03",
       "duedate": "2026-02-27",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2244",
-      "summary": "Mobile: Duplicate audio language options are displayed in the audio selection menu during video playback.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -30024,6 +30094,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 183,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 197,
+      "statuses": {
+        "Closed": 169,
+        "Reopened": 2,
+        "Testing On hold": 1,
+        "On Hold- For Clarification": 2,
+        "Ready For Test": 20,
+        "In Review": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 3,
       "tasks": 11,
@@ -30034,22 +30120,6 @@
         "Open": 4,
         "In Progress": 8,
         "Dev Complete": 1,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 183,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 197,
-      "statuses": {
-        "Closed": 169,
-        "Testing On hold": 1,
-        "On Hold- For Clarification": 2,
-        "Reopened": 1,
-        "Ready For Test": 21,
-        "In Review": 2,
         "Invalid": 1
       }
     },
@@ -30078,6 +30148,41 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "Unassigned": {
+      "bugs": 75,
+      "tasks": 35,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 117
+    },
+    "vzyfeedback": {
+      "bugs": 1338,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1652
+    },
+    "Dinjit Dinesh": {
+      "bugs": 17,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
     "Aditya Shrivastava": {
       "bugs": 1,
       "tasks": 5,
@@ -30092,13 +30197,6 @@
       "stories": 0,
       "total": 12
     },
-    "vzyfeedback": {
-      "bugs": 1337,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1651
-    },
     "Manikanta P": {
       "bugs": 7,
       "tasks": 13,
@@ -30106,26 +30204,12 @@
       "stories": 1,
       "total": 21
     },
-    "Alok Gupta": {
-      "bugs": 13,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 17
-    },
     "Akash Kushwaha": {
       "bugs": 6,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 8
-    },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30140,13 +30224,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Unassigned": {
-      "bugs": 73,
-      "tasks": 35,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 115
     },
     "Javed Ali": {
       "bugs": 26,
@@ -30175,13 +30252,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "BalaKumar": {
       "bugs": 10,
@@ -30346,12 +30416,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 807,
     "High": 462,
-    "Highest": 350,
-    "Medium": 803,
     "Low": 30,
+    "Highest": 351,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T04:52:14Z",
-  "total_issues": 2164
+  "updated_at": "2026-03-06T06:00:09Z",
+  "total_issues": 2169
 }
