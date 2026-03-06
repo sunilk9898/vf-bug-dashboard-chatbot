@@ -23299,6 +23299,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-818",
+      "summary": "Playback / Player\tListing of Episodes",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-28",
+      "updated": "2026-03-06",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1766",
       "summary": "Profile Management",
       "status": "Closed",
@@ -23728,20 +23742,6 @@
       "created": "2025-12-09",
       "updated": "2026-03-02",
       "duedate": "2025-12-15",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-818",
-      "summary": "Playback / Player\tListing of Episodes",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2025-11-28",
-      "updated": "2026-03-02",
-      "duedate": "2026-01-30",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
@@ -30262,6 +30262,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 6,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19,
+      "statuses": {
+        "Ready For Test": 2,
+        "Dev Complete": 2,
+        "In Progress": 8,
+        "Issue Accepted": 1,
+        "On Hold- For Clarification": 1,
+        "Open": 4,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 183,
       "tasks": 14,
@@ -30277,22 +30293,6 @@
         "On Hold- For Clarification": 1,
         "Ready For Test": 15,
         "In Review": 2,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 6,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19,
-      "statuses": {
-        "Ready For Test": 1,
-        "Dev Complete": 2,
-        "In Progress": 9,
-        "Issue Accepted": 1,
-        "On Hold- For Clarification": 1,
-        "Open": 4,
         "Invalid": 1
       }
     },
@@ -30322,6 +30322,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1339,
+      "tasks": 297,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1652
+    },
     "kamaldeeps": {
       "bugs": 6,
       "tasks": 0,
@@ -30342,13 +30349,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 11
-    },
-    "vzyfeedback": {
-      "bugs": 1339,
-      "tasks": 296,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1651
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -30450,10 +30450,10 @@
     },
     "BalaKumar": {
       "bugs": 10,
-      "tasks": 8,
+      "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 18
+      "total": 17
     },
     "Kiran JR": {
       "bugs": 7,
@@ -30589,6 +30589,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T14:57:40Z",
+  "updated_at": "2026-03-06T15:54:42Z",
   "total_issues": 2181
 }
