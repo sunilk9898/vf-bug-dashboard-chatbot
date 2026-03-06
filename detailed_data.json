@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2426",
+      "summary": "16:9 Carousel banner issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2082",
       "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
       "status": "Closed",
@@ -30196,6 +30210,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
     "Akash Kushwaha": {
       "bugs": 9,
       "tasks": 1,
@@ -30209,13 +30230,6 @@
       "subtasks": 12,
       "stories": 0,
       "total": 1651
-    },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -30464,12 +30478,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 809,
+    "Medium": 810,
     "High": 463,
     "Highest": 351,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T09:56:47Z",
-  "total_issues": 2172
+  "updated_at": "2026-03-06T10:56:23Z",
+  "total_issues": 2173
 }
