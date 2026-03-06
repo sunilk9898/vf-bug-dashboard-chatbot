@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2336",
+      "summary": "(Shivani) Channel guide",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Karan Mahboobani",
+      "platform": "LG_TV",
+      "created": "2026-02-26",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1197",
+      "summary": "Something Went Wrong ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-16",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1084",
       "summary": "Content related\u00a0",
       "status": "Ready For Test",
@@ -36,20 +78,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-19",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2699,20 +2727,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2336",
-      "summary": "(Shivani) Channel guide",
-      "status": "Duplicate",
-      "priority": "Highest",
-      "assignee": "Karan Mahboobani",
-      "platform": "LG_TV",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -10228,20 +10242,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2025-12-24",
-      "updated": "2026-01-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1197",
-      "summary": "Something Went Wrong ",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-12-16",
       "updated": "2026-01-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30078,6 +30078,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Aditya Shrivastava": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Karan Mahboobani": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 12
+    },
     "vzyfeedback": {
       "bugs": 1337,
       "tasks": 298,
@@ -30091,20 +30105,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 21
-    },
-    "Karan Mahboobani": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
-    "Aditya Shrivastava": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -30347,11 +30347,11 @@
   },
   "priority_breakdown": {
     "High": 462,
-    "Medium": 803,
     "Highest": 350,
+    "Medium": 803,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T03:08:55Z",
+  "updated_at": "2026-03-06T04:52:14Z",
   "total_issues": 2164
 }
