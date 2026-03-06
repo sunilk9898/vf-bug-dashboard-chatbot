@@ -23187,6 +23187,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1766",
+      "summary": "Profile Management",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-01-21",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1924",
       "summary": "JOJO Integration",
       "status": "Open",
@@ -23519,20 +23533,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1766",
-      "summary": "Profile Management",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-01-21",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -30210,6 +30210,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1339,
+      "tasks": 296,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1651
+    },
     "Srinidhi.Raju": {
       "bugs": 2,
       "tasks": 0,
@@ -30223,13 +30230,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 11
-    },
-    "vzyfeedback": {
-      "bugs": 1339,
-      "tasks": 296,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1651
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -30484,6 +30484,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T10:56:23Z",
+  "updated_at": "2026-03-06T11:44:46Z",
   "total_issues": 2173
 }
