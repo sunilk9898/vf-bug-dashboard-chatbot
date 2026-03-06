@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2082",
+      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2423",
+      "summary": "(Tamanna) - Get OTP Button Not Clickable on Android TV.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2313",
+      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-06",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2124",
+      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-16",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2333",
+      "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-26",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2425",
+      "summary": "Loading Issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2374",
+      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-06",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1084",
       "summary": "Content related\u00a0",
       "status": "Ready For Test",
@@ -137,34 +249,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2423",
-      "summary": "(Tamanna) - Get OTP Button Not Clickable on Android TV.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -715,34 +799,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2333",
-      "summary": "(Shivani) - On refreshing the Live TV tab, I am being redirected to the Home tab.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2313",
-      "summary": "Mobile: Brightness control during video playback is not reflecting when adjusted by the user. Movie: Tamilarasan",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2389",
       "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
       "status": "Testing On hold",
@@ -780,20 +836,6 @@
       "created": "2026-02-27",
       "updated": "2026-03-03",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2374",
-      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-03-05",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -2955,20 +2997,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2124",
-      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-16",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2398",
       "summary": "Missing Viewer IDs in conviva s3 dump",
       "status": "Onhold-For Tech Dependency",
@@ -3032,20 +3060,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "Kaltura",
       "created": "2026-02-12",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2082",
-      "summary": "(Tamanna) - Watch Now Button Not Clickable for BCPL Auction Content.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-02-11",
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30122,6 +30136,24 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 183,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 197,
+      "statuses": {
+        "Reopened": 5,
+        "Dev Complete": 1,
+        "Closed": 170,
+        "In Progress": 1,
+        "Testing On hold": 1,
+        "On Hold- For Clarification": 1,
+        "Ready For Test": 15,
+        "In Review": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 6,
       "tasks": 13,
@@ -30135,24 +30167,6 @@
         "Issue Accepted": 1,
         "On Hold- For Clarification": 1,
         "Open": 4,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 183,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 197,
-      "statuses": {
-        "Dev Complete": 1,
-        "Reopened": 5,
-        "Closed": 170,
-        "In Progress": 1,
-        "Testing On hold": 1,
-        "On Hold- For Clarification": 1,
-        "Ready For Test": 15,
-        "In Review": 2,
         "Invalid": 1
       }
     },
@@ -30182,12 +30196,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
     "vzyfeedback": {
-      "bugs": 1337,
+      "bugs": 1339,
       "tasks": 296,
       "subtasks": 12,
       "stories": 0,
-      "total": 1649
+      "total": 1651
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -30218,18 +30246,11 @@
       "total": 6
     },
     "Manikanta P": {
-      "bugs": 7,
+      "bugs": 6,
       "tasks": 13,
       "subtasks": 0,
       "stories": 1,
-      "total": 21
-    },
-    "Akash Kushwaha": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
+      "total": 20
     },
     "Yashika Krishnani": {
       "bugs": 5,
@@ -30238,19 +30259,19 @@
       "stories": 0,
       "total": 7
     },
-    "Dinjit Dinesh": {
-      "bugs": 18,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 37
-    },
     "Unassigned": {
       "bugs": 75,
       "tasks": 34,
       "subtasks": 0,
       "stories": 0,
       "total": 116
+    },
+    "Dinjit Dinesh": {
+      "bugs": 17,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -30443,12 +30464,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 809,
     "High": 463,
-    "Medium": 808,
     "Highest": 351,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T08:56:13Z",
-  "total_issues": 2171
+  "updated_at": "2026-03-06T09:56:47Z",
+  "total_issues": 2172
 }
