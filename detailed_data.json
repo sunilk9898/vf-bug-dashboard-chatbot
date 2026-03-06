@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2431",
+      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2430",
+      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2429",
+      "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2428",
+      "summary": "(Shivani)  IOS - after fliqs payment, we did not thank you page only the loading indicator has been appearing",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2427",
+      "summary": "My watchlist and continue watching rail",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2426",
       "summary": "16:9 Carousel banner issue",
       "status": "Open",
@@ -30210,26 +30294,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 14,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
+    "Srinidhi.Raju": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "vzyfeedback": {
       "bugs": 1339,
       "tasks": 296,
       "subtasks": 12,
       "stories": 0,
       "total": 1651
-    },
-    "Srinidhi.Raju": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
-    "Akash Kushwaha": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -30478,12 +30562,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 810,
-    "High": 463,
-    "Highest": 351,
+    "High": 466,
+    "Medium": 812,
+    "Highest": 352,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T11:44:46Z",
-  "total_issues": 2173
+  "updated_at": "2026-03-06T13:21:20Z",
+  "total_issues": 2179
 }
