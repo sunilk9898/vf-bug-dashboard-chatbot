@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2424",
+      "summary": "Live Channel | Sony LIV Logos",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2423",
+      "summary": "(Tamanna) - Get OTP Button Not Clickable on Android TV.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2422",
       "summary": "Login Redirection Issue",
       "status": "Open",
@@ -2997,20 +3053,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1980",
       "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
       "status": "Ready For Test",
@@ -3021,20 +3063,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -30101,11 +30129,12 @@
       "stories": 0,
       "total": 197,
       "statuses": {
+        "In Progress": 1,
+        "Reopened": 3,
         "Closed": 169,
-        "Reopened": 2,
         "Testing On hold": 1,
         "On Hold- For Clarification": 2,
-        "Ready For Test": 20,
+        "Ready For Test": 18,
         "In Review": 2,
         "Invalid": 1
       }
@@ -30148,12 +30177,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "Srinidhi.Raju": {
-      "bugs": 2,
+      "bugs": 3,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 2
+      "total": 3
+    },
+    "vzyfeedback": {
+      "bugs": 1337,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1651
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
     },
     "Unassigned": {
       "bugs": 75,
@@ -30161,20 +30211,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 117
-    },
-    "vzyfeedback": {
-      "bugs": 1338,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1652
-    },
-    "Dinjit Dinesh": {
-      "bugs": 17,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -30266,13 +30302,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Yashika Krishnani": {
-      "bugs": 4,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Ranjitha br": {
       "bugs": 1,
@@ -30416,12 +30445,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 807,
-    "High": 462,
-    "Low": 30,
     "Highest": 351,
+    "Medium": 808,
+    "High": 463,
+    "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T06:00:09Z",
-  "total_issues": 2169
+  "updated_at": "2026-03-06T07:08:21Z",
+  "total_issues": 2171
 }
