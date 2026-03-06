@@ -1,13 +1,27 @@
 {
   "bugs": [
     {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
+      "key": "VF-2397",
+      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-06",
+      "duedate": "2026-03-05",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2302",
+      "summary": "Web--Next Episode\" button is not functioning as expected",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-25",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -19,12 +33,54 @@
       "summary": "Live Channel | Sony LIV Logos",
       "status": "Open",
       "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
+      "assignee": "Akash Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-06",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2422",
+      "summary": "Login Redirection Issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2416",
+      "summary": "Order Summery ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-05",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -49,20 +105,6 @@
       "priority": "High",
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2422",
-      "summary": "Login Redirection Issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
       "created": "2026-03-06",
       "updated": "2026-03-06",
       "duedate": "",
@@ -344,20 +386,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-25",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2416",
-      "summary": "Order Summery ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
-      "created": "2026-03-05",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -669,34 +697,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2302",
-      "summary": "Web--Next Episode\" button is not functioning as expected",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2397",
-      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-03-05",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -30129,12 +30129,12 @@
       "stories": 0,
       "total": 197,
       "statuses": {
+        "Reopened": 4,
+        "Closed": 170,
         "In Progress": 1,
-        "Reopened": 3,
-        "Closed": 169,
         "Testing On hold": 1,
         "On Hold- For Clarification": 2,
-        "Ready For Test": 18,
+        "Ready For Test": 16,
         "In Review": 2,
         "Invalid": 1
       }
@@ -30177,26 +30177,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Srinidhi.Raju": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
     "vzyfeedback": {
       "bugs": 1337,
       "tasks": 298,
       "subtasks": 12,
       "stories": 0,
       "total": 1651
+    },
+    "Akash Kushwaha": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "Dinjit Dinesh": {
       "bugs": 18,
@@ -30239,13 +30239,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 21
-    },
-    "Akash Kushwaha": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 8
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30445,12 +30438,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 351,
-    "Medium": 808,
     "High": 463,
+    "Medium": 808,
+    "Highest": 351,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T07:08:21Z",
+  "updated_at": "2026-03-06T07:52:51Z",
   "total_issues": 2171
 }
