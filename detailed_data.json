@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2277",
+      "summary": "Content player and playback",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2432",
       "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
       "status": "Issue Accepted",
@@ -160,20 +174,6 @@
       "status": "Testing On hold",
       "priority": "Highest",
       "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2277",
-      "summary": "Content player and playback",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-25",
       "updated": "2026-03-06",
@@ -30322,6 +30322,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
     "vzyfeedback": {
       "bugs": 1339,
       "tasks": 297,
@@ -30349,13 +30356,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 11
-    },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -30583,12 +30583,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 352,
     "High": 468,
     "Medium": 812,
-    "Highest": 352,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T15:54:42Z",
+  "updated_at": "2026-03-06T16:59:56Z",
   "total_issues": 2181
 }
