@@ -3,9 +3,9 @@
     {
       "key": "VF-2432",
       "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "High",
-      "assignee": "Akash Kushwaha",
+      "assignee": "kamaldeeps",
       "platform": "IOS",
       "created": "2026-03-06",
       "updated": "2026-03-06",
@@ -15,11 +15,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2431",
-      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
-      "status": "Open",
+      "key": "VF-2433",
+      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
+      "status": "Issue Accepted",
       "priority": "High",
-      "assignee": "Akash Kushwaha",
+      "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-06",
       "updated": "2026-03-06",
@@ -29,11 +29,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2430",
-      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
-      "status": "Open",
+      "key": "VF-2434",
+      "summary": "(Shivani) - After clicking the back arrow from the Offer and Plan page, the Home screen appears first, then the page loads again, and finally the screen is displayed. The screen is loading twice.",
+      "status": "Issue Accepted",
       "priority": "High",
-      "assignee": "Akash Kushwaha",
+      "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-06",
       "updated": "2026-03-06",
@@ -43,12 +43,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2429",
-      "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
-      "status": "Open",
+      "key": "VF-2424",
+      "summary": "Live Channel | Sony LIV Logos",
+      "status": "OnHold-For Vivre Setup",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
-      "platform": "IOS",
+      "platform": "ANDROID",
       "created": "2026-03-06",
       "updated": "2026-03-06",
       "duedate": "",
@@ -57,25 +57,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2428",
-      "summary": "(Shivani)  IOS - after fliqs payment, we did not thank you page only the loading indicator has been appearing",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2427",
-      "summary": "My watchlist and continue watching rail",
+      "key": "VF-2425",
+      "summary": "Loading Issue",
       "status": "Open",
       "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
+      "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-06",
       "updated": "2026-03-06",
@@ -89,9 +75,107 @@
       "summary": "16:9 Carousel banner issue",
       "status": "Open",
       "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
+      "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2427",
+      "summary": "My watchlist and continue watching rail",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2428",
+      "summary": "(Shivani)  IOS - after fliqs payment, we did not thank you page only the loading indicator has been appearing",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2429",
+      "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2430",
+      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2431",
+      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2280",
+      "summary": "16:9 carousel metadata dots",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2277",
+      "summary": "Content player and playback",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -176,20 +260,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-26",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2425",
-      "summary": "Loading Issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "IOS",
-      "created": "2026-03-06",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -291,20 +361,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2424",
-      "summary": "Live Channel | Sony LIV Logos",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -414,20 +470,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ANDROID",
       "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2277",
-      "summary": "Content player and playback",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -627,20 +669,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2280",
-      "summary": "16:9 carousel metadata dots",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -30294,19 +30322,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 14,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 16
-    },
-    "Srinidhi.Raju": {
-      "bugs": 3,
+    "kamaldeeps": {
+      "bugs": 6,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 3
+      "total": 6
+    },
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Akash Kushwaha": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
     },
     "vzyfeedback": {
       "bugs": 1339,
@@ -30314,6 +30349,13 @@
       "subtasks": 12,
       "stories": 0,
       "total": 1651
+    },
+    "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -30370,13 +30412,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 36
-    },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -30497,13 +30532,6 @@
       "stories": 0,
       "total": 1
     },
-    "shadab Hussain": {
-      "bugs": 4,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Amit Kumar Tiwari": {
       "bugs": 4,
       "tasks": 5,
@@ -30532,13 +30560,6 @@
       "stories": 0,
       "total": 4
     },
-    "kamaldeeps": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
-    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -30562,12 +30583,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 466,
+    "High": 468,
     "Medium": 812,
     "Highest": 352,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T13:21:20Z",
-  "total_issues": 2179
+  "updated_at": "2026-03-06T14:57:40Z",
+  "total_issues": 2181
 }
