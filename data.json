@@ -91,13 +91,13 @@
     "WEB": {
       "OPEN": 1,
       "IN PROGRESS": 0,
-      "REOPENED": 1,
+      "REOPENED": 2,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-06T07:52:51Z",
+  "updated_at": "2026-03-06T08:56:13Z",
   "total_issues_fetched": 2171,
   "project": "VF"
 }

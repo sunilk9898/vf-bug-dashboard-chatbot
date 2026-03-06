@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-1084",
+      "summary": "Content related\u00a0",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-12-09",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2041",
+      "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2312",
+      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2397",
       "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
       "status": "Reopened",
@@ -281,20 +337,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1084",
-      "summary": "Content related\u00a0",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-12-09",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2417",
       "summary": "UI issues in ATV Settings Page ",
       "status": "Dev Complete",
@@ -386,20 +428,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-25",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2143",
-      "summary": "Clevertap event integration - Fire Tv",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2219,20 +2247,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2312",
-      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
       "created": "2026-02-26",
       "updated": "2026-03-03",
       "duedate": "",
@@ -6237,20 +6251,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-02-06",
-      "updated": "2026-02-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2041",
-      "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
       "created": "2026-02-06",
       "updated": "2026-02-07",
       "duedate": "",
@@ -23159,6 +23159,104 @@
   ],
   "tasks": [
     {
+      "key": "VF-1924",
+      "summary": "JOJO Integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1934",
+      "summary": "Manorama Max - CP Integration",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1937",
+      "summary": "Gamezopp CP Integration",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1944",
+      "summary": "Tarang Plus CP",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2403",
+      "summary": "Play Flix CP integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1931",
+      "summary": "Amazon Prime Integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2378",
+      "summary": "Clevertap - Fliqs",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "LG_TV",
+      "created": "2026-02-26",
+      "updated": "2026-03-06",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2414",
       "summary": "Security SSL Certificate Upgrade to A+ from B",
       "status": "In Progress",
@@ -23365,20 +23463,6 @@
       "updated": "2026-03-03",
       "duedate": "2025-12-05",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2378",
-      "summary": "Clevertap - Fliqs",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "LG_TV",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -23691,20 +23775,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2403",
-      "summary": "Play Flix CP integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-02-27",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2152",
       "summary": "Need help on content ingestion ",
       "status": "In Progress",
@@ -23785,20 +23855,6 @@
       "updated": "2026-02-26",
       "duedate": "2026-01-15",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1944",
-      "summary": "Tarang Plus CP",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24093,20 +24149,6 @@
       "updated": "2026-02-24",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1931",
-      "summary": "Amazon Prime Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24512,20 +24554,6 @@
       "created": "2025-11-28",
       "updated": "2026-02-13",
       "duedate": "2025-12-03",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1934",
-      "summary": "Manorama Max - CP Integration",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-02-13",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25231,20 +25259,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1937",
-      "summary": "Gamezopp CP Integration",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-02-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2076",
       "summary": "(Shruti) Aalytics and monitoring dashboard with real-time alerts to improve streaming quality, platform stability, and retention.",
       "status": "Open",
@@ -25275,20 +25289,6 @@
     {
       "key": "VF-1926",
       "summary": "Aoo NXT Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1924",
-      "summary": "JOJO Integration",
       "status": "Open",
       "priority": "Medium",
       "assignee": "vzyfeedback",
@@ -30122,6 +30122,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 6,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19,
+      "statuses": {
+        "Ready For Test": 1,
+        "Dev Complete": 2,
+        "In Progress": 9,
+        "Issue Accepted": 1,
+        "On Hold- For Clarification": 1,
+        "Open": 4,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 183,
       "tasks": 14,
@@ -30129,27 +30145,26 @@
       "stories": 0,
       "total": 197,
       "statuses": {
-        "Reopened": 4,
+        "Dev Complete": 1,
+        "Reopened": 5,
         "Closed": 170,
         "In Progress": 1,
         "Testing On hold": 1,
-        "On Hold- For Clarification": 2,
-        "Ready For Test": 16,
+        "On Hold- For Clarification": 1,
+        "Ready For Test": 15,
         "In Review": 2,
         "Invalid": 1
       }
     },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 3,
-      "tasks": 11,
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 0,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 14,
+      "total": 2,
       "statuses": {
-        "Open": 4,
-        "In Progress": 8,
-        "Dev Complete": 1,
-        "Invalid": 1
+        "Open": 1,
+        "Reopened": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -30163,26 +30178,51 @@
         "Ready For Test": 8,
         "Closed": 40
       }
-    },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1,
-      "statuses": {
-        "Reopened": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
       "bugs": 1337,
-      "tasks": 298,
+      "tasks": 296,
       "subtasks": 12,
       "stories": 0,
-      "total": 1651
+      "total": 1649
+    },
+    "Karan Mahboobani": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 12
+    },
+    "devaraj": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 9
+    },
+    "avinash waghmare": {
+      "bugs": 2,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 21
     },
     "Akash Kushwaha": {
       "bugs": 9,
@@ -30207,10 +30247,10 @@
     },
     "Unassigned": {
       "bugs": 75,
-      "tasks": 35,
+      "tasks": 34,
       "subtasks": 0,
       "stories": 0,
-      "total": 117
+      "total": 116
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -30225,20 +30265,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Karan Mahboobani": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
-    "Manikanta P": {
-      "bugs": 7,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 21
     },
     "Moore Meghana": {
       "bugs": 9,
@@ -30268,20 +30294,6 @@
       "stories": 0,
       "total": 12
     },
-    "devaraj": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 9
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
     "BalaKumar": {
       "bugs": 10,
       "tasks": 8,
@@ -30302,13 +30314,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 3
-    },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -30444,6 +30449,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-06T07:52:51Z",
+  "updated_at": "2026-03-06T08:56:13Z",
   "total_issues": 2171
 }
