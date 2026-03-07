@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2442",
+      "summary": "UI Issue",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2443",
       "summary": "(Shivani) - With logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
       "status": "Open",
@@ -25,20 +39,6 @@
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2442",
-      "summary": "UI Issue",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -30388,6 +30388,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 8,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22,
+      "statuses": {
+        "In Progress": 9,
+        "On Hold- For Clarification": 2,
+        "Issue Accepted": 2,
+        "Ready For Test": 2,
+        "Dev Complete": 2,
+        "Open": 4,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -30399,22 +30415,6 @@
         "Closed": 41,
         "In Progress": 1,
         "Ready For Test": 6
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 8,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22,
-      "statuses": {
-        "In Progress": 8,
-        "Open": 5,
-        "On Hold- For Clarification": 2,
-        "Issue Accepted": 2,
-        "Ready For Test": 2,
-        "Dev Complete": 2,
-        "Invalid": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -30450,6 +30450,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
     "Akash Kushwaha": {
       "bugs": 16,
       "tasks": 1,
@@ -30470,13 +30477,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "BalaKumar": {
-      "bugs": 11,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 17
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -30583,6 +30583,13 @@
       "stories": 0,
       "total": 12
     },
+    "BalaKumar": {
+      "bugs": 10,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
     "Kiran JR": {
       "bugs": 7,
       "tasks": 1,
@@ -30617,13 +30624,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Namrata Kurariya": {
-      "bugs": 6,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -30717,6 +30717,6 @@
     "Medium": 814,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T14:42:28Z",
+  "updated_at": "2026-03-07T15:36:55Z",
   "total_issues": 2190
 }
