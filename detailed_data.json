@@ -1,6 +1,244 @@
 {
   "bugs": [
     {
+      "key": "VF-2433",
+      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2436",
+      "summary": "Naveen => Fliqs unsubscribe button => Confim is mentioned instead of confirm ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2438",
+      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2437",
+      "summary": "Naveen = Series is not playing getting error on every series ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-02-27",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2339",
+      "summary": "TV: Audio options are repeated in the video player settings.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2312",
+      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2413",
+      "summary": "CD page episode listing Progress bar",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2416",
+      "summary": "Order Summery ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2418",
+      "summary": "CT Push Notification permission not coming ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "CT In App Redirection not working ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2420",
+      "summary": "Conviva report showing Play Duration - 0 for all content playback on Android App",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2422",
+      "summary": "Login Redirection Issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2439",
+      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "ATV",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2440",
+      "summary": "(Shivani) Fliqs >> SVOD >> on watcho channel, subscribed button is not clickable",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2441",
+      "summary": "(Shivani) >> When I click on Sunnxt movie watch now button, it is redirecting to Sunnxt app which is expected but I am getting subscribe button even though I have all in one pass. For series it is working fine.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2443",
+      "summary": "(Shivani) - With logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2442",
       "summary": "UI Issue",
       "status": "Ready For Test",
@@ -29,34 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2433",
-      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2443",
-      "summary": "(Shivani) - With logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2343",
       "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
       "status": "Ready For Test",
@@ -64,34 +274,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2441",
-      "summary": "(Shivani) >> When I click on Sunnxt movie watch now button, it is redirecting to Sunnxt app which is expected but I am getting subscribe button even though I have all in one pass. For series it is working fine.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2440",
-      "summary": "(Shivani) Fliqs >> SVOD >> on watcho channel, subscribed button is not clickable",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-03-07",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -108,20 +290,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-07",
       "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2439",
-      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -218,20 +386,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-27",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -337,48 +491,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2438",
-      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2437",
-      "summary": "Naveen = Series is not playing getting error on every series ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2436",
-      "summary": "Naveen => Fliqs unsubscribe button => Confim is mentioned instead of confirm ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2435",
       "summary": "CTA is switching from Watch Now to Resume.",
       "status": "In Progress",
@@ -386,20 +498,6 @@
       "assignee": "Javed Ali",
       "platform": "ANDROID",
       "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2339",
-      "summary": "TV: Audio options are repeated in the video player settings.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -431,20 +529,6 @@
       "updated": "2026-03-07",
       "duedate": "2026-03-05",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2416",
-      "summary": "Order Summery ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-05",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -673,20 +757,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2312",
-      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2302",
       "summary": "Web--Next Episode\" button is not functioning as expected",
       "status": "Closed",
@@ -697,20 +767,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2422",
-      "summary": "Login Redirection Issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -752,48 +808,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-06",
       "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2420",
-      "summary": "Conviva report showing Play Duration - 0 for all content playback on Android App",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Unassigned",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "CT In App Redirection not working ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2418",
-      "summary": "CT Push Notification permission not coming ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -963,20 +977,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2413",
-      "summary": "CD page episode listing Progress bar",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-03-05",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -30388,6 +30388,25 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 183,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 197,
+      "statuses": {
+        "Reopened": 2,
+        "Testing On hold": 3,
+        "Onhold-For Tech Dependency": 2,
+        "Ready For Test": 14,
+        "Dev Complete": 1,
+        "Closed": 170,
+        "In Progress": 1,
+        "On Hold- For Clarification": 1,
+        "In Review": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 8,
       "tasks": 14,
@@ -30417,25 +30436,6 @@
         "Ready For Test": 6
       }
     },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 183,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 197,
-      "statuses": {
-        "Testing On hold": 3,
-        "Onhold-For Tech Dependency": 2,
-        "Ready For Test": 14,
-        "Reopened": 2,
-        "Dev Complete": 1,
-        "Closed": 170,
-        "In Progress": 1,
-        "On Hold- For Clarification": 1,
-        "In Review": 2,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -30450,68 +30450,75 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1347,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1661
-    },
-    "Namrata Kurariya": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Akash Kushwaha": {
-      "bugs": 16,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 18
-    },
-    "Karan Mahboobani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
-    "shadab Hussain": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 2,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 31
-    },
     "Moore Meghana": {
-      "bugs": 10,
+      "bugs": 11,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
-      "total": 14
+      "total": 15
+    },
+    "vzyfeedback": {
+      "bugs": 1346,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1660
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
     },
     "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Karan Mahboobani": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 12
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "Yashika Krishnani": {
+      "bugs": 7,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Javed Ali": {
+      "bugs": 29,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
+    },
+    "shadab Hussain": {
       "bugs": 11,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 15
+    },
+    "Akash Kushwaha": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 9
     },
     "devaraj": {
       "bugs": 7,
@@ -30541,27 +30548,6 @@
       "stories": 1,
       "total": 20
     },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Unassigned": {
-      "bugs": 74,
-      "tasks": 34,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 115
-    },
-    "Dinjit Dinesh": {
-      "bugs": 17,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
-    },
     "Aditya Shrivastava": {
       "bugs": 1,
       "tasks": 5,
@@ -30583,12 +30569,19 @@
       "stories": 0,
       "total": 12
     },
-    "BalaKumar": {
-      "bugs": 10,
-      "tasks": 6,
+    "Unassigned": {
+      "bugs": 72,
+      "tasks": 34,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 113
+    },
+    "Dinjit Dinesh": {
+      "bugs": 15,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
     },
     "Kiran JR": {
       "bugs": 7,
@@ -30624,6 +30617,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
+    },
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -30713,10 +30713,10 @@
   "priority_breakdown": {
     "High": 471,
     "Highest": 356,
-    "Low": 30,
     "Medium": 814,
+    "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T17:16:19Z",
+  "updated_at": "2026-03-07T17:36:46Z",
   "total_issues": 2190
 }
