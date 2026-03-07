@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2427",
+      "summary": "My watchlist and continue watching rail",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2421",
+      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "ATV",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2423",
+      "summary": "(Tamanna) - Get OTP Button Not Clickable on Android TV.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2430",
+      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2438",
+      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2437",
+      "summary": "Naveen = Series is not playing getting error on every series ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2436",
+      "summary": "Naveen => Fliqs unsubscribe button => Confim is mentioned instead of confirm ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2435",
       "summary": "CTA is switching from Watch Now to Resume.",
       "status": "In Progress",
@@ -99,20 +211,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2421",
-      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2426",
       "summary": "16:9 Carousel banner issue",
       "status": "Open",
@@ -132,20 +230,6 @@
       "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "Moore Meghana",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2430",
-      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-06",
       "updated": "2026-03-07",
@@ -225,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2423",
-      "summary": "(Tamanna) - Get OTP Button Not Clickable on Android TV.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2277",
       "summary": "Content player and playback",
       "status": "In Progress",
@@ -246,20 +316,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-25",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2432",
-      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-06",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -283,20 +339,6 @@
     {
       "key": "VF-2425",
       "summary": "Loading Issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2427",
-      "summary": "My watchlist and continue watching rail",
       "status": "Open",
       "priority": "Medium",
       "assignee": "shadab Hussain",
@@ -30337,12 +30379,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 2,
-      "subtasks": 2,
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 0,
       "stories": 0,
-      "total": 31
+      "total": 14
     },
     "vzyfeedback": {
       "bugs": 1341,
@@ -30351,19 +30393,33 @@
       "stories": 0,
       "total": 1654
     },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "Akash Kushwaha": {
+      "bugs": 12,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 31
+    },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
       "tasks": 15,
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "Akash Kushwaha": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
     },
     "Moore Meghana": {
       "bugs": 10,
@@ -30372,40 +30428,12 @@
       "stories": 0,
       "total": 14
     },
-    "Unassigned": {
-      "bugs": 75,
-      "tasks": 34,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 116
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
     "Alok Gupta": {
       "bugs": 12,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "kamaldeeps": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
     },
     "Karan Mahboobani": {
       "bugs": 8,
@@ -30448,6 +30476,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
+    },
+    "Unassigned": {
+      "bugs": 74,
+      "tasks": 34,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 115
     },
     "Dinjit Dinesh": {
       "bugs": 17,
@@ -30575,6 +30610,13 @@
       "stories": 0,
       "total": 4
     },
+    "kamaldeeps": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
     "Piraianbu V": {
       "bugs": 3,
       "tasks": 0,
@@ -30600,10 +30642,10 @@
   "priority_breakdown": {
     "Medium": 813,
     "High": 468,
-    "Highest": 352,
+    "Highest": 355,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T08:48:20Z",
-  "total_issues": 2182
+  "updated_at": "2026-03-07T09:43:38Z",
+  "total_issues": 2185
 }
