@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2435",
+      "summary": "CTA is switching from Watch Now to Resume.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2339",
+      "summary": "TV: Audio options are repeated in the video player settings.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2267",
+      "summary": "Mobile: Random numerical characters appear within subtitle text during video playback.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2431",
+      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2397",
+      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "2026-03-05",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2416",
       "summary": "Order Summery ",
       "status": "Open",
@@ -239,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2431",
-      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2280",
       "summary": "16:9 carousel metadata dots",
       "status": "Testing On hold",
@@ -402,20 +458,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-06",
       "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2397",
-      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-06",
-      "duedate": "2026-03-05",
       "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
@@ -3599,20 +3641,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2267",
-      "summary": "Mobile: Random numerical characters appear within subtitle text during video playback.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2246",
       "summary": "Mobile: Brightness control does not work during playback of France 24 content in the News Now section.",
       "status": "Duplicate",
@@ -3773,20 +3801,6 @@
       "priority": "Low",
       "assignee": "Unassigned",
       "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2339",
-      "summary": "TV: Audio options are repeated in the video player settings.",
-      "status": "Duplicate",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-02-26",
       "updated": "2026-02-27",
       "duedate": "",
@@ -30262,6 +30276,25 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 183,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 197,
+      "statuses": {
+        "Onhold-For Tech Dependency": 1,
+        "Testing On hold": 2,
+        "Reopened": 3,
+        "Dev Complete": 1,
+        "Closed": 170,
+        "In Progress": 1,
+        "On Hold- For Clarification": 1,
+        "Ready For Test": 15,
+        "In Review": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -30290,24 +30323,6 @@
         "Invalid": 1
       }
     },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 183,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 197,
-      "statuses": {
-        "Testing On hold": 2,
-        "Reopened": 4,
-        "Dev Complete": 1,
-        "Closed": 170,
-        "In Progress": 1,
-        "On Hold- For Clarification": 1,
-        "Ready For Test": 15,
-        "In Review": 2,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -30322,12 +30337,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 31
+    },
     "vzyfeedback": {
       "bugs": 1341,
       "tasks": 297,
       "subtasks": 12,
       "stories": 0,
       "total": 1654
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
     },
     "Akash Kushwaha": {
       "bugs": 9,
@@ -30372,11 +30401,11 @@
       "total": 16
     },
     "kamaldeeps": {
-      "bugs": 3,
+      "bugs": 2,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 3
+      "total": 2
     },
     "Karan Mahboobani": {
       "bugs": 8,
@@ -30441,13 +30470,6 @@
       "stories": 0,
       "total": 12
     },
-    "Javed Ali": {
-      "bugs": 26,
-      "tasks": 2,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 30
-    },
     "Shubham Chauhan": {
       "bugs": 7,
       "tasks": 5,
@@ -30475,13 +30497,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 3
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 32
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -30583,12 +30598,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 812,
+    "Medium": 813,
     "High": 468,
     "Highest": 352,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T07:43:23Z",
-  "total_issues": 2181
+  "updated_at": "2026-03-07T08:48:20Z",
+  "total_issues": 2182
 }
