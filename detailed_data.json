@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-1197",
+      "summary": "Something Went Wrong ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-16",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2433",
+      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2442",
       "summary": "UI Issue",
       "status": "In Progress",
@@ -449,20 +477,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2433",
-      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2429",
       "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
       "status": "Dev Complete",
@@ -820,20 +834,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "LG_TV",
       "created": "2026-02-26",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1197",
-      "summary": "Something Went Wrong ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-16",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30450,12 +30450,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1346,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1660
+    },
     "Namrata Kurariya": {
-      "bugs": 7,
+      "bugs": 8,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 11
+      "total": 12
     },
     "Akash Kushwaha": {
       "bugs": 16,
@@ -30463,13 +30470,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 18
-    },
-    "vzyfeedback": {
-      "bugs": 1346,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1660
     },
     "Karan Mahboobani": {
       "bugs": 8,
@@ -30486,11 +30486,11 @@
       "total": 11
     },
     "Ajay Kushwaha": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 13
     },
     "Javed Ali": {
       "bugs": 27,
@@ -30711,12 +30711,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 471,
     "Highest": 356,
+    "High": 471,
     "Low": 30,
     "Medium": 814,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T15:36:55Z",
+  "updated_at": "2026-03-07T16:44:36Z",
   "total_issues": 2190
 }
