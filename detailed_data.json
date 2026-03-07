@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2343",
+      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2443",
+      "summary": "(Shivani) - Without logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2442",
+      "summary": "UI Issue",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2441",
+      "summary": "(Shivani) >> When I click on Sunnxt movie watch now button, it is redirecting to Sunnxt app which is expected but I am getting subscribe button even though I have all in one pass. For series it is working fine.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2440",
+      "summary": "(Shivani) Fliqs >> SVOD >> on watcho channel, subscribed button is not clickable",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2386",
+      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2439",
+      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2389",
       "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
       "status": "Parked",
@@ -94,20 +192,6 @@
       "created": "2026-03-06",
       "updated": "2026-03-07",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2386",
-      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-07",
-      "duedate": "2026-02-27",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -3088,20 +3172,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-03-02",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2343",
-      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23355,6 +23425,62 @@
   ],
   "tasks": [
     {
+      "key": "VF-2378",
+      "summary": "Clevertap - Fliqs",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "LG_TV",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1921",
+      "summary": "Gamezop Integration",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2078",
+      "summary": "Enable Help & Feedback Link in Staging Environment",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-11",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1930",
+      "summary": "Ultra Jhakaas Integration",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-596",
       "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
       "status": "In Progress",
@@ -23491,20 +23617,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2378",
-      "summary": "Clevertap - Fliqs",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "LG_TV",
-      "created": "2026-02-26",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -23841,20 +23953,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1930",
-      "summary": "Ultra Jhakaas Integration",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-28",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24583,34 +24681,6 @@
       "updated": "2026-02-17",
       "duedate": "2025-12-12",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2078",
-      "summary": "Enable Help & Feedback Link in Staging Environment",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-11",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1921",
-      "summary": "Gamezop Integration",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Aniruddh Patil",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-02-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -30318,6 +30388,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 8,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22,
+      "statuses": {
+        "In Progress": 8,
+        "Open": 5,
+        "On Hold- For Clarification": 2,
+        "Issue Accepted": 2,
+        "Ready For Test": 2,
+        "Dev Complete": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 183,
       "tasks": 14,
@@ -30325,31 +30411,15 @@
       "stories": 0,
       "total": 197,
       "statuses": {
+        "Testing On hold": 3,
         "Onhold-For Tech Dependency": 2,
-        "Ready For Test": 16,
-        "Testing On hold": 1,
+        "Ready For Test": 14,
         "Reopened": 2,
         "Dev Complete": 1,
         "Closed": 170,
         "In Progress": 1,
         "On Hold- For Clarification": 1,
         "In Review": 2,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 7,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21,
-      "statuses": {
-        "On Hold- For Clarification": 2,
-        "Issue Accepted": 2,
-        "Ready For Test": 2,
-        "Dev Complete": 2,
-        "In Progress": 8,
-        "Open": 4,
         "Invalid": 1
       }
     },
@@ -30360,9 +30430,9 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "Closed": 41,
         "In Progress": 1,
-        "Ready For Test": 8,
-        "Closed": 40
+        "Ready For Test": 7
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -30381,10 +30451,31 @@
   "assignee_workload": {
     "vzyfeedback": {
       "bugs": 1346,
-      "tasks": 297,
+      "tasks": 298,
       "subtasks": 12,
       "stories": 0,
-      "total": 1659
+      "total": 1660
+    },
+    "Karan Mahboobani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Akash Kushwaha": {
+      "bugs": 16,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 18
+    },
+    "BalaKumar": {
+      "bugs": 11,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 17
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -30392,13 +30483,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "Akash Kushwaha": {
-      "bugs": 12,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -30428,13 +30512,6 @@
       "stories": 0,
       "total": 15
     },
-    "Karan Mahboobani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
     "devaraj": {
       "bugs": 7,
       "tasks": 1,
@@ -30451,10 +30528,10 @@
     },
     "Aniruddh Patil": {
       "bugs": 0,
-      "tasks": 6,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
+      "total": 5
     },
     "Manikanta P": {
       "bugs": 6,
@@ -30504,13 +30581,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "BalaKumar": {
-      "bugs": 10,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Kiran JR": {
       "bugs": 7,
@@ -30640,12 +30710,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 471,
+    "Highest": 356,
     "Low": 30,
-    "High": 468,
-    "Medium": 813,
-    "Highest": 355,
+    "Medium": 814,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T10:43:01Z",
-  "total_issues": 2185
+  "updated_at": "2026-03-07T11:33:34Z",
+  "total_issues": 2190
 }
