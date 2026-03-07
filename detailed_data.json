@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2416",
+      "summary": "Order Summery ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2059",
       "summary": "Inconsistent TOP NAV in \"My vibes\" section",
       "status": "Testing On hold",
@@ -428,20 +442,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2416",
-      "summary": "Order Summery ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-05",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23299,6 +23299,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-03-07",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1985",
+      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-818",
       "summary": "Playback / Player\tListing of Episodes",
       "status": "Ready For Test",
@@ -23491,20 +23519,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-03-05",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24428,20 +24442,6 @@
       "created": "2025-12-09",
       "updated": "2026-02-20",
       "duedate": "2025-12-05",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1985",
-      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
-      "updated": "2026-02-20",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -30262,6 +30262,34 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "In Progress": 1,
+        "Ready For Test": 8,
+        "Closed": 40
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 7,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21,
+      "statuses": {
+        "Issue Accepted": 3,
+        "Ready For Test": 2,
+        "Dev Complete": 2,
+        "In Progress": 8,
+        "On Hold- For Clarification": 1,
+        "Open": 4,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 183,
       "tasks": 14,
@@ -30280,22 +30308,6 @@
         "Invalid": 1
       }
     },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 7,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20,
-      "statuses": {
-        "Issue Accepted": 2,
-        "Ready For Test": 2,
-        "Dev Complete": 2,
-        "In Progress": 8,
-        "On Hold- For Clarification": 1,
-        "Open": 4,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -30305,18 +30317,6 @@
       "statuses": {
         "Open": 1,
         "Reopened": 1
-      }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "In Progress": 1,
-        "Ready For Test": 8,
-        "Closed": 40
       }
     }
   },
@@ -30329,19 +30329,26 @@
       "stories": 0,
       "total": 1654
     },
+    "Akash Kushwaha": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
+    "Moore Meghana": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
     "Unassigned": {
       "bugs": 75,
       "tasks": 34,
       "subtasks": 0,
       "stories": 0,
       "total": 116
-    },
-    "Moore Meghana": {
-      "bugs": 10,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
     },
     "shadab Hussain": {
       "bugs": 9,
@@ -30370,13 +30377,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Akash Kushwaha": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
     },
     "Karan Mahboobani": {
       "bugs": 8,
@@ -30457,10 +30457,10 @@
     },
     "BalaKumar": {
       "bugs": 10,
-      "tasks": 7,
+      "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 17
+      "total": 16
     },
     "Kiran JR": {
       "bugs": 7,
@@ -30583,12 +30583,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 468,
     "Medium": 812,
+    "High": 468,
     "Highest": 352,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T06:59:30Z",
+  "updated_at": "2026-03-07T07:43:23Z",
   "total_issues": 2181
 }
