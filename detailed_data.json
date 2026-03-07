@@ -1,13 +1,27 @@
 {
   "bugs": [
     {
-      "key": "VF-2433",
-      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
-      "status": "In Progress",
+      "key": "VF-2442",
+      "summary": "UI Issue",
+      "status": "Ready For Test",
       "priority": "High",
-      "assignee": "Moore Meghana",
+      "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-03-06",
+      "created": "2026-03-07",
+      "updated": "2026-03-08",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2438",
+      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-07",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29,8 +43,36 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2438",
-      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
+      "key": "VF-2413",
+      "summary": "CD page episode listing Progress bar",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2433",
+      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2437",
+      "summary": "Naveen = Series is not playing getting error on every series ",
       "status": "Ready For Test",
       "priority": "Highest",
       "assignee": "vzyfeedback",
@@ -43,13 +85,13 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2437",
-      "summary": "Naveen = Series is not playing getting error on every series ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-07",
+      "key": "VF-2411",
+      "summary": "Wrong 2:3 Jiohotstar thumbnails",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-03",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -78,48 +120,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2312",
-      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2413",
-      "summary": "CD page episode listing Progress bar",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-05",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2416",
-      "summary": "Order Summery ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-05",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -235,20 +235,6 @@
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2442",
-      "summary": "UI Issue",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -3133,20 +3119,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2411",
-      "summary": "Wrong 2:3 Jiohotstar thumbnails",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-03",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -23425,6 +23397,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2312",
+      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2416",
+      "summary": "Order Summery ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-454",
       "summary": "Casting",
       "status": "Reopened",
@@ -30388,36 +30388,18 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 183,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 197,
-      "statuses": {
-        "Reopened": 2,
-        "Testing On hold": 3,
-        "Onhold-For Tech Dependency": 2,
-        "Ready For Test": 14,
-        "Dev Complete": 1,
-        "Closed": 170,
-        "In Progress": 1,
-        "On Hold- For Clarification": 1,
-        "In Review": 2,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 8,
-      "tasks": 14,
+      "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 22,
+      "total": 24,
       "statuses": {
         "Ready For Test": 3,
+        "Reopened": 1,
+        "Issue Accepted": 3,
         "In Progress": 8,
         "On Hold- For Clarification": 2,
-        "Issue Accepted": 2,
         "Dev Complete": 2,
         "Open": 4,
         "Invalid": 1
@@ -30436,6 +30418,25 @@
         "Ready For Test": 6
       }
     },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 182,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Testing On hold": 3,
+        "Onhold-For Tech Dependency": 2,
+        "Ready For Test": 14,
+        "Reopened": 1,
+        "Dev Complete": 1,
+        "Closed": 170,
+        "In Progress": 1,
+        "On Hold- For Clarification": 1,
+        "In Review": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -30450,6 +30451,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1348,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1662
+    },
     "Moore Meghana": {
       "bugs": 11,
       "tasks": 3,
@@ -30457,19 +30465,19 @@
       "stories": 0,
       "total": 15
     },
-    "vzyfeedback": {
-      "bugs": 1346,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1660
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 6,
+    "Ajay Kushwaha": {
+      "bugs": 11,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 19
+      "total": 15
+    },
+    "avinash waghmare": {
+      "bugs": 2,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -30484,13 +30492,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 12
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
     },
     "Yashika Krishnani": {
       "bugs": 7,
@@ -30524,13 +30525,6 @@
       "bugs": 7,
       "tasks": 1,
       "subtasks": 1,
-      "stories": 0,
-      "total": 9
-    },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 7,
-      "subtasks": 0,
       "stories": 0,
       "total": 9
     },
@@ -30582,6 +30576,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 34
+    },
+    "BalaKumar": {
+      "bugs": 10,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
     },
     "Kiran JR": {
       "bugs": 7,
@@ -30713,10 +30714,10 @@
   "priority_breakdown": {
     "High": 471,
     "Highest": 356,
-    "Medium": 814,
+    "Medium": 812,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T17:36:46Z",
+  "updated_at": "2026-03-07T18:51:01Z",
   "total_issues": 2190
 }

@@ -89,15 +89,15 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 2,
-      "IN PROGRESS": 1,
-      "REOPENED": 1,
+      "OPEN": 0,
+      "IN PROGRESS": 0,
+      "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-07T17:36:46Z",
+  "updated_at": "2026-03-07T18:51:01Z",
   "total_issues_fetched": 2190,
   "project": "VF"
 }
