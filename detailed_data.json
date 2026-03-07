@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2421",
+      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "ATV",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2426",
+      "summary": "16:9 Carousel banner issue",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2428",
+      "summary": "(Shivani)  IOS - after fliqs payment, we did not thank you page only the loading indicator has been appearing",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2430",
+      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2433",
+      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2429",
+      "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2434",
+      "summary": "(Shivani) - After clicking the back arrow from the Offer and Plan page, the Home screen appears first, then the page loads again, and finally the screen is displayed. The screen is loading twice.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2417",
       "summary": "UI issues in ATV Settings Page ",
       "status": "Ready For Test",
@@ -71,34 +183,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2433",
-      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2434",
-      "summary": "(Shivani) - After clicking the back arrow from the Offer and Plan page, the Home screen appears first, then the page loads again, and finally the screen is displayed. The screen is loading twice.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2424",
       "summary": "Live Channel | Sony LIV Logos",
       "status": "OnHold-For Vivre Setup",
@@ -127,67 +211,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2426",
-      "summary": "16:9 Carousel banner issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2427",
       "summary": "My watchlist and continue watching rail",
       "status": "Open",
       "priority": "Medium",
       "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2428",
-      "summary": "(Shivani)  IOS - after fliqs payment, we did not thank you page only the loading indicator has been appearing",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2429",
-      "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2430",
-      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "kamaldeeps",
       "platform": "IOS",
       "created": "2026-03-06",
       "updated": "2026-03-06",
@@ -431,20 +459,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2421",
-      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "ATV",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -781,20 +795,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -30262,22 +30262,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 6,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19,
-      "statuses": {
-        "Ready For Test": 2,
-        "Dev Complete": 2,
-        "In Progress": 8,
-        "Issue Accepted": 1,
-        "On Hold- For Clarification": 1,
-        "Open": 4,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 183,
       "tasks": 14,
@@ -30285,14 +30269,30 @@
       "stories": 0,
       "total": 197,
       "statuses": {
-        "Reopened": 5,
+        "Testing On hold": 2,
+        "Reopened": 4,
         "Dev Complete": 1,
         "Closed": 170,
         "In Progress": 1,
-        "Testing On hold": 1,
         "On Hold- For Clarification": 1,
         "Ready For Test": 15,
         "In Review": 2,
+        "Invalid": 1
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 7,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20,
+      "statuses": {
+        "Issue Accepted": 2,
+        "Ready For Test": 2,
+        "Dev Complete": 2,
+        "In Progress": 8,
+        "On Hold- For Clarification": 1,
+        "Open": 4,
         "Invalid": 1
       }
     },
@@ -30323,11 +30323,39 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1340,
+      "bugs": 1341,
       "tasks": 297,
       "subtasks": 12,
       "stories": 0,
-      "total": 1653
+      "total": 1654
+    },
+    "Unassigned": {
+      "bugs": 75,
+      "tasks": 34,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 116
+    },
+    "Moore Meghana": {
+      "bugs": 10,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 13
+    },
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Ajay Kushwaha": {
+      "bugs": 11,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -30337,18 +30365,11 @@
       "total": 16
     },
     "kamaldeeps": {
-      "bugs": 6,
+      "bugs": 3,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
+      "total": 3
     },
     "Akash Kushwaha": {
       "bugs": 9,
@@ -30399,13 +30420,6 @@
       "stories": 0,
       "total": 7
     },
-    "Unassigned": {
-      "bugs": 75,
-      "tasks": 34,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 116
-    },
     "Dinjit Dinesh": {
       "bugs": 17,
       "tasks": 18,
@@ -30419,13 +30433,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Moore Meghana": {
-      "bugs": 9,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 12
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -30539,13 +30546,6 @@
       "stories": 0,
       "total": 11
     },
-    "Ajay Kushwaha": {
-      "bugs": 10,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -30583,12 +30583,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 812,
     "High": 468,
+    "Medium": 812,
     "Highest": 352,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T05:52:37Z",
+  "updated_at": "2026-03-07T06:59:30Z",
   "total_issues": 2181
 }

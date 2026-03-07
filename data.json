@@ -3,7 +3,7 @@
     "ANDROID": {
       "OPEN": 5,
       "IN PROGRESS": 2,
-      "REOPENED": 4,
+      "REOPENED": 3,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 1
@@ -49,11 +49,11 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 7,
+      "OPEN": 5,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "Kaltura": {
@@ -93,11 +93,11 @@
       "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-07T05:52:37Z",
+  "updated_at": "2026-03-07T06:59:30Z",
   "total_issues_fetched": 2181,
   "project": "VF"
 }
