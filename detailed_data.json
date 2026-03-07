@@ -1,13 +1,13 @@
 {
   "bugs": [
     {
-      "key": "VF-2343",
-      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
-      "status": "Ready For Test",
+      "key": "VF-2443",
+      "summary": "(Shivani) - With logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
+      "status": "Open",
       "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-07",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -15,13 +15,13 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2443",
-      "summary": "(Shivani) - Without logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
-      "status": "Open",
+      "key": "VF-2343",
+      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
+      "status": "Ready For Test",
       "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-03-07",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23425,6 +23425,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-03-07",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2378",
       "summary": "Clevertap - Fliqs",
       "status": "In Progress",
@@ -23771,20 +23785,6 @@
       "updated": "2026-03-03",
       "duedate": "2025-12-30",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-03-03",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -30388,6 +30388,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Reopened": 1,
+        "Closed": 41,
+        "In Progress": 1,
+        "Ready For Test": 6
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 8,
       "tasks": 14,
@@ -30423,18 +30436,6 @@
         "Invalid": 1
       }
     },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Closed": 41,
-        "In Progress": 1,
-        "Ready For Test": 7
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 0,
       "tasks": 2,
@@ -30449,6 +30450,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 16,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 18
+    },
     "vzyfeedback": {
       "bugs": 1346,
       "tasks": 298,
@@ -30462,13 +30470,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "Akash Kushwaha": {
-      "bugs": 16,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 18
     },
     "BalaKumar": {
       "bugs": 11,
@@ -30716,6 +30717,6 @@
     "Medium": 814,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T11:33:34Z",
+  "updated_at": "2026-03-07T13:09:29Z",
   "total_issues": 2190
 }
