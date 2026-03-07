@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2442",
+      "summary": "UI Issue",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1197",
       "summary": "Something Went Wrong ",
       "status": "Testing On hold",
@@ -25,20 +39,6 @@
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2442",
-      "summary": "UI Issue",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -30395,10 +30395,10 @@
       "stories": 0,
       "total": 22,
       "statuses": {
-        "In Progress": 9,
+        "Ready For Test": 3,
+        "In Progress": 8,
         "On Hold- For Clarification": 2,
         "Issue Accepted": 2,
-        "Ready For Test": 2,
         "Dev Complete": 2,
         "Open": 4,
         "Invalid": 1
@@ -30451,18 +30451,18 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1346,
+      "bugs": 1347,
       "tasks": 298,
       "subtasks": 12,
       "stories": 0,
-      "total": 1660
+      "total": 1661
     },
     "Namrata Kurariya": {
-      "bugs": 8,
+      "bugs": 7,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 11
     },
     "Akash Kushwaha": {
       "bugs": 16,
@@ -30711,12 +30711,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 356,
     "High": 471,
+    "Highest": 356,
     "Low": 30,
     "Medium": 814,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T16:44:36Z",
+  "updated_at": "2026-03-07T17:16:19Z",
   "total_issues": 2190
 }
