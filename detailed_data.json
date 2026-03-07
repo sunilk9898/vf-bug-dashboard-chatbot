@@ -1,9 +1,37 @@
 {
   "bugs": [
     {
-      "key": "VF-2427",
-      "summary": "My watchlist and continue watching rail",
-      "status": "Open",
+      "key": "VF-2389",
+      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
+      "status": "Parked",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2165",
+      "summary": "Notifications page UI",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2425",
+      "summary": "Loading Issue",
+      "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "shadab Hussain",
       "platform": "IOS",
@@ -15,13 +43,139 @@
       "fixversion": ""
     },
     {
+      "key": "VF-2434",
+      "summary": "(Shivani) - After clicking the back arrow from the Offer and Plan page, the Home screen appears first, then the page loads again, and finally the screen is displayed. The screen is loading twice.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2424",
+      "summary": "Live Channel | Sony LIV Logos",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2421",
       "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
-      "status": "Open",
+      "status": "OnHold-For Vivre Setup",
       "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "ATV",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
       "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2431",
+      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2386",
+      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-07",
+      "duedate": "2026-02-27",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-27",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2426",
+      "summary": "16:9 Carousel banner issue",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2427",
+      "summary": "My watchlist and continue watching rail",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-07",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2410",
+      "summary": " Fliqs journey for guest user",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-03",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -155,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2431",
-      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2397",
       "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
       "status": "Onhold-For Tech Dependency",
@@ -207,20 +347,6 @@
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2426",
-      "summary": "16:9 Carousel banner issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -267,20 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2434",
-      "summary": "(Shivani) - After clicking the back arrow from the Offer and Plan page, the Home screen appears first, then the page loads again, and finally the screen is displayed. The screen is loading twice.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2417",
       "summary": "UI issues in ATV Settings Page ",
       "status": "Ready For Test",
@@ -316,34 +428,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-02-25",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2424",
-      "summary": "Live Channel | Sony LIV Logos",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2425",
-      "summary": "Loading Issue",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -617,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2165",
-      "summary": "Notifications page UI",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2276",
       "summary": "CD page top nav",
       "status": "Testing On hold",
@@ -697,20 +767,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -953,20 +1009,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2410",
-      "summary": " Fliqs journey for guest user",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-03",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2291",
       "summary": "TV: Resume playback not working for Discovery+ content",
       "status": "Closed",
@@ -1017,48 +1059,6 @@
       "platform": "ATV",
       "created": "2026-02-24",
       "updated": "2026-03-04",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2389",
-      "summary": "Mobile: The audio language option displays \u201cJa\u201d instead of the full language name \u201cJapanese\u201d.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2386",
-      "summary": "Mobile: Spelling or text error observed in checkbox label. ",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "2026-02-27",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-27",
-      "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -30325,15 +30325,31 @@
       "stories": 0,
       "total": 197,
       "statuses": {
-        "Onhold-For Tech Dependency": 1,
-        "Testing On hold": 2,
-        "Reopened": 3,
+        "Onhold-For Tech Dependency": 2,
+        "Ready For Test": 16,
+        "Testing On hold": 1,
+        "Reopened": 2,
         "Dev Complete": 1,
         "Closed": 170,
         "In Progress": 1,
         "On Hold- For Clarification": 1,
-        "Ready For Test": 15,
         "In Review": 2,
+        "Invalid": 1
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 7,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21,
+      "statuses": {
+        "On Hold- For Clarification": 2,
+        "Issue Accepted": 2,
+        "Ready For Test": 2,
+        "Dev Complete": 2,
+        "In Progress": 8,
+        "Open": 4,
         "Invalid": 1
       }
     },
@@ -30347,22 +30363,6 @@
         "In Progress": 1,
         "Ready For Test": 8,
         "Closed": 40
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 7,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21,
-      "statuses": {
-        "Issue Accepted": 3,
-        "Ready For Test": 2,
-        "Dev Complete": 2,
-        "In Progress": 8,
-        "On Hold- For Clarification": 1,
-        "Open": 4,
-        "Invalid": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -30379,31 +30379,31 @@
   },
   "releases": {},
   "assignee_workload": {
-    "shadab Hussain": {
-      "bugs": 10,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "vzyfeedback": {
-      "bugs": 1341,
+      "bugs": 1346,
       "tasks": 297,
       "subtasks": 12,
       "stories": 0,
-      "total": 1654
+      "total": 1659
     },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 2,
+    "shadab Hussain": {
+      "bugs": 7,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 11
     },
     "Akash Kushwaha": {
       "bugs": 12,
       "tasks": 1,
       "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 0,
       "stories": 0,
       "total": 14
     },
@@ -30414,13 +30414,6 @@
       "stories": 0,
       "total": 31
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
-    },
     "Moore Meghana": {
       "bugs": 10,
       "tasks": 3,
@@ -30429,11 +30422,11 @@
       "total": 14
     },
     "Alok Gupta": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 15
     },
     "Karan Mahboobani": {
       "bugs": 8,
@@ -30532,6 +30525,13 @@
       "subtasks": 1,
       "stories": 0,
       "total": 3
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 32
     },
     "Suyog Lanje": {
       "bugs": 1,
@@ -30640,12 +30640,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 813,
-    "High": 468,
-    "Highest": 355,
     "Low": 30,
+    "High": 468,
+    "Medium": 813,
+    "Highest": 355,
     "Lowest": 2
   },
-  "updated_at": "2026-03-07T09:43:38Z",
+  "updated_at": "2026-03-07T10:43:01Z",
   "total_issues": 2185
 }
