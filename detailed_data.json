@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-02-27",
+      "updated": "2026-03-08",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2442",
       "summary": "UI Issue",
       "status": "Ready For Test",
@@ -92,20 +106,6 @@
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
       "created": "2026-03-03",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-02-27",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30451,6 +30451,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
+    },
     "vzyfeedback": {
       "bugs": 1348,
       "tasks": 298,
@@ -30478,13 +30485,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -30514,12 +30514,12 @@
       "stories": 0,
       "total": 15
     },
-    "Akash Kushwaha": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 1,
+    "Alok Gupta": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 15
     },
     "devaraj": {
       "bugs": 7,
@@ -30712,12 +30712,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 471,
     "Highest": 356,
+    "High": 471,
     "Medium": 812,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-08T10:44:40Z",
+  "updated_at": "2026-03-08T11:34:45Z",
   "total_issues": 2190
 }
