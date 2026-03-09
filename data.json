@@ -11,7 +11,7 @@
     "ATV": {
       "OPEN": 2,
       "IN PROGRESS": 1,
-      "REOPENED": 1,
+      "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-09T06:12:17Z",
-  "total_issues_fetched": 2192,
+  "updated_at": "2026-03-09T07:18:48Z",
+  "total_issues_fetched": 2193,
   "project": "VF"
 }

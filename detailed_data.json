@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2433",
+      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2438",
+      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2339",
+      "summary": "TV: Audio options are repeated in the video player settings.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2262",
       "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
       "status": "Testing On hold",
@@ -197,20 +239,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2438",
-      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2436",
       "summary": "Naveen => Fliqs unsubscribe button => Confim is mentioned instead of confirm ",
       "status": "Ready For Test",
@@ -239,20 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2433",
-      "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "WEB",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2437",
       "summary": "Naveen = Series is not playing getting error on every series ",
       "status": "Ready For Test",
@@ -260,20 +274,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2339",
-      "summary": "TV: Audio options are repeated in the video player settings.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-26",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23425,6 +23425,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2446",
+      "summary": "Cloud TV: Redirection url",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-03-09",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2312",
       "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
       "status": "Dev Complete",
@@ -23449,20 +23477,6 @@
       "updated": "2026-03-09",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-03-07",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -30416,6 +30430,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Reopened": 1,
+        "Closed": 41,
+        "In Progress": 1,
+        "Ready For Test": 6
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 12,
       "tasks": 16,
@@ -30430,19 +30457,6 @@
         "On Hold- For Clarification": 2,
         "Open": 4,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Reopened": 1,
-        "Closed": 41,
-        "In Progress": 1,
-        "Ready For Test": 6
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -30478,19 +30492,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Moore Meghana": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
     "vzyfeedback": {
-      "bugs": 1350,
+      "bugs": 1351,
       "tasks": 298,
       "subtasks": 12,
       "stories": 0,
-      "total": 1664
+      "total": 1665
     },
     "Akash Kushwaha": {
       "bugs": 10,
-      "tasks": 1,
+      "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 12
+      "total": 13
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -30520,26 +30541,19 @@
       "stories": 0,
       "total": 14
     },
-    "Moore Meghana": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
-    "Karan Mahboobani": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
     "Javed Ali": {
       "bugs": 28,
       "tasks": 2,
       "subtasks": 2,
       "stories": 0,
       "total": 32
+    },
+    "Karan Mahboobani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
     },
     "devaraj": {
       "bugs": 7,
@@ -30740,11 +30754,11 @@
   },
   "priority_breakdown": {
     "High": 471,
-    "Medium": 814,
     "Highest": 356,
+    "Medium": 814,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-09T06:12:17Z",
-  "total_issues": 2192
+  "updated_at": "2026-03-09T07:18:48Z",
+  "total_issues": 2193
 }
