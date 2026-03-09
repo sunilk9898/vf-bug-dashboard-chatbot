@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2262",
+      "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2445",
+      "summary": "(Tamanna) - FanCode Live Match Showing Content Unavailable.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "CT In App Redirection not working ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2418",
+      "summary": "CT Push Notification permission not coming ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2444",
+      "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-27",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2439",
       "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
       "status": "Open",
@@ -79,20 +163,6 @@
       "platform": "CMS Adaptor",
       "created": "2026-03-03",
       "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2262",
-      "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-08",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -204,34 +274,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2418",
-      "summary": "CT Push Notification permission not coming ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "CT In App Redirection not working ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3245,20 +3287,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-02-27",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -23399,7 +23427,7 @@
     {
       "key": "VF-2312",
       "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
@@ -30395,10 +30423,10 @@
       "stories": 0,
       "total": 28,
       "statuses": {
-        "In Progress": 9,
-        "Dev Complete": 3,
+        "Dev Complete": 4,
         "Issue Accepted": 6,
         "Ready For Test": 3,
+        "In Progress": 8,
         "On Hold- For Clarification": 2,
         "Open": 4,
         "Invalid": 1
@@ -30450,6 +30478,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1350,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1664
+    },
+    "Akash Kushwaha": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 12
+    },
+    "Alok Gupta": {
+      "bugs": 13,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 17
+    },
     "Ajay Kushwaha": {
       "bugs": 11,
       "tasks": 4,
@@ -30471,20 +30520,6 @@
       "stories": 0,
       "total": 14
     },
-    "vzyfeedback": {
-      "bugs": 1350,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1664
-    },
-    "Akash Kushwaha": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
-    },
     "Moore Meghana": {
       "bugs": 11,
       "tasks": 3,
@@ -30499,26 +30534,12 @@
       "stories": 0,
       "total": 12
     },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "Javed Ali": {
       "bugs": 28,
       "tasks": 2,
       "subtasks": 2,
       "stories": 0,
       "total": 32
-    },
-    "Alok Gupta": {
-      "bugs": 11,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "devaraj": {
       "bugs": 7,
@@ -30547,6 +30568,13 @@
       "subtasks": 0,
       "stories": 1,
       "total": 20
+    },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -30711,12 +30739,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 812,
     "High": 471,
+    "Medium": 814,
     "Highest": 356,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-09T05:04:13Z",
-  "total_issues": 2190
+  "updated_at": "2026-03-09T06:12:17Z",
+  "total_issues": 2192
 }
