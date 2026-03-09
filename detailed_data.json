@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2447",
+      "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "SAM_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2445",
+      "summary": "(Tamanna) - FanCode Live Match Showing Content Unavailable.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2449",
+      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2452",
+      "summary": "Similar to this and People also watched options are blank",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2457",
+      "summary": "Fliqs episode listing ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2456",
+      "summary": "Fliqs content playback ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2455",
+      "summary": "Fliqs content playback ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2454",
       "summary": "Fliqs subscription",
       "status": "Open",
@@ -21,48 +133,6 @@
       "priority": "Medium",
       "assignee": "Srinidhi.Raju",
       "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2447",
-      "summary": "(Shivani) -When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and then scan the QR code, it opens the web app and correctly shows the Order Summary page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2452",
-      "summary": "Similar to this and People also watched options are blank",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2445",
-      "summary": "(Tamanna) - FanCode Live Match Showing Content Unavailable.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
       "created": "2026-03-09",
       "updated": "2026-03-09",
       "duedate": "",
@@ -119,34 +189,6 @@
       "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2432",
-      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-06",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2449",
-      "summary": "(Shivani) -  Click on the Subscribe button for any subscribed content on the banner. A QR code screen will appear. Just observe the screen\u2014after a few seconds, it automatically closes, and a \u201cCongrats, Payment Successful\u201d message appears.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "LG_TV",
       "created": "2026-03-09",
       "updated": "2026-03-09",
       "duedate": "",
@@ -30604,20 +30646,6 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Dinjit Dinesh": {
-      "bugs": 16,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
-    },
     "shadab Hussain": {
       "bugs": 10,
       "tasks": 4,
@@ -30625,26 +30653,26 @@
       "stories": 0,
       "total": 14
     },
-    "Akash Kushwaha": {
-      "bugs": 14,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 17
-    },
-    "Karan Mahboobani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
     "vzyfeedback": {
-      "bugs": 1355,
+      "bugs": 1356,
       "tasks": 298,
       "subtasks": 12,
       "stories": 0,
-      "total": 1669
+      "total": 1670
+    },
+    "Akash Kushwaha": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
+    "BalaKumar": {
+      "bugs": 11,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 17
     },
     "Ajay Kushwaha": {
       "bugs": 11,
@@ -30652,6 +30680,27 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
+    },
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
+    "Karan Mahboobani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -30736,13 +30785,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 113
-    },
-    "BalaKumar": {
-      "bugs": 10,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Kiran JR": {
       "bugs": 7,
@@ -30872,12 +30914,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 816,
-    "High": 476,
-    "Highest": 357,
+    "High": 477,
+    "Medium": 817,
+    "Highest": 358,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-09T09:02:47Z",
-  "total_issues": 2201
+  "updated_at": "2026-03-09T10:07:22Z",
+  "total_issues": 2204
 }
