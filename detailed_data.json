@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2411",
+      "summary": "Wrong 2:3 Jiohotstar thumbnails",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-03",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2262",
       "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
       "status": "Ready For Test",
@@ -106,20 +120,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2411",
-      "summary": "Wrong 2:3 Jiohotstar thumbnails",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-03",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -30452,11 +30452,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1349,
+      "bugs": 1350,
       "tasks": 298,
       "subtasks": 12,
       "stories": 0,
-      "total": 1663
+      "total": 1664
     },
     "Akash Kushwaha": {
       "bugs": 8,
@@ -30478,13 +30478,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -30527,6 +30520,13 @@
       "subtasks": 1,
       "stories": 0,
       "total": 9
+    },
+    "avinash waghmare": {
+      "bugs": 1,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -30712,12 +30712,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 812,
     "High": 471,
     "Highest": 356,
-    "Medium": 812,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-08T23:38:02Z",
+  "updated_at": "2026-03-09T03:15:52Z",
   "total_issues": 2190
 }

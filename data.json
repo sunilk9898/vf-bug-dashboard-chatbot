@@ -29,7 +29,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 0,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-08T23:38:02Z",
+  "updated_at": "2026-03-09T03:15:52Z",
   "total_issues_fetched": 2190,
   "project": "VF"
 }
