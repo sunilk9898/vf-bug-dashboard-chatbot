@@ -1,6 +1,342 @@
 {
   "bugs": [
     {
+      "key": "VF-2451",
+      "summary": "(Shivani) - on QR code screen, background page and text and vzy logo is missing",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2462",
+      "summary": "SunNXT content shows \u201cInstall App\u201d pop-up instead of playing inside the VZY app",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2437",
+      "summary": "Naveen = Series is not playing getting error on every series ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2465",
+      "summary": "(Tamanna) - Content Playing Without Active Plan.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2463",
+      "summary": "(Tamanna) - Sports Content Thumbnail Issue.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2470",
+      "summary": "(Tamanna) - Getting \"Watcho movies\" banner in Movies Section in footer",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2467",
+      "summary": "(Tamanna) - Cast/Actor Name Not Showing on Watcho Exclusive Content.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "Clevertap In App Redirection not working ",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2430",
+      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2428",
+      "summary": "(Shivani)  IOS - after fliqs payment, we did not thank you page only the loading indicator has been appearing",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2457",
+      "summary": "Fliqs episode listing ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2464",
+      "summary": "(Tamanna) - Fliqs Channel Banner Getting Stretched.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2460",
+      "summary": "(Tamanna) - Alignment Issue on Detail Fliqs Page.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2468",
+      "summary": "(Tamanna) - Channel Name Display Issue After Subscription.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2439",
+      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2434",
+      "summary": "(Shivani) - After clicking the back arrow from the Offer and Plan page, the Home screen appears first, then the page loads again, and finally the screen is displayed. The screen is loading twice.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2469",
+      "summary": "(Shivani) The channel logo is different inside the channel, and within the content section, the logo sometimes appears and sometimes does not show at all.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2272",
+      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2436",
+      "summary": "Naveen => Fliqs unsubscribe button => Confim is mentioned instead of confirm ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2466",
+      "summary": "(Tamanna) - Duration Display Issue on Watcho Exclusive Content.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2124",
+      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-16",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2438",
+      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2442",
+      "summary": "UI Issue",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2443",
       "summary": "(Shivani) - With logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
       "status": "Closed",
@@ -25,34 +361,6 @@
       "updated": "2026-03-09",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2467",
-      "summary": "(Tamanna) - Cast/Actor Name Not Showing on Watcho Exclusive Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2466",
-      "summary": "(Tamanna) - Duration Display Issue on Watcho Exclusive Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -113,76 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2439",
-      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-07",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2465",
-      "summary": "(Tamanna) - Content Playing Without Active Plan.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2464",
-      "summary": "(Tamanna) - Fliqs Channel Banner Getting Stretched.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2463",
-      "summary": "(Tamanna) - Sports Content Thumbnail Issue.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2462",
-      "summary": "SunNXT content shows \u201cInstall App\u201d pop-up instead of playing inside the VZY app",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "SAM_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2461",
       "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
       "status": "Open",
@@ -211,40 +449,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2460",
-      "summary": "(Tamanna) - Alignment Issue on Detail Fliqs Page.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2429",
       "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
       "status": "Closed",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "Clevertap In App Redirection not working ",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
       "created": "2026-03-06",
       "updated": "2026-03-09",
       "duedate": "",
@@ -300,20 +510,6 @@
       "status": "Not Reproducible",
       "priority": "Highest",
       "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2457",
-      "summary": "Fliqs episode listing ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-03-09",
       "updated": "2026-03-09",
@@ -421,40 +617,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2432",
-      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-06",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2450",
       "summary": "Content-to-content redirection failed for Hotstar content on Android TV",
       "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2451",
-      "summary": "(Shivani) - on QR code screen, background page and text and vzy logo is missing",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
       "created": "2026-03-09",
       "updated": "2026-03-09",
       "duedate": "",
@@ -473,20 +641,6 @@
       "updated": "2026-03-09",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2438",
-      "summary": "Naveen => Thankyou  page Fliqs alignment is not correct ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -589,34 +743,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2442",
-      "summary": "UI Issue",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-08",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2436",
-      "summary": "Naveen => Fliqs unsubscribe button => Confim is mentioned instead of confirm ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2413",
       "summary": "CD page episode listing Progress bar",
       "status": "Ready For Test",
@@ -624,20 +750,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-05",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2437",
-      "summary": "Naveen = Series is not playing getting error on every series ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-07",
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
@@ -725,20 +837,6 @@
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2434",
-      "summary": "(Shivani) - After clicking the back arrow from the Offer and Plan page, the Home screen appears first, then the page loads again, and finally the screen is displayed. The screen is loading twice.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -855,20 +953,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2430",
-      "summary": "(Shivani) - Fliqs >>  after unsubscribing, an error message is appearing \u201ccancellation failed at partner end\u201d",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2267",
       "summary": "Mobile: Random numerical characters appear within subtitle text during video playback.",
       "status": "Invalid",
@@ -911,20 +995,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2428",
-      "summary": "(Shivani)  IOS - after fliqs payment, we did not thank you page only the loading indicator has been appearing",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Moore Meghana",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2417",
       "summary": "UI issues in ATV Settings Page ",
       "status": "Ready For Test",
@@ -932,20 +1002,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-05",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2272",
-      "summary": "TV: Application Redirects to TV: Home Page When Changing Video Quality Multiple Times",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1019,20 +1075,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2124",
-      "summary": "(Shivani) - After deleting a account, why Renew button is showing instead of subscribe button",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-16",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -23719,6 +23761,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2415",
+      "summary": "{KPI] Vivre API Option to be added & Web to implement ",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Manikanta P",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2403",
+      "summary": "Play Flix CP integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-525",
       "summary": "Error Code Framework",
       "status": "Ready For Test",
@@ -23971,20 +24041,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2403",
-      "summary": "Play Flix CP integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-27",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1931",
       "summary": "Amazon Prime Integration",
       "status": "Open",
@@ -24009,20 +24065,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2415",
-      "summary": "{KPI] Vivre API Option to be added & Web to implement ",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "WEB",
-      "created": "2026-03-05",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -30731,14 +30773,14 @@
       "stories": 0,
       "total": 28,
       "statuses": {
-        "Closed": 2,
-        "Ready For Test": 4,
+        "In Progress": 10,
+        "Closed": 4,
+        "Ready For Test": 3,
         "Dev Complete": 3,
         "Issue Accepted": 4,
-        "In Progress": 8,
-        "On Hold- For Clarification": 2,
-        "Open": 4,
-        "Invalid": 1
+        "On Hold- For Clarification": 1,
+        "Invalid": 1,
+        "Open": 2
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -30787,68 +30829,54 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1364,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1678
+    },
+    "devaraj": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 12
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
+    "Moore Meghana": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
+    "Dinjit Dinesh": {
+      "bugs": 17,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
     "shadab Hussain": {
       "bugs": 10,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Akash Kushwaha": {
-      "bugs": 16,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 19
-    },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
-    },
-    "vzyfeedback": {
-      "bugs": 1362,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1676
-    },
-    "Javed Ali": {
-      "bugs": 28,
-      "tasks": 2,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 32
-    },
-    "Dinjit Dinesh": {
-      "bugs": 18,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 37
-    },
-    "Moore Meghana": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
-    "devaraj": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
-    },
-    "BalaKumar": {
-      "bugs": 11,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 17
     },
     "Ajay Kushwaha": {
       "bugs": 11,
@@ -30857,6 +30885,34 @@
       "stories": 0,
       "total": 15
     },
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 20
+    },
+    "Akash Kushwaha": {
+      "bugs": 11,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 32
+    },
     "Karan Mahboobani": {
       "bugs": 8,
       "tasks": 1,
@@ -30864,26 +30920,12 @@
       "stories": 0,
       "total": 11
     },
-    "avinash waghmare": {
-      "bugs": 1,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 20
     },
     "Yashika Krishnani": {
       "bugs": 5,
@@ -31048,12 +31090,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 480,
+    "High": 481,
     "Highest": 358,
-    "Medium": 824,
+    "Medium": 826,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-09T11:50:22Z",
-  "total_issues": 2214
+  "updated_at": "2026-03-09T13:40:25Z",
+  "total_issues": 2217
 }
