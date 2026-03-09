@@ -1,6 +1,216 @@
 {
   "bugs": [
     {
+      "key": "VF-2454",
+      "summary": "Fliqs subscription",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2453",
+      "summary": "Top 10 in India: Thumbnails are not complete",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2447",
+      "summary": "(Shivani) -When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and then scan the QR code, it opens the web app and correctly shows the Order Summary page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2452",
+      "summary": "Similar to this and People also watched options are blank",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2445",
+      "summary": "(Tamanna) - FanCode Live Match Showing Content Unavailable.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2450",
+      "summary": "Content-to-content redirection failed for Hotstar content on Android TV",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2439",
+      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "CT In App Redirection not working ",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2451",
+      "summary": "(Shivani) - on QR code screen, background page and text and vzy logo is missing",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2449",
+      "summary": "(Shivani) -  Click on the Subscribe button for any subscribed content on the banner. A QR code screen will appear. Just observe the screen\u2014after a few seconds, it automatically closes, and a \u201cCongrats, Payment Successful\u201d message appears.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2448",
+      "summary": "(Shivani)  LG \u2013 Fliqs, when clicking the Subscribe button on any banner, it shows 0 days.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2429",
+      "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2418",
+      "summary": "CT Push Notification permission not coming ",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2433",
       "summary": "(Shivani)Fliqs >> TVOD >> After purchasing Tvod content, thank you page is not correct",
       "status": "Ready For Test",
@@ -57,48 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2445",
-      "summary": "(Tamanna) - FanCode Live Match Showing Content Unavailable.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "CT In App Redirection not working ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2418",
-      "summary": "CT Push Notification permission not coming ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2444",
       "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
       "status": "Open",
@@ -120,20 +288,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-02-27",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2439",
-      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-07",
       "updated": "2026-03-09",
       "duedate": "",
       "sprint": "No Sprint",
@@ -519,20 +673,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2432",
-      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2435",
       "summary": "CTA is switching from Watch Now to Resume.",
       "status": "In Progress",
@@ -594,20 +734,6 @@
       "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "Moore Meghana",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2429",
-      "summary": "(Shivani) Fliqs >>  instead of cancel subscription text, unsubscribe text will show",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-06",
       "updated": "2026-03-07",
@@ -764,20 +890,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2025-12-09",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2143",
-      "summary": "Clevertap event integration - Fire Tv",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -30430,6 +30542,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 12,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 28,
+      "statuses": {
+        "Ready For Test": 4,
+        "Dev Complete": 3,
+        "Issue Accepted": 6,
+        "In Progress": 8,
+        "On Hold- For Clarification": 2,
+        "Open": 4,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -30441,22 +30569,6 @@
         "Closed": 41,
         "In Progress": 1,
         "Ready For Test": 6
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 12,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 28,
-      "statuses": {
-        "Dev Complete": 4,
-        "Issue Accepted": 6,
-        "Ready For Test": 3,
-        "In Progress": 8,
-        "On Hold- For Clarification": 2,
-        "Open": 4,
-        "Invalid": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -30492,47 +30604,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Moore Meghana": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
-    "vzyfeedback": {
-      "bugs": 1351,
-      "tasks": 298,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1665
-    },
-    "Akash Kushwaha": {
-      "bugs": 10,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
-    },
-    "Alok Gupta": {
-      "bugs": 13,
-      "tasks": 4,
+    "Dinjit Dinesh": {
+      "bugs": 16,
+      "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 17
+      "total": 35
     },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 4,
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 5,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
+      "total": 1
     },
     "shadab Hussain": {
       "bugs": 10,
@@ -30541,12 +30625,12 @@
       "stories": 0,
       "total": 14
     },
-    "Javed Ali": {
-      "bugs": 28,
+    "Akash Kushwaha": {
+      "bugs": 14,
       "tasks": 2,
-      "subtasks": 2,
+      "subtasks": 1,
       "stories": 0,
-      "total": 32
+      "total": 17
     },
     "Karan Mahboobani": {
       "bugs": 8,
@@ -30554,6 +30638,41 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
+    },
+    "vzyfeedback": {
+      "bugs": 1355,
+      "tasks": 298,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1669
+    },
+    "Ajay Kushwaha": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Moore Meghana": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 2,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 32
     },
     "devaraj": {
       "bugs": 7,
@@ -30617,13 +30736,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 113
-    },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "BalaKumar": {
       "bugs": 10,
@@ -30709,6 +30821,13 @@
       "stories": 0,
       "total": 1
     },
+    "Amit Kumar Tiwari": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -30753,12 +30872,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 471,
-    "Highest": 356,
-    "Medium": 814,
+    "Medium": 816,
+    "High": 476,
+    "Highest": 357,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-09T07:18:48Z",
-  "total_issues": 2193
+  "updated_at": "2026-03-09T09:02:47Z",
+  "total_issues": 2201
 }
