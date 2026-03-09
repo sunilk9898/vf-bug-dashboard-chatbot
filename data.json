@@ -49,11 +49,11 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 3,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 4,
       "PARKED": 0
     },
     "Kaltura": {
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-09T03:15:52Z",
+  "updated_at": "2026-03-09T05:04:13Z",
   "total_issues_fetched": 2190,
   "project": "VF"
 }

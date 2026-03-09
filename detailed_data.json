@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2439",
+      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2440",
+      "summary": "(Shivani) Fliqs >> SVOD >> on watcho channel, subscribed button is not clickable",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2441",
+      "summary": "(Shivani) >> When I click on Sunnxt movie watch now button, it is redirecting to Sunnxt app which is expected but I am getting subscribe button even though I have all in one pass. For series it is working fine.",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2443",
+      "summary": "(Shivani) - With logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2425",
+      "summary": "Loading Issue",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2411",
       "summary": "Wrong 2:3 Jiohotstar thumbnails",
       "status": "Ready For Test",
@@ -197,62 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2439",
-      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "ATV",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2440",
-      "summary": "(Shivani) Fliqs >> SVOD >> on watcho channel, subscribed button is not clickable",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2441",
-      "summary": "(Shivani) >> When I click on Sunnxt movie watch now button, it is redirecting to Sunnxt app which is expected but I am getting subscribe button even though I have all in one pass. For series it is working fine.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2443",
-      "summary": "(Shivani) - With logging out, when I click on Share Content, it takes me to the Login screen, whereas it should redirect me to the Content screen.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-07",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1197",
       "summary": "Something Went Wrong ",
       "status": "Testing On hold",
@@ -319,20 +333,6 @@
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2425",
-      "summary": "Loading Issue",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -23399,12 +23399,12 @@
     {
       "key": "VF-2312",
       "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
-      "status": "Reopened",
+      "status": "In Progress",
       "priority": "Medium",
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
       "created": "2026-02-26",
-      "updated": "2026-03-07",
+      "updated": "2026-03-09",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
@@ -23413,12 +23413,12 @@
     {
       "key": "VF-2416",
       "summary": "Order Summery ",
-      "status": "Issue Accepted",
+      "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
       "created": "2026-03-05",
-      "updated": "2026-03-07",
+      "updated": "2026-03-09",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
@@ -30389,18 +30389,17 @@
   ],
   "sprints": {
     "VZY Sprint (16 March 2026)": {
-      "bugs": 8,
+      "bugs": 12,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 24,
+      "total": 28,
       "statuses": {
+        "In Progress": 9,
+        "Dev Complete": 3,
+        "Issue Accepted": 6,
         "Ready For Test": 3,
-        "Reopened": 1,
-        "Issue Accepted": 3,
-        "In Progress": 8,
         "On Hold- For Clarification": 2,
-        "Dev Complete": 2,
         "Open": 4,
         "Invalid": 1
       }
@@ -30451,6 +30450,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Ajay Kushwaha": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 5,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 12
+    },
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
     "vzyfeedback": {
       "bugs": 1350,
       "tasks": 298,
@@ -30469,13 +30489,6 @@
       "bugs": 11,
       "tasks": 3,
       "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 4,
-      "subtasks": 0,
       "stories": 0,
       "total": 15
     },
@@ -30499,13 +30512,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 32
-    },
-    "shadab Hussain": {
-      "bugs": 11,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "Alok Gupta": {
       "bugs": 11,
@@ -30661,13 +30667,6 @@
       "stories": 0,
       "total": 1
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -30718,6 +30717,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-09T03:15:52Z",
+  "updated_at": "2026-03-09T05:04:13Z",
   "total_issues": 2190
 }
