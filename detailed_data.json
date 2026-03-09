@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2460",
+      "summary": "(Tamanna) - Alignment Issue on Detail Fliqs Page.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-09",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2447",
       "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
       "status": "Dev Complete",
@@ -199,20 +213,6 @@
     {
       "key": "VF-2464",
       "summary": "(Tamanna) - Fliqs Channel Banner Getting Stretched.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2460",
-      "summary": "(Tamanna) - Alignment Issue on Detail Fliqs Page.",
       "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "BalaKumar",
@@ -30829,6 +30829,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
     "kamaldeeps": {
       "bugs": 2,
       "tasks": 0,
@@ -30849,13 +30856,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 12
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
     },
     "Moore Meghana": {
       "bugs": 12,
@@ -31090,12 +31090,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 826,
     "High": 481,
     "Highest": 358,
-    "Medium": 826,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-09T17:12:11Z",
+  "updated_at": "2026-03-09T18:01:09Z",
   "total_issues": 2217
 }
