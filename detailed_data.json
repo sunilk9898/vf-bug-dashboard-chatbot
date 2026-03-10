@@ -1,9 +1,65 @@
 {
   "bugs": [
     {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "On Hold- For Clarification",
+      "key": "VF-2208",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2449",
+      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
+      "status": "In Review",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2448",
+      "summary": "(Shivani)  LG \u2013 Fliqs, when clicking the Subscribe button on any banner, it shows 0 days.",
+      "status": "In Review",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2144",
+      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
+      "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
@@ -15,13 +71,139 @@
       "fixversion": ""
     },
     {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2447",
+      "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2493",
       "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Ready For Test",
+      "status": "Onhold-For Tech Dependency",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2472",
+      "summary": "Naveen => New Releases First content not clickable in iOS production build",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2488",
+      "summary": "Content unstable   ",
+      "status": "Not Reproducible",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2487",
+      "summary": "Sony Television Logo appears on CID content ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2484",
+      "summary": "App gets stuck middle of performing ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
@@ -43,20 +225,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2449",
-      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2495",
       "summary": "Wrong Cover image in carousel",
       "status": "Ready For Test",
@@ -64,20 +232,6 @@
       "assignee": "vzyfeedback",
       "platform": "Kaltura",
       "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2208",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-24",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
@@ -127,20 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2473",
-      "summary": "Pink highlight color",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2485",
       "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
       "status": "Closed",
@@ -160,34 +300,6 @@
       "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2472",
-      "summary": "Naveen => New Releases First content not clickable in iOS production build",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2488",
-      "summary": "Content unstable   ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
       "updated": "2026-03-10",
@@ -351,20 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2487",
-      "summary": "Sony Television Logo appears on CID content ",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2059",
       "summary": "Inconsistent TOP NAV in \"My vibes\" section",
       "status": "Reopened",
@@ -407,20 +505,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2484",
-      "summary": "App gets stuck middle of performing ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2475",
       "summary": "Empty State UI",
       "status": "Dev Complete",
@@ -449,20 +533,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Moore Meghana",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2460",
       "summary": "(Tamanna) - Alignment Issue on Detail Fliqs Page.",
       "status": "Ready For Test",
@@ -486,20 +556,6 @@
       "created": "2026-01-08",
       "updated": "2026-03-10",
       "duedate": "2026-01-16",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -827,20 +883,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2448",
-      "summary": "(Shivani)  LG \u2013 Fliqs, when clicking the Subscribe button on any banner, it shows 0 days.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2468",
       "summary": "(Tamanna) - Channel Name Display Issue After Subscription.",
       "status": "Issue Accepted",
@@ -988,34 +1030,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-19",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2447",
-      "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "kamaldeeps",
-      "platform": "SAM_TV",
-      "created": "2026-03-09",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -4056,20 +4070,6 @@
       "created": "2025-11-05",
       "updated": "2026-03-02",
       "duedate": "2025-12-03",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2144",
-      "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-03-02",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -24055,13 +24055,153 @@
   ],
   "tasks": [
     {
-      "key": "VF-1985",
-      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
+      "key": "VF-1944",
+      "summary": "Tarang Plus CP",
       "status": "In Progress",
       "priority": "High",
-      "assignee": "Javed Ali",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2403",
+      "summary": "Play Flix CP integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1971",
+      "summary": "Parameter need to pass from VZY to plan & offer",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-451",
+      "summary": "Comprehensive list of all Nudge",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-03-10",
+      "duedate": "2026-01-15",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1926",
+      "summary": "Aoo NXT Integration",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1621",
+      "summary": "AHA - Telugu/Tamil",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-12",
+      "updated": "2026-03-10",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2404",
+      "summary": "LAST 9 POC",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
       "platform": "LG_TV",
-      "created": "2026-02-06",
+      "created": "2026-02-27",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-712",
+      "summary": "App Size Optimization",
+      "status": "Parked",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2025-11-27",
+      "updated": "2026-03-10",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-468",
+      "summary": "Geo Blocking - Phase 1 ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-14",
+      "updated": "2026-03-10",
+      "duedate": "2025-12-05",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-598",
+      "summary": "SEO Redirects",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-19",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2065",
+      "summary": "FAQ Section to be hidden from all the touch points",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-10",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -24073,9 +24213,23 @@
       "summary": "Term and Conditions",
       "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Aniruddh Patil",
+      "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1985",
+      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -24120,20 +24274,6 @@
       "created": "2025-11-28",
       "updated": "2026-03-10",
       "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1944",
-      "summary": "Tarang Plus CP",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-03-10",
-      "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
@@ -24335,20 +24475,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2404",
-      "summary": "LAST 9 POC",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "LG_TV",
-      "created": "2026-02-27",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-593",
       "summary": "UXCam integration instead of Clarity",
       "status": "Issue Accepted",
@@ -24384,20 +24510,6 @@
       "assignee": "Manikanta P",
       "platform": "WEB",
       "created": "2026-03-05",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2403",
-      "summary": "Play Flix CP integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-27",
       "updated": "2026-03-09",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -24597,48 +24709,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-598",
-      "summary": "SEO Redirects",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-11-19",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-468",
-      "summary": "Geo Blocking - Phase 1 ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-03-03",
-      "duedate": "2025-12-05",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1971",
-      "summary": "Parameter need to pass from VZY to plan & offer",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (31 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24918,20 +24988,6 @@
       "created": "2026-02-27",
       "updated": "2026-02-27",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-451",
-      "summary": "Comprehensive list of all Nudge",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2025-11-14",
-      "updated": "2026-02-26",
-      "duedate": "2026-01-15",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25245,20 +25301,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2065",
-      "summary": "FAQ Section to be hidden from all the touch points",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-10",
-      "updated": "2026-02-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2077",
       "summary": "Web footer - Add Cloud TV Icon to TV Icon List",
       "status": "Closed",
@@ -25548,20 +25590,6 @@
       "created": "2025-11-28",
       "updated": "2026-02-13",
       "duedate": "2025-12-03",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1621",
-      "summary": "AHA - Telugu/Tamil",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-12",
-      "updated": "2026-02-13",
-      "duedate": "2026-01-30",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -26141,20 +26169,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-712",
-      "summary": "App Size Optimization",
-      "status": "Parked",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2025-11-27",
-      "updated": "2026-02-12",
-      "duedate": "2026-01-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2096",
       "summary": "Redirects - Requirement to be clarified. WAtcho to VZY redirection.",
       "status": "Parked",
@@ -26269,20 +26283,6 @@
     {
       "key": "VF-1929",
       "summary": "Play Flix Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1926",
-      "summary": "Aoo NXT Integration",
       "status": "Open",
       "priority": "Medium",
       "assignee": "vzyfeedback",
@@ -31090,17 +31090,21 @@
   "sprints": {
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
-      "tasks": 17,
+      "tasks": 26,
       "subtasks": 0,
       "stories": 0,
-      "total": 65,
+      "total": 74,
       "statuses": {
-        "In Progress": 16,
-        "Dev Complete": 6,
-        "Issue Accepted": 9,
-        "Reopened": 4,
-        "Ready For Test": 15,
-        "Closed": 12,
+        "In Progress": 17,
+        "Dev Complete": 5,
+        "In Review": 2,
+        "Reopened": 5,
+        "Open": 1,
+        "Parked": 2,
+        "Ready For Test": 17,
+        "Closed": 13,
+        "Testing On hold": 1,
+        "Issue Accepted": 8,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1,
         "Invalid": 1
@@ -31108,16 +31112,16 @@
     },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
-      "tasks": 14,
+      "tasks": 11,
       "subtasks": 0,
       "stories": 0,
-      "total": 199,
+      "total": 196,
       "statuses": {
         "Reopened": 2,
-        "Ready For Test": 22,
+        "Ready For Test": 20,
         "Testing On hold": 1,
         "Onhold-For Tech Dependency": 1,
-        "Closed": 170,
+        "Closed": 169,
         "In Progress": 1,
         "On Hold- For Clarification": 1,
         "Invalid": 1
@@ -31138,33 +31142,25 @@
     },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
-      "tasks": 3,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 4,
+      "total": 3,
       "statuses": {
         "Onhold-For Tech Dependency": 1,
         "In Progress": 1,
-        "Open": 1,
-        "Reopened": 1
+        "Open": 1
       }
     }
   },
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1379,
+      "bugs": 1383,
       "tasks": 300,
       "subtasks": 12,
       "stories": 0,
-      "total": 1695
-    },
-    "devaraj": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 12
+      "total": 1699
     },
     "Karan Mahboobani": {
       "bugs": 10,
@@ -31173,22 +31169,15 @@
       "stories": 0,
       "total": 13
     },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 33
-    },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 7,
+    "Aditya Shrivastava": {
+      "bugs": 1,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 10
+      "total": 6
     },
-    "Akash Kushwaha": {
-      "bugs": 9,
+    "devaraj": {
+      "bugs": 10,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
@@ -31201,19 +31190,54 @@
       "stories": 0,
       "total": 14
     },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Dinjit Dinesh": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
+    },
+    "Akash Kushwaha": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
+    },
     "Alok Gupta": {
       "bugs": 14,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -31222,26 +31246,12 @@
       "stories": 0,
       "total": 32
     },
-    "Kiran JR": {
-      "bugs": 8,
-      "tasks": 1,
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
-    },
-    "Moore Meghana": {
-      "bugs": 13,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 16
-    },
-    "BalaKumar": {
-      "bugs": 12,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
+      "total": 5
     },
     "Srinidhi.Raju": {
       "bugs": 2,
@@ -31264,13 +31274,6 @@
       "stories": 0,
       "total": 41
     },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
-    },
     "Yashika Krishnani": {
       "bugs": 5,
       "tasks": 3,
@@ -31285,26 +31288,19 @@
       "stories": 0,
       "total": 13
     },
-    "Aditya Shrivastava": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
-    "kamaldeeps": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
     "Suyog Lanje": {
       "bugs": 3,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 8
+    },
+    "Moore Meghana": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -31326,6 +31322,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 113
+    },
+    "Kiran JR": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "Ranjitha br": {
       "bugs": 1,
@@ -31376,13 +31379,6 @@
       "stories": 0,
       "total": 1
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -31396,6 +31392,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 4
+    },
+    "kamaldeeps": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "Piraianbu V": {
       "bugs": 3,
@@ -31420,12 +31423,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 837,
     "High": 482,
+    "Medium": 837,
     "Highest": 367,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T11:48:32Z",
+  "updated_at": "2026-03-10T13:38:47Z",
   "total_issues": 2241
 }

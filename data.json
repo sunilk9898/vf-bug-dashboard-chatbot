@@ -10,7 +10,7 @@
     },
     "ATV": {
       "OPEN": 3,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 2,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
@@ -49,11 +49,11 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 4,
+      "ISSUE ACCEPTED": 5,
       "PARKED": 0
     },
     "Kaltura": {
@@ -66,10 +66,10 @@
     },
     "LG_TV": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
-      "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "IN REVIEW": 2,
+      "ISSUE ACCEPTED": 0,
       "PARKED": 0
     },
     "Mobile": {
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-10T11:48:32Z",
+  "updated_at": "2026-03-10T13:38:47Z",
   "total_issues_fetched": 2241,
   "project": "VF"
 }
