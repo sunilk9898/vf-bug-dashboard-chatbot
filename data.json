@@ -27,7 +27,7 @@
     "CMS Adaptor": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
@@ -49,7 +49,7 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -97,7 +97,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-10T02:50:27Z",
-  "total_issues_fetched": 2217,
+  "updated_at": "2026-03-10T04:52:16Z",
+  "total_issues_fetched": 2219,
   "project": "VF"
 }
