@@ -1,6 +1,356 @@
 {
   "bugs": [
     {
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel banner description text",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2480",
+      "summary": "Fliqs TVOD expired content ",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2486",
+      "summary": "App performance ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2464",
+      "summary": "(Tamanna) - Fliqs Channel Banner Getting Stretched.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2472",
+      "summary": "Naveen => New Releases First content not clickable in iOS production build",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2479",
+      "summary": "Term and Conditions",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2457",
+      "summary": "Fliqs episode listing ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2461",
+      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2488",
+      "summary": "Content unstable   ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2444",
+      "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2487",
+      "summary": "Sony Television Logo appears on CID content ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2435",
+      "summary": "CTA is switching from Watch Now to Resume.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-07",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2421",
+      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-06",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2420",
+      "summary": "Conviva report showing Play Duration - 0 for all content playback on Android App",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2483",
+      "summary": "Content unstable   ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2485",
+      "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2262",
+      "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2484",
+      "summary": "App gets stuck middle of performing ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "Clevertap In App Redirection not working ",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2418",
+      "summary": "Clevertap  Push Notification permission not coming ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2482",
+      "summary": "CTA is taking long time to appear ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2481",
+      "summary": "Long time to load",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2478",
       "summary": "Episode Listing Navigation",
       "status": "Open",
@@ -71,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2473",
-      "summary": "Pink highlight color",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2409",
       "summary": " Fliqs journey for guest user",
       "status": "Ready For Test",
@@ -141,40 +477,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2461",
-      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2471",
       "summary": "Fliqs purchases",
       "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2472",
-      "summary": "Naveen => New Releases First content not clickable in iOS production build",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -337,34 +645,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2457",
-      "summary": "Fliqs episode listing ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2464",
-      "summary": "(Tamanna) - Fliqs Channel Banner Getting Stretched.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2468",
       "summary": "(Tamanna) - Channel Name Display Issue After Subscription.",
       "status": "Issue Accepted",
@@ -463,20 +743,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2262",
-      "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2445",
       "summary": "(Tamanna) - FanCode Live Match Showing Content Unavailable.",
       "status": "Ready For Test",
@@ -526,48 +792,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2418",
-      "summary": "Clevertap  Push Notification permission not coming ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2420",
-      "summary": "Conviva report showing Play Duration - 0 for all content playback on Android App",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2435",
-      "summary": "CTA is switching from Watch Now to Resume.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-07",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -638,20 +862,6 @@
       "assignee": "Javed Ali",
       "platform": "ANDROID",
       "created": "2026-03-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2444",
-      "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-09",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -749,20 +959,6 @@
       "priority": "High",
       "assignee": "Moore Meghana",
       "platform": "WEB",
-      "created": "2026-03-06",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "Clevertap In App Redirection not working ",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
       "created": "2026-03-06",
       "updated": "2026-03-09",
       "duedate": "",
@@ -1126,20 +1322,6 @@
       "status": "OnHold-For Vivre Setup",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2421",
-      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
       "updated": "2026-03-07",
@@ -1813,20 +1995,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2139",
-      "summary": "Fliqs TVOD / SVOD - Order Summary",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
       "created": "2026-02-17",
       "updated": "2026-03-03",
       "duedate": "",
@@ -23873,6 +24041,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-547",
+      "summary": "KPI & Dashboard Integration",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-18",
+      "updated": "2026-03-10",
+      "duedate": "2025-12-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2412",
       "summary": "CMS Dashboard",
       "status": "Reopened",
@@ -24345,20 +24527,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-547",
-      "summary": "KPI & Dashboard Integration",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-18",
-      "updated": "2026-03-03",
-      "duedate": "2025-12-30",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -30878,6 +31046,25 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 186,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 200,
+      "statuses": {
+        "Reopened": 2,
+        "Ready For Test": 17,
+        "Testing On hold": 3,
+        "Onhold-For Tech Dependency": 2,
+        "Dev Complete": 1,
+        "Closed": 170,
+        "In Progress": 1,
+        "On Hold- For Clarification": 1,
+        "In Review": 2,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
       "tasks": 16,
@@ -30885,11 +31072,12 @@
       "stories": 0,
       "total": 64,
       "statuses": {
-        "Ready For Test": 16,
+        "Ready For Test": 13,
+        "Issue Accepted": 11,
+        "OnHold-For Vivre Setup": 1,
+        "Closed": 10,
         "In Progress": 17,
         "Onhold-For Tech Dependency": 1,
-        "Closed": 6,
-        "Issue Accepted": 13,
         "Reopened": 3,
         "Dev Complete": 7,
         "Invalid": 1
@@ -30919,35 +31107,86 @@
         "Open": 1,
         "Reopened": 1
       }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 186,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 200,
-      "statuses": {
-        "Ready For Test": 18,
-        "Testing On hold": 3,
-        "Onhold-For Tech Dependency": 2,
-        "Reopened": 1,
-        "Dev Complete": 1,
-        "Closed": 170,
-        "In Progress": 1,
-        "On Hold- For Clarification": 1,
-        "In Review": 2,
-        "Invalid": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1372,
+      "tasks": 296,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1684
+    },
+    "Akash Kushwaha": {
+      "bugs": 10,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 13
+    },
     "Srinidhi.Raju": {
-      "bugs": 6,
+      "bugs": 7,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
+      "total": 7
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
+    "Karan Mahboobani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Kiran JR": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
+    },
+    "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 17
+    },
+    "Moore Meghana": {
+      "bugs": 14,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 17
     },
     "Manikanta P": {
       "bugs": 6,
@@ -30956,26 +31195,12 @@
       "stories": 1,
       "total": 20
     },
-    "vzyfeedback": {
-      "bugs": 1368,
-      "tasks": 296,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1680
-    },
     "Vikas Mishra": {
       "bugs": 39,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 41
-    },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 33
     },
     "avinash waghmare": {
       "bugs": 1,
@@ -30991,13 +31216,6 @@
       "stories": 0,
       "total": 33
     },
-    "Akash Kushwaha": {
-      "bugs": 9,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 12
-    },
     "Yashika Krishnani": {
       "bugs": 5,
       "tasks": 3,
@@ -31005,40 +31223,12 @@
       "stories": 0,
       "total": 8
     },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 17
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
     "devaraj": {
       "bugs": 10,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 12
-    },
-    "Karan Mahboobani": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 10
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -31060,20 +31250,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Moore Meghana": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -31102,13 +31278,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 113
-    },
-    "Kiran JR": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Ranjitha br": {
       "bugs": 1,
@@ -31210,12 +31379,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 833,
-    "Highest": 359,
-    "High": 481,
+    "Highest": 366,
+    "High": 482,
+    "Medium": 837,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T06:00:56Z",
-  "total_issues": 2225
+  "updated_at": "2026-03-10T07:09:20Z",
+  "total_issues": 2237
 }
