@@ -1,9 +1,93 @@
 {
   "bugs": [
     {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2294",
+      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2449",
+      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2495",
+      "summary": "Wrong Cover image in carousel",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2208",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2461",
       "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "IOS",
@@ -11,6 +95,76 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2285",
+      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2289",
+      "summary": "TV: Like and Report options are missing for some movies and series",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2485",
+      "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel banner description text",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -49,20 +203,6 @@
       "priority": "Highest",
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2495",
-      "summary": "Wrong Cover image in carousel",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Kaltura",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -119,20 +259,6 @@
       "priority": "Highest",
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2485",
-      "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -231,20 +357,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Moore Meghana",
-      "platform": "ANDROID",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -365,20 +477,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2489",
-      "summary": "Carousel banner description text",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1601",
       "summary": "Font Family Changed || Web",
       "status": "Reopened",
@@ -431,20 +529,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2473",
-      "summary": "Pink highlight color",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -745,20 +829,6 @@
     {
       "key": "VF-2448",
       "summary": "(Shivani)  LG \u2013 Fliqs, when clicking the Subscribe button on any banner, it shows 0 days.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2449",
-      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "devaraj",
@@ -3893,20 +3963,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2294",
-      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2086",
       "summary": "Fancode content is appearing on New On VZY rail",
       "status": "Dev Complete",
@@ -4007,20 +4063,6 @@
     {
       "key": "VF-2144",
       "summary": "(Tamanna) - CP logo not showing in \"More like this\"",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
       "status": "On Hold- For Clarification",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
@@ -4383,20 +4425,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2285",
-      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2331",
       "summary": "TV: UI buttons highlighted in red unexpectedly (Intermittent)",
       "status": "Duplicate",
@@ -4404,20 +4432,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2289",
-      "summary": "TV: Like and Report options are missing for some movies and series",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5775,20 +5789,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2208",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
       "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
@@ -24055,6 +24055,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1985",
+      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2479",
       "summary": "Term and Conditions",
       "status": "Issue Accepted",
@@ -24303,20 +24317,6 @@
       "updated": "2026-03-10",
       "duedate": "2025-12-12",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1985",
-      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -31096,13 +31096,13 @@
       "total": 65,
       "statuses": {
         "In Progress": 16,
-        "Issue Accepted": 10,
+        "Dev Complete": 6,
+        "Issue Accepted": 9,
         "Reopened": 4,
         "Ready For Test": 15,
         "Closed": 12,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1,
-        "Dev Complete": 5,
         "Invalid": 1
       }
     },
@@ -31153,11 +31153,46 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1376,
+      "bugs": 1379,
       "tasks": 300,
       "subtasks": 12,
       "stories": 0,
-      "total": 1692
+      "total": 1695
+    },
+    "devaraj": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 12
+    },
+    "Karan Mahboobani": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 13
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Akash Kushwaha": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 12
     },
     "shadab Hussain": {
       "bugs": 10,
@@ -31180,27 +31215,6 @@
       "stories": 0,
       "total": 6
     },
-    "Akash Kushwaha": {
-      "bugs": 11,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
-    },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
-    "Karan Mahboobani": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 13
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
       "tasks": 15,
@@ -31208,26 +31222,19 @@
       "stories": 0,
       "total": 32
     },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 33
-    },
-    "Moore Meghana": {
-      "bugs": 14,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 17
-    },
     "Kiran JR": {
       "bugs": 8,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Moore Meghana": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
     },
     "BalaKumar": {
       "bugs": 12,
@@ -31270,13 +31277,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "devaraj": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 12
     },
     "Ajay Kushwaha": {
       "bugs": 11,
@@ -31420,12 +31420,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 837,
     "High": 482,
     "Highest": 367,
-    "Medium": 837,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T11:01:29Z",
+  "updated_at": "2026-03-10T11:48:32Z",
   "total_issues": 2241
 }
