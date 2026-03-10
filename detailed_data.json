@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2475",
+      "summary": "Empty State UI",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2460",
+      "summary": "(Tamanna) - Alignment Issue on Detail Fliqs Page.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel banner description text",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1601",
+      "summary": "Font Family Changed || Web",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-01-08",
+      "updated": "2026-03-10",
+      "duedate": "2026-01-16",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2139",
       "summary": "Fliqs TVOD / SVOD - Order Summary",
       "status": "Reopened",
@@ -21,20 +105,6 @@
       "priority": "Highest",
       "assignee": "Akash Kushwaha",
       "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel banner description text",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -393,20 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2475",
-      "summary": "Empty State UI",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2474",
       "summary": "Carousel Load time",
       "status": "Open",
@@ -596,20 +652,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-24",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2460",
-      "summary": "(Tamanna) - Alignment Issue on Detail Fliqs Page.",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-09",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -1369,20 +1411,6 @@
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -11236,20 +11264,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-01-05",
-      "updated": "2026-01-20",
-      "duedate": "2026-01-16",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1601",
-      "summary": "Font Family Changed || Web",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-01-08",
       "updated": "2026-01-20",
       "duedate": "2026-01-16",
       "sprint": "No Sprint",
@@ -24041,6 +24055,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2312",
+      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1732",
+      "summary": "iOS SDK update to 26 or later",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-01-19",
+      "updated": "2026-03-10",
+      "duedate": "2026-02-13",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-547",
       "summary": "KPI & Dashboard Integration",
       "status": "Testing On hold",
@@ -24261,20 +24303,6 @@
       "updated": "2026-03-09",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2312",
-      "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24695,20 +24723,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1732",
-      "summary": "iOS SDK update to 26 or later",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-01-19",
-      "updated": "2026-02-28",
-      "duedate": "2026-02-13",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -31046,25 +31060,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 186,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 200,
-      "statuses": {
-        "Reopened": 2,
-        "Ready For Test": 17,
-        "Testing On hold": 3,
-        "Onhold-For Tech Dependency": 2,
-        "Dev Complete": 1,
-        "Closed": 170,
-        "In Progress": 1,
-        "On Hold- For Clarification": 1,
-        "In Review": 2,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
       "tasks": 16,
@@ -31072,14 +31067,33 @@
       "stories": 0,
       "total": 64,
       "statuses": {
-        "Ready For Test": 13,
+        "Ready For Test": 15,
         "Issue Accepted": 11,
         "OnHold-For Vivre Setup": 1,
         "Closed": 10,
-        "In Progress": 17,
+        "In Progress": 16,
         "Onhold-For Tech Dependency": 1,
         "Reopened": 3,
-        "Dev Complete": 7,
+        "Dev Complete": 6,
+        "Invalid": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 186,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 200,
+      "statuses": {
+        "Ready For Test": 17,
+        "Reopened": 2,
+        "Testing On hold": 3,
+        "Onhold-For Tech Dependency": 2,
+        "Dev Complete": 1,
+        "Closed": 170,
+        "In Progress": 1,
+        "On Hold- For Clarification": 1,
+        "In Review": 2,
         "Invalid": 1
       }
     },
@@ -31111,40 +31125,40 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1372,
-      "tasks": 296,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1684
-    },
-    "Akash Kushwaha": {
-      "bugs": 10,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
-    },
-    "Srinidhi.Raju": {
-      "bugs": 7,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
     "Karan Mahboobani": {
-      "bugs": 8,
+      "bugs": 9,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 11
+      "total": 12
+    },
+    "vzyfeedback": {
+      "bugs": 1373,
+      "tasks": 297,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1686
+    },
+    "Moore Meghana": {
+      "bugs": 15,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 18
+    },
+    "Akash Kushwaha": {
+      "bugs": 11,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
     },
     "shadab Hussain": {
       "bugs": 10,
@@ -31153,12 +31167,19 @@
       "stories": 0,
       "total": 14
     },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 4,
+    "Srinidhi.Raju": {
+      "bugs": 5,
+      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 5
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
     },
     "Kiran JR": {
       "bugs": 10,
@@ -31178,13 +31199,6 @@
       "bugs": 12,
       "tasks": 5,
       "subtasks": 0,
-      "stories": 0,
-      "total": 17
-    },
-    "Moore Meghana": {
-      "bugs": 14,
-      "tasks": 2,
-      "subtasks": 1,
       "stories": 0,
       "total": 17
     },
@@ -31379,12 +31393,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 366,
-    "High": 482,
     "Medium": 837,
+    "Highest": 367,
+    "High": 482,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T07:09:20Z",
-  "total_issues": 2237
+  "updated_at": "2026-03-10T07:55:19Z",
+  "total_issues": 2238
 }
