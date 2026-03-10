@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2478",
+      "summary": "Episode Listing Navigation",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2477",
+      "summary": "White Thumbnail border",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2475",
+      "summary": "Empty State UI",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2409",
+      "summary": " Fliqs journey for guest user",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-03",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2466",
+      "summary": "(Tamanna) - Duration Display Issue on Watcho Exclusive Content.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2467",
+      "summary": "(Tamanna) - Cast/Actor Name Not Showing on Watcho Exclusive Content.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2417",
+      "summary": "UI issues in ATV Settings Page ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-05",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2461",
       "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
       "status": "Issue Accepted",
@@ -225,34 +365,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2466",
-      "summary": "(Tamanna) - Duration Display Issue on Watcho Exclusive Content.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2467",
-      "summary": "(Tamanna) - Cast/Actor Name Not Showing on Watcho Exclusive Content.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2468",
       "summary": "(Tamanna) - Channel Name Display Issue After Subscription.",
       "status": "Issue Accepted",
@@ -288,20 +400,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2417",
-      "summary": "UI issues in ATV Settings Page ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-05",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -484,20 +582,6 @@
       "assignee": "Manikanta P",
       "platform": "CMS Adaptor",
       "created": "2026-02-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2409",
-      "summary": " Fliqs journey for guest user",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "IOS",
-      "created": "2026-03-03",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -23789,6 +23873,90 @@
   ],
   "tasks": [
     {
+      "key": "VF-2412",
+      "summary": "CMS Dashboard",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "CMS Dashboard",
+      "created": "2026-02-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1070",
+      "summary": "Complete Dashboard development",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-09",
+      "updated": "2026-03-10",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1985",
+      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-03-10",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2404",
+      "summary": "LAST 9 POC",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "LG_TV",
+      "created": "2026-02-27",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1934",
+      "summary": "Manorama Max - CP Integration",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1944",
       "summary": "Tarang Plus CP",
       "status": "In Progress",
@@ -23915,20 +24083,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-03-09",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2312",
       "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
       "status": "Dev Complete",
@@ -24013,20 +24167,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1985",
-      "summary": "Web: verify that video description is showing in another language and the Trailer is playing in another language.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-818",
       "summary": "Playback / Player\tListing of Episodes",
       "status": "Ready For Test",
@@ -24065,20 +24205,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1934",
-      "summary": "Manorama Max - CP Integration",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24163,20 +24289,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2412",
-      "summary": "CMS Dashboard",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2026-02-09",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -24526,20 +24638,6 @@
       "created": "2025-12-09",
       "updated": "2026-02-27",
       "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2404",
-      "summary": "LAST 9 POC",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "LG_TV",
-      "created": "2026-02-27",
-      "updated": "2026-02-27",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -25100,20 +25198,6 @@
       "created": "2025-12-24",
       "updated": "2026-02-17",
       "duedate": "2026-03-13",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1070",
-      "summary": "Complete Dashboard development",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-09",
-      "updated": "2026-02-17",
-      "duedate": "2025-12-12",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -30801,12 +30885,13 @@
       "stories": 0,
       "total": 64,
       "statuses": {
-        "Issue Accepted": 17,
+        "Ready For Test": 16,
+        "In Progress": 17,
+        "Onhold-For Tech Dependency": 1,
+        "Closed": 6,
+        "Issue Accepted": 13,
         "Reopened": 3,
-        "Closed": 5,
-        "In Progress": 16,
-        "Ready For Test": 14,
-        "Dev Complete": 8,
+        "Dev Complete": 7,
         "Invalid": 1
       }
     },
@@ -30817,8 +30902,8 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "In Progress": 1,
         "Reopened": 1,
+        "In Progress": 1,
         "Closed": 41,
         "Ready For Test": 6
       }
@@ -30857,12 +30942,54 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Srinidhi.Raju": {
+      "bugs": 6,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 20
+    },
     "vzyfeedback": {
-      "bugs": 1367,
-      "tasks": 297,
+      "bugs": 1368,
+      "tasks": 296,
       "subtasks": 12,
       "stories": 0,
       "total": 1680
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
+    },
+    "avinash waghmare": {
+      "bugs": 1,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Dinjit Dinesh": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
     },
     "Akash Kushwaha": {
       "bugs": 9,
@@ -30877,13 +31004,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Javed Ali": {
-      "bugs": 28,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 33
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -30913,26 +31033,12 @@
       "stories": 0,
       "total": 10
     },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "Ajay Kushwaha": {
       "bugs": 12,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 20
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -30957,10 +31063,10 @@
     },
     "Moore Meghana": {
       "bugs": 12,
-      "tasks": 3,
+      "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 16
+      "total": 15
     },
     "shadab Hussain": {
       "bugs": 9,
@@ -30996,13 +31102,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 113
-    },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
     },
     "Kiran JR": {
       "bugs": 7,
@@ -31060,13 +31159,6 @@
       "stories": 0,
       "total": 8
     },
-    "Vikas Mishra": {
-      "bugs": 37,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
-    },
     "Chiranjit Chatterjee": {
       "bugs": 1,
       "tasks": 0,
@@ -31118,12 +31210,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 481,
-    "Medium": 827,
+    "Medium": 833,
     "Highest": 359,
+    "High": 481,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T04:52:16Z",
-  "total_issues": 2219
+  "updated_at": "2026-03-10T06:00:56Z",
+  "total_issues": 2225
 }
