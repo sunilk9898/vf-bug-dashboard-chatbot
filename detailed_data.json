@@ -1,8 +1,92 @@
 {
   "bugs": [
     {
-      "key": "VF-2339",
-      "summary": "TV: Audio options are repeated in the video player settings.",
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-27",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2457",
+      "summary": "Fliqs episode listing ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2479",
+      "summary": "Term and Conditions",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2485",
+      "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2343",
+      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
       "status": "Closed",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -15,16 +99,16 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
+      "key": "VF-2339",
+      "summary": "TV: Audio options are repeated in the video player settings.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-10",
+      "created": "2026-02-26",
       "updated": "2026-03-10",
       "duedate": "",
-      "sprint": "No Sprint",
+      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -81,20 +165,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -309,34 +379,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2479",
-      "summary": "Term and Conditions",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2457",
-      "summary": "Fliqs episode listing ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2461",
       "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
       "status": "Issue Accepted",
@@ -413,20 +455,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2485",
-      "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -757,20 +785,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2343",
-      "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-934",
       "summary": "Complete Catalogue not Synced for available CP",
       "status": "Ready For Test",
@@ -991,20 +1005,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-02-27",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -24055,6 +24055,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-2416",
+      "summary": "Order Summery ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2446",
+      "summary": "Cloud TV: Redirection url",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Unknown",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-818",
+      "summary": "Playback / Player\tListing of Episodes",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-28",
+      "updated": "2026-03-10",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1944",
       "summary": "Tarang Plus CP",
       "status": "In Progress",
@@ -24377,34 +24419,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2446",
-      "summary": "Cloud TV: Redirection url",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2416",
-      "summary": "Order Summery ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-05",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2378",
       "summary": "Clevertap - Fliqs",
       "status": "In Progress",
@@ -24443,20 +24457,6 @@
       "updated": "2026-03-07",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-818",
-      "summary": "Playback / Player\tListing of Episodes",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-11-28",
-      "updated": "2026-03-06",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -31081,28 +31081,15 @@
       "stories": 0,
       "total": 64,
       "statuses": {
-        "Closed": 11,
-        "In Progress": 16,
+        "Ready For Test": 15,
+        "Closed": 12,
+        "Reopened": 4,
+        "In Progress": 15,
         "Onhold-For Tech Dependency": 1,
-        "Ready For Test": 14,
-        "Issue Accepted": 11,
+        "Issue Accepted": 10,
         "OnHold-For Vivre Setup": 1,
-        "Reopened": 3,
-        "Dev Complete": 6,
+        "Dev Complete": 5,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "In Progress": 1,
-        "Reopened": 1,
-        "Closed": 41,
-        "Ready For Test": 6
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -31122,6 +31109,19 @@
         "Invalid": 1
       }
     },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "In Progress": 1,
+        "Reopened": 1,
+        "Closed": 41,
+        "Ready For Test": 6
+      }
+    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
       "tasks": 3,
@@ -31139,18 +31139,46 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1373,
-      "tasks": 299,
+      "bugs": 1376,
+      "tasks": 300,
       "subtasks": 12,
       "stories": 0,
-      "total": 1688
+      "total": 1692
+    },
+    "avinash waghmare": {
+      "bugs": 2,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Karan Mahboobani": {
+      "bugs": 11,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 14
     },
     "Srinidhi.Raju": {
-      "bugs": 4,
+      "bugs": 3,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 4
+      "total": 3
+    },
+    "Akash Kushwaha": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 13
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 32
     },
     "Javed Ali": {
       "bugs": 27,
@@ -31166,20 +31194,6 @@
       "stories": 0,
       "total": 19
     },
-    "Karan Mahboobani": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 13
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 5,
@@ -31194,19 +31208,12 @@
       "stories": 0,
       "total": 9
     },
-    "Akash Kushwaha": {
-      "bugs": 11,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
-    },
     "BalaKumar": {
-      "bugs": 13,
+      "bugs": 12,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 19
+      "total": 18
     },
     "shadab Hussain": {
       "bugs": 10,
@@ -31214,13 +31221,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -31243,13 +31243,6 @@
       "stories": 0,
       "total": 41
     },
-    "avinash waghmare": {
-      "bugs": 1,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Dinjit Dinesh": {
       "bugs": 15,
       "tasks": 17,
@@ -31257,12 +31250,26 @@
       "stories": 0,
       "total": 33
     },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
     "devaraj": {
       "bugs": 10,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 12
+    },
+    "Ajay Kushwaha": {
+      "bugs": 11,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -31312,13 +31319,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 3
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 31
     },
     "Sameeksha Vinodiya": {
       "bugs": 5,
@@ -31412,6 +31412,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T09:01:20Z",
-  "total_issues": 2239
+  "updated_at": "2026-03-10T10:01:02Z",
+  "total_issues": 2240
 }
