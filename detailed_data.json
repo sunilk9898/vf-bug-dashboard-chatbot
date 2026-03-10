@@ -31160,7 +31160,7 @@
       "tasks": 300,
       "subtasks": 12,
       "stories": 0,
-      "total": 1699
+      "total": 1700
     },
     "Karan Mahboobani": {
       "bugs": 10,
@@ -31230,7 +31230,7 @@
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 10
+      "total": 9
     },
     "Alok Gupta": {
       "bugs": 14,
@@ -31429,6 +31429,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T16:14:55Z",
+  "updated_at": "2026-03-10T17:10:25Z",
   "total_issues": 2241
 }
