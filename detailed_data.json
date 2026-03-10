@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2339",
+      "summary": "TV: Audio options are repeated in the video player settings.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2487",
+      "summary": "Sony Television Logo appears on CID content ",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Moore Meghana",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2478",
+      "summary": "Episode Listing Navigation",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2484",
+      "summary": "App gets stuck middle of performing ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2488",
+      "summary": "Content unstable   ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2475",
       "summary": "Empty State UI",
       "status": "Dev Complete",
@@ -81,20 +221,6 @@
       "updated": "2026-03-10",
       "duedate": "2026-01-16",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2139",
-      "summary": "Fliqs TVOD / SVOD - Order Summary",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -225,20 +351,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2488",
-      "summary": "Content unstable   ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2444",
       "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
       "status": "OnHold-For Vivre Setup",
@@ -249,20 +361,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2487",
-      "summary": "Sony Television Logo appears on CID content ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -351,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2484",
-      "summary": "App gets stuck middle of performing ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2419",
       "summary": "Clevertap In App Redirection not working ",
       "status": "On Hold- For Clarification",
@@ -421,36 +505,8 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2478",
-      "summary": "Episode Listing Navigation",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2477",
       "summary": "White Thumbnail border",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
       "status": "Open",
       "priority": "Medium",
       "assignee": "Srinidhi.Raju",
@@ -694,20 +750,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
       "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2339",
-      "summary": "TV: Audio options are repeated in the video player settings.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -1457,34 +1499,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2397",
-      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-26",
-      "updated": "2026-03-07",
-      "duedate": "2026-03-05",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2280",
       "summary": "16:9 carousel metadata dots",
       "status": "Testing On hold",
@@ -1523,20 +1537,6 @@
       "updated": "2026-03-06",
       "duedate": "2026-02-27",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -24055,6 +24055,132 @@
   ],
   "tasks": [
     {
+      "key": "VF-1944",
+      "summary": "Tarang Plus CP",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1073",
+      "summary": "Sony LIV Integration (Ad Integration & Linear channel)",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-09",
+      "updated": "2026-03-10",
+      "duedate": "2025-12-15",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
+      "created": "2025-11-18",
+      "updated": "2026-03-10",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1934",
+      "summary": "Manorama Max - CP Integration",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2397",
+      "summary": "Web: When a user shares a video link and opens it in a new browser tab, the video page does not load properly.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-26",
+      "updated": "2026-03-10",
+      "duedate": "2026-03-05",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1921",
+      "summary": "Gamezop Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-03",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1932",
+      "summary": "Times Play Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1937",
+      "summary": "Gamezopp CP Integration",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1938",
+      "summary": "Shorts TV CP Integration",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2312",
       "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
       "status": "Ready For Test",
@@ -24167,34 +24293,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1934",
-      "summary": "Manorama Max - CP Integration",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1944",
-      "summary": "Tarang Plus CP",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-593",
       "summary": "UXCam integration instead of Clarity",
       "status": "Issue Accepted",
@@ -24205,20 +24303,6 @@
       "updated": "2026-03-10",
       "duedate": "2026-01-30",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-03-10",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24335,20 +24419,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1921",
-      "summary": "Gamezop Integration",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-03",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2078",
       "summary": "Enable Help & Feedback Link in Staging Environment",
       "status": "Testing On hold",
@@ -24415,20 +24485,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1937",
-      "summary": "Gamezopp CP Integration",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24513,34 +24569,6 @@
       "updated": "2026-03-04",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1932",
-      "summary": "Times Play Integration",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1938",
-      "summary": "Shorts TV CP Integration",
-      "status": "In Review",
-      "priority": "Highest",
-      "assignee": "Aniruddh Patil",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -24681,20 +24709,6 @@
       "updated": "2026-03-02",
       "duedate": "2026-03-31",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1073",
-      "summary": "Sony LIV Integration (Ad Integration & Linear channel)",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-09",
-      "updated": "2026-03-02",
-      "duedate": "2025-12-15",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -31067,33 +31081,14 @@
       "stories": 0,
       "total": 64,
       "statuses": {
-        "Ready For Test": 15,
-        "Issue Accepted": 11,
-        "OnHold-For Vivre Setup": 1,
-        "Closed": 10,
+        "Closed": 11,
         "In Progress": 16,
         "Onhold-For Tech Dependency": 1,
+        "Ready For Test": 14,
+        "Issue Accepted": 11,
+        "OnHold-For Vivre Setup": 1,
         "Reopened": 3,
         "Dev Complete": 6,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 186,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 200,
-      "statuses": {
-        "Ready For Test": 17,
-        "Reopened": 2,
-        "Testing On hold": 3,
-        "Onhold-For Tech Dependency": 2,
-        "Dev Complete": 1,
-        "Closed": 170,
-        "In Progress": 1,
-        "On Hold- For Clarification": 1,
-        "In Review": 2,
         "Invalid": 1
       }
     },
@@ -31104,19 +31099,37 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Reopened": 1,
         "In Progress": 1,
+        "Reopened": 1,
         "Closed": 41,
         "Ready For Test": 6
       }
     },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 1,
-      "tasks": 2,
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 14,
       "subtasks": 0,
       "stories": 0,
-      "total": 3,
+      "total": 199,
       "statuses": {
+        "Reopened": 2,
+        "Ready For Test": 22,
+        "Testing On hold": 1,
+        "Onhold-For Tech Dependency": 1,
+        "Closed": 170,
+        "In Progress": 1,
+        "On Hold- For Clarification": 1,
+        "Invalid": 1
+      }
+    },
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 1,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4,
+      "statuses": {
+        "Onhold-For Tech Dependency": 1,
         "In Progress": 1,
         "Open": 1,
         "Reopened": 1
@@ -31125,26 +31138,61 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Karan Mahboobani": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
     "vzyfeedback": {
       "bugs": 1373,
-      "tasks": 297,
+      "tasks": 299,
       "subtasks": 12,
       "stories": 0,
-      "total": 1686
+      "total": 1688
+    },
+    "Srinidhi.Raju": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
     },
     "Moore Meghana": {
-      "bugs": 15,
+      "bugs": 16,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 18
+      "total": 19
+    },
+    "Karan Mahboobani": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 13
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
+    "Kiran JR": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Akash Kushwaha": {
       "bugs": 11,
@@ -31167,33 +31215,12 @@
       "stories": 0,
       "total": 14
     },
-    "Srinidhi.Raju": {
-      "bugs": 5,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
     "Ajay Kushwaha": {
       "bugs": 12,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "Kiran JR": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 33
     },
     "Alok Gupta": {
       "bugs": 12,
@@ -31218,10 +31245,10 @@
     },
     "avinash waghmare": {
       "bugs": 1,
-      "tasks": 8,
+      "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 8
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -31229,13 +31256,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "devaraj": {
       "bugs": 10,
@@ -31264,13 +31284,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -31393,12 +31406,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 837,
+    "High": 481,
+    "Medium": 838,
     "Highest": 367,
-    "High": 482,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T07:55:19Z",
-  "total_issues": 2238
+  "updated_at": "2026-03-10T09:01:20Z",
+  "total_issues": 2239
 }
