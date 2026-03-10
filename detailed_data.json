@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2461",
+      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2208",
       "summary": "FLIQS QR to subscribe / rent",
       "status": "In Progress",
@@ -235,20 +249,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2461",
-      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -31095,13 +31095,13 @@
       "stories": 0,
       "total": 74,
       "statuses": {
+        "Ready For Test": 18,
         "In Progress": 17,
-        "Dev Complete": 5,
+        "Dev Complete": 4,
         "In Review": 2,
         "Reopened": 5,
         "Open": 1,
         "Parked": 2,
-        "Ready For Test": 17,
         "Closed": 13,
         "Testing On hold": 1,
         "Issue Accepted": 8,
@@ -31429,6 +31429,6 @@
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T13:38:47Z",
+  "updated_at": "2026-03-10T15:10:12Z",
   "total_issues": 2241
 }
