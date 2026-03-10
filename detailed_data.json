@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2461",
+      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2472",
+      "summary": "Naveen => New Releases First content not clickable in iOS production build",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2488",
+      "summary": "Content unstable   ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2482",
+      "summary": "CTA is taking long time to appear ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2495",
+      "summary": "Wrong Cover image in carousel",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Kaltura",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2486",
+      "summary": "App performance ",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2483",
+      "summary": "Content unstable   ",
+      "status": "Duplicate",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2439",
+      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-07",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2481",
+      "summary": "Long time to load",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2485",
+      "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2398",
       "summary": "Missing Viewer IDs in conviva s3 dump",
       "status": "Ready For Test",
@@ -49,34 +189,6 @@
       "priority": "Medium",
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2479",
-      "summary": "Term and Conditions",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2485",
-      "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -188,20 +300,6 @@
       "status": "Testing On hold",
       "priority": "Highest",
       "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2488",
-      "summary": "Content unstable   ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
       "updated": "2026-03-10",
@@ -323,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2486",
-      "summary": "App performance ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2464",
       "summary": "(Tamanna) - Fliqs Channel Banner Getting Stretched.",
       "status": "Ready For Test",
@@ -361,34 +445,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2472",
-      "summary": "Naveen => New Releases First content not clickable in iOS production build",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2461",
-      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -449,20 +505,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2483",
-      "summary": "Content unstable   ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2262",
       "summary": "Mobile: Episode listing starts from Episode 2 and incorrect episode plays on selection in Shark Tank series",
       "status": "Closed",
@@ -501,34 +543,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2482",
-      "summary": "CTA is taking long time to appear ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Moore Meghana",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2481",
-      "summary": "Long time to load",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Moore Meghana",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -652,20 +666,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-05",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2439",
-      "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-07",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -24055,6 +24055,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2479",
+      "summary": "Term and Conditions",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Aniruddh Patil",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-10",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2416",
       "summary": "Order Summery ",
       "status": "Ready For Test",
@@ -31076,17 +31090,17 @@
   "sprints": {
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
-      "tasks": 16,
+      "tasks": 17,
       "subtasks": 0,
       "stories": 0,
-      "total": 64,
+      "total": 65,
       "statuses": {
+        "In Progress": 16,
+        "Issue Accepted": 10,
+        "Reopened": 4,
         "Ready For Test": 15,
         "Closed": 12,
-        "Reopened": 4,
-        "In Progress": 15,
         "Onhold-For Tech Dependency": 1,
-        "Issue Accepted": 10,
         "OnHold-For Vivre Setup": 1,
         "Dev Complete": 5,
         "Invalid": 1
@@ -31145,31 +31159,45 @@
       "stories": 0,
       "total": 1692
     },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 7,
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 4,
       "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
-    "Karan Mahboobani": {
-      "bugs": 11,
-      "tasks": 1,
-      "subtasks": 2,
       "stories": 0,
       "total": 14
     },
-    "Srinidhi.Raju": {
-      "bugs": 3,
-      "tasks": 0,
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 3
+      "total": 19
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "Akash Kushwaha": {
-      "bugs": 10,
+      "bugs": 11,
       "tasks": 1,
       "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Karan Mahboobani": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 2,
       "stories": 0,
       "total": 13
     },
@@ -31188,18 +31216,11 @@
       "total": 33
     },
     "Moore Meghana": {
-      "bugs": 16,
+      "bugs": 14,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 19
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
+      "total": 17
     },
     "Kiran JR": {
       "bugs": 8,
@@ -31215,19 +31236,12 @@
       "stories": 0,
       "total": 18
     },
-    "shadab Hussain": {
-      "bugs": 10,
-      "tasks": 4,
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
-    },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 17
+      "total": 2
     },
     "Manikanta P": {
       "bugs": 6,
@@ -31406,12 +31420,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 481,
-    "Medium": 838,
+    "High": 482,
     "Highest": 367,
+    "Medium": 837,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-10T10:01:02Z",
-  "total_issues": 2240
+  "updated_at": "2026-03-10T11:01:29Z",
+  "total_issues": 2241
 }
