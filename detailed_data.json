@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2499",
+      "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2503",
+      "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2466",
+      "summary": "(Tamanna) - Duration Display Issue on Watcho Exclusive Content.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2467",
+      "summary": "(Tamanna) - Cast/Actor Name Not Showing on Watcho Exclusive Content.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1601",
+      "summary": "Font Family Changed || Web",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-01-08",
+      "updated": "2026-03-12",
+      "duedate": "2026-01-16",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2531",
+      "summary": "TV: \"Magic Moments\" show not playing",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2528",
       "summary": "TV: In the Sports section (India Women vs UAE Women), the ad and the actual content play only audio without video.",
       "status": "Duplicate",
@@ -133,20 +217,6 @@
       "priority": "High",
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2503",
-      "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
       "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
@@ -729,20 +799,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2531",
-      "summary": "TV: \"Magic Moments\" show not playing",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2500",
       "summary": "TV: While entering a new profile name, the application automatically adds duplicate characters, resulting in an incorrect username.",
       "status": "Invalid",
@@ -823,20 +879,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2499",
-      "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1317,20 +1359,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1601",
-      "summary": "Font Family Changed || Web",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-01-08",
-      "updated": "2026-03-11",
-      "duedate": "2026-01-16",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2471",
       "summary": "Fliqs purchases",
       "status": "Closed",
@@ -1772,34 +1800,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-03",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2466",
-      "summary": "(Tamanna) - Duration Display Issue on Watcho Exclusive Content.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2467",
-      "summary": "(Tamanna) - Cast/Actor Name Not Showing on Watcho Exclusive Content.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-03-09",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -24615,6 +24615,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2479",
+      "summary": "Term and Conditions",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-593",
       "summary": "UXCam integration instead of Clarity",
       "status": "Issue Accepted",
@@ -24832,20 +24846,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-02-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2479",
-      "summary": "Term and Conditions",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -31662,6 +31662,29 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 48,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 74,
+      "statuses": {
+        "Ready For Test": 24,
+        "Issue Accepted": 2,
+        "Testing On hold": 2,
+        "Not Reproducible": 1,
+        "Closed": 15,
+        "Reopened": 3,
+        "In Progress": 15,
+        "Dev Complete": 4,
+        "In Review": 2,
+        "Open": 1,
+        "Parked": 2,
+        "Onhold-For Tech Dependency": 1,
+        "OnHold-For Vivre Setup": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -31675,29 +31698,6 @@
         "Closed": 170,
         "Testing On hold": 1,
         "Onhold-For Tech Dependency": 1,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 48,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 74,
-      "statuses": {
-        "Ready For Test": 23,
-        "Issue Accepted": 3,
-        "Testing On hold": 2,
-        "Not Reproducible": 1,
-        "Closed": 15,
-        "Reopened": 3,
-        "In Progress": 15,
-        "Dev Complete": 4,
-        "In Review": 2,
-        "Open": 1,
-        "Parked": 2,
-        "Onhold-For Tech Dependency": 1,
-        "OnHold-For Vivre Setup": 1,
         "Invalid": 1
       }
     },
@@ -31729,12 +31729,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Karan Mahboobani": {
+      "bugs": 17,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 20
+    },
     "Shubham Chauhan": {
       "bugs": 19,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 24
+    },
+    "vzyfeedback": {
+      "bugs": 1392,
+      "tasks": 301,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1710
+    },
+    "avinash waghmare": {
+      "bugs": 5,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "Amit Kumar Tiwari": {
       "bugs": 12,
@@ -31757,27 +31778,6 @@
       "stories": 0,
       "total": 14
     },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "vzyfeedback": {
-      "bugs": 1390,
-      "tasks": 300,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1707
-    },
-    "Karan Mahboobani": {
-      "bugs": 17,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 20
-    },
     "devaraj": {
       "bugs": 11,
       "tasks": 1,
@@ -31799,13 +31799,6 @@
       "stories": 0,
       "total": 8
     },
-    "abhilash.ramesh": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
     "Aditya Shrivastava": {
       "bugs": 2,
       "tasks": 5,
@@ -31822,10 +31815,10 @@
     },
     "BalaKumar": {
       "bugs": 11,
-      "tasks": 7,
+      "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 18
+      "total": 17
     },
     "Suyog Lanje": {
       "bugs": 2,
@@ -31897,12 +31890,12 @@
       "stories": 1,
       "total": 20
     },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 2,
+    "abhilash.ramesh": {
+      "bugs": 9,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 41
+      "total": 12
     },
     "Kiran JR": {
       "bugs": 7,
@@ -31953,6 +31946,13 @@
       "stories": 0,
       "total": 8
     },
+    "Vikas Mishra": {
+      "bugs": 37,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
     "Ajay Kushwaha": {
       "bugs": 10,
       "tasks": 2,
@@ -31996,6 +31996,6 @@
     "Low": 34,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T18:04:58Z",
+  "updated_at": "2026-03-11T19:11:38Z",
   "total_issues": 2282
 }
