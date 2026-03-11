@@ -1,6 +1,174 @@
 {
   "bugs": [
     {
+      "key": "VF-2422",
+      "summary": "Login Redirection Issue",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2411",
+      "summary": "Wrong 2:3 Jiohotstar thumbnails",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-03",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2513",
+      "summary": "Collection rail",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2507",
+      "summary": "Blur UI in Sansui TV",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2486",
+      "summary": "App performance ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2477",
+      "summary": "White Thumbnail border",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-02-27",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2198",
       "summary": "FLIQS Order summary page",
       "status": "Dev Complete",
@@ -91,20 +259,6 @@
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2513",
-      "summary": "Collection rail",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
       "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
@@ -393,34 +547,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2507",
-      "summary": "Blur UI in Sansui TV",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2505",
       "summary": "Language Setup Vivre",
       "status": "Open",
@@ -575,38 +701,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2486",
-      "summary": "App performance ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2484",
       "summary": "App gets stuck middle of performing ",
       "status": "Ready For Test",
       "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2473",
-      "summary": "Pink highlight color",
-      "status": "Reopened",
-      "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
@@ -883,34 +981,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2343",
       "summary": "TV: The application crashes when the user clicks on the Watch Now button.",
       "status": "Closed",
@@ -1107,34 +1177,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2477",
-      "summary": "White Thumbnail border",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2409",
       "summary": " Fliqs journey for guest user",
       "status": "Ready For Test",
@@ -1191,20 +1233,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2411",
-      "summary": "Wrong 2:3 Jiohotstar thumbnails",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-03",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2413",
       "summary": "CD page episode listing Progress bar",
       "status": "Closed",
@@ -1229,20 +1257,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-02-27",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1408,20 +1422,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-19",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2422",
-      "summary": "Login Redirection Issue",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -31410,24 +31410,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Dev Complete": 1,
-        "On Hold- For Clarification": 1,
-        "In Progress": 2,
-        "Closed": 170,
-        "Reopened": 1,
-        "Ready For Test": 18,
-        "Testing On hold": 1,
-        "Onhold-For Tech Dependency": 1,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
       "tasks": 26,
@@ -31435,11 +31417,11 @@
       "stories": 0,
       "total": 74,
       "statuses": {
-        "Ready For Test": 21,
+        "Dev Complete": 5,
         "Reopened": 5,
-        "Issue Accepted": 6,
+        "Ready For Test": 21,
+        "Issue Accepted": 5,
         "In Progress": 16,
-        "Dev Complete": 4,
         "In Review": 2,
         "Open": 1,
         "Parked": 2,
@@ -31447,6 +31429,23 @@
         "Testing On hold": 1,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1,
+        "Invalid": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Dev Complete": 2,
+        "On Hold- For Clarification": 1,
+        "In Progress": 2,
+        "Closed": 170,
+        "Ready For Test": 18,
+        "Testing On hold": 1,
+        "Onhold-For Tech Dependency": 1,
         "Invalid": 1
       }
     },
@@ -31478,19 +31477,47 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1381,
-      "tasks": 300,
-      "subtasks": 12,
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 4,
+      "subtasks": 2,
       "stories": 0,
-      "total": 1698
+      "total": 34
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Shubham Chauhan": {
+      "bugs": 13,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
+    },
+    "abhilash.ramesh": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
     },
     "Akash Kushwaha": {
-      "bugs": 29,
+      "bugs": 26,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 31
+      "total": 28
+    },
+    "vzyfeedback": {
+      "bugs": 1379,
+      "tasks": 300,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1696
     },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
@@ -31512,13 +31539,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "Javed Ali": {
-      "bugs": 28,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 34
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -31542,11 +31562,11 @@
       "total": 16
     },
     "Karan Mahboobani": {
-      "bugs": 10,
+      "bugs": 9,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 13
+      "total": 12
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -31576,13 +31596,6 @@
       "stories": 0,
       "total": 13
     },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "Dinjit Dinesh": {
       "bugs": 15,
       "tasks": 17,
@@ -31604,13 +31617,6 @@
       "stories": 0,
       "total": 19
     },
-    "Srinidhi.Raju": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 13,
@@ -31631,20 +31637,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
-    "Shubham Chauhan": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Unassigned": {
       "bugs": 72,
@@ -31747,11 +31739,11 @@
   },
   "priority_breakdown": {
     "Medium": 848,
+    "Highest": 367,
     "High": 491,
     "Low": 32,
-    "Highest": 367,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T07:56:12Z",
+  "updated_at": "2026-03-11T09:01:01Z",
   "total_issues": 2264
 }
