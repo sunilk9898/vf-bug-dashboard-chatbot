@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2501",
+      "summary": "TV: Movie playback fails and displays \u201cContent Unavailable\u201d message when attempting to open a movie.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2499",
       "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
       "status": "Dev Complete",
@@ -176,20 +190,6 @@
       "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2501",
-      "summary": "TV: Movie playback fails and displays \u201cContent Unavailable\u201d message when attempting to open a movie.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -31729,19 +31729,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Karan Mahboobani": {
-      "bugs": 17,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 20
-    },
     "Shubham Chauhan": {
       "bugs": 19,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 24
+    },
+    "Karan Mahboobani": {
+      "bugs": 17,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 20
     },
     "vzyfeedback": {
       "bugs": 1392,
@@ -31996,6 +31996,6 @@
     "Low": 34,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T19:11:38Z",
+  "updated_at": "2026-03-11T19:52:31Z",
   "total_issues": 2282
 }
