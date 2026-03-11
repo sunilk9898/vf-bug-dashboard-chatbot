@@ -1,7 +1,7 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 4,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -9,11 +9,11 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 19,
+      "OPEN": 11,
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 12,
+      "ISSUE ACCEPTED": 13,
       "PARKED": 0
     },
     "CMS": {
@@ -26,10 +26,10 @@
     },
     "CMS Adaptor": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -97,15 +97,15 @@
       "PARKED": 0
     },
     "Unknown": {
-      "OPEN": 2,
+      "OPEN": 3,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-11T11:48:31Z",
-  "total_issues_fetched": 2279,
+  "updated_at": "2026-03-11T13:38:51Z",
+  "total_issues_fetched": 2282,
   "project": "VF"
 }

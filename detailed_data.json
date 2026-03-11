@@ -1,13 +1,363 @@
 {
   "bugs": [
     {
+      "key": "VF-2411",
+      "summary": "Wrong 2:3 Jiohotstar thumbnails",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-03",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2515",
+      "summary": "TV: Language preference filter not working  Telugu and Hollywood content displayed despite selecting Bengali and Bhojpuri",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2497",
+      "summary": "TV: Resume playback not Functioning as expected",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2510",
+      "summary": "TV: Incorrect label displayed as \u201cAll Channel\u201d instead of \u201cAll Channels\u201d in the Channel Guide section.",
+      "status": "Invalid",
+      "priority": "Low",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1197",
+      "summary": "Something Went Wrong ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-16",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "Clevertap In App Redirection not working ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2422",
+      "summary": "Login Redirection Issue",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2526",
+      "summary": "Spacing at top in Carousel banner",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2535",
+      "summary": "Hungama content plays when clicking on Discovery content watch Now",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2531",
       "summary": "TV: \"Magic Moments\" show not playing",
       "status": "Issue Accepted",
       "priority": "High",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2530",
+      "summary": "TV: Missing episodes in series \u2013 Gold Rush and Immersions",
+      "status": "Issue Accepted",
+      "priority": "Medium",
       "assignee": "Shubham Chauhan",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2500",
+      "summary": "TV: While entering a new profile name, the application automatically adds duplicate characters, resulting in an incorrect username.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2512",
+      "summary": "TV: Voice search feature is not working: Error message displayed when clicking on the Microphone (Voice Search) icon.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2509",
+      "summary": "TV: Incorrect label displayed as \u201cDevices Details\u201d in the Device Details section.",
+      "status": "Invalid",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2258",
+      "summary": "Mobile: Back button unresponsive on Payment Gateway after tapping \"Pay Now\"",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2499",
+      "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2529",
+      "summary": "TV: Incomplete season availability for series \u2013 Mysteries of the Deep and Gold Rush",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2502",
+      "summary": "TV: Duplicate movies displayed with different OTT sources and inconsistent subscription",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2534",
+      "summary": "Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2280",
+      "summary": "16:9 carousel metadata dots",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2536",
+      "summary": "Black screen appears intermittently while streaming Discovery content",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -113,34 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2530",
-      "summary": "TV: Missing episodes in series \u2013 Gold Rush and Immersions",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2258",
-      "summary": "Mobile: Back button unresponsive on Payment Gateway after tapping \"Pay Now\"",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-02-25",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2516",
       "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
       "status": "Issue Accepted",
@@ -188,20 +510,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2529",
-      "summary": "TV: Incomplete season availability for series \u2013 Mysteries of the Deep and Gold Rush",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-03-11",
       "updated": "2026-03-11",
@@ -309,76 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2526",
-      "summary": "Spacing at top in Carousel banner",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2411",
-      "summary": "Wrong 2:3 Jiohotstar thumbnails",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-03",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2509",
-      "summary": "TV: Incorrect label displayed as \u201cDevices Details\u201d in the Device Details section.",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2512",
-      "summary": "TV: Voice search feature is not working: Error message displayed when clicking on the Microphone (Voice Search) icon.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2279",
       "summary": "Search functionality",
       "status": "Closed",
@@ -403,20 +641,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2515",
-      "summary": "TV: Language preference filter not working  Telugu and Hollywood content displayed despite selecting Bengali and Bhojpuri",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -519,20 +743,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2440",
       "summary": "(Shivani) Fliqs >> SVOD >> on watcho channel, subscribed button is not clickable",
       "status": "Closed",
@@ -554,20 +764,6 @@
       "assignee": "Rajkumar A",
       "platform": "Mobile",
       "created": "2026-02-26",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "Clevertap In App Redirection not working ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -599,20 +795,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2422",
-      "summary": "Login Redirection Issue",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -673,20 +855,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2400",
       "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
       "status": "Reopened",
@@ -715,20 +883,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2421",
       "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
       "status": "Invalid",
@@ -736,20 +890,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2510",
-      "summary": "TV: Incorrect label displayed as \u201cAll Channel\u201d instead of \u201cAll Channels\u201d in the Channel Guide section.",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -813,20 +953,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2502",
-      "summary": "TV: Duplicate movies displayed with different OTT sources and inconsistent subscription",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2501",
       "summary": "TV: Movie playback fails and displays \u201cContent Unavailable\u201d message when attempting to open a movie.",
       "status": "Open",
@@ -841,50 +967,8 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2500",
-      "summary": "TV: While entering a new profile name, the application automatically adds duplicate characters, resulting in an incorrect username.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2499",
-      "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2498",
       "summary": "TV: Video not displayed and only audio plays when forwarding series (Intermittent)",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2497",
-      "summary": "TV: Resume playback not Functioning as expected",
       "status": "Open",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
@@ -2017,20 +2101,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1197",
-      "summary": "Something Went Wrong ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-16",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2386",
       "summary": "Mobile: Spelling or text error observed in checkbox label. ",
       "status": "Closed",
@@ -2165,20 +2235,6 @@
       "platform": "Mobile",
       "created": "2026-02-25",
       "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2280",
-      "summary": "16:9 carousel metadata dots",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -2320,20 +2376,6 @@
       "created": "2026-02-26",
       "updated": "2026-03-06",
       "duedate": "2026-03-02",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-06",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -24573,6 +24615,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-593",
+      "summary": "UXCam integration instead of Clarity",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-03-11",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1896",
       "summary": "CleverTap Pending task (IOS)",
       "status": "In Progress",
@@ -25045,20 +25101,6 @@
       "updated": "2026-03-10",
       "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-593",
-      "summary": "UXCam integration instead of Clarity",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-03-10",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -31620,22 +31662,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Dev Complete": 4,
-        "Closed": 170,
-        "Ready For Test": 18,
-        "Testing On hold": 1,
-        "Onhold-For Tech Dependency": 1,
-        "In Progress": 1,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
       "tasks": 26,
@@ -31643,19 +31669,35 @@
       "stories": 0,
       "total": 74,
       "statuses": {
+        "Ready For Test": 23,
         "Issue Accepted": 3,
-        "In Progress": 16,
         "Testing On hold": 2,
         "Not Reproducible": 1,
         "Closed": 15,
-        "Dev Complete": 5,
         "Reopened": 3,
-        "Ready For Test": 21,
+        "In Progress": 15,
+        "Dev Complete": 4,
         "In Review": 2,
         "Open": 1,
         "Parked": 2,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1,
+        "Invalid": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Ready For Test": 21,
+        "Dev Complete": 1,
+        "Closed": 170,
+        "Testing On hold": 1,
+        "Onhold-For Tech Dependency": 1,
+        "In Progress": 1,
         "Invalid": 1
       }
     },
@@ -31687,12 +31729,54 @@
   },
   "releases": {},
   "assignee_workload": {
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "vzyfeedback": {
+      "bugs": 1391,
+      "tasks": 300,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1708
+    },
+    "Karan Mahboobani": {
+      "bugs": 17,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 20
+    },
     "Shubham Chauhan": {
-      "bugs": 19,
+      "bugs": 21,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 24
+      "total": 26
+    },
+    "abhilash.ramesh": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Akash Kushwaha": {
+      "bugs": 19,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 21
+    },
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -31700,13 +31784,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Karan Mahboobani": {
-      "bugs": 15,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 18
     },
     "shadab Hussain": {
       "bugs": 9,
@@ -31716,46 +31793,11 @@
       "total": 13
     },
     "Alok Gupta": {
-      "bugs": 14,
+      "bugs": 13,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 19
-    },
-    "vzyfeedback": {
-      "bugs": 1382,
-      "tasks": 300,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1699
-    },
-    "Akash Kushwaha": {
-      "bugs": 25,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 27
-    },
-    "Javed Ali": {
-      "bugs": 29,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 35
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
+      "total": 18
     },
     "BalaKumar": {
       "bugs": 11,
@@ -31798,6 +31840,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
     },
     "kamaldeeps": {
       "bugs": 2,
@@ -31847,13 +31896,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 41
-    },
-    "abhilash.ramesh": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Unassigned": {
       "bugs": 72,
@@ -31948,12 +31990,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 496,
     "Medium": 856,
-    "Highest": 367,
+    "High": 499,
     "Low": 34,
+    "Highest": 367,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T11:48:31Z",
-  "total_issues": 2279
+  "updated_at": "2026-03-11T13:38:51Z",
+  "total_issues": 2282
 }
