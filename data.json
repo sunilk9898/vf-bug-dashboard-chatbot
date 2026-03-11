@@ -9,11 +9,11 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 7,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 10,
+      "ISSUE ACCEPTED": 15,
       "PARKED": 0
     },
     "CMS": {
@@ -29,7 +29,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -49,11 +49,11 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "Kaltura": {
@@ -97,15 +97,15 @@
       "PARKED": 0
     },
     "Unknown": {
-      "OPEN": 3,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-11T16:03:14Z",
+  "updated_at": "2026-03-11T17:11:17Z",
   "total_issues_fetched": 2282,
   "project": "VF"
 }

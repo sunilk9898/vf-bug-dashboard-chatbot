@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2535",
+      "summary": "Hungama content plays when clicking on Discovery content watch Now",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2478",
+      "summary": "Episode Listing Navigation",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2501",
+      "summary": "TV: Movie playback fails and displays \u201cContent Unavailable\u201d message when attempting to open a movie.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2502",
+      "summary": "TV: Duplicate movies displayed with different OTT sources and inconsistent subscription",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2503",
+      "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2504",
+      "summary": "TV: While opening any category, the application does not display the respective videos and automatically navigates back to the Home page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2513",
+      "summary": "Collection rail",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2536",
+      "summary": "Black screen appears intermittently while streaming Discovery content",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2505",
+      "summary": "Language Setup Vivre",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2530",
       "summary": "TV: Missing episodes in series \u2013 Gold Rush and Immersions",
       "status": "Dev Complete",
@@ -74,20 +256,6 @@
       "key": "VF-2506",
       "summary": "TV: Selecting any OTT platform under \u201cBrowse by OTT\u201d does not open the respective content and redirects back to the Home page.",
       "status": "Duplicate",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2504",
-      "summary": "TV: While opening any category, the application does not display the respective videos and automatically navigates back to the Home page.",
-      "status": "Open",
       "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
@@ -253,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2148",
       "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
       "status": "Reopened",
@@ -371,34 +525,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
       "created": "2026-03-10",
       "updated": "2026-03-11",
       "duedate": "",
@@ -603,20 +729,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2535",
-      "summary": "Hungama content plays when clicking on Discovery content watch Now",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2531",
       "summary": "TV: \"Magic Moments\" show not playing",
       "status": "Issue Accepted",
@@ -729,20 +841,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2502",
-      "summary": "TV: Duplicate movies displayed with different OTT sources and inconsistent subscription",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2534",
       "summary": "Series \u201cWatch Now\u201d plays last episode instead of the first episode",
       "status": "OnHold-For Vivre Setup",
@@ -764,20 +862,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-25",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2536",
-      "summary": "Black screen appears intermittently while streaming Discovery content",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1121,34 +1205,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2513",
-      "summary": "Collection rail",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2400",
       "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
       "status": "Reopened",
@@ -1191,34 +1247,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2503",
-      "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2501",
-      "summary": "TV: Movie playback fails and displays \u201cContent Unavailable\u201d message when attempting to open a movie.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2495",
       "summary": "Wrong Cover image in carousel",
       "status": "In Progress",
@@ -1243,20 +1271,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2505",
-      "summary": "Language Setup Vivre",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1621,20 +1635,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2478",
-      "summary": "Episode Listing Navigation",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -31729,33 +31729,54 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Karan Mahboobani": {
-      "bugs": 18,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 21
-    },
     "Amit Kumar Tiwari": {
-      "bugs": 8,
+      "bugs": 12,
       "tasks": 5,
       "subtasks": 2,
-      "stories": 0,
-      "total": 15
-    },
-    "Akash Kushwaha": {
-      "bugs": 17,
-      "tasks": 1,
-      "subtasks": 1,
       "stories": 0,
       "total": 19
     },
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
     "Shubham Chauhan": {
-      "bugs": 18,
+      "bugs": 19,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 23
+      "total": 24
+    },
+    "Akash Kushwaha": {
+      "bugs": 12,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "vzyfeedback": {
+      "bugs": 1390,
+      "tasks": 300,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1707
+    },
+    "Karan Mahboobani": {
+      "bugs": 17,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 20
     },
     "devaraj": {
       "bugs": 11,
@@ -31763,13 +31784,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 13
-    },
-    "vzyfeedback": {
-      "bugs": 1391,
-      "tasks": 300,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1708
     },
     "Unassigned": {
       "bugs": 72,
@@ -31785,13 +31799,6 @@
       "stories": 0,
       "total": 8
     },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "abhilash.ramesh": {
       "bugs": 10,
       "tasks": 3,
@@ -31805,13 +31812,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -31990,12 +31990,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 856,
     "High": 499,
+    "Medium": 856,
     "Highest": 367,
     "Low": 34,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T16:03:14Z",
+  "updated_at": "2026-03-11T17:11:17Z",
   "total_issues": 2282
 }
