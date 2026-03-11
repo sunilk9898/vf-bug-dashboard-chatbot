@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2530",
+      "summary": "TV: Missing episodes in series \u2013 Gold Rush and Immersions",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2508",
+      "summary": "TV: Movie preview (glimpse) starts playing while staying on Settings screen",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2498",
+      "summary": "TV: Video not displayed and only audio plays when forwarding series (Intermittent)",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2516",
+      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2506",
+      "summary": "TV: Selecting any OTT platform under \u201cBrowse by OTT\u201d does not open the respective content and redirects back to the Home page.",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2504",
+      "summary": "TV: While opening any category, the application does not display the respective videos and automatically navigates back to the Home page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2518",
+      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2519",
+      "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2520",
+      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2477",
+      "summary": "White Thumbnail border",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2458",
       "summary": "(Shivani) - When I try to play SunNXT content, only a black screen appears, and I\u2019m unable to exit the App. Because of this, I have to uninstall and reinstall the build repeatedly.",
       "status": "Issue Accepted",
@@ -273,20 +427,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2530",
-      "summary": "TV: Missing episodes in series \u2013 Gold Rush and Immersions",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "CMS Adaptor",
       "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
@@ -729,53 +869,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2516",
-      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2517",
       "summary": "TV: \u201cJust Me\u201d option is automatically selected by default while adding a new profile.",
       "status": "Invalid",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2519",
-      "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2520",
-      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-03-11",
       "updated": "2026-03-11",
@@ -1023,34 +1121,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2518",
-      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2473",
-      "summary": "Pink highlight color",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2513",
       "summary": "Collection rail",
       "status": "Open",
@@ -1058,20 +1128,6 @@
       "assignee": "Shubham Chauhan",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2477",
-      "summary": "White Thumbnail border",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1135,48 +1191,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2508",
-      "summary": "TV: Movie preview (glimpse) starts playing while staying on Settings screen",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2506",
-      "summary": "TV: Selecting any OTT platform under \u201cBrowse by OTT\u201d does not open the respective content and redirects back to the Home page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2504",
-      "summary": "TV: While opening any category, the application does not display the respective videos and automatically navigates back to the Home page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2503",
       "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
       "status": "Open",
@@ -1195,20 +1209,6 @@
       "summary": "TV: Movie playback fails and displays \u201cContent Unavailable\u201d message when attempting to open a movie.",
       "status": "Open",
       "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2498",
-      "summary": "TV: Video not displayed and only audio plays when forwarding series (Intermittent)",
-      "status": "Open",
-      "priority": "Medium",
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-03-11",
@@ -31729,6 +31729,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Karan Mahboobani": {
+      "bugs": 18,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 21
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 8,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 15
+    },
+    "Akash Kushwaha": {
+      "bugs": 17,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 19
+    },
+    "Shubham Chauhan": {
+      "bugs": 18,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 23
+    },
     "devaraj": {
       "bugs": 11,
       "tasks": 1,
@@ -31750,20 +31778,6 @@
       "stories": 0,
       "total": 113
     },
-    "Shubham Chauhan": {
-      "bugs": 22,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 27
-    },
-    "Karan Mahboobani": {
-      "bugs": 17,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 20
-    },
     "Yashika Krishnani": {
       "bugs": 5,
       "tasks": 3,
@@ -31784,13 +31798,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "Akash Kushwaha": {
-      "bugs": 18,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 20
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -31875,13 +31882,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
     },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
@@ -31990,12 +31990,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 499,
     "Medium": 856,
+    "High": 499,
     "Highest": 367,
     "Low": 34,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T15:05:44Z",
+  "updated_at": "2026-03-11T16:03:14Z",
   "total_issues": 2282
 }
