@@ -1,11 +1,123 @@
 {
   "bugs": [
     {
-      "key": "VF-2525",
-      "summary": "TV: Exit confirmation UI (Yes/Cancel buttons) appears inconsistently on the Home page/movie section, causing a UI glitch.",
+      "key": "VF-2531",
+      "summary": "TV: \"Magic Moments\" show not playing",
       "status": "Issue Accepted",
-      "priority": "Low",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2532",
+      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2533",
+      "summary": "TV: After entering a valid OTP, the application briefly displays an \u201cInvalid OTP\u201d message before successfully logging in.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
       "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2482",
+      "summary": "CTA is taking long time to appear ",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2425",
+      "summary": "Loading Issue",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2514",
+      "summary": "TV: \u201cWatch Now\u201d button is displayed for content in the Streaming Soon series, but clicking it does not play or open any content.",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2530",
+      "summary": "TV: Missing episodes in series \u2013 Gold Rush and Immersions",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-03-11",
       "updated": "2026-03-11",
@@ -17,7 +129,7 @@
     {
       "key": "VF-2258",
       "summary": "Mobile: Back button unresponsive on Payment Gateway after tapping \"Pay Now\"",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "High",
       "assignee": "Javed Ali",
       "platform": "Mobile",
@@ -29,10 +141,164 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2527",
-      "summary": "TV; In the Wild by Nature series, buttons are not in the standard UI color and duplicate 360p options appear in video quality settings.",
+      "key": "VF-2516",
+      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2517",
+      "summary": "TV: \u201cJust Me\u201d option is automatically selected by default while adding a new profile.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2519",
+      "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
       "status": "Issue Accepted",
       "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2520",
+      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2529",
+      "summary": "TV: Incomplete season availability for series \u2013 Mysteries of the Deep and Gold Rush",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2521",
+      "summary": "TV: Playback exits when selecting another episode in DBZ series",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2522",
+      "summary": "TV: Inconsistent spelling of Kabaddi in Sports section (Kabbadi vs Kabaddi)",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2523",
+      "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2528",
+      "summary": "TV: In the Sports section (India Women vs UAE Women), the ad and the actual content play only audio without video.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2524",
+      "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2527",
+      "summary": "TV; In the Wild by Nature series, buttons are not in the standard UI color and duplicate 360p options appear in video quality settings.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2525",
+      "summary": "TV: Exit confirmation UI (Yes/Cancel buttons) appears inconsistently on the Home page/movie section, causing a UI glitch.",
+      "status": "Issue Accepted",
+      "priority": "Low",
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-03-11",
@@ -85,80 +351,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2524",
-      "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2509",
       "summary": "TV: Incorrect label displayed as \u201cDevices Details\u201d in the Device Details section.",
       "status": "Open",
       "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2523",
-      "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2522",
-      "summary": "TV: Inconsistent spelling of Kabaddi in Sports section (Kabbadi vs Kabaddi)",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2521",
-      "summary": "TV: Playback exits when selecting another episode in DBZ series",
-      "status": "Open",
-      "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-03-11",
@@ -225,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2514",
-      "summary": "TV: \u201cWatch Now\u201d button is displayed for content in the Streaming Soon series, but clicking it does not play or open any content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2439",
       "summary": "Naveen => Issue with Sony Liv content when we trying to play the content we are getting content unavailable error ",
       "status": "Not Reproducible",
@@ -263,48 +445,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2520",
-      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2519",
-      "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2209",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -379,20 +519,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2517",
-      "summary": "TV: \u201cJust Me\u201d option is automatically selected by default while adding a new profile.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2491",
       "summary": "16:9 iOS carousel banners",
       "status": "On Hold- For Clarification",
@@ -428,20 +554,6 @@
       "assignee": "Rajkumar A",
       "platform": "Mobile",
       "created": "2026-02-26",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2482",
-      "summary": "CTA is taking long time to appear ",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -624,20 +736,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2516",
-      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1912,20 +2010,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2425",
-      "summary": "Loading Issue",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
       "updated": "2026-03-09",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -31536,6 +31620,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Dev Complete": 4,
+        "Closed": 170,
+        "Ready For Test": 18,
+        "Testing On hold": 1,
+        "Onhold-For Tech Dependency": 1,
+        "In Progress": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
       "tasks": 26,
@@ -31543,6 +31643,7 @@
       "stories": 0,
       "total": 74,
       "statuses": {
+        "Issue Accepted": 3,
         "In Progress": 16,
         "Testing On hold": 2,
         "Not Reproducible": 1,
@@ -31553,25 +31654,8 @@
         "In Review": 2,
         "Open": 1,
         "Parked": 2,
-        "Issue Accepted": 3,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Dev Complete": 3,
-        "In Progress": 2,
-        "Closed": 170,
-        "Ready For Test": 18,
-        "Testing On hold": 1,
-        "Onhold-For Tech Dependency": 1,
         "Invalid": 1
       }
     },
@@ -31603,12 +31687,54 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Shubham Chauhan": {
+      "bugs": 19,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 24
+    },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "Karan Mahboobani": {
-      "bugs": 12,
+      "bugs": 15,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 15
+      "total": 18
+    },
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
+    "vzyfeedback": {
+      "bugs": 1382,
+      "tasks": 300,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1699
+    },
+    "Akash Kushwaha": {
+      "bugs": 25,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 27
     },
     "Javed Ali": {
       "bugs": 29,
@@ -31616,13 +31742,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 35
-    },
-    "Akash Kushwaha": {
-      "bugs": 29,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 31
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -31638,30 +31757,9 @@
       "stories": 0,
       "total": 9
     },
-    "vzyfeedback": {
-      "bugs": 1382,
-      "tasks": 300,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1699
-    },
     "BalaKumar": {
       "bugs": 11,
       "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
-    },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Shubham Chauhan": {
-      "bugs": 13,
-      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 18
@@ -31672,13 +31770,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
     },
     "devaraj": {
       "bugs": 10,
@@ -31756,13 +31847,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 41
-    },
-    "shadab Hussain": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -31864,12 +31948,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 34,
-    "High": 494,
-    "Medium": 852,
+    "High": 496,
+    "Medium": 856,
     "Highest": 367,
+    "Low": 34,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T11:01:19Z",
-  "total_issues": 2273
+  "updated_at": "2026-03-11T11:48:31Z",
+  "total_issues": 2279
 }
