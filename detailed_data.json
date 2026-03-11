@@ -1,12 +1,152 @@
 {
   "bugs": [
     {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1601",
+      "summary": "Font Family Changed || Web",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-01-08",
+      "updated": "2026-03-11",
+      "duedate": "2026-01-16",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2471",
+      "summary": "Fliqs purchases",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2208",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2468",
+      "summary": "(Tamanna) - Channel Name Display Issue After Subscription.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel banner description text",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "LG_TV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2488",
+      "summary": "Content unstable   ",
+      "status": "Not Reproducible",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2486",
       "summary": "App performance ",
       "status": "Open",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2484",
+      "summary": "App gets stuck middle of performing ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2495",
+      "summary": "Wrong Cover image in carousel",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
       "created": "2026-03-10",
       "updated": "2026-03-11",
       "duedate": "",
@@ -67,20 +207,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2208",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -155,20 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "BalaKumar",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2447",
       "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
       "status": "Testing On hold",
@@ -211,34 +323,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2488",
-      "summary": "Content unstable   ",
-      "status": "Not Reproducible",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2484",
-      "summary": "App gets stuck middle of performing ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2294",
       "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
       "status": "Ready For Test",
@@ -246,20 +330,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-25",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2495",
-      "summary": "Wrong Cover image in carousel",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
@@ -301,20 +371,6 @@
       "priority": "Medium",
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel banner description text",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -519,20 +575,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2460",
       "summary": "(Tamanna) - Alignment Issue on Detail Fliqs Page.",
       "status": "Ready For Test",
@@ -543,20 +585,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1601",
-      "summary": "Font Family Changed || Web",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-01-08",
-      "updated": "2026-03-10",
-      "duedate": "2026-01-16",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -771,20 +799,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2471",
-      "summary": "Fliqs purchases",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2411",
       "summary": "Wrong 2:3 Jiohotstar thumbnails",
       "status": "Reopened",
@@ -876,20 +890,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-24",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2468",
-      "summary": "(Tamanna) - Channel Name Display Issue After Subscription.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-09",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -31102,6 +31102,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Reopened": 3,
+        "Ready For Test": 19,
+        "Testing On hold": 1,
+        "Onhold-For Tech Dependency": 1,
+        "Closed": 169,
+        "In Progress": 1,
+        "On Hold- For Clarification": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
       "tasks": 26,
@@ -31109,7 +31126,7 @@
       "stories": 0,
       "total": 74,
       "statuses": {
-        "Ready For Test": 18,
+        "Ready For Test": 19,
         "In Progress": 17,
         "Dev Complete": 4,
         "In Review": 2,
@@ -31118,26 +31135,9 @@
         "Parked": 2,
         "Closed": 13,
         "Testing On hold": 1,
-        "Issue Accepted": 8,
+        "Issue Accepted": 7,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Reopened": 2,
-        "Ready For Test": 20,
-        "Testing On hold": 1,
-        "Onhold-For Tech Dependency": 1,
-        "Closed": 169,
-        "In Progress": 1,
-        "On Hold- For Clarification": 1,
         "Invalid": 1
       }
     },
@@ -31169,19 +31169,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Moore Meghana": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
     "vzyfeedback": {
-      "bugs": 1383,
+      "bugs": 1384,
       "tasks": 300,
       "subtasks": 12,
       "stories": 0,
-      "total": 1700
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
+      "total": 1701
     },
     "Karan Mahboobani": {
       "bugs": 10,
@@ -31189,6 +31189,20 @@
       "subtasks": 2,
       "stories": 0,
       "total": 13
+    },
+    "Akash Kushwaha": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 9
+    },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -31211,13 +31225,6 @@
       "stories": 0,
       "total": 14
     },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
     "avinash waghmare": {
       "bugs": 3,
       "tasks": 7,
@@ -31239,19 +31246,19 @@
       "stories": 0,
       "total": 11
     },
+    "BalaKumar": {
+      "bugs": 12,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
     "Javed Ali": {
       "bugs": 27,
       "tasks": 4,
       "subtasks": 2,
       "stories": 0,
       "total": 33
-    },
-    "Akash Kushwaha": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 9
     },
     "Alok Gupta": {
       "bugs": 14,
@@ -31295,26 +31302,12 @@
       "stories": 0,
       "total": 8
     },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
     "Suyog Lanje": {
       "bugs": 3,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Moore Meghana": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -31393,6 +31386,13 @@
       "stories": 0,
       "total": 1
     },
+    "Ajay Kushwaha": {
+      "bugs": 10,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -31437,12 +31437,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 367,
     "Medium": 837,
     "High": 482,
-    "Highest": 367,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T04:53:35Z",
+  "updated_at": "2026-03-11T06:03:46Z",
   "total_issues": 2242
 }
