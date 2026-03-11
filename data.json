@@ -1,11 +1,11 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 1,
-      "IN PROGRESS": 2,
+      "OPEN": 0,
+      "IN PROGRESS": 4,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 0,
       "PARKED": 1
     },
     "ATV": {
@@ -13,7 +13,7 @@
       "IN PROGRESS": 1,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "CMS": {
@@ -53,7 +53,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 4,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "Kaltura": {
@@ -74,7 +74,7 @@
     },
     "Mobile": {
       "OPEN": 0,
-      "IN PROGRESS": 0,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
@@ -97,7 +97,7 @@
       "PARKED": 0
     },
     "Unknown": {
-      "OPEN": 4,
+      "OPEN": 3,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-11T09:01:01Z",
+  "updated_at": "2026-03-11T10:00:49Z",
   "total_issues_fetched": 2264,
   "project": "VF"
 }

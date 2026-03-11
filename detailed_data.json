@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2469",
+      "summary": "(Shivani) The channel logo is different inside the channel, and within the content section, the logo sometimes appears and sometimes does not show at all.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2481",
+      "summary": "Long time to load",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2507",
+      "summary": "Blur UI in Sansui TV",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1530",
+      "summary": "Naveen => VZY app is taking more than 20 seconds to launch on Samsung TV.",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2025-12-24",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2517",
+      "summary": "TV: \u201cJust Me\u201d option is automatically selected by default while adding a new profile.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2440",
+      "summary": "(Shivani) Fliqs >> SVOD >> on watcho channel, subscribed button is not clickable",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-07",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2392",
+      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Rajkumar A",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2482",
+      "summary": "CTA is taking long time to appear ",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "Clevertap In App Redirection not working ",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2480",
+      "summary": "Fliqs TVOD expired content ",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2518",
+      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2422",
       "summary": "Login Redirection Issue",
       "status": "Dev Complete",
@@ -62,20 +244,6 @@
       "status": "Open",
       "priority": "Medium",
       "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2507",
-      "summary": "Blur UI in Sansui TV",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
       "platform": "Unknown",
       "created": "2026-03-11",
       "updated": "2026-03-11",
@@ -183,20 +351,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2518",
-      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2421",
       "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
       "status": "Invalid",
@@ -204,20 +358,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2517",
-      "summary": "TV: \u201cJust Me\u201d option is automatically selected by default while adding a new profile.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -463,20 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2209",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2059",
       "summary": "Inconsistent TOP NAV in \"My vibes\" section",
       "status": "In Progress",
@@ -533,20 +659,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2440",
-      "summary": "(Shivani) Fliqs >> SVOD >> on watcho channel, subscribed button is not clickable",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-07",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2505",
       "summary": "Language Setup Vivre",
       "status": "Open",
@@ -554,20 +666,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2482",
-      "summary": "CTA is taking long time to appear ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -813,20 +911,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2447",
       "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
       "status": "Testing On hold",
@@ -931,20 +1015,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2481",
-      "summary": "Long time to load",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -1065,20 +1135,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2480",
-      "summary": "Fliqs TVOD expired content ",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2464",
       "summary": "(Tamanna) - Fliqs Channel Banner Getting Stretched.",
       "status": "Ready For Test",
@@ -1145,20 +1201,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "Clevertap In App Redirection not working ",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1257,20 +1299,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1530",
-      "summary": "Naveen => VZY app is taking more than 20 seconds to launch on Samsung TV.",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2025-12-24",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (31 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1422,20 +1450,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-19",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2469",
-      "summary": "(Shivani) The channel logo is different inside the channel, and within the content section, the logo sometimes appears and sometimes does not show at all.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-09",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -5273,20 +5287,6 @@
       "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2392",
-      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-26",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -24363,6 +24363,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-1896",
+      "summary": "CleverTap Pending task (IOS)",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-01-29",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1897",
+      "summary": "CleverTap Pending tasks (Android)",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-01-29",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1655",
       "summary": "how to show if there is to many buttons in CD page mainly for FLIQS Channel CD page ",
       "status": "Reopened",
@@ -25157,34 +25185,6 @@
       "updated": "2026-03-02",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1897",
-      "summary": "CleverTap Pending tasks (Android)",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-01-29",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1896",
-      "summary": "CleverTap Pending task (IOS)",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-01-29",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -31417,19 +31417,31 @@
       "stories": 0,
       "total": 74,
       "statuses": {
+        "Closed": 15,
         "Dev Complete": 5,
         "Reopened": 5,
         "Ready For Test": 21,
-        "Issue Accepted": 5,
         "In Progress": 16,
         "In Review": 2,
         "Open": 1,
         "Parked": 2,
-        "Closed": 13,
         "Testing On hold": 1,
+        "Issue Accepted": 3,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1,
         "Invalid": 1
+      }
+    },
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 1,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3,
+      "statuses": {
+        "In Progress": 1,
+        "Onhold-For Tech Dependency": 1,
+        "Open": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -31439,8 +31451,8 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Dev Complete": 2,
         "On Hold- For Clarification": 1,
+        "Dev Complete": 2,
         "In Progress": 2,
         "Closed": 170,
         "Ready For Test": 18,
@@ -31461,35 +31473,23 @@
         "Closed": 41,
         "Ready For Test": 6
       }
-    },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3,
-      "statuses": {
-        "Onhold-For Tech Dependency": 1,
-        "In Progress": 1,
-        "Open": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
-    "Javed Ali": {
-      "bugs": 28,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 34
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 7,
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 11
+      "total": 7
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
     },
     "Shubham Chauhan": {
       "bugs": 13,
@@ -31498,19 +31498,26 @@
       "stories": 0,
       "total": 18
     },
-    "abhilash.ramesh": {
+    "devaraj": {
       "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "Akash Kushwaha": {
-      "bugs": 26,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 28
+      "total": 12
+    },
+    "Akash Kushwaha": {
+      "bugs": 25,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 27
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "vzyfeedback": {
       "bugs": 1379,
@@ -31526,12 +31533,40 @@
       "stories": 0,
       "total": 34
     },
-    "Yashika Krishnani": {
-      "bugs": 6,
+    "Rajkumar A": {
+      "bugs": 4,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
+    "Karan Mahboobani": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 13
+    },
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 34
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "abhilash.ramesh": {
+      "bugs": 10,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 13
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -31539,13 +31574,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "Alok Gupta": {
-      "bugs": 13,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
     },
     "kamaldeeps": {
       "bugs": 2,
@@ -31561,13 +31589,6 @@
       "stories": 0,
       "total": 16
     },
-    "Karan Mahboobani": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 6,
@@ -31581,20 +31602,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "devaraj": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 12
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Dinjit Dinesh": {
       "bugs": 15,
@@ -31611,11 +31618,11 @@
       "total": 11
     },
     "BalaKumar": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 19
+      "total": 18
     },
     "Manikanta P": {
       "bugs": 6,
@@ -31631,12 +31638,12 @@
       "stories": 0,
       "total": 41
     },
-    "Suyog Lanje": {
-      "bugs": 2,
-      "tasks": 5,
+    "shadab Hussain": {
+      "bugs": 8,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 7
+      "total": 12
     },
     "Unassigned": {
       "bugs": 72,
@@ -31701,13 +31708,6 @@
       "stories": 0,
       "total": 12
     },
-    "Rajkumar A": {
-      "bugs": 3,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
-    },
     "Harsh Pratap Singh": {
       "bugs": 4,
       "tasks": 0,
@@ -31738,12 +31738,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 848,
-    "Highest": 367,
     "High": 491,
+    "Highest": 367,
+    "Medium": 848,
     "Low": 32,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T09:01:01Z",
+  "updated_at": "2026-03-11T10:00:49Z",
   "total_issues": 2264
 }
