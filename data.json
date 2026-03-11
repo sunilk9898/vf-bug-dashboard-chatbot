@@ -1,7 +1,7 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 4,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -11,7 +11,7 @@
     "ATV": {
       "OPEN": 11,
       "IN PROGRESS": 0,
-      "REOPENED": 1,
+      "REOPENED": 2,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 13,
       "PARKED": 0
@@ -29,7 +29,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 0,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -49,7 +49,7 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
@@ -69,7 +69,7 @@
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 2,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "Mobile": {
@@ -78,7 +78,7 @@
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
-      "PARKED": 2
+      "PARKED": 3
     },
     "SAM_TV": {
       "OPEN": 0,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-11T13:38:51Z",
+  "updated_at": "2026-03-11T15:05:44Z",
   "total_issues_fetched": 2282,
   "project": "VF"
 }

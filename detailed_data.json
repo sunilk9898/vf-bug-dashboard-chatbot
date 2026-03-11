@@ -1,6 +1,342 @@
 {
   "bugs": [
     {
+      "key": "VF-2458",
+      "summary": "(Shivani) - When I try to play SunNXT content, only a black screen appears, and I\u2019m unable to exit the App. Because of this, I have to uninstall and reinstall the build repeatedly.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2375",
+      "summary": "Mobile: Downloaded content \u201cBaat Ek Raaz Ki\u201d is not playable in offline mode from Downloads section",
+      "status": "Parked",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2357",
+      "summary": "Mobile: Incorrect episode playback observed in Shark Tank India Season 2 \u2014 Episode 50 plays instead of Episode 49.",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2356",
+      "summary": "Mobile: Subtitle option is not available for Umeed content during playback.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2236",
+      "summary": "Mobile: Login button enabled without validation when USA country code is selected with Indian mobile number",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "DishIT",
+      "created": "2026-02-25",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2216",
+      "summary": "Web: Blank screen displayed when playing Republic TV in Live TV section.",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-24",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2205",
+      "summary": "Web: Login page layout breaks on refresh and valid Indian mobile number shows invalid validation message.",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-23",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2383",
+      "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2300",
+      "summary": "Web: Forward and backward seek duration is inconsistent between player controls and keyboard actions",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-25",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2252",
+      "summary": "Mobile: Liked movies and followed channels from Profile A are visible in Profile B.",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-25",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2426",
+      "summary": "16:9 Carousel banner issue",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2462",
+      "summary": "SunNXT content shows \u201cInstall App\u201d pop-up instead of playing inside the VZY app",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2480",
+      "summary": "Fliqs TVOD expired content ",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2487",
+      "summary": "Sony Television Logo appears on CID content ",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2515",
+      "summary": "TV: Language preference filter not working  Telugu and Hollywood content displayed despite selecting Bengali and Bhojpuri",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2529",
+      "summary": "TV: Incomplete season availability for series \u2013 Mysteries of the Deep and Gold Rush",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2530",
+      "summary": "TV: Missing episodes in series \u2013 Gold Rush and Immersions",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2533",
+      "summary": "TV: After entering a valid OTP, the application briefly displays an \u201cInvalid OTP\u201d message before successfully logging in.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2528",
+      "summary": "TV: In the Sports section (India Women vs UAE Women), the ad and the actual content play only audio without video.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2411",
       "summary": "Wrong 2:3 Jiohotstar thumbnails",
       "status": "Ready For Test",
@@ -11,20 +347,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2515",
-      "summary": "TV: Language preference filter not working  Telugu and Hollywood content displayed despite selecting Bengali and Bhojpuri",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -169,20 +491,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2530",
-      "summary": "TV: Missing episodes in series \u2013 Gold Rush and Immersions",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2500",
       "summary": "TV: While entering a new profile name, the application automatically adds duplicate characters, resulting in an incorrect username.",
       "status": "Invalid",
@@ -281,20 +589,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2529",
-      "summary": "TV: Incomplete season availability for series \u2013 Mysteries of the Deep and Gold Rush",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2502",
       "summary": "TV: Duplicate movies displayed with different OTT sources and inconsistent subscription",
       "status": "Open",
@@ -351,20 +645,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2532",
       "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
       "status": "Issue Accepted",
@@ -389,20 +669,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2533",
-      "summary": "TV: After entering a valid OTP, the application briefly displays an \u201cInvalid OTP\u201d message before successfully logging in.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -552,20 +818,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2528",
-      "summary": "TV: In the Sports section (India Women vs UAE Women), the ad and the actual content play only audio without video.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-03-11",
       "updated": "2026-03-11",
@@ -771,20 +1023,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2480",
-      "summary": "Fliqs TVOD expired content ",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2518",
       "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
       "status": "Issue Accepted",
@@ -981,20 +1219,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2458",
-      "summary": "(Shivani) - When I try to play SunNXT content, only a black screen appears, and I\u2019m unable to exit the App. Because of this, I have to uninstall and reinstall the build repeatedly.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2495",
       "summary": "Wrong Cover image in carousel",
       "status": "In Progress",
@@ -1177,34 +1401,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2487",
-      "summary": "Sony Television Logo appears on CID content ",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2461",
       "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
       "status": "Ready For Test",
@@ -1285,20 +1481,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1807,20 +1989,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2462",
-      "summary": "SunNXT content shows \u201cInstall App\u201d pop-up instead of playing inside the VZY app",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2465",
       "summary": "(Tamanna) - Content Playing Without Active Plan.",
       "status": "Closed",
@@ -2171,20 +2339,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2426",
-      "summary": "16:9 Carousel banner issue",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2427",
       "summary": "My watchlist and continue watching rail",
       "status": "On Hold- For Clarification",
@@ -2332,20 +2486,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-25",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -4607,20 +4747,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2357",
-      "summary": "Mobile: Incorrect episode playback observed in Shark Tank India Season 2 \u2014 Episode 50 plays instead of Episode 49.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1759",
       "summary": "CONTENT DETAIL PAGE UI ISSUES",
       "status": "Closed",
@@ -5069,20 +5195,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2375",
-      "summary": "Mobile: Downloaded content \u201cBaat Ek Raaz Ki\u201d is not playable in offline mode from Downloads section",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2188",
       "summary": "TV: Episode count mismatch in series page",
       "status": "Invalid",
@@ -5090,20 +5202,6 @@
       "assignee": "devaraj",
       "platform": "LG_TV",
       "created": "2026-02-23",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2300",
-      "summary": "Web: Forward and backward seek duration is inconsistent between player controls and keyboard actions",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5134,34 +5232,6 @@
       "created": "2026-01-07",
       "updated": "2026-02-27",
       "duedate": "2026-01-20",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2236",
-      "summary": "Mobile: Login button enabled without validation when USA country code is selected with Indian mobile number",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "DishIT",
-      "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2383",
-      "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -5258,20 +5328,6 @@
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2252",
-      "summary": "Mobile: Liked movies and followed channels from Profile A are visible in Profile B.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-25",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5451,20 +5507,6 @@
       "summary": "Mobile: Playback freezes when setting video quality to Data Saver for Thillu Mullu movie",
       "status": "Duplicate",
       "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2356",
-      "summary": "Mobile: Subtitle option is not available for Umeed content during playback.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
       "assignee": "Unassigned",
       "platform": "Mobile",
       "created": "2026-02-26",
@@ -5755,20 +5797,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1433",
       "summary": "ATV FE Section titles ",
       "status": "Closed",
@@ -5933,34 +5961,6 @@
       "updated": "2026-02-25",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2205",
-      "summary": "Web: Login page layout breaks on refresh and valid Indian mobile number shows invalid validation message.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2216",
-      "summary": "Web: Blank screen displayed when playing Republic TV in Live TV section.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -31662,6 +31662,22 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "In Progress": 1,
+        "Ready For Test": 21,
+        "Dev Complete": 1,
+        "Closed": 170,
+        "Testing On hold": 1,
+        "Onhold-For Tech Dependency": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 48,
       "tasks": 26,
@@ -31682,22 +31698,6 @@
         "Parked": 2,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1,
-        "Invalid": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Ready For Test": 21,
-        "Dev Complete": 1,
-        "Closed": 170,
-        "Testing On hold": 1,
-        "Onhold-For Tech Dependency": 1,
-        "In Progress": 1,
         "Invalid": 1
       }
     },
@@ -31729,12 +31729,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 7,
-      "subtasks": 0,
+    "devaraj": {
+      "bugs": 11,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
-      "total": 10
+      "total": 13
     },
     "vzyfeedback": {
       "bugs": 1391,
@@ -31743,6 +31743,20 @@
       "stories": 0,
       "total": 1708
     },
+    "Unassigned": {
+      "bugs": 72,
+      "tasks": 34,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 113
+    },
+    "Shubham Chauhan": {
+      "bugs": 22,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 27
+    },
     "Karan Mahboobani": {
       "bugs": 17,
       "tasks": 1,
@@ -31750,12 +31764,19 @@
       "stories": 0,
       "total": 20
     },
-    "Shubham Chauhan": {
-      "bugs": 21,
-      "tasks": 5,
+    "Yashika Krishnani": {
+      "bugs": 5,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 26
+      "total": 8
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
     },
     "abhilash.ramesh": {
       "bugs": 10,
@@ -31765,18 +31786,11 @@
       "total": 13
     },
     "Akash Kushwaha": {
-      "bugs": 19,
+      "bugs": 18,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 21
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
+      "total": 20
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -31813,26 +31827,12 @@
       "stories": 0,
       "total": 7
     },
-    "devaraj": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 12
-    },
     "Rajkumar A": {
       "bugs": 4,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -31883,6 +31883,13 @@
       "stories": 0,
       "total": 11
     },
+    "Amudha Kaliamoorthi": {
+      "bugs": 13,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 32
+    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 13,
@@ -31896,13 +31903,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 41
-    },
-    "Unassigned": {
-      "bugs": 72,
-      "tasks": 34,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 113
     },
     "Kiran JR": {
       "bugs": 7,
@@ -31990,12 +31990,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 856,
     "High": 499,
-    "Low": 34,
+    "Medium": 856,
     "Highest": 367,
+    "Low": 34,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T13:38:51Z",
+  "updated_at": "2026-03-11T15:05:44Z",
   "total_issues": 2282
 }
