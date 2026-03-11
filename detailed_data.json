@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2486",
+      "summary": "App performance ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2487",
+      "summary": "Sony Television Logo appears on CID content ",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2461",
       "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
       "status": "Ready For Test",
@@ -155,38 +211,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2473",
-      "summary": "Pink highlight color",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2488",
       "summary": "Content unstable   ",
       "status": "Not Reproducible",
       "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2487",
-      "summary": "Sony Television Logo appears on CID content ",
-      "status": "Ready For Test",
-      "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
@@ -204,20 +232,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-18",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
@@ -315,20 +329,6 @@
       "priority": "Highest",
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2486",
-      "summary": "App performance ",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-03-10",
       "updated": "2026-03-10",
       "duedate": "",
@@ -24055,6 +24055,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2496",
+      "summary": "Live Redesign Vivre Changes",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Aniruddh Patil",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1944",
       "summary": "Tarang Plus CP",
       "status": "In Progress",
@@ -31162,6 +31176,13 @@
       "stories": 0,
       "total": 1700
     },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
     "Karan Mahboobani": {
       "bugs": 10,
       "tasks": 1,
@@ -31245,13 +31266,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 32
-    },
-    "Aniruddh Patil": {
-      "bugs": 0,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
     },
     "Srinidhi.Raju": {
       "bugs": 2,
@@ -31423,12 +31437,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 482,
     "Medium": 837,
+    "High": 482,
     "Highest": 367,
     "Low": 30,
     "Lowest": 2
   },
-  "updated_at": "2026-03-11T02:50:01Z",
-  "total_issues": 2241
+  "updated_at": "2026-03-11T04:53:35Z",
+  "total_issues": 2242
 }
