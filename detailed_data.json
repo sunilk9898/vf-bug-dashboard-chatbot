@@ -1,6 +1,230 @@
 {
   "bugs": [
     {
+      "key": "VF-2550",
+      "summary": "2:3 Thumbnail images",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "Kaltura",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2507",
+      "summary": "Blur UI in Sansui TV",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2559",
+      "summary": "Web: Unable to edit profile after creating it \u2013 Edit button redirects back automatically.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2456",
+      "summary": "Fliqs content playback ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2570",
+      "summary": "Web: LinkedIn share option not working in Sports TV section",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2571",
+      "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2558",
+      "summary": "Web (browser specific) : Watch button not clickable for TV9 Bharatvarsh in Live TV section.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-02-27",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2538",
+      "summary": "Trailer icon on JHS asset",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2537",
+      "summary": "Browse by OTT rail Cover Title",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2449",
+      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2448",
+      "summary": "(Shivani)  LG \u2013 Fliqs, when clicking the Subscribe button on any banner, it shows 0 days.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "Ready For Test",
@@ -141,20 +365,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2559",
-      "summary": "Web: Unable to edit profile after creating it \u2013 Edit button redirects back automatically.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2566",
       "summary": "Web: Sections like Dramas, Movies, and Series on the Home Page are not opening when clicked.",
       "status": "On Hold- For Clarification",
@@ -225,34 +435,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2571",
-      "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2570",
-      "summary": "Web: LinkedIn share option not working in Sports TV section",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2513",
       "summary": "Collection rail",
       "status": "Dev Complete",
@@ -273,20 +455,6 @@
       "priority": "Medium",
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2537",
-      "summary": "Browse by OTT rail Cover Title",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
       "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
@@ -389,20 +557,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2558",
-      "summary": "Web (browser specific) : Watch button not clickable for TV9 Bharatvarsh in Live TV section.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -526,34 +680,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Moore Meghana",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2456",
-      "summary": "Fliqs content playback ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-09",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -687,34 +813,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2538",
-      "summary": "Trailer icon on JHS asset",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2549",
       "summary": "Clevertap deeplink issue ",
       "status": "Issue Accepted",
@@ -743,20 +841,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2486",
       "summary": "App performance ",
       "status": "Reopened",
@@ -771,48 +855,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2209",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2449",
-      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2448",
-      "summary": "(Shivani)  LG \u2013 Fliqs, when clicking the Subscribe button on any banner, it shows 0 days.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2277",
       "summary": "Content player and playback",
       "status": "Closed",
@@ -823,20 +865,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2507",
-      "summary": "Blur UI in Sansui TV",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1089,20 +1117,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2550",
-      "summary": "2:3 Thumbnail images",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Kaltura",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2360,20 +2374,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-07",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-02-27",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -25077,6 +25077,62 @@
   ],
   "tasks": [
     {
+      "key": "VF-2213",
+      "summary": "Fliqs Report \u2013 Dashboard Availability",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "CMS",
+      "created": "2026-02-24",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1489",
+      "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-12-23",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1525",
+      "summary": "Position of resume progress bar",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2025-12-24",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2408",
+      "summary": "(Tamanna) - Match Videos Not Available After ENG vs NZ \u2013 ICC T20 World Cup.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-02",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-596",
       "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
       "status": "Dev Complete",
@@ -25973,20 +26029,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2408",
-      "summary": "(Tamanna) - Match Videos Not Available After ENG vs NZ \u2013 ICC T20 World Cup.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "WEB",
-      "created": "2026-03-02",
-      "updated": "2026-03-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2407",
       "summary": "TV: There is an episode count inconsistency.",
       "status": "Open",
@@ -26455,20 +26497,6 @@
       "priority": "High",
       "assignee": "Dinjit Dinesh",
       "platform": "WEB",
-      "created": "2026-02-24",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2213",
-      "summary": "Fliqs Report \u2013 Dashboard Availability",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Unassigned",
-      "platform": "CMS",
       "created": "2026-02-24",
       "updated": "2026-02-24",
       "duedate": "",
@@ -27583,20 +27611,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1525",
-      "summary": "Position of resume progress bar",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2025-12-24",
-      "updated": "2026-02-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1599",
       "summary": "Clevertap integration - Enableing Rich push template for CT",
       "status": "Duplicate",
@@ -28292,20 +28306,6 @@
       "created": "2025-11-17",
       "updated": "2026-01-15",
       "duedate": "2025-12-22",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1489",
-      "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-23",
-      "updated": "2026-01-15",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -32152,6 +32152,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Reopened": 3,
+        "Ready For Test": 10,
+        "Closed": 180,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -32159,8 +32174,8 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 9,
         "Reopened": 4,
+        "Ready For Test": 11,
         "Onhold-For Tech Dependency": 2,
         "Dev Complete": 5,
         "Issue Accepted": 14,
@@ -32168,7 +32183,7 @@
         "In Progress": 13,
         "Parked": 2,
         "Closed": 31,
-        "Testing On hold": 6,
+        "Testing On hold": 4,
         "Invalid": 2,
         "Not Reproducible": 1,
         "OnHold-For Vivre Setup": 1
@@ -32187,21 +32202,6 @@
         "Ready For Test": 6
       }
     },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Reopened": 3,
-        "Testing On hold": 2,
-        "Closed": 180,
-        "Dev Complete": 1,
-        "Ready For Test": 9,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
       "tasks": 2,
@@ -32217,26 +32217,75 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 22
+    },
+    "Suyog Lanje": {
+      "bugs": 5,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
     "vzyfeedback": {
-      "bugs": 1410,
+      "bugs": 1412,
       "tasks": 301,
       "subtasks": 12,
       "stories": 0,
-      "total": 1728
+      "total": 1730
+    },
+    "Aditya Shrivastava": {
+      "bugs": 0,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "BalaKumar": {
-      "bugs": 14,
+      "bugs": 17,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 20
+      "total": 23
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "shadab Hussain": {
-      "bugs": 10,
+      "bugs": 11,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 15
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
     },
     "Karan Mahboobani": {
       "bugs": 17,
@@ -32251,41 +32300,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 33
-    },
-    "Suyog Lanje": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Manikanta P": {
-      "bugs": 7,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 21
-    },
-    "Akash Kushwaha": {
-      "bugs": 21,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
     },
     "Amit Kumar Tiwari": {
       "bugs": 10,
@@ -32309,11 +32323,11 @@
       "total": 20
     },
     "Shubham Chauhan": {
-      "bugs": 16,
+      "bugs": 15,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 22
+      "total": 21
     },
     "devaraj": {
       "bugs": 10,
@@ -32322,12 +32336,12 @@
       "stories": 0,
       "total": 12
     },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 3,
-      "subtasks": 0,
+    "Akash Kushwaha": {
+      "bugs": 17,
+      "tasks": 2,
+      "subtasks": 1,
       "stories": 0,
-      "total": 11
+      "total": 20
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -32336,26 +32350,12 @@
       "stories": 0,
       "total": 18
     },
-    "Moore Meghana": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
     "Dinjit Dinesh": {
-      "bugs": 16,
+      "bugs": 15,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 35
-    },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
+      "total": 34
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
@@ -32363,13 +32363,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 32
-    },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -32380,10 +32373,10 @@
     },
     "Unassigned": {
       "bugs": 72,
-      "tasks": 32,
+      "tasks": 30,
       "subtasks": 0,
       "stories": 0,
-      "total": 111
+      "total": 109
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -32391,6 +32384,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
+    },
+    "Moore Meghana": {
+      "bugs": 11,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
     },
     "Kiran JR": {
       "bugs": 7,
@@ -32441,12 +32441,12 @@
       "stories": 0,
       "total": 8
     },
-    "Aditya Shrivastava": {
-      "bugs": 0,
-      "tasks": 5,
+    "Ajay Kushwaha": {
+      "bugs": 10,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 5
+      "total": 12
     },
     "Harsh Pratap Singh": {
       "bugs": 4,
@@ -32478,12 +32478,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 503,
     "Highest": 376,
     "Medium": 863,
     "Low": 47,
+    "High": 503,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T16:15:32Z",
+  "updated_at": "2026-03-12T17:13:48Z",
   "total_issues": 2317
 }
