@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2542",
+      "summary": " Observes a screen glitch during the redirection process",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch we are getting a loading screen first then redirecting on the order summary page",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2447",
+      "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2461",
+      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2472",
+      "summary": "Naveen => New Releases First content not clickable in iOS production build",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2539",
+      "summary": "CTA is not response ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2547",
       "summary": "TV: Content remains inaccessible even after applying a valid coupon for Fliqs CP content.",
       "status": "Dev Complete",
@@ -151,20 +249,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -617,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2539",
-      "summary": "CTA is not response ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2546",
       "summary": "Clevertap In App Redirection not working for iOS",
       "status": "Open",
@@ -651,20 +721,6 @@
       "priority": "Highest",
       "assignee": "Suyog Lanje",
       "platform": "ANDROID",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2542",
-      "summary": " Observes a screen glitch during the redirection process",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
       "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
@@ -991,20 +1047,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2432",
-      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch we are getting a loading screen first then redirecting on the order summary page",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1579,20 +1621,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2461",
-      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2417,34 +2445,6 @@
       "platform": "ATV",
       "created": "2026-02-24",
       "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2447",
-      "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2472",
-      "summary": "Naveen => New Releases First content not clickable in iOS production build",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -32152,6 +32152,28 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Ready For Test": 9,
+        "Reopened": 4,
+        "Onhold-For Tech Dependency": 2,
+        "Dev Complete": 5,
+        "Issue Accepted": 14,
+        "Open": 1,
+        "In Progress": 13,
+        "Parked": 2,
+        "Closed": 31,
+        "Testing On hold": 6,
+        "Invalid": 2,
+        "Not Reproducible": 1,
+        "OnHold-For Vivre Setup": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -32163,28 +32185,6 @@
         "Reopened": 1,
         "Closed": 41,
         "Ready For Test": 6
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Reopened": 4,
-        "Onhold-For Tech Dependency": 2,
-        "Testing On hold": 9,
-        "Dev Complete": 5,
-        "Issue Accepted": 14,
-        "Open": 1,
-        "In Progress": 13,
-        "Parked": 2,
-        "Closed": 31,
-        "Ready For Test": 6,
-        "Invalid": 2,
-        "Not Reproducible": 1,
-        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -32217,6 +32217,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1410,
+      "tasks": 301,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1728
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
     "Karan Mahboobani": {
       "bugs": 17,
       "tasks": 1,
@@ -32230,13 +32251,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 33
-    },
-    "vzyfeedback": {
-      "bugs": 1410,
-      "tasks": 301,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1728
     },
     "Suyog Lanje": {
       "bugs": 4,
@@ -32252,26 +32266,12 @@
       "stories": 0,
       "total": 13
     },
-    "shadab Hussain": {
-      "bugs": 10,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "avinash waghmare": {
       "bugs": 4,
       "tasks": 7,
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
     },
     "Manikanta P": {
       "bugs": 7,
@@ -32351,11 +32351,11 @@
       "total": 35
     },
     "kamaldeeps": {
-      "bugs": 5,
+      "bugs": 4,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 5
+      "total": 4
     },
     "Amudha Kaliamoorthi": {
       "bugs": 14,
@@ -32478,12 +32478,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 376,
     "High": 503,
+    "Highest": 376,
     "Medium": 863,
     "Low": 47,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T15:09:24Z",
+  "updated_at": "2026-03-12T16:15:32Z",
   "total_issues": 2317
 }

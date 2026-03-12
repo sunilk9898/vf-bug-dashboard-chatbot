@@ -49,9 +49,9 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 4,
+      "OPEN": 2,
       "IN PROGRESS": 0,
-      "REOPENED": 2,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
       "PARKED": 0
@@ -93,7 +93,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 0
     },
     "Unknown": {
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-12T15:09:24Z",
+  "updated_at": "2026-03-12T16:15:32Z",
   "total_issues_fetched": 2317,
   "project": "VF"
 }
