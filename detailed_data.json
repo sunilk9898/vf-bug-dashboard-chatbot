@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2480",
+      "summary": "Fliqs TVOD expired content ",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2556",
+      "summary": "TV: Incorrect content is displayed when clicking the episode \u201cFortune Favors the Brave.\u201d",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2520",
+      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2555",
+      "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2554",
+      "summary": "TV: All episodes in the series \u201cDebt to the Sea\u201d display the same title and description.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2548",
+      "summary": "TV: \u201cMy Worst Neighbour\u201d movie is playable only when accessed through \u201cMore Like This\u201d, while direct access prompts a subscription.",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2553",
+      "summary": "TV: Incorrect episode count displayed for the show \u201cAmar Vishwas\u201d.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Moore Meghana",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2552",
+      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2551",
+      "summary": "Blur Image Issues in TV",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Srinidhi.Raju",
+      "platform": "LG_TV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2398",
       "summary": "Missing Viewer IDs in conviva s3 dump",
       "status": "Ready For Test",
@@ -176,20 +358,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-12-16",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2548",
-      "summary": "TV: \u201cMy Worst Neighbour\u201d movie is playable only when accessed through \u201cMore Like This\u201d, while direct access prompts a subscription.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -813,20 +981,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2520",
-      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2165",
       "summary": "Notifications page UI",
       "status": "Closed",
@@ -1247,20 +1401,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2505",
       "summary": "Language Setup Vivre",
       "status": "Duplicate",
@@ -1492,20 +1632,6 @@
       "assignee": "devaraj",
       "platform": "SAM_TV",
       "created": "2026-03-09",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2480",
-      "summary": "Fliqs TVOD expired content ",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1961,20 +2087,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "Moore Meghana",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2471",
       "summary": "Fliqs purchases",
       "status": "Closed",
@@ -2027,20 +2139,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -5342,20 +5440,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2194",
-      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -24797,6 +24881,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-1924",
+      "summary": "JOJO Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1928",
+      "summary": "Shorts Tv Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2403",
+      "summary": "Play Flix CP integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2416",
       "summary": "Order Summery ",
       "status": "Closed",
@@ -24832,20 +24958,6 @@
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1924",
-      "summary": "JOJO Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-03",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -24944,20 +25056,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-02-04",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2403",
-      "summary": "Play Flix CP integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-27",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -26136,20 +26234,6 @@
       "created": "2026-01-09",
       "updated": "2026-02-20",
       "duedate": "2026-01-30",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1928",
-      "summary": "Shorts Tv Integration",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-02-20",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -31865,20 +31949,20 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 7,
+        "Ready For Test": 8,
+        "In Progress": 16,
         "Issue Accepted": 16,
         "Testing On hold": 6,
         "Closed": 29,
         "Invalid": 2,
-        "In Progress": 16,
         "Not Reproducible": 1,
         "Reopened": 3,
-        "Dev Complete": 4,
         "In Review": 2,
         "Open": 1,
         "Parked": 2,
         "Onhold-For Tech Dependency": 1,
-        "OnHold-For Vivre Setup": 1
+        "OnHold-For Vivre Setup": 1,
+        "Dev Complete": 3
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -31924,12 +32008,54 @@
   },
   "releases": {},
   "assignee_workload": {
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
+    },
     "vzyfeedback": {
-      "bugs": 1402,
+      "bugs": 1403,
       "tasks": 301,
       "subtasks": 12,
       "stories": 0,
-      "total": 1720
+      "total": 1721
+    },
+    "Akash Kushwaha": {
+      "bugs": 21,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
+    },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Moore Meghana": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "shadab Hussain": {
       "bugs": 9,
@@ -31959,13 +32085,6 @@
       "stories": 0,
       "total": 36
     },
-    "Akash Kushwaha": {
-      "bugs": 17,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 19
-    },
     "devaraj": {
       "bugs": 12,
       "tasks": 1,
@@ -31986,20 +32105,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 20
-    },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
-    },
-    "Moore Meghana": {
-      "bugs": 13,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 16
     },
     "Yashika Krishnani": {
       "bugs": 5,
@@ -32022,13 +32127,6 @@
       "stories": 0,
       "total": 22
     },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "Chiranjit Chatterjee": {
       "bugs": 2,
       "tasks": 0,
@@ -32049,13 +32147,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 113
-    },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -32185,12 +32276,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 507,
-    "Medium": 858,
-    "Highest": 368,
-    "Low": 36,
+    "High": 509,
+    "Medium": 860,
+    "Low": 37,
+    "Highest": 369,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T09:02:37Z",
-  "total_issues": 2296
+  "updated_at": "2026-03-12T10:01:38Z",
+  "total_issues": 2302
 }
