@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-1980",
+      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1212",
+      "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2025-12-16",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2382",
+      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Narayanasamy Rajappa",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2483",
+      "summary": "Content unstable   ",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2544",
+      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2555",
+      "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2550",
       "summary": "2:3 Thumbnail images",
       "status": "Issue Accepted",
@@ -561,20 +645,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1212",
-      "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2025-12-16",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2551",
       "summary": "Blur Image Issues in TV",
       "status": "OnHold-For Vivre Setup",
@@ -634,20 +704,6 @@
       "key": "VF-2488",
       "summary": "Content unstable   ",
       "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2483",
-      "summary": "Content unstable   ",
-      "status": "Open",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
@@ -734,20 +790,6 @@
       "status": "Duplicate",
       "priority": "Low",
       "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2544",
-      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "abhilash.ramesh",
       "platform": "ATV",
       "created": "2026-03-12",
       "updated": "2026-03-12",
@@ -925,20 +967,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2555",
-      "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2553",
       "summary": "TV: Incorrect episode count displayed for the show \u201cAmar Vishwas\u201d.",
       "status": "Duplicate",
@@ -1093,20 +1121,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1980",
-      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-02-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2521",
       "summary": "TV: Playback exits when selecting another episode in DBZ series",
       "status": "Testing On hold",
@@ -1156,20 +1170,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2382",
-      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -32217,6 +32217,41 @@
   },
   "releases": {},
   "assignee_workload": {
+    "abhilash.ramesh": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "vzyfeedback": {
+      "bugs": 1410,
+      "tasks": 301,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1728
+    },
+    "Narayanasamy Rajappa": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Shubham Chauhan": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
+    "Akash Kushwaha": {
+      "bugs": 18,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 21
+    },
     "Manikanta P": {
       "bugs": 7,
       "tasks": 14,
@@ -32231,13 +32266,6 @@
       "stories": 0,
       "total": 12
     },
-    "vzyfeedback": {
-      "bugs": 1412,
-      "tasks": 301,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1730
-    },
     "Aditya Shrivastava": {
       "bugs": 0,
       "tasks": 5,
@@ -32246,11 +32274,11 @@
       "total": 5
     },
     "avinash waghmare": {
-      "bugs": 4,
+      "bugs": 3,
       "tasks": 8,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 11
     },
     "BalaKumar": {
       "bugs": 17,
@@ -32308,38 +32336,10 @@
       "stories": 0,
       "total": 17
     },
-    "abhilash.ramesh": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
     "Rajkumar A": {
       "bugs": 4,
       "tasks": 16,
       "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
-    "devaraj": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 12
-    },
-    "Akash Kushwaha": {
-      "bugs": 17,
-      "tasks": 2,
-      "subtasks": 1,
       "stories": 0,
       "total": 20
     },
@@ -32363,6 +32363,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 32
+    },
+    "devaraj": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -32478,12 +32485,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 376,
     "Medium": 863,
-    "Low": 47,
     "High": 503,
+    "Highest": 376,
+    "Low": 47,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T17:13:48Z",
+  "updated_at": "2026-03-12T18:04:40Z",
   "total_issues": 2317
 }
