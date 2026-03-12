@@ -1,6 +1,286 @@
 {
   "bugs": [
     {
+      "key": "VF-2537",
+      "summary": "Browse by OTT rail Cover Title",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1197",
+      "summary": "Something Went Wrong ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-16",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2548",
+      "summary": "TV: \u201cMy Worst Neighbour\u201d movie is playable only when accessed through \u201cMore Like This\u201d, while direct access prompts a subscription.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2547",
+      "summary": "TV: Content remains inaccessible even after applying a valid coupon for Fliqs CP content.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "Clevertap In App Redirection not working ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2545",
+      "summary": "TV: Video does not play for Episode 1 of \u201cYaarmates\u201d from the \u201cTop 10 Series: Weekly Spotlight\u201d section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2544",
+      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2382",
+      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2543",
+      "summary": "TV: Spiritual content is not being recommended in the \u201cMore Like This\u201d section when a spiritual content item is currently being played.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2130",
+      "summary": "Fliqs TVOD / SVOD",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-17",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch we are getting a loading screen first then redirecting on the order summary page",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2409",
+      "summary": " Fliqs journey for guest user",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-03",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2295",
+      "summary": "TV: Menu panel not accessible; users cannot navigate options",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-25",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-934",
+      "summary": "Complete Catalogue not Synced for available CP",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Manikanta P",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-03-12",
+      "duedate": "2025-12-08",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2542",
+      "summary": " Observes a screen glitch during the redirection process",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Vikas Mishra",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2139",
+      "summary": "Fliqs TVOD / SVOD - Order Summary",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-17",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2459",
+      "summary": "Clevertap  PN's are not going through and fetching the APNS error",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-894",
       "summary": "(Sagar)- Getting wrong thumbnail name for CP ",
       "status": "Closed",
@@ -197,20 +477,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2468",
       "summary": "(Tamanna) - Channel Name Display Issue After Subscription.",
       "status": "Closed",
@@ -221,20 +487,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2432",
-      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch on screen first different screen is showing then order summary page",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -561,20 +813,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2537",
-      "summary": "Browse by OTT rail Cover Title",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "LG_TV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2502",
       "summary": "TV: Duplicate movies displayed with different OTT sources and inconsistent subscription",
       "status": "Invalid",
@@ -749,20 +987,6 @@
       "priority": "Medium",
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
       "created": "2026-03-10",
       "updated": "2026-03-12",
       "duedate": "",
@@ -1247,34 +1471,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1197",
-      "summary": "Something Went Wrong ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-16",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "Clevertap In App Redirection not working ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2500",
       "summary": "TV: While entering a new profile name, the application automatically adds duplicate characters, resulting in an incorrect username.",
       "status": "Invalid",
@@ -1667,20 +1863,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2459",
-      "summary": "Clevertap  PN's are not going through and fetching the APNS error",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2084",
       "summary": "View All option not available ",
       "status": "Closed",
@@ -1905,20 +2087,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2139",
-      "summary": "Fliqs TVOD / SVOD - Order Summary",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-17",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2475",
       "summary": "Empty State UI",
       "status": "Dev Complete",
@@ -2003,20 +2171,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2409",
-      "summary": " Fliqs journey for guest user",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-03",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2417",
       "summary": "UI issues in ATV Settings Page ",
       "status": "Closed",
@@ -2041,20 +2195,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-934",
-      "summary": "Complete Catalogue not Synced for available CP",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-03-10",
-      "duedate": "2025-12-08",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2849,20 +2989,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-17",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2130",
-      "summary": "Fliqs TVOD / SVOD",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
       "created": "2026-02-17",
       "updated": "2026-03-03",
       "duedate": "",
@@ -4103,20 +4229,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2295",
-      "summary": "TV: Menu panel not accessible; users cannot navigate options",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-25",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2296",
       "summary": "Web: system displays an error message instead of allowing login.",
       "status": "Closed",
@@ -5302,20 +5414,6 @@
       "created": "2026-01-07",
       "updated": "2026-02-27",
       "duedate": "2026-01-20",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2382",
-      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -24671,6 +24769,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2416",
+      "summary": "Order Summery ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2312",
       "summary": "Web: UI sections can be dragged when user double-clicks and drags on content categories",
       "status": "Closed",
@@ -24958,20 +25070,6 @@
       "assignee": "Javed Ali",
       "platform": "LG_TV",
       "created": "2026-02-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2416",
-      "summary": "Order Summery ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-05",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -31732,21 +31830,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Closed": 175,
-        "Dev Complete": 2,
-        "Ready For Test": 16,
-        "Reopened": 1,
-        "Testing On hold": 1,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -31754,12 +31837,12 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Closed": 26,
-        "Testing On hold": 5,
+        "Closed": 29,
         "Issue Accepted": 17,
+        "Testing On hold": 5,
         "Invalid": 2,
         "In Progress": 16,
-        "Ready For Test": 10,
+        "Ready For Test": 7,
         "Not Reproducible": 1,
         "Reopened": 3,
         "Dev Complete": 4,
@@ -31768,6 +31851,21 @@
         "Parked": 2,
         "Onhold-For Tech Dependency": 1,
         "OnHold-For Vivre Setup": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Closed": 179,
+        "Reopened": 2,
+        "Dev Complete": 2,
+        "Ready For Test": 11,
+        "Testing On hold": 1,
+        "Invalid": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -31798,6 +31896,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "devaraj": {
+      "bugs": 12,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
+    },
     "vzyfeedback": {
       "bugs": 1400,
       "tasks": 301,
@@ -31806,11 +31911,25 @@
       "total": 1718
     },
     "Akash Kushwaha": {
-      "bugs": 13,
+      "bugs": 18,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 15
+      "total": 20
+    },
+    "Dinjit Dinesh": {
+      "bugs": 16,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
+    },
+    "kamaldeeps": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
     },
     "Moore Meghana": {
       "bugs": 14,
@@ -31819,6 +31938,20 @@
       "stories": 0,
       "total": 17
     },
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 13,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 20
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
+    },
     "Yashika Krishnani": {
       "bugs": 5,
       "tasks": 3,
@@ -31826,26 +31959,12 @@
       "stories": 0,
       "total": 8
     },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
     "Karan Mahboobani": {
       "bugs": 15,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
       "total": 18
-    },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
     },
     "Shubham Chauhan": {
       "bugs": 17,
@@ -31875,20 +31994,6 @@
       "stories": 0,
       "total": 17
     },
-    "devaraj": {
-      "bugs": 11,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 13
-    },
-    "shadab Hussain": {
-      "bugs": 10,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "Unassigned": {
       "bugs": 72,
       "tasks": 34,
@@ -31902,6 +32007,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
+    },
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -31938,13 +32050,6 @@
       "stories": 0,
       "total": 33
     },
-    "kamaldeeps": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
     "Aniruddh Patil": {
       "bugs": 0,
       "tasks": 6,
@@ -31952,26 +32057,12 @@
       "stories": 0,
       "total": 6
     },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 13,
       "tasks": 15,
       "subtasks": 0,
       "stories": 0,
       "total": 32
-    },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 13,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 20
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -32066,12 +32157,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 856,
-    "High": 503,
+    "Medium": 857,
     "Highest": 367,
-    "Low": 34,
+    "High": 507,
+    "Low": 36,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T06:06:42Z",
-  "total_issues": 2287
+  "updated_at": "2026-03-12T07:14:09Z",
+  "total_issues": 2294
 }
