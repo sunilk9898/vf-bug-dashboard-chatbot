@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2547",
+      "summary": "TV: Content remains inaccessible even after applying a valid coupon for Fliqs CP content.",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2569",
+      "summary": "Web: Exit button missing in Live Videos page.",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2562",
+      "summary": "Incorrect Content Metadata Displayed in Horror Genre",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2559",
       "summary": "Web: Unable to edit profile after creating it \u2013 Edit button redirects back automatically.",
       "status": "Issue Accepted",
@@ -85,20 +127,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2569",
-      "summary": "Web: Exit button missing in Live Videos page.",
-      "status": "Invalid",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2571",
       "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
       "status": "Open",
@@ -151,20 +179,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2547",
-      "summary": "TV: Content remains inaccessible even after applying a valid coupon for Fliqs CP content.",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -442,20 +456,6 @@
       "assignee": "Moore Meghana",
       "platform": "WEB",
       "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2562",
-      "summary": "Incorrect Content Metadata Displayed in Horror Genre",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -25077,6 +25077,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
+      "created": "2025-11-18",
+      "updated": "2026-03-12",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1971",
+      "summary": "Parameter need to pass from VZY to plan & offer",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1841",
       "summary": "Playback double tap must present in full screen",
       "status": "Dev Complete",
@@ -25101,34 +25129,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ATV",
-      "created": "2025-11-18",
-      "updated": "2026-03-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1971",
-      "summary": "Parameter need to pass from VZY to plan & offer",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -32152,6 +32152,19 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Dev Complete": 1,
+        "Reopened": 1,
+        "Closed": 41,
+        "Ready For Test": 6
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -32159,11 +32172,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Reopened": 4,
         "Onhold-For Tech Dependency": 2,
         "Testing On hold": 9,
         "Dev Complete": 5,
         "Issue Accepted": 14,
-        "Reopened": 4,
         "Open": 1,
         "In Progress": 13,
         "Parked": 2,
@@ -32172,19 +32185,6 @@
         "Invalid": 2,
         "Not Reproducible": 1,
         "OnHold-For Vivre Setup": 1
-      }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "In Progress": 1,
-        "Reopened": 1,
-        "Closed": 41,
-        "Ready For Test": 6
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -32217,19 +32217,40 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Karan Mahboobani": {
+      "bugs": 17,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 20
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
+    },
+    "vzyfeedback": {
+      "bugs": 1410,
+      "tasks": 301,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1728
+    },
+    "Suyog Lanje": {
+      "bugs": 4,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
     "Ajay Kushwaha": {
       "bugs": 11,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "vzyfeedback": {
-      "bugs": 1409,
-      "tasks": 301,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1727
     },
     "shadab Hussain": {
       "bugs": 10,
@@ -32260,32 +32281,11 @@
       "total": 21
     },
     "Akash Kushwaha": {
-      "bugs": 22,
+      "bugs": 21,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 25
-    },
-    "Suyog Lanje": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 33
-    },
-    "Karan Mahboobani": {
-      "bugs": 17,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 20
+      "total": 24
     },
     "Amit Kumar Tiwari": {
       "bugs": 10,
@@ -32478,12 +32478,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 863,
-    "High": 503,
-    "Low": 47,
     "Highest": 376,
+    "High": 503,
+    "Medium": 863,
+    "Low": 47,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T13:37:14Z",
+  "updated_at": "2026-03-12T15:09:24Z",
   "total_issues": 2317
 }
