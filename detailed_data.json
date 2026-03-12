@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-27",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2541",
+      "summary": "TV: Expired and previously used OTPs are still accepted for login even after the OTP validity period and across new sessions.",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "DishIT",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2497",
+      "summary": "TV: Resume playback not Functioning as expected",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2432",
       "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch we are getting a loading screen first then redirecting on the order summary page",
       "status": "Reopened",
@@ -95,20 +151,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-27",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -455,20 +497,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2541",
-      "summary": "TV: Expired and previously used OTPs are still accepted for login even after the OTP validity period and across new sessions.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
       "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
@@ -1093,20 +1121,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2497",
-      "summary": "TV: Resume playback not Functioning as expected",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2504",
       "summary": "TV: While opening any category, the application does not display the respective videos and automatically navigates back to the Home page.",
       "status": "Issue Accepted",
@@ -1635,20 +1649,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -31858,6 +31858,29 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Ready For Test": 7,
+        "Issue Accepted": 16,
+        "Testing On hold": 6,
+        "Closed": 29,
+        "Invalid": 2,
+        "In Progress": 16,
+        "Not Reproducible": 1,
+        "Reopened": 3,
+        "Dev Complete": 4,
+        "In Review": 2,
+        "Open": 1,
+        "Parked": 2,
+        "Onhold-For Tech Dependency": 1,
+        "OnHold-For Vivre Setup": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -31871,29 +31894,6 @@
         "Ready For Test": 9,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Testing On hold": 6,
-        "Reopened": 4,
-        "Closed": 29,
-        "Issue Accepted": 16,
-        "Invalid": 2,
-        "In Progress": 16,
-        "Ready For Test": 6,
-        "Not Reproducible": 1,
-        "Dev Complete": 4,
-        "In Review": 2,
-        "Open": 1,
-        "Parked": 2,
-        "Onhold-For Tech Dependency": 1,
-        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -31924,19 +31924,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1402,
+      "tasks": 301,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1720
+    },
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
     "BalaKumar": {
       "bugs": 12,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
       "total": 18
-    },
-    "vzyfeedback": {
-      "bugs": 1401,
-      "tasks": 301,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1719
     },
     "Dinjit Dinesh": {
       "bugs": 18,
@@ -31946,11 +31960,11 @@
       "total": 36
     },
     "Akash Kushwaha": {
-      "bugs": 18,
+      "bugs": 17,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 20
+      "total": 19
     },
     "devaraj": {
       "bugs": 12,
@@ -31995,11 +32009,11 @@
       "total": 8
     },
     "Karan Mahboobani": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 18
+      "total": 17
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -32043,13 +32057,6 @@
       "stories": 0,
       "total": 7
     },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
     "Alok Gupta": {
       "bugs": 13,
       "tasks": 5,
@@ -32084,13 +32091,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 13,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 32
     },
     "abhilash.ramesh": {
       "bugs": 9,
@@ -32191,6 +32191,6 @@
     "Low": 36,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T07:58:07Z",
+  "updated_at": "2026-03-12T09:02:37Z",
   "total_issues": 2296
 }
