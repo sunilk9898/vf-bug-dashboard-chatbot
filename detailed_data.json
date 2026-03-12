@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch we are getting a loading screen first then redirecting on the order summary page",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2180",
+      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1980",
+      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2521",
+      "summary": "TV: Playback exits when selecting another episode in DBZ series",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2550",
+      "summary": "2:3 Thumbnail images",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Kaltura",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel banner description text",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "LG_TV",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2549",
+      "summary": "Clevertap deeplink issue ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-27",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2537",
       "summary": "Browse by OTT rail Cover Title",
       "status": "Dev Complete",
@@ -165,20 +277,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2432",
-      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch we are getting a loading screen first then redirecting on the order summary page",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1051,20 +1149,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2521",
-      "summary": "TV: Playback exits when selecting another episode in DBZ series",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2524",
       "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
       "status": "Issue Accepted",
@@ -1919,20 +2003,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2489",
-      "summary": "Carousel banner description text",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "LG_TV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2488",
       "summary": "Content unstable   ",
       "status": "Not Reproducible",
@@ -2041,20 +2111,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-27",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2195,34 +2251,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1980",
-      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-02-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2180",
-      "summary": "Sony TV: Blank screen displayed when clicking on the first tile (K-Dramas) from Homepage",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -31830,29 +31858,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Closed": 29,
-        "Issue Accepted": 17,
-        "Testing On hold": 5,
-        "Invalid": 2,
-        "In Progress": 16,
-        "Ready For Test": 7,
-        "Not Reproducible": 1,
-        "Reopened": 3,
-        "Dev Complete": 4,
-        "In Review": 2,
-        "Open": 1,
-        "Parked": 2,
-        "Onhold-For Tech Dependency": 1,
-        "OnHold-For Vivre Setup": 1
-      }
-    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -31860,12 +31865,35 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Closed": 179,
-        "Reopened": 2,
+        "Closed": 180,
+        "Reopened": 3,
         "Dev Complete": 2,
-        "Ready For Test": 11,
+        "Ready For Test": 9,
         "Testing On hold": 1,
         "Invalid": 1
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Testing On hold": 6,
+        "Reopened": 4,
+        "Closed": 29,
+        "Issue Accepted": 16,
+        "Invalid": 2,
+        "In Progress": 16,
+        "Ready For Test": 6,
+        "Not Reproducible": 1,
+        "Dev Complete": 4,
+        "In Review": 2,
+        "Open": 1,
+        "Parked": 2,
+        "Onhold-For Tech Dependency": 1,
+        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -31896,19 +31924,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "devaraj": {
+    "BalaKumar": {
       "bugs": 12,
-      "tasks": 1,
-      "subtasks": 1,
+      "tasks": 6,
+      "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 18
     },
     "vzyfeedback": {
-      "bugs": 1400,
+      "bugs": 1401,
       "tasks": 301,
       "subtasks": 12,
       "stories": 0,
-      "total": 1718
+      "total": 1719
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
     },
     "Akash Kushwaha": {
       "bugs": 18,
@@ -31917,12 +31952,12 @@
       "stories": 0,
       "total": 20
     },
-    "Dinjit Dinesh": {
-      "bugs": 16,
-      "tasks": 17,
-      "subtasks": 0,
+    "devaraj": {
+      "bugs": 12,
+      "tasks": 1,
+      "subtasks": 1,
       "stories": 0,
-      "total": 34
+      "total": 14
     },
     "kamaldeeps": {
       "bugs": 3,
@@ -31930,13 +31965,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Moore Meghana": {
-      "bugs": 14,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 17
     },
     "Manikanta P": {
       "bugs": 6,
@@ -31951,6 +31979,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 41
+    },
+    "Moore Meghana": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
     },
     "Yashika Krishnani": {
       "bugs": 5,
@@ -31967,11 +32002,11 @@
       "total": 18
     },
     "Shubham Chauhan": {
-      "bugs": 17,
+      "bugs": 16,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 23
+      "total": 22
     },
     "avinash waghmare": {
       "bugs": 3,
@@ -32021,13 +32056,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 18
-    },
-    "BalaKumar": {
-      "bugs": 11,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 17
     },
     "Suyog Lanje": {
       "bugs": 2,
@@ -32157,12 +32185,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 857,
-    "Highest": 367,
     "High": 507,
+    "Medium": 858,
+    "Highest": 368,
     "Low": 36,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T07:14:09Z",
-  "total_issues": 2294
+  "updated_at": "2026-03-12T07:58:07Z",
+  "total_issues": 2296
 }
