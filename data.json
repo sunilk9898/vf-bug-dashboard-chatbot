@@ -9,11 +9,11 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 7,
-      "IN PROGRESS": 0,
-      "REOPENED": 2,
+      "OPEN": 5,
+      "IN PROGRESS": 1,
+      "REOPENED": 3,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 11,
+      "ISSUE ACCEPTED": 9,
       "PARKED": 0
     },
     "CMS": {
@@ -29,7 +29,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -65,11 +65,11 @@
       "PARKED": 0
     },
     "LG_TV": {
-      "OPEN": 1,
-      "IN PROGRESS": 2,
+      "OPEN": 0,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "Mobile": {
@@ -89,23 +89,23 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 6,
+      "OPEN": 3,
       "IN PROGRESS": 0,
-      "REOPENED": 0,
-      "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
-      "PARKED": 0
-    },
-    "Unknown": {
-      "OPEN": 0,
-      "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
       "PARKED": 0
+    },
+    "Unknown": {
+      "OPEN": 0,
+      "IN PROGRESS": 0,
+      "REOPENED": 1,
+      "IN REVIEW": 0,
+      "ISSUE ACCEPTED": 1,
+      "PARKED": 0
     }
   },
-  "updated_at": "2026-03-12T11:44:21Z",
-  "total_issues_fetched": 2311,
+  "updated_at": "2026-03-12T13:37:14Z",
+  "total_issues_fetched": 2317,
   "project": "VF"
 }
