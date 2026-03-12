@@ -1,6 +1,202 @@
 {
   "bugs": [
     {
+      "key": "VF-2411",
+      "summary": "Wrong 2:3 Jiohotstar thumbnails",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-03",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2165",
+      "summary": "Notifications page UI",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-20",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2523",
+      "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2426",
+      "summary": "16:9 Carousel banner issue",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2427",
+      "summary": "My watchlist and continue watching rail",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2537",
+      "summary": "Browse by OTT rail Cover Title",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "LG_TV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2502",
+      "summary": "TV: Duplicate movies displayed with different OTT sources and inconsistent subscription",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2526",
+      "summary": "Spacing at top in Carousel banner",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1601",
+      "summary": "Font Family Changed || Web",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-01-08",
+      "updated": "2026-03-12",
+      "duedate": "2026-01-16",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2059",
+      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2422",
+      "summary": "Login Redirection Issue",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2495",
+      "summary": "Wrong Cover image in carousel",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "Kaltura",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2531",
       "summary": "TV: \"Magic Moments\" show not playing",
       "status": "In Progress",
@@ -99,20 +295,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2502",
-      "summary": "TV: Duplicate movies displayed with different OTT sources and inconsistent subscription",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2504",
       "summary": "TV: While opening any category, the application does not display the respective videos and automatically navigates back to the Home page.",
       "status": "Issue Accepted",
@@ -160,20 +342,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2523",
-      "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-03-11",
       "updated": "2026-03-12",
@@ -305,20 +473,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1601",
-      "summary": "Font Family Changed || Web",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-01-08",
-      "updated": "2026-03-12",
-      "duedate": "2026-01-16",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -631,20 +785,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2426",
-      "summary": "16:9 Carousel banner issue",
-      "status": "Duplicate",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2462",
       "summary": "SunNXT content shows \u201cInstall App\u201d pop-up instead of playing inside the VZY app",
       "status": "Invalid",
@@ -743,20 +883,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2411",
-      "summary": "Wrong 2:3 Jiohotstar thumbnails",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-03",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2510",
       "summary": "TV: Incorrect label displayed as \u201cAll Channel\u201d instead of \u201cAll Channels\u201d in the Channel Guide section.",
       "status": "Invalid",
@@ -785,34 +911,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2419",
       "summary": "Clevertap In App Redirection not working ",
       "status": "Ready For Test",
@@ -820,34 +918,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2422",
-      "summary": "Login Redirection Issue",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2526",
-      "summary": "Spacing at top in Carousel banner",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -907,20 +977,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2059",
-      "summary": "Inconsistent TOP NAV in \"My vibes\" section",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-09",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1268,20 +1324,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2495",
-      "summary": "Wrong Cover image in carousel",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Chiranjit Chatterjee",
-      "platform": "Kaltura",
-      "created": "2026-03-10",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2283,20 +2325,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2165",
-      "summary": "Notifications page UI",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-20",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2424",
       "summary": "Live Channel | Sony LIV Logos",
       "status": "OnHold-For Vivre Setup",
@@ -2317,20 +2345,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "Unknown",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2427",
-      "summary": "My watchlist and continue watching rail",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
       "created": "2026-03-06",
       "updated": "2026-03-07",
       "duedate": "",
@@ -24615,6 +24629,20 @@
       "fixversion": ""
     },
     {
+      "key": "VF-1924",
+      "summary": "JOJO Integration",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2479",
       "summary": "Term and Conditions",
       "status": "Ready For Test",
@@ -25210,20 +25238,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-01-21",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1924",
-      "summary": "JOJO Integration",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-03",
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "No Sprint",
@@ -31669,20 +31683,20 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Closed": 17,
+        "Issue Accepted": 17,
+        "Invalid": 2,
         "In Progress": 16,
-        "Issue Accepted": 18,
-        "Ready For Test": 24,
+        "Ready For Test": 22,
         "Testing On hold": 2,
         "Not Reproducible": 1,
-        "Closed": 15,
         "Reopened": 3,
         "Dev Complete": 4,
         "In Review": 2,
         "Open": 1,
         "Parked": 2,
         "Onhold-For Tech Dependency": 1,
-        "OnHold-For Vivre Setup": 1,
-        "Invalid": 1
+        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -31692,12 +31706,13 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "In Progress": 1,
-        "Ready For Test": 21,
-        "Dev Complete": 1,
-        "Closed": 170,
-        "Testing On hold": 1,
         "Onhold-For Tech Dependency": 1,
+        "Closed": 171,
+        "Reopened": 1,
+        "In Progress": 1,
+        "Ready For Test": 19,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
         "Invalid": 1
       }
     },
@@ -31729,6 +31744,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1392,
+      "tasks": 301,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1710
+    },
+    "Karan Mahboobani": {
+      "bugs": 17,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 20
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
     "Shubham Chauhan": {
       "bugs": 19,
       "tasks": 6,
@@ -31737,11 +31773,18 @@
       "total": 25
     },
     "avinash waghmare": {
-      "bugs": 5,
+      "bugs": 4,
       "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 11
+    },
+    "Chiranjit Chatterjee": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
     },
     "Amit Kumar Tiwari": {
       "bugs": 12,
@@ -31763,20 +31806,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Karan Mahboobani": {
-      "bugs": 17,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 20
-    },
-    "vzyfeedback": {
-      "bugs": 1391,
-      "tasks": 301,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1709
     },
     "Akash Kushwaha": {
       "bugs": 12,
@@ -31833,13 +31862,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Chiranjit Chatterjee": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
     },
     "Javed Ali": {
       "bugs": 27,
@@ -31990,12 +32012,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 856,
     "High": 499,
-    "Medium": 855,
     "Highest": 367,
     "Low": 34,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T03:12:21Z",
-  "total_issues": 2282
+  "updated_at": "2026-03-12T04:58:18Z",
+  "total_issues": 2283
 }
