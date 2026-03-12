@@ -1,6 +1,314 @@
 {
   "bugs": [
     {
+      "key": "VF-2565",
+      "summary": "Web (Device specific): Watch Now button not clickable for Extended Highlight Final: IND vs NZ in Sports section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2545",
+      "summary": "TV: Video does not play for Episode 1 of \u201cYaarmates\u201d from the \u201cTop 10 Series: Weekly Spotlight\u201d section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2525",
+      "summary": "TV: Exit confirmation UI (Yes/Cancel buttons) appears inconsistently on the Home page/movie section, causing a UI glitch.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2484",
+      "summary": "App gets stuck middle of performing ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2488",
+      "summary": "Content unstable   ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2562",
+      "summary": "Incorrect Content Metadata Displayed in Horror Genre",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2564",
+      "summary": "Web: Watch Now button for The Conjuring: Last Rites not redirecting to Hotstar in Movies section",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2538",
+      "summary": "Trailer icon on JHS asset",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2539",
+      "summary": "CTA is not response ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2549",
+      "summary": "Clevertap deeplink issue ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2542",
+      "summary": " Observes a screen glitch during the redirection process",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2563",
+      "summary": "Web: Text misalignment beside QR code in UPI section under My Payments.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2486",
+      "summary": "App performance ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2209",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2560",
+      "summary": "Web: Continue to Pay button not functional on payment page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2449",
+      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2448",
+      "summary": "(Shivani)  LG \u2013 Fliqs, when clicking the Subscribe button on any banner, it shows 0 days.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2559",
+      "summary": "Web: Unable to edit profile after creating it \u2013 Edit button redirects back automatically.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2558",
       "summary": "Web (browser specific) : Watch button not clickable for TV9 Bharatvarsh in Live TV section.",
       "status": "Open",
@@ -29,20 +337,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2277",
       "summary": "Content player and playback",
       "status": "Closed",
@@ -57,20 +351,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2549",
-      "summary": "Clevertap deeplink issue ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2507",
       "summary": "Blur UI in Sansui TV",
       "status": "Open",
@@ -81,34 +361,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2449",
-      "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2448",
-      "summary": "(Shivani)  LG \u2013 Fliqs, when clicking the Subscribe button on any banner, it shows 0 days.",
-      "status": "In Review",
-      "priority": "Low",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -197,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2539",
-      "summary": "CTA is not response ",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2555",
       "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
       "status": "Open",
@@ -225,20 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2488",
-      "summary": "Content unstable   ",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2553",
       "summary": "TV: Incorrect episode count displayed for the show \u201cAmar Vishwas\u201d.",
       "status": "Duplicate",
@@ -246,34 +470,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2486",
-      "summary": "App performance ",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2484",
-      "summary": "App gets stuck middle of performing ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -344,20 +540,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -603,20 +785,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2545",
-      "summary": "TV: Video does not play for Episode 1 of \u201cYaarmates\u201d from the \u201cTop 10 Series: Weekly Spotlight\u201d section.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2544",
       "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
       "status": "Open",
@@ -729,20 +897,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2542",
-      "summary": " Observes a screen glitch during the redirection process",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Vikas Mishra",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2139",
       "summary": "Fliqs TVOD / SVOD - Order Summary",
       "status": "Closed",
@@ -767,20 +921,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -879,20 +1019,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2538",
-      "summary": "Trailer icon on JHS asset",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1317,20 +1443,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2276",
       "summary": "CD page top nav",
       "status": "Closed",
@@ -1489,20 +1601,6 @@
       "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
       "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2525",
-      "summary": "TV: Exit confirmation UI (Yes/Cancel buttons) appears inconsistently on the Home page/movie section, causing a UI glitch.",
-      "status": "Issue Accepted",
-      "priority": "Low",
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-03-11",
@@ -1929,20 +2027,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2209",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -24909,6 +24993,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2479",
+      "summary": "Term and Conditions",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2561",
+      "summary": "Migration activity ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2340",
       "summary": "UXCam Screen Tagging",
       "status": "In Progress",
@@ -25017,20 +25129,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2479",
-      "summary": "Term and Conditions",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -31977,20 +32075,34 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Closed": 31,
+        "Reopened": 4,
+        "Testing On hold": 8,
         "Onhold-For Tech Dependency": 2,
-        "Closed": 30,
-        "In Review": 2,
-        "Issue Accepted": 16,
-        "Ready For Test": 7,
+        "Issue Accepted": 15,
+        "Ready For Test": 6,
         "In Progress": 15,
-        "Testing On hold": 6,
         "Invalid": 2,
         "Not Reproducible": 1,
-        "Reopened": 3,
         "Open": 1,
         "Parked": 2,
         "OnHold-For Vivre Setup": 1,
         "Dev Complete": 3
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Reopened": 3,
+        "Testing On hold": 2,
+        "Closed": 180,
+        "Dev Complete": 1,
+        "Ready For Test": 9,
+        "Invalid": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -32003,21 +32115,6 @@
         "In Progress": 1,
         "Onhold-For Tech Dependency": 1,
         "Open": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Closed": 180,
-        "Reopened": 3,
-        "Dev Complete": 2,
-        "Ready For Test": 9,
-        "Testing On hold": 1,
-        "Invalid": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -32036,26 +32133,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
-    },
     "Akash Kushwaha": {
-      "bugs": 19,
+      "bugs": 23,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 21
-    },
-    "Dinjit Dinesh": {
-      "bugs": 18,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
+      "total": 25
     },
     "Karan Mahboobani": {
       "bugs": 16,
@@ -32064,6 +32147,62 @@
       "stories": 0,
       "total": 19
     },
+    "Shubham Chauhan": {
+      "bugs": 18,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 24
+    },
+    "vzyfeedback": {
+      "bugs": 1403,
+      "tasks": 301,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1721
+    },
+    "Suyog Lanje": {
+      "bugs": 4,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "kamaldeeps": {
+      "bugs": 5,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Dinjit Dinesh": {
+      "bugs": 16,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 14,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
     "Javed Ali": {
       "bugs": 27,
       "tasks": 4,
@@ -32071,40 +32210,19 @@
       "stories": 0,
       "total": 33
     },
-    "Shubham Chauhan": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
     "devaraj": {
-      "bugs": 12,
+      "bugs": 10,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 14
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "vzyfeedback": {
-      "bugs": 1404,
-      "tasks": 301,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1722
+      "total": 12
     },
     "Vikas Mishra": {
-      "bugs": 39,
+      "bugs": 38,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 42
+      "total": 41
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -32121,18 +32239,18 @@
       "total": 18
     },
     "Aditya Shrivastava": {
-      "bugs": 2,
+      "bugs": 1,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 7
+      "total": 6
     },
     "Moore Meghana": {
-      "bugs": 13,
+      "bugs": 12,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 16
+      "total": 15
     },
     "Srinidhi.Raju": {
       "bugs": 1,
@@ -32148,26 +32266,12 @@
       "stories": 0,
       "total": 18
     },
-    "kamaldeeps": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
     "Manikanta P": {
       "bugs": 6,
       "tasks": 13,
       "subtasks": 0,
       "stories": 1,
       "total": 20
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -32189,13 +32293,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 113
-    },
-    "Suyog Lanje": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Rajkumar A": {
       "bugs": 4,
@@ -32304,12 +32401,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 509,
-    "Highest": 370,
-    "Medium": 859,
-    "Low": 39,
+    "High": 511,
+    "Low": 40,
+    "Highest": 374,
+    "Medium": 858,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T11:00:55Z",
-  "total_issues": 2304
+  "updated_at": "2026-03-12T11:44:21Z",
+  "total_issues": 2311
 }
