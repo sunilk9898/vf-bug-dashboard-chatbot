@@ -1,6 +1,258 @@
 {
   "bugs": [
     {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2621",
+      "summary": "Mobile: \u201cLAALO - KRISHNA SAADA SAHAYATE\u201d movie not playing though video player opens.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2657",
+      "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2656",
+      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2655",
+      "summary": "Mobile: Episode 1 of \u201cDebt to the Sea\u201d Not Playable in Fliqs Premium Series",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2633",
+      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2631",
+      "summary": "Web: Unauthorized account access via shared profile link without authentication",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2654",
+      "summary": "(Tamanna) - Issue: Banners Appearing Blurred in CP \u2013 Shemaroo.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2653",
+      "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2652",
+      "summary": "Mobile: Some menu options are missing on the My vibes page after login but appear after logging out and signing in again.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2651",
+      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2650",
+      "summary": "Mobile: Irrelevant apps (Paytm, Google Maps) displayed in Share options while sharing a series from Fliqs category",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2542",
+      "summary": " Observes a screen glitch during the redirection process",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2555",
+      "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2478",
+      "summary": "Episode Listing Navigation",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2649",
+      "summary": "Mobile: Video language shows English but the video plays in Hindi audio.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2483",
+      "summary": "Content unstable   ",
+      "status": "Duplicate",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2523",
       "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
       "status": "Dev Complete",
@@ -309,20 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2633",
-      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2549",
       "summary": "Clevertap deeplink issue ",
       "status": "Issue Accepted",
@@ -343,20 +581,6 @@
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2631",
-      "summary": "Web: Unauthorized account access via shared profile link without authentication",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -549,20 +773,6 @@
     {
       "key": "VF-2622",
       "summary": "Mobile : Watch Now button not working for some videos on the Home page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2621",
-      "summary": "Mobile: \u201cLAALO - KRISHNA SAADA SAHAYATE\u201d movie not playing though video player opens.",
       "status": "Open",
       "priority": "High",
       "assignee": "Akash Kushwaha",
@@ -785,20 +995,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-23",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2616",
       "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
       "status": "Open",
@@ -876,34 +1072,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2542",
-      "summary": " Observes a screen glitch during the redirection process",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-12",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1429,40 +1597,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2483",
-      "summary": "Content unstable   ",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2544",
       "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
       "status": "Issue Accepted",
       "priority": "Low",
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2555",
-      "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
       "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
@@ -2943,20 +3083,6 @@
     {
       "key": "VF-2474",
       "summary": "Carousel Load time",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2478",
-      "summary": "Episode Listing Navigation",
       "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "Amit Kumar Tiwari",
@@ -33216,28 +33342,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Dev Complete": 6,
-        "Issue Accepted": 11,
-        "Onhold-For Tech Dependency": 3,
-        "Testing On hold": 6,
-        "In Review": 2,
-        "Ready For Test": 13,
-        "In Progress": 12,
-        "Reopened": 2,
-        "Closed": 31,
-        "Invalid": 2,
-        "Not Reproducible": 1,
-        "Parked": 1,
-        "OnHold-For Vivre Setup": 1
-      }
-    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -33245,12 +33349,34 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Reopened": 3,
+        "Dev Complete": 2,
+        "Reopened": 2,
         "Ready For Test": 10,
         "Closed": 180,
-        "Dev Complete": 1,
         "Testing On hold": 1,
         "Invalid": 1
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "In Progress": 13,
+        "Dev Complete": 6,
+        "Issue Accepted": 10,
+        "Onhold-For Tech Dependency": 3,
+        "Testing On hold": 6,
+        "In Review": 2,
+        "Ready For Test": 13,
+        "Reopened": 2,
+        "Closed": 31,
+        "Invalid": 2,
+        "Not Reproducible": 1,
+        "Parked": 1,
+        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -33281,12 +33407,47 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 34
+    },
+    "Akash Kushwaha": {
+      "bugs": 91,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 94
+    },
     "vzyfeedback": {
-      "bugs": 1425,
+      "bugs": 1426,
       "tasks": 301,
       "subtasks": 12,
       "stories": 0,
-      "total": 1743
+      "total": 1744
+    },
+    "Ajay Kushwaha": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 10,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 17
+    },
+    "Shubham Chauhan": {
+      "bugs": 15,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
     },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
@@ -33294,13 +33455,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "Akash Kushwaha": {
-      "bugs": 83,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 86
     },
     "Suyog Lanje": {
       "bugs": 4,
@@ -33323,13 +33477,6 @@
       "stories": 0,
       "total": 13
     },
-    "Ajay Kushwaha": {
-      "bugs": 14,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
-    },
     "BalaKumar": {
       "bugs": 15,
       "tasks": 6,
@@ -33344,26 +33491,12 @@
       "stories": 0,
       "total": 4
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 10,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 17
-    },
     "Manikanta P": {
       "bugs": 7,
       "tasks": 14,
       "subtasks": 0,
       "stories": 1,
       "total": 22
-    },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 33
     },
     "Yashika Krishnani": {
       "bugs": 5,
@@ -33382,13 +33515,6 @@
     "Rajkumar A": {
       "bugs": 5,
       "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 6,
       "subtasks": 0,
       "stories": 0,
       "total": 21
@@ -33542,12 +33668,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 57,
-    "High": 547,
     "Highest": 376,
-    "Medium": 885,
+    "High": 550,
+    "Medium": 890,
+    "Low": 58,
     "Lowest": 2
   },
-  "updated_at": "2026-03-13T08:59:18Z",
-  "total_issues": 2393
+  "updated_at": "2026-03-13T09:56:56Z",
+  "total_issues": 2402
 }
