@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2542",
+      "summary": " Observes a screen glitch during the redirection process",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-02-27",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2382",
+      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2491",
       "summary": "16:9 iOS carousel banners",
       "status": "Ready For Test",
@@ -596,20 +638,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2542",
-      "summary": " Observes a screen glitch during the redirection process",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-12",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1639,20 +1667,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-02-27",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2592",
       "summary": "Mobile(Device specific) : Unable to add content to Watchlist \u2013 Error message \u201cFailed to add to my watchlist\u201d",
       "status": "Open",
@@ -1775,20 +1789,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2382",
-      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Rajkumar A",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33377,15 +33377,15 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "In Progress": 12,
         "Ready For Test": 15,
         "Testing On hold": 9,
         "Closed": 32,
-        "Dev Complete": 4,
+        "Dev Complete": 3,
         "Issue Accepted": 8,
         "Onhold-For Tech Dependency": 3,
         "In Review": 2,
         "Reopened": 2,
-        "In Progress": 11,
         "Invalid": 2,
         "Not Reproducible": 1,
         "Parked": 1,
@@ -33436,11 +33436,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1442,
+      "bugs": 1444,
       "tasks": 302,
       "subtasks": 12,
       "stories": 0,
-      "total": 1761
+      "total": 1763
     },
     "shadab Hussain": {
       "bugs": 12,
@@ -33464,11 +33464,11 @@
       "total": 3
     },
     "Rajkumar A": {
-      "bugs": 5,
+      "bugs": 4,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 21
+      "total": 20
     },
     "Akash Kushwaha": {
       "bugs": 84,
@@ -33499,11 +33499,11 @@
       "total": 14
     },
     "Ajay Kushwaha": {
-      "bugs": 14,
+      "bugs": 13,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 15
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -33696,12 +33696,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 550,
     "Highest": 376,
     "Medium": 892,
     "Low": 58,
-    "High": 550,
     "Lowest": 2
   },
-  "updated_at": "2026-03-13T17:52:49Z",
+  "updated_at": "2026-03-13T19:01:41Z",
   "total_issues": 2404
 }
