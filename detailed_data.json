@@ -1,12 +1,96 @@
 {
   "bugs": [
     {
+      "key": "VF-2612",
+      "summary": "Mobile: Blank screen displayed when selecting Star Sports 1 HD from Popular on VZY in New & Now section.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2614",
+      "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2617",
+      "summary": "Mobile: CNN News18 channel not playable from Top English News in Live TV.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2650",
+      "summary": "Mobile: Irrelevant apps (Paytm, Google Maps) displayed in Share options while sharing a series from Fliqs category",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2657",
       "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
       "status": "Open",
       "priority": "Medium",
-      "assignee": "Akash Kushwaha",
+      "assignee": "vzyfeedback",
       "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2544",
+      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2659",
+      "summary": "(Tamanna) - 'Nature of Content' Label Not Visible on VZY.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -285,20 +369,6 @@
       "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
       "status": "Open",
       "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2650",
-      "summary": "Mobile: Irrelevant apps (Paytm, Google Maps) displayed in Share options while sharing a series from Fliqs category",
-      "status": "Open",
-      "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
@@ -1037,20 +1107,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2617",
-      "summary": "Mobile: CNN News18 channel not playable from Top English News in Live TV.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2616",
       "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
       "status": "Open",
@@ -1093,36 +1149,8 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2614",
-      "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2613",
       "summary": "Mobile : Downloaded video \u201cMadhav \u2013 Every Child Needs\u201d not playing in offline mode.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2612",
-      "summary": "Mobile: Blank screen displayed when selecting Star Sports 1 HD from Popular on VZY in New & Now section.",
       "status": "Open",
       "priority": "High",
       "assignee": "Akash Kushwaha",
@@ -1632,20 +1660,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2025-12-16",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2544",
-      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -33422,18 +33436,25 @@
   "releases": {},
   "assignee_workload": {
     "Akash Kushwaha": {
-      "bugs": 88,
+      "bugs": 87,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 91
+      "total": 90
     },
     "vzyfeedback": {
-      "bugs": 1426,
+      "bugs": 1428,
       "tasks": 301,
       "subtasks": 12,
       "stories": 0,
-      "total": 1744
+      "total": 1746
+    },
+    "abhilash.ramesh": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
     },
     "Ajay Kushwaha": {
       "bugs": 14,
@@ -33518,13 +33539,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 22
-    },
-    "abhilash.ramesh": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
     },
     "Rajkumar A": {
       "bugs": 5,
@@ -33682,12 +33696,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 891,
     "High": 550,
+    "Medium": 892,
     "Low": 58,
     "Highest": 376,
     "Lowest": 2
   },
-  "updated_at": "2026-03-13T10:57:47Z",
-  "total_issues": 2403
+  "updated_at": "2026-03-13T11:46:24Z",
+  "total_issues": 2404
 }
