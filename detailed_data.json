@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2657",
+      "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2566",
+      "summary": "Web: Sections like Dramas, Movies, and Series on the Home Page are not opening when clicked.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2581",
+      "summary": "Web: Search history reappears after using Clear All in search options",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2658",
+      "summary": "(Tamanna) - Jiohotstar new content \"Resort\" not available on search.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2635",
+      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2478",
+      "summary": "Episode Listing Navigation",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2486",
+      "summary": "App performance ",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2623",
+      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2637",
+      "summary": "Mobile : Search functionality does not support movie titles with less than 3 characters.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2605",
+      "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2492",
       "summary": "A white screen appears while redirecting to Order Summery ",
       "status": "Reopened",
@@ -21,20 +175,6 @@
       "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2657",
-      "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -207,20 +347,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2478",
-      "summary": "Episode Listing Navigation",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -491,38 +617,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2637",
-      "summary": "Mobile : Search functionality does not support movie titles with less than 3 characters.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2636",
       "summary": "Mobile: Default audio language set to English but movie plays in Hindi for Dustbin.",
       "status": "Open",
       "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2635",
-      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
-      "status": "Open",
-      "priority": "Low",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
@@ -757,20 +855,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2623",
-      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2622",
       "summary": "Mobile : Watch Now button not working for some videos on the Home page.",
       "status": "Open",
@@ -792,20 +876,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-10",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -889,20 +959,6 @@
       "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2581",
-      "summary": "Web: Search history reappears after using Clear All in search options",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -1193,20 +1249,6 @@
     {
       "key": "VF-2606",
       "summary": "Mobile:Trailer continues playing in the background when the user clicks \u201cWatch Now\u201d, causing the trailer and movie/ad video to play simultaneously.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2605",
-      "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
       "status": "Open",
       "priority": "High",
       "assignee": "Akash Kushwaha",
@@ -1821,20 +1863,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2566",
-      "summary": "Web: Sections like Dramas, Movies, and Series on the Home Page are not opening when clicked.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2567",
       "summary": "Web: Unable to play episodes of Game of Thrones in the Series section.",
       "status": "Issue Accepted",
@@ -2145,20 +2173,6 @@
     {
       "key": "VF-2484",
       "summary": "App gets stuck middle of performing ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2486",
-      "summary": "App performance ",
       "status": "Reopened",
       "priority": "Highest",
       "assignee": "Shubham Chauhan",
@@ -33342,6 +33356,28 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Dev Complete": 7,
+        "Issue Accepted": 10,
+        "Onhold-For Tech Dependency": 3,
+        "Testing On hold": 6,
+        "In Review": 2,
+        "Ready For Test": 13,
+        "In Progress": 12,
+        "Reopened": 2,
+        "Closed": 31,
+        "Invalid": 2,
+        "Not Reproducible": 1,
+        "Parked": 1,
+        "OnHold-For Vivre Setup": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -33355,28 +33391,6 @@
         "Closed": 180,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "In Progress": 13,
-        "Dev Complete": 6,
-        "Issue Accepted": 10,
-        "Onhold-For Tech Dependency": 3,
-        "Testing On hold": 6,
-        "In Review": 2,
-        "Ready For Test": 13,
-        "Reopened": 2,
-        "Closed": 31,
-        "Invalid": 2,
-        "Not Reproducible": 1,
-        "Parked": 1,
-        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -33407,19 +33421,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Javed Ali": {
-      "bugs": 28,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 34
-    },
     "Akash Kushwaha": {
-      "bugs": 91,
+      "bugs": 88,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 94
+      "total": 91
     },
     "vzyfeedback": {
       "bugs": 1426,
@@ -33429,25 +33436,39 @@
       "total": 1744
     },
     "Ajay Kushwaha": {
-      "bugs": 13,
+      "bugs": 14,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 16
+    },
+    "Yashika Krishnani": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "Amit Kumar Tiwari": {
-      "bugs": 10,
+      "bugs": 11,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 17
+      "total": 18
+    },
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 34
     },
     "Shubham Chauhan": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 21
+      "total": 20
     },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
@@ -33478,11 +33499,11 @@
       "total": 13
     },
     "BalaKumar": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 21
+      "total": 20
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -33497,13 +33518,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 22
-    },
-    "Yashika Krishnani": {
-      "bugs": 5,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -33668,12 +33682,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 376,
+    "Medium": 891,
     "High": 550,
-    "Medium": 890,
     "Low": 58,
+    "Highest": 376,
     "Lowest": 2
   },
-  "updated_at": "2026-03-13T09:56:56Z",
-  "total_issues": 2402
+  "updated_at": "2026-03-13T10:57:47Z",
+  "total_issues": 2403
 }
