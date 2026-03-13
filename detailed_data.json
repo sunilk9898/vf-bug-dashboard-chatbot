@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2392",
+      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "Rajkumar A",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2566",
+      "summary": "Web: Sections like Dramas, Movies, and Series on the Home Page are not opening when clicked.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2516",
+      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2518",
+      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2657",
+      "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2658",
+      "summary": "(Tamanna) - Jiohotstar new content \"Resort\" not available on search.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2552",
+      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2655",
+      "summary": "Mobile: Episode 1 of \u201cDebt to the Sea\u201d Not Playable in Fliqs Premium Series",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2597",
+      "summary": "Mobile: Hindi subtitles appear oversized and occupy half the screen while playing Priya short film.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2654",
+      "summary": "(Tamanna) - Issue: Banners Appearing Blurred in CP \u2013 Shemaroo.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2458",
+      "summary": "(Shivani) - When I try to play SunNXT content, only a black screen appears, and I\u2019m unable to exit the App. Because of this, I have to uninstall and reinstall the build repeatedly.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2612",
       "summary": "Mobile: Blank screen displayed when selecting Star Sports 1 HD from Popular on VZY in New & Now section.",
       "status": "Open",
@@ -57,20 +239,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2657",
-      "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2544",
       "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
       "status": "Dev Complete",
@@ -99,20 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2566",
-      "summary": "Web: Sections like Dramas, Movies, and Series on the Home Page are not opening when clicked.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2581",
       "summary": "Web: Search history reappears after using Clear All in search options",
       "status": "Issue Accepted",
@@ -134,20 +288,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
       "created": "2026-03-10",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2658",
-      "summary": "(Tamanna) - Jiohotstar new content \"Resort\" not available on search.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -239,20 +379,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2621",
       "summary": "Mobile: \u201cLAALO - KRISHNA SAADA SAHAYATE\u201d movie not playing though video player opens.",
       "status": "Open",
@@ -281,20 +407,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2655",
-      "summary": "Mobile: Episode 1 of \u201cDebt to the Sea\u201d Not Playable in Fliqs Premium Series",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2633",
       "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
       "status": "Open",
@@ -314,20 +426,6 @@
       "status": "Not Reproducible",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2654",
-      "summary": "(Tamanna) - Issue: Banners Appearing Blurred in CP \u2013 Shemaroo.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
       "platform": "WEB",
       "created": "2026-03-13",
       "updated": "2026-03-13",
@@ -1401,20 +1499,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2597",
-      "summary": "Mobile: Hindi subtitles appear oversized and occupy half the screen while playing Priya short film.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2596",
       "summary": "Mobile: Download not initiated from Transaction History despite \u201cWe are processing your request\u201d message.",
       "status": "Open",
@@ -1523,20 +1607,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2516",
-      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1919,20 +1989,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2552",
-      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2195",
       "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
       "status": "Issue Accepted",
@@ -1953,20 +2009,6 @@
       "priority": "Low",
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
-      "created": "2026-02-26",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2392",
-      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
-      "status": "In Progress",
-      "priority": "Low",
-      "assignee": "Rajkumar A",
-      "platform": "Mobile",
       "created": "2026-02-26",
       "updated": "2026-03-12",
       "duedate": "",
@@ -3095,20 +3137,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2458",
-      "summary": "(Shivani) - When I try to play SunNXT content, only a black screen appears, and I\u2019m unable to exit the App. Because of this, I have to uninstall and reinstall the build repeatedly.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2474",
       "summary": "Carousel Load time",
       "status": "Issue Accepted",
@@ -3179,20 +3207,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2473",
-      "summary": "Pink highlight color",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2498",
       "summary": "TV: Video not displayed and only audio plays when forwarding series (Intermittent)",
       "status": "Duplicate",
@@ -3212,20 +3226,6 @@
       "status": "Duplicate",
       "priority": "High",
       "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2518",
-      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-11",
       "updated": "2026-03-11",
@@ -33377,15 +33377,15 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Dev Complete": 7,
-        "Issue Accepted": 10,
+        "Testing On hold": 7,
+        "Closed": 32,
+        "Dev Complete": 6,
+        "Issue Accepted": 9,
         "Onhold-For Tech Dependency": 3,
-        "Testing On hold": 6,
         "In Review": 2,
         "Ready For Test": 13,
         "In Progress": 12,
         "Reopened": 2,
-        "Closed": 31,
         "Invalid": 2,
         "Not Reproducible": 1,
         "Parked": 1,
@@ -33435,19 +33435,40 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 87,
-      "tasks": 2,
-      "subtasks": 1,
+    "Rajkumar A": {
+      "bugs": 5,
+      "tasks": 16,
+      "subtasks": 0,
       "stories": 0,
-      "total": 90
+      "total": 21
     },
     "vzyfeedback": {
-      "bugs": 1428,
+      "bugs": 1434,
       "tasks": 301,
       "subtasks": 12,
       "stories": 0,
-      "total": 1746
+      "total": 1752
+    },
+    "Akash Kushwaha": {
+      "bugs": 85,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 88
+    },
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 34
+    },
+    "devaraj": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 9
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -33471,18 +33492,11 @@
       "total": 12
     },
     "Amit Kumar Tiwari": {
-      "bugs": 11,
+      "bugs": 9,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 18
-    },
-    "Javed Ali": {
-      "bugs": 28,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 34
+      "total": 16
     },
     "Shubham Chauhan": {
       "bugs": 14,
@@ -33540,13 +33554,6 @@
       "stories": 1,
       "total": 22
     },
-    "Rajkumar A": {
-      "bugs": 5,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
     "Aditya Shrivastava": {
       "bugs": 0,
       "tasks": 5,
@@ -33555,11 +33562,11 @@
       "total": 5
     },
     "Karan Mahboobani": {
-      "bugs": 15,
+      "bugs": 13,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 18
+      "total": 16
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -33574,13 +33581,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 34
-    },
-    "devaraj": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 9
     },
     "Vikas Mishra": {
       "bugs": 38,
@@ -33696,12 +33696,12 @@
     }
   },
   "priority_breakdown": {
+    "Low": 58,
     "High": 550,
     "Medium": 892,
-    "Low": 58,
     "Highest": 376,
     "Lowest": 2
   },
-  "updated_at": "2026-03-13T11:46:24Z",
+  "updated_at": "2026-03-13T13:34:44Z",
   "total_issues": 2404
 }
