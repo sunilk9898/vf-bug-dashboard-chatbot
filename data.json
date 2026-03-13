@@ -13,7 +13,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 3,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 10,
+      "ISSUE ACCEPTED": 9,
       "PARKED": 0
     },
     "CMS": {
@@ -29,7 +29,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 1,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -50,18 +50,18 @@
     },
     "IOS": {
       "OPEN": 0,
-      "IN PROGRESS": 0,
-      "REOPENED": 1,
+      "IN PROGRESS": 1,
+      "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 4,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "Kaltura": {
       "OPEN": 0,
-      "IN PROGRESS": 0,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 0,
       "PARKED": 0
     },
     "LG_TV": {
@@ -73,7 +73,7 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 2,
+      "OPEN": 24,
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -89,11 +89,11 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 11,
+      "OPEN": 10,
       "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 5,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 0
     },
     "Unknown": {
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-13T04:55:54Z",
-  "total_issues_fetched": 2331,
+  "updated_at": "2026-03-13T06:04:45Z",
+  "total_issues_fetched": 2353,
   "project": "VF"
 }
