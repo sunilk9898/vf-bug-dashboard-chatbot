@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2576",
+      "summary": "Web: Logged-in user\u2019s profile not displayed in profile list ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2575",
+      "summary": "Web: Wishlisted movie appearing under Liked Videos section.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2041",
+      "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2574",
+      "summary": "Web: \u201cTesting\u201d movie not playing after opening.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2035",
+      "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2026",
+      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1980",
       "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
       "status": "Reopened",
@@ -8,9 +92,51 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-02-06",
-      "updated": "2026-03-12",
+      "updated": "2026-03-13",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2573",
+      "summary": "Web: Some options disappear when browser display size is changed.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2572",
+      "summary": "Web: 403 Forbidden error displayed when watching TV9 Bharatvarsh in Live TV.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2382",
+      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Rajkumar A",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -22,20 +148,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2025-12-16",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2382",
-      "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Narayanasamy Rajappa",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2591,20 +2703,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2026",
-      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2151",
       "summary": "FLIQS channel logos in Setting section",
       "status": "Dev Complete",
@@ -3053,20 +3151,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2041",
-      "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2302",
       "summary": "Web--Next Episode\" button is not functioning as expected",
       "status": "Closed",
@@ -3231,20 +3315,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2035",
-      "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -25077,6 +25147,90 @@
   ],
   "tasks": [
     {
+      "key": "VF-1944",
+      "summary": "Tarang Plus CP",
+      "status": "In Review",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-04",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1621",
+      "summary": "AHA - Telugu/Tamil",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-12",
+      "updated": "2026-03-13",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-818",
+      "summary": "Playback / Player\tListing of Episodes",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-28",
+      "updated": "2026-03-13",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "In Review",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ATV",
+      "created": "2025-11-18",
+      "updated": "2026-03-13",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-593",
+      "summary": "UXCam integration instead of Clarity",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-03-13",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1934",
+      "summary": "Manorama Max - CP Integration",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2213",
       "summary": "Fliqs Report \u2013 Dashboard Availability",
       "status": "Issue Accepted",
@@ -25129,20 +25283,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ATV",
-      "created": "2025-11-18",
-      "updated": "2026-03-12",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -25259,20 +25399,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1621",
-      "summary": "AHA - Telugu/Tamil",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-12",
-      "updated": "2026-03-12",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1870",
       "summary": "Branch Event Integration for VZY",
       "status": "Ready For Test",
@@ -25301,20 +25427,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1934",
-      "summary": "Manorama Max - CP Integration",
-      "status": "Parked",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2126",
       "summary": "SonyLiv SSO",
       "status": "Invalid",
@@ -25325,20 +25437,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1944",
-      "summary": "Tarang Plus CP",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-04",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -25483,20 +25581,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-593",
-      "summary": "UXCam integration instead of Clarity",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-03-11",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1897",
       "summary": "CleverTap Pending tasks (Android)",
       "status": "Issue Accepted",
@@ -25633,20 +25717,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-818",
-      "summary": "Playback / Player\tListing of Episodes",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-11-28",
-      "updated": "2026-03-10",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -32152,6 +32222,41 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Dev Complete": 5,
+        "In Review": 2,
+        "Ready For Test": 13,
+        "In Progress": 12,
+        "Onhold-For Tech Dependency": 3,
+        "Reopened": 3,
+        "Issue Accepted": 13,
+        "Closed": 31,
+        "Testing On hold": 4,
+        "Invalid": 2,
+        "Not Reproducible": 1,
+        "Parked": 1,
+        "OnHold-For Vivre Setup": 1
+      }
+    },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "In Review": 1,
+        "Reopened": 1,
+        "Closed": 41,
+        "Ready For Test": 6
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -32165,41 +32270,6 @@
         "Dev Complete": 1,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Reopened": 4,
-        "Ready For Test": 11,
-        "Onhold-For Tech Dependency": 2,
-        "Dev Complete": 5,
-        "Issue Accepted": 14,
-        "Open": 1,
-        "In Progress": 13,
-        "Parked": 2,
-        "Closed": 31,
-        "Testing On hold": 4,
-        "Invalid": 2,
-        "Not Reproducible": 1,
-        "OnHold-For Vivre Setup": 1
-      }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Dev Complete": 1,
-        "Reopened": 1,
-        "Closed": 41,
-        "Ready For Test": 6
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -32217,12 +32287,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "abhilash.ramesh": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
+    "Akash Kushwaha": {
+      "bugs": 23,
+      "tasks": 2,
+      "subtasks": 1,
       "stories": 0,
-      "total": 14
+      "total": 26
+    },
+    "devaraj": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 22
     },
     "vzyfeedback": {
       "bugs": 1410,
@@ -32231,32 +32315,46 @@
       "stories": 0,
       "total": 1728
     },
-    "Narayanasamy Rajappa": {
-      "bugs": 1,
-      "tasks": 0,
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 8,
       "subtasks": 0,
       "stories": 0,
-      "total": 1
+      "total": 11
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 4,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "abhilash.ramesh": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "Rajkumar A": {
+      "bugs": 5,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
     },
     "Shubham Chauhan": {
       "bugs": 16,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 22
-    },
-    "Akash Kushwaha": {
-      "bugs": 18,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 21
-    },
-    "Manikanta P": {
-      "bugs": 7,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 1,
       "total": 22
     },
     "Suyog Lanje": {
@@ -32273,13 +32371,6 @@
       "stories": 0,
       "total": 5
     },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "BalaKumar": {
       "bugs": 17,
       "tasks": 6,
@@ -32293,13 +32384,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 42
-    },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "shadab Hussain": {
       "bugs": 11,
@@ -32322,26 +32406,12 @@
       "stories": 0,
       "total": 20
     },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 33
-    },
     "Amit Kumar Tiwari": {
       "bugs": 10,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
       "total": 17
-    },
-    "Rajkumar A": {
-      "bugs": 4,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -32363,13 +32433,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 32
-    },
-    "devaraj": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -32485,12 +32548,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 863,
-    "High": 503,
+    "Medium": 865,
+    "High": 506,
     "Highest": 376,
     "Low": 47,
     "Lowest": 2
   },
-  "updated_at": "2026-03-12T23:43:31Z",
-  "total_issues": 2317
+  "updated_at": "2026-03-13T03:08:58Z",
+  "total_issues": 2322
 }
