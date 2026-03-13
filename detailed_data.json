@@ -1,6 +1,244 @@
 {
   "bugs": [
     {
+      "key": "VF-2644",
+      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2643",
+      "summary": "Mobile: Episodes in Premium Series are displayed in descending order",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2642",
+      "summary": "Mobile - FLIQS(Crashed):- Application closes automatically when the user clicks the Share button for the Malayalam FLiqs series \u201cAnchors Up.\u201d",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2641",
+      "summary": "Mobile : Delay in loading content when switching between bottom navigation tabs.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2640",
+      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2639",
+      "summary": "Mobile: Privacy Policy page takes an unusually long time to load from Help & Support.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2638",
+      "summary": "Mobile: Watch Now season and episode details do not update according to selected season for Taarak Mehta Ka Ooltah Chashmah",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2637",
+      "summary": "Mobile : Search functionality does not support movie titles with less than 3 characters.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2636",
+      "summary": "Mobile: Default audio language set to English but movie plays in Hindi for Dustbin.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2635",
+      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2523",
+      "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2524",
+      "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2634",
+      "summary": "Mobile: Navigation dots in Home page photo slider not responding to touch",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2633",
+      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2549",
+      "summary": "Clevertap deeplink issue ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2632",
+      "summary": "Mobile: Extra navigation options displayed and broken thumbnail for N.E.S.T movie in New Arrivals.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2631",
+      "summary": "Web: Unauthorized account access via shared profile link without authentication",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2587",
       "summary": "Mobile: Back navigation from Plans & Offers page redirects user to Home instead of My Vibe section.",
       "status": "Invalid",
@@ -487,20 +725,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2549",
-      "summary": "Clevertap deeplink issue ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-03-12",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1509,20 +1733,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2523",
-      "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2682,20 +2892,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2524",
-      "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -32971,6 +33167,7 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Issue Accepted": 12,
         "Onhold-For Tech Dependency": 3,
         "Testing On hold": 6,
         "Dev Complete": 5,
@@ -32978,7 +33175,6 @@
         "Ready For Test": 13,
         "In Progress": 12,
         "Reopened": 2,
-        "Issue Accepted": 12,
         "Closed": 31,
         "Invalid": 2,
         "Not Reproducible": 1,
@@ -33030,18 +33226,25 @@
   "releases": {},
   "assignee_workload": {
     "Akash Kushwaha": {
-      "bugs": 65,
+      "bugs": 79,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 68
+      "total": 82
     },
     "vzyfeedback": {
-      "bugs": 1423,
+      "bugs": 1425,
       "tasks": 301,
       "subtasks": 12,
       "stories": 0,
-      "total": 1741
+      "total": 1743
+    },
+    "shadab Hussain": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
     },
     "avinash waghmare": {
       "bugs": 5,
@@ -33063,13 +33266,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 21
-    },
-    "shadab Hussain": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Suyog Lanje": {
       "bugs": 4,
@@ -33142,11 +33338,11 @@
       "total": 5
     },
     "Karan Mahboobani": {
-      "bugs": 17,
+      "bugs": 15,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 20
+      "total": 18
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -33290,12 +33486,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 879,
-    "Low": 53,
-    "High": 539,
+    "High": 544,
+    "Low": 56,
+    "Medium": 885,
     "Highest": 376,
     "Lowest": 2
   },
-  "updated_at": "2026-03-13T07:13:16Z",
-  "total_issues": 2375
+  "updated_at": "2026-03-13T07:57:25Z",
+  "total_issues": 2389
 }
