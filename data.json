@@ -5,11 +5,11 @@
       "IN PROGRESS": 2,
       "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 3,
       "IN REVIEW": 0,
@@ -73,7 +73,7 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 24,
+      "OPEN": 44,
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -89,11 +89,11 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 10,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 8,
       "PARKED": 0
     },
     "Unknown": {
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-13T06:04:45Z",
-  "total_issues_fetched": 2353,
+  "updated_at": "2026-03-13T07:13:16Z",
+  "total_issues_fetched": 2375,
   "project": "VF"
 }
