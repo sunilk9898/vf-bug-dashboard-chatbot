@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2523",
+      "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2535",
+      "summary": "Hungama content plays when clicking on Discovery content watch Now",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2630",
+      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2550",
+      "summary": "2:3 Thumbnail images",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "Kaltura",
+      "created": "2026-03-12",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2586",
+      "summary": "Mobile: Audio and subtitle language text appears broken displaying only two characters.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2598",
+      "summary": "Mobile: Audio language not fully visible in Audio/Subtitles for Kalamkaval movie",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2648",
+      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2647",
+      "summary": "Mobile: Mobile: Fliqs section are not displayed on the Home Page",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2646",
+      "summary": "Mobile : Paid video is not playing after subscription",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2645",
+      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2644",
       "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
       "status": "Open",
@@ -141,20 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2523",
-      "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2524",
       "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
       "status": "Issue Accepted",
@@ -243,20 +369,6 @@
       "summary": "Mobile: Back navigation from Plans & Offers page redirects user to Home instead of My Vibe section.",
       "status": "Invalid",
       "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2630",
-      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
-      "status": "Open",
-      "priority": "Low",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
@@ -1051,20 +1163,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2598",
-      "summary": "Mobile: Audio language not fully visible in Audio/Subtitles for Kalamkaval movie",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2597",
       "summary": "Mobile: Hindi subtitles appear oversized and occupy half the screen while playing Priya short film.",
       "status": "Open",
@@ -1128,20 +1226,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2550",
-      "summary": "2:3 Thumbnail images",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "Kaltura",
-      "created": "2026-03-12",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1267,20 +1351,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2586",
-      "summary": "Mobile: Audio and subtitle language text appears broken displaying only two characters.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -2905,20 +2975,6 @@
       "priority": "Medium",
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2535",
-      "summary": "Hungama content plays when clicking on Discovery content watch Now",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
       "created": "2026-03-11",
       "updated": "2026-03-12",
       "duedate": "",
@@ -33167,10 +33223,10 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Issue Accepted": 12,
+        "Dev Complete": 6,
+        "Issue Accepted": 11,
         "Onhold-For Tech Dependency": 3,
         "Testing On hold": 6,
-        "Dev Complete": 5,
         "In Review": 2,
         "Ready For Test": 13,
         "In Progress": 12,
@@ -33225,19 +33281,33 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 79,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 82
-    },
     "vzyfeedback": {
       "bugs": 1425,
       "tasks": 301,
       "subtasks": 12,
       "stories": 0,
       "total": 1743
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 15,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 33
+    },
+    "Akash Kushwaha": {
+      "bugs": 83,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 86
+    },
+    "Suyog Lanje": {
+      "bugs": 4,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "shadab Hussain": {
       "bugs": 12,
@@ -33267,13 +33337,6 @@
       "stories": 0,
       "total": 21
     },
-    "Suyog Lanje": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
@@ -33282,11 +33345,11 @@
       "total": 4
     },
     "Amit Kumar Tiwari": {
-      "bugs": 11,
+      "bugs": 10,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 18
+      "total": 17
     },
     "Manikanta P": {
       "bugs": 7,
@@ -33357,13 +33420,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 34
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 14,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 32
     },
     "devaraj": {
       "bugs": 7,
@@ -33486,12 +33542,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 544,
-    "Low": 56,
-    "Medium": 885,
+    "Low": 57,
+    "High": 547,
     "Highest": 376,
+    "Medium": 885,
     "Lowest": 2
   },
-  "updated_at": "2026-03-13T07:57:25Z",
-  "total_issues": 2389
+  "updated_at": "2026-03-13T08:59:18Z",
+  "total_issues": 2393
 }
