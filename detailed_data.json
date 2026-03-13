@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2619",
+      "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2491",
       "summary": "16:9 iOS carousel banners",
       "status": "Dev Complete",
@@ -1195,20 +1209,6 @@
       "summary": "Mobile: Video gets stuck after changing quality to 1080p in \u201cMindo Taseeldarni\u201d movie.",
       "status": "Open",
       "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2619",
-      "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
-      "status": "Open",
-      "priority": "Low",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
@@ -33435,6 +33435,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
@@ -33457,11 +33464,11 @@
       "total": 21
     },
     "Akash Kushwaha": {
-      "bugs": 85,
+      "bugs": 84,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 88
+      "total": 87
     },
     "Javed Ali": {
       "bugs": 28,
@@ -33490,13 +33497,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "Amit Kumar Tiwari": {
       "bugs": 8,
@@ -33696,12 +33696,12 @@
     }
   },
   "priority_breakdown": {
+    "Low": 58,
     "Highest": 376,
     "High": 550,
     "Medium": 892,
-    "Low": 58,
     "Lowest": 2
   },
-  "updated_at": "2026-03-13T15:02:40Z",
+  "updated_at": "2026-03-13T15:58:16Z",
   "total_issues": 2404
 }
