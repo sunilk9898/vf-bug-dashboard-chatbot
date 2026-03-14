@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2571",
+      "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2573",
+      "summary": "Web: Some options disappear when browser display size is changed.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2585",
+      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2574",
+      "summary": "Web: \u201cTesting\u201d movie not playing after opening.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2581",
+      "summary": "Web: Search history reappears after using Clear All in search options",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1980",
+      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-06",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2542",
       "summary": " Observes a screen glitch during the redirection process",
       "status": "Ready For Test",
@@ -442,48 +526,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-03-12",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2659",
-      "summary": "(Tamanna) - 'Nature of Content' Label Not Visible on VZY.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2581",
-      "summary": "Web: Search history reappears after using Clear All in search options",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-10",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1065,20 +1107,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2573",
-      "summary": "Web: Some options disappear when browser display size is changed.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2626",
       "summary": "Mobile : Watch Live button not working for Star Sports after searching",
       "status": "Open",
@@ -1113,20 +1141,6 @@
       "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2574",
-      "summary": "Web: \u201cTesting\u201d movie not playing after opening.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "WEB",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -1275,20 +1289,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2585",
-      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2161",
       "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
       "status": "Reopened",
@@ -1408,20 +1408,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2571",
-      "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "WEB",
-      "created": "2026-03-12",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1775,20 +1761,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1980",
-      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-06",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26295,6 +26267,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2659",
+      "summary": "(Tamanna) - 'Nature of Content' Label Not Visible on VZY.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-593",
       "summary": "UXCam integration instead of Clarity",
       "status": "Ready For Test",
@@ -33370,6 +33370,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Dev Complete": 3,
+        "Reopened": 1,
+        "Ready For Test": 10,
+        "Closed": 180,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -33390,21 +33405,6 @@
         "Not Reproducible": 1,
         "Parked": 1,
         "OnHold-For Vivre Setup": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Dev Complete": 2,
-        "Reopened": 2,
-        "Ready For Test": 10,
-        "Closed": 180,
-        "Testing On hold": 1,
-        "Invalid": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -33435,12 +33435,40 @@
   },
   "releases": {},
   "assignee_workload": {
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Ajay Kushwaha": {
+      "bugs": 13,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
+    "abhilash.ramesh": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
     "vzyfeedback": {
-      "bugs": 1444,
-      "tasks": 302,
+      "bugs": 1442,
+      "tasks": 303,
       "subtasks": 12,
       "stories": 0,
-      "total": 1763
+      "total": 1762
     },
     "shadab Hussain": {
       "bugs": 12,
@@ -33491,20 +33519,6 @@
       "stories": 0,
       "total": 9
     },
-    "abhilash.ramesh": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
-    "Ajay Kushwaha": {
-      "bugs": 13,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
     "Yashika Krishnani": {
       "bugs": 8,
       "tasks": 2,
@@ -33532,20 +33546,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "avinash waghmare": {
-      "bugs": 5,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
     },
     "Manikanta P": {
       "bugs": 7,
@@ -33697,11 +33697,11 @@
   },
   "priority_breakdown": {
     "High": 550,
+    "Medium": 891,
     "Highest": 376,
-    "Medium": 892,
-    "Low": 58,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-14T02:51:06Z",
+  "updated_at": "2026-03-14T04:52:49Z",
   "total_issues": 2404
 }
