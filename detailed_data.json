@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-14",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2571",
       "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
       "status": "Issue Accepted",
@@ -414,20 +428,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "WEB",
-      "created": "2026-03-10",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26267,6 +26267,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-596",
+      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-18",
+      "updated": "2026-03-14",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2659",
       "summary": "(Tamanna) - 'Nature of Content' Label Not Visible on VZY.",
       "status": "On Hold- For Clarification",
@@ -26375,20 +26389,6 @@
       "updated": "2026-03-13",
       "duedate": "2026-01-30",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-596",
-      "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
-      "status": "In Review",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ATV",
-      "created": "2025-11-18",
-      "updated": "2026-03-13",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -33370,6 +33370,18 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Ready For Test": 7,
+        "Reopened": 1,
+        "Closed": 41
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -33407,19 +33419,6 @@
         "OnHold-For Vivre Setup": 1
       }
     },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "In Review": 1,
-        "Reopened": 1,
-        "Closed": 41,
-        "Ready For Test": 6
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
       "tasks": 2,
@@ -33435,6 +33434,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1443,
+      "tasks": 304,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1764
+    },
     "avinash waghmare": {
       "bugs": 4,
       "tasks": 8,
@@ -33462,13 +33468,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "vzyfeedback": {
-      "bugs": 1442,
-      "tasks": 303,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1762
     },
     "shadab Hussain": {
       "bugs": 12,
@@ -33504,13 +33503,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 87
-    },
-    "Javed Ali": {
-      "bugs": 28,
-      "tasks": 4,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 34
     },
     "devaraj": {
       "bugs": 7,
@@ -33581,6 +33573,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 34
+    },
+    "Javed Ali": {
+      "bugs": 27,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 32
     },
     "Vikas Mishra": {
       "bugs": 38,
@@ -33696,12 +33695,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 376,
     "High": 550,
     "Medium": 891,
-    "Highest": 376,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-14T06:01:24Z",
+  "updated_at": "2026-03-14T07:06:53Z",
   "total_issues": 2404
 }
