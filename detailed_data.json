@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2198",
+      "summary": "FLIQS Order summary page",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2492",
       "summary": "A white screen appears while redirecting to Order Summery ",
       "status": "Testing On hold",
@@ -683,20 +697,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2198",
-      "summary": "FLIQS Order summary page",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-02-23",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33370,6 +33370,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Ready For Test": 11,
+        "Dev Complete": 2,
+        "Reopened": 1,
+        "Closed": 180,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -33380,21 +33395,6 @@
         "Ready For Test": 7,
         "Reopened": 1,
         "Closed": 41
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Dev Complete": 3,
-        "Reopened": 1,
-        "Ready For Test": 10,
-        "Closed": 180,
-        "Testing On hold": 1,
-        "Invalid": 1
       }
     },
     "VZY Sprint (16 March 2026)": {
@@ -33435,11 +33435,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1443,
+      "bugs": 1444,
       "tasks": 304,
       "subtasks": 12,
       "stories": 0,
-      "total": 1764
+      "total": 1765
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -33449,11 +33449,11 @@
       "total": 12
     },
     "Ajay Kushwaha": {
-      "bugs": 13,
+      "bugs": 12,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 15
     },
     "BalaKumar": {
       "bugs": 14,
@@ -33695,12 +33695,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 891,
     "Highest": 376,
     "High": 550,
-    "Medium": 891,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-14T17:44:07Z",
+  "updated_at": "2026-03-14T18:58:04Z",
   "total_issues": 2404
 }
