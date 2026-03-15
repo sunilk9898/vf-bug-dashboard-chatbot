@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2484",
+      "summary": "App gets stuck middle of performing ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2645",
       "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
       "status": "Issue Accepted",
@@ -2279,20 +2293,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2484",
-      "summary": "App gets stuck middle of performing ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33435,11 +33435,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1447,
+      "bugs": 1448,
       "tasks": 305,
       "subtasks": 12,
       "stories": 0,
-      "total": 1769
+      "total": 1770
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -33547,11 +33547,11 @@
       "total": 15
     },
     "Shubham Chauhan": {
-      "bugs": 14,
+      "bugs": 13,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 20
+      "total": 19
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -33695,12 +33695,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 376,
     "High": 550,
     "Medium": 891,
-    "Highest": 376,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-15T10:50:04Z",
+  "updated_at": "2026-03-15T11:39:39Z",
   "total_issues": 2404
 }
