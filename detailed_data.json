@@ -1,12 +1,12 @@
 {
   "bugs": [
     {
-      "key": "VF-2621",
-      "summary": "Mobile: \u201cLAALO - KRISHNA SAADA SAHAYATE\u201d movie not playing though video player opens.",
-      "status": "Not Reproducible",
+      "key": "VF-2645",
+      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
+      "status": "Issue Accepted",
       "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
       "created": "2026-03-13",
       "updated": "2026-03-15",
       "duedate": "",
@@ -15,12 +15,26 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2645",
-      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
-      "status": "Issue Accepted",
+      "key": "VF-2568",
+      "summary": "Web: OTP not generated while attempting to delete account from Profile page.",
+      "status": "Ready For Test",
       "priority": "High",
-      "assignee": "Manikanta P",
+      "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
+      "created": "2026-03-12",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2621",
+      "summary": "Mobile: \u201cLAALO - KRISHNA SAADA SAHAYATE\u201d movie not playing though video player opens.",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-15",
       "duedate": "",
@@ -2009,20 +2023,6 @@
       "priority": "High",
       "assignee": "BalaKumar",
       "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2568",
-      "summary": "Web: OTP not generated while attempting to delete account from Profile page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
       "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
@@ -26267,6 +26267,62 @@
   ],
   "tasks": [
     {
+      "key": "VF-542",
+      "summary": "User Management Console (Admin View)",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Smridhi Anand",
+      "platform": "CMS Dashboard",
+      "created": "2025-11-18",
+      "updated": "2026-03-15",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1070",
+      "summary": "Complete Dashboard development",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Smridhi Anand",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-09",
+      "updated": "2026-03-15",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2415",
+      "summary": "{KPI] Vivre API Option to be added & Web to implement ",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-05",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2414",
+      "summary": "Security SSL Certificate Upgrade to A+ from B",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Unknown",
+      "created": "2026-03-05",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-596",
       "summary": "Ancillary - Display Tag - Free / Rent / Buy / New / Indicator for content that plays out etc.",
       "status": "Ready For Test",
@@ -26995,20 +27051,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1070",
-      "summary": "Complete Dashboard development",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-09",
-      "updated": "2026-03-10",
-      "duedate": "2025-12-12",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-454",
       "summary": "Casting",
       "status": "Reopened",
@@ -27031,20 +27073,6 @@
       "platform": "ANDROID",
       "created": "2025-11-25",
       "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2415",
-      "summary": "{KPI] Vivre API Option to be added & Web to implement ",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "WEB",
-      "created": "2026-03-05",
-      "updated": "2026-03-09",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
@@ -27145,20 +27173,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2414",
-      "summary": "Security SSL Certificate Upgrade to A+ from B",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "Unknown",
-      "created": "2026-03-05",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -28418,20 +28432,6 @@
       "created": "2026-02-12",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-542",
-      "summary": "User Management Console (Admin View)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-11-18",
-      "updated": "2026-02-12",
-      "duedate": "2025-12-12",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -33434,19 +33434,40 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Smridhi Anand": {
+      "bugs": 1,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
+    },
+    "Manikanta P": {
+      "bugs": 7,
+      "tasks": 10,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 18
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 15,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
+    },
     "vzyfeedback": {
-      "bugs": 1446,
+      "bugs": 1447,
       "tasks": 304,
       "subtasks": 12,
       "stories": 0,
-      "total": 1767
-    },
-    "Manikanta P": {
-      "bugs": 8,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 23
+      "total": 1768
     },
     "shadab Hussain": {
       "bugs": 12,
@@ -33468,13 +33489,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
     },
     "abhilash.ramesh": {
       "bugs": 12,
@@ -33538,13 +33552,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 15,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 33
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -33644,13 +33651,6 @@
       "stories": 0,
       "total": 9
     },
-    "Smridhi Anand": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "Vedant Kajale": {
       "bugs": 1,
       "tasks": 2,
@@ -33701,6 +33701,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-15T07:13:54Z",
+  "updated_at": "2026-03-15T07:54:17Z",
   "total_issues": 2404
 }
