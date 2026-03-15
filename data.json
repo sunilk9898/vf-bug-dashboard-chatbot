@@ -29,7 +29,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 1,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -50,10 +50,10 @@
     },
     "IOS": {
       "OPEN": 0,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 3,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 0,
       "PARKED": 0
     },
     "Kaltura": {
@@ -73,7 +73,7 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 65,
+      "OPEN": 62,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-15T03:31:24Z",
+  "updated_at": "2026-03-15T05:45:06Z",
   "total_issues_fetched": 2404,
   "project": "VF"
 }

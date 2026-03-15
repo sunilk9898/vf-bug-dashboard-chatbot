@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2621",
+      "summary": "Mobile: \u201cLAALO - KRISHNA SAADA SAHAYATE\u201d movie not playing though video player opens.",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2645",
+      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-13",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2650",
+      "summary": "Mobile: Irrelevant apps (Paytm, Google Maps) displayed in Share options while sharing a series from Fliqs category",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2425",
+      "summary": "Loading Issue",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2198",
       "summary": "FLIQS Order summary page",
       "status": "Ready For Test",
@@ -519,20 +575,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2650",
-      "summary": "Mobile: Irrelevant apps (Paytm, Google Maps) displayed in Share options while sharing a series from Fliqs category",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2544",
       "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
       "status": "Dev Complete",
@@ -594,20 +636,6 @@
       "status": "Open",
       "priority": "High",
       "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2621",
-      "summary": "Mobile: \u201cLAALO - KRISHNA SAADA SAHAYATE\u201d movie not playing though video player opens.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-13",
@@ -843,20 +871,6 @@
     {
       "key": "VF-2646",
       "summary": "Mobile : Paid video is not playing after subscription",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2645",
-      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
       "status": "Open",
       "priority": "High",
       "assignee": "Akash Kushwaha",
@@ -2307,20 +2321,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2425",
-      "summary": "Loading Issue",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33370,6 +33370,28 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "In Progress": 13,
+        "Ready For Test": 15,
+        "Testing On hold": 9,
+        "Closed": 32,
+        "Dev Complete": 3,
+        "Issue Accepted": 7,
+        "Onhold-For Tech Dependency": 3,
+        "In Review": 2,
+        "Reopened": 2,
+        "Invalid": 2,
+        "Not Reproducible": 1,
+        "Parked": 1,
+        "OnHold-For Vivre Setup": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -33397,28 +33419,6 @@
         "Closed": 41
       }
     },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "In Progress": 12,
-        "Ready For Test": 15,
-        "Testing On hold": 9,
-        "Closed": 32,
-        "Dev Complete": 3,
-        "Issue Accepted": 8,
-        "Onhold-For Tech Dependency": 3,
-        "In Review": 2,
-        "Reopened": 2,
-        "Invalid": 2,
-        "Not Reproducible": 1,
-        "Parked": 1,
-        "OnHold-For Vivre Setup": 1
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
       "tasks": 2,
@@ -33435,11 +33435,25 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1444,
+      "bugs": 1446,
       "tasks": 304,
       "subtasks": 12,
       "stories": 0,
-      "total": 1765
+      "total": 1767
+    },
+    "Manikanta P": {
+      "bugs": 8,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 23
+    },
+    "shadab Hussain": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -33469,13 +33483,6 @@
       "stories": 0,
       "total": 15
     },
-    "shadab Hussain": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
-    },
     "Suyog Lanje": {
       "bugs": 3,
       "tasks": 7,
@@ -33498,11 +33505,11 @@
       "total": 20
     },
     "Akash Kushwaha": {
-      "bugs": 84,
+      "bugs": 81,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 87
+      "total": 84
     },
     "devaraj": {
       "bugs": 7,
@@ -33538,13 +33545,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 33
-    },
-    "Manikanta P": {
-      "bugs": 7,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 22
     },
     "Aditya Shrivastava": {
       "bugs": 0,
@@ -33695,12 +33695,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 550,
     "Medium": 891,
     "Highest": 376,
-    "High": 550,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-15T03:31:24Z",
+  "updated_at": "2026-03-15T05:45:06Z",
   "total_issues": 2404
 }
