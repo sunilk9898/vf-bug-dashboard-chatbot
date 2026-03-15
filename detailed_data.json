@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-27",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2538",
+      "summary": "Trailer icon on JHS asset",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2484",
       "summary": "App gets stuck middle of performing ",
       "status": "Testing On hold",
@@ -211,20 +239,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-02-27",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2382",
       "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
       "status": "Ready For Test",
@@ -274,20 +288,6 @@
       "assignee": "shadab Hussain",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2538",
-      "summary": "Trailer icon on JHS asset",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-12",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -33377,9 +33377,9 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "In Progress": 13,
+        "Testing On hold": 10,
+        "In Progress": 12,
         "Ready For Test": 15,
-        "Testing On hold": 9,
         "Closed": 32,
         "Dev Complete": 3,
         "Issue Accepted": 7,
@@ -33435,11 +33435,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1448,
+      "bugs": 1450,
       "tasks": 305,
       "subtasks": 12,
       "stories": 0,
-      "total": 1770
+      "total": 1772
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -33470,11 +33470,11 @@
       "total": 34
     },
     "shadab Hussain": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 15
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -33496,13 +33496,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "Suyog Lanje": {
-      "bugs": 3,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "kamaldeeps": {
       "bugs": 3,
@@ -33566,6 +33559,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 13
+    },
+    "Suyog Lanje": {
+      "bugs": 2,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Alok Gupta": {
       "bugs": 13,
@@ -33701,6 +33701,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-15T11:39:39Z",
+  "updated_at": "2026-03-15T13:17:04Z",
   "total_issues": 2404
 }
