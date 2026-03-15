@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2400",
       "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
       "status": "Testing On hold",
@@ -281,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2619",
       "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
       "status": "Testing On hold",
@@ -302,20 +316,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26267,6 +26267,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1841",
+      "summary": "Playback double tap must present in full screen",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-23",
+      "updated": "2026-03-15",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1026",
       "summary": "(Shruti) Analytics: Deleted Accounts \u2013 Daily basis",
       "status": "Ready For Test",
@@ -26389,20 +26403,6 @@
       "updated": "2026-03-13",
       "duedate": "2026-01-30",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1841",
-      "summary": "Playback double tap must present in full screen",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-01-23",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -33434,12 +33434,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "kamaldeeps": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "vzyfeedback": {
-      "bugs": 1450,
-      "tasks": 305,
+      "bugs": 1451,
+      "tasks": 306,
       "subtasks": 12,
       "stories": 0,
-      "total": 1772
+      "total": 1774
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -33470,11 +33477,11 @@
       "total": 34
     },
     "shadab Hussain": {
-      "bugs": 11,
-      "tasks": 4,
+      "bugs": 10,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 13
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -33496,13 +33503,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "kamaldeeps": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "Rajkumar A": {
       "bugs": 4,
@@ -33696,11 +33696,11 @@
   },
   "priority_breakdown": {
     "Highest": 376,
-    "High": 550,
     "Medium": 891,
+    "High": 550,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-15T13:17:04Z",
+  "updated_at": "2026-03-15T14:50:26Z",
   "total_issues": 2404
 }
