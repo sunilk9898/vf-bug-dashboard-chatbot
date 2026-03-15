@@ -26267,6 +26267,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1026",
+      "summary": "(Shruti) Analytics: Deleted Accounts \u2013 Daily basis",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-03-15",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-542",
       "summary": "User Management Console (Admin View)",
       "status": "Ready For Test",
@@ -29622,20 +29636,6 @@
       "created": "2025-11-14",
       "updated": "2026-01-08",
       "duedate": "2025-11-20",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1026",
-      "summary": "(Shruti) Analytics: Deleted Accounts \u2013 Daily basis",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2026-01-07",
-      "duedate": "2025-12-31",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -33434,6 +33434,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1447,
+      "tasks": 305,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1769
+    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 7,
@@ -33450,10 +33457,10 @@
     },
     "Manikanta P": {
       "bugs": 7,
-      "tasks": 10,
+      "tasks": 9,
       "subtasks": 0,
       "stories": 1,
-      "total": 18
+      "total": 17
     },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
@@ -33461,13 +33468,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 34
-    },
-    "vzyfeedback": {
-      "bugs": 1447,
-      "tasks": 304,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1768
     },
     "shadab Hussain": {
       "bugs": 12,
@@ -33701,6 +33701,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-15T08:55:59Z",
+  "updated_at": "2026-03-15T09:50:14Z",
   "total_issues": 2404
 }
