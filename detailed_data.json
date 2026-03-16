@@ -1,13 +1,41 @@
 {
   "bugs": [
     {
+      "key": "VF-2673",
+      "summary": "(Tamanna)- Getting wrong logo on Sony Pix HD live channel.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-16",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2668",
       "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Open",
+      "status": "In Progress",
       "priority": "High",
       "assignee": "Suyog Lanje",
       "platform": "IOS",
       "created": "2026-03-16",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2656",
+      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-13",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1547,20 +1575,6 @@
       "priority": "Medium",
       "assignee": "abhilash.ramesh",
       "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2656",
-      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
       "created": "2026-03-13",
       "updated": "2026-03-16",
       "duedate": "",
@@ -33616,12 +33630,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 40,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 43
+    },
     "Suyog Lanje": {
       "bugs": 5,
       "tasks": 7,
       "subtasks": 0,
       "stories": 0,
       "total": 12
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 11,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 18
     },
     "Amudha Kaliamoorthi": {
       "bugs": 17,
@@ -33636,13 +33664,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 11,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 18
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -33664,13 +33685,6 @@
       "subtasks": 12,
       "stories": 0,
       "total": 1800
-    },
-    "Akash Kushwaha": {
-      "bugs": 39,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 42
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -33877,12 +33891,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 892,
     "High": 555,
     "Highest": 383,
-    "Medium": 891,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-16T13:55:10Z",
-  "total_issues": 2417
+  "updated_at": "2026-03-16T15:19:27Z",
+  "total_issues": 2418
 }
