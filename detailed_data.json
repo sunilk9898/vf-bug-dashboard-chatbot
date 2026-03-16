@@ -1,6 +1,202 @@
 {
   "bugs": [
     {
+      "key": "VF-2035",
+      "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2041",
+      "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2651",
+      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
+      "status": "Invalid",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2652",
+      "summary": "Mobile: Some menu options are missing on the My vibes page after login but appear after logging out and signing in again.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2653",
+      "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2656",
+      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2660",
+      "summary": "First episode of Watcho Exclusive content not playing as free after login",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Vikas Mishra",
+      "platform": "ANDROID",
+      "created": "2026-03-16",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2026",
+      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2655",
+      "summary": "Mobile: Episode 1 of \u201cDebt to the Sea\u201d Not Playable in Fliqs Premium Series",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-27",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2542",
+      "summary": " Observes a screen glitch during the redirection process",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2539",
+      "summary": "CTA is not response ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2567",
+      "summary": "Web: Unable to play episodes of Game of Thrones in the Series section.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2447",
       "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
       "status": "Ready For Test",
@@ -267,20 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2542",
-      "summary": " Observes a screen glitch during the redirection process",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2382",
       "summary": "Mobile: The \u201cClick here\u201d text in the Register Grievance for OTT content section is not clickable.",
       "status": "Ready For Test",
@@ -519,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2655",
-      "summary": "Mobile: Episode 1 of \u201cDebt to the Sea\u201d Not Playable in Fliqs Premium Series",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2597",
       "summary": "Mobile: Hindi subtitles appear oversized and occupy half the screen while playing Priya short film.",
       "status": "Open",
@@ -687,20 +855,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2656",
-      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2633",
       "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
       "status": "Open",
@@ -721,48 +875,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2653",
-      "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2652",
-      "summary": "Mobile: Some menu options are missing on the My vibes page after login but appear after logging out and signing in again.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2651",
-      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -1373,20 +1485,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2035",
-      "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2616",
       "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
       "status": "Open",
@@ -1411,20 +1509,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2041",
-      "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1807,20 +1891,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2026",
-      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1212",
       "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
       "status": "OnHold-For Vivre Setup",
@@ -1989,20 +2059,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2539",
-      "summary": "CTA is not response ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2547",
       "summary": "TV: Content remains inaccessible even after applying a valid coupon for Fliqs CP content.",
       "status": "Dev Complete",
@@ -2023,20 +2079,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "Kaltura",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2567",
-      "summary": "Web: Unable to play episodes of Game of Thrones in the Series section.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
       "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
@@ -2433,20 +2475,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-27",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -3147,20 +3175,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26267,6 +26281,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2399",
+      "summary": "Conviva- Unstructured SessionTags Column",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Unknown",
+      "created": "2026-02-27",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2496",
+      "summary": "Live Redesign Vivre Changes",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Vedant Kajale",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1841",
       "summary": "Playback double tap must present in full screen",
       "status": "Ready For Test",
@@ -26820,20 +26862,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-13",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2496",
-      "summary": "Live Redesign Vivre Changes",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Aniruddh Patil",
-      "platform": "Unknown",
-      "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27481,20 +27509,6 @@
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2399",
-      "summary": "Conviva- Unstructured SessionTags Column",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Unassigned",
-      "platform": "Unknown",
-      "created": "2026-02-27",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -33377,15 +33391,15 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 15,
-        "Testing On hold": 10,
+        "Ready For Test": 17,
+        "In Review": 2,
+        "Reopened": 3,
+        "Testing On hold": 8,
         "In Progress": 12,
         "Closed": 32,
         "Dev Complete": 3,
-        "Issue Accepted": 7,
+        "Issue Accepted": 6,
         "Onhold-For Tech Dependency": 3,
-        "In Review": 2,
-        "Reopened": 2,
         "Invalid": 2,
         "Not Reproducible": 1,
         "Parked": 1,
@@ -33441,6 +33455,76 @@
       "stories": 0,
       "total": 1774
     },
+    "Akash Kushwaha": {
+      "bugs": 78,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 81
+    },
+    "abhilash.ramesh": {
+      "bugs": 13,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 9,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 16
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
+    },
+    "avinash waghmare": {
+      "bugs": 5,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Javed Ali": {
+      "bugs": 28,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 33
+    },
+    "Unassigned": {
+      "bugs": 72,
+      "tasks": 30,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 109
+    },
+    "Vedant Kajale": {
+      "bugs": 1,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
+    },
     "kamaldeeps": {
       "bugs": 3,
       "tasks": 0,
@@ -33455,19 +33539,12 @@
       "stories": 0,
       "total": 12
     },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
     "Manikanta P": {
-      "bugs": 7,
+      "bugs": 6,
       "tasks": 9,
       "subtasks": 0,
       "stories": 1,
-      "total": 17
+      "total": 16
     },
     "Amudha Kaliamoorthi": {
       "bugs": 15,
@@ -33476,28 +33553,7 @@
       "stories": 0,
       "total": 34
     },
-    "shadab Hussain": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
-    "abhilash.ramesh": {
       "bugs": 12,
       "tasks": 3,
       "subtasks": 0,
@@ -33510,13 +33566,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Akash Kushwaha": {
-      "bugs": 81,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 84
     },
     "devaraj": {
       "bugs": 7,
@@ -33531,13 +33580,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 10
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 8,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 15
     },
     "Shubham Chauhan": {
       "bugs": 13,
@@ -33581,20 +33623,6 @@
       "stories": 0,
       "total": 34
     },
-    "Javed Ali": {
-      "bugs": 27,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 32
-    },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
-    },
     "Chiranjit Chatterjee": {
       "bugs": 2,
       "tasks": 0,
@@ -33602,19 +33630,12 @@
       "stories": 0,
       "total": 2
     },
-    "Unassigned": {
-      "bugs": 72,
-      "tasks": 30,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 109
-    },
     "Aniruddh Patil": {
       "bugs": 0,
-      "tasks": 6,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
+      "total": 5
     },
     "Moore Meghana": {
       "bugs": 11,
@@ -33650,13 +33671,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Vedant Kajale": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "Abhishek Dhok": {
       "bugs": 6,
@@ -33696,11 +33710,11 @@
   },
   "priority_breakdown": {
     "High": 550,
-    "Highest": 376,
-    "Medium": 891,
     "Low": 57,
+    "Medium": 891,
+    "Highest": 377,
     "Lowest": 2
   },
-  "updated_at": "2026-03-16T03:34:21Z",
-  "total_issues": 2404
+  "updated_at": "2026-03-16T05:58:02Z",
+  "total_issues": 2405
 }
