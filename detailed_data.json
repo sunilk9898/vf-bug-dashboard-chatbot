@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2497",
+      "summary": "TV: Resume playback not Functioning as expected",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2665",
+      "summary": "Naveen => Android TV new build v1.0.118 is getting crashed on Discovery and sony series ",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-16",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2666",
+      "summary": "Naveen => Android TV New Build v1.0.118 We are facing a flicker issue in this build.",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-16",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2673",
       "summary": "(Tamanna)- Getting wrong logo on Sony Pix HD live channel.",
       "status": "Open",
@@ -76,34 +118,6 @@
       "status": "Issue Accepted",
       "priority": "Highest",
       "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2665",
-      "summary": "Naveen => Android TV new build v1.0.118 is getting crashed on Discovery and sony series ",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2666",
-      "summary": "Naveen => Android TV New Build v1.0.118 We are facing a flicker issue in this build.",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-03-16",
       "updated": "2026-03-16",
@@ -1159,20 +1173,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2497",
-      "summary": "TV: Resume playback not Functioning as expected",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33573,14 +33573,14 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Dev Complete": 3,
+        "Dev Complete": 4,
         "Closed": 37,
         "Reopened": 3,
         "Ready For Test": 18,
-        "In Progress": 13,
         "Invalid": 2,
         "In Review": 2,
         "Testing On hold": 7,
+        "In Progress": 12,
         "Onhold-For Tech Dependency": 2,
         "Issue Accepted": 1,
         "Not Reproducible": 1,
@@ -33630,6 +33630,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Shubham Chauhan": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
     "Akash Kushwaha": {
       "bugs": 40,
       "tasks": 2,
@@ -33664,13 +33671,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Shubham Chauhan": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
     },
     "Alok Gupta": {
       "bugs": 15,
@@ -33892,11 +33892,11 @@
   },
   "priority_breakdown": {
     "Medium": 892,
-    "High": 555,
     "Highest": 383,
+    "High": 555,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-16T15:19:27Z",
+  "updated_at": "2026-03-16T17:18:13Z",
   "total_issues": 2418
 }
