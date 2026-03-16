@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2482",
+      "summary": "CTA is taking long time to appear ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2497",
       "summary": "TV: Resume playback not Functioning as expected",
       "status": "Dev Complete",
@@ -148,20 +162,6 @@
       "assignee": "Alok Gupta",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2482",
-      "summary": "CTA is taking long time to appear ",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -33630,6 +33630,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1477,
+      "tasks": 307,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1801
+    },
     "Shubham Chauhan": {
       "bugs": 16,
       "tasks": 6,
@@ -33673,18 +33680,11 @@
       "total": 14
     },
     "Alok Gupta": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 21
-    },
-    "vzyfeedback": {
-      "bugs": 1476,
-      "tasks": 307,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1800
+      "total": 20
     },
     "Aditya Shrivastava": {
       "bugs": 1,
@@ -33891,12 +33891,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 892,
     "Highest": 383,
+    "Medium": 892,
     "High": 555,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-16T17:18:13Z",
+  "updated_at": "2026-03-16T19:20:57Z",
   "total_issues": 2418
 }
