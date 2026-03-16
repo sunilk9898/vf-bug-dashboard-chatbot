@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2447",
+      "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-03-09",
+      "updated": "2026-03-16",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2546",
       "summary": "Clevertap In App Redirection not working for iOS",
       "status": "In Progress",
@@ -1943,20 +1957,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2447",
-      "summary": "(Shivani) - ON LG Samsung TV When I scan the Fliqs QR code from iOS, I am redirected to the Home page instead of the Order Summary page. However, when I uninstall the app and scan the QR code, it opens the web app and correctly shows Order Summary page.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-03-09",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33377,9 +33377,9 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Ready For Test": 15,
         "Testing On hold": 10,
         "In Progress": 12,
-        "Ready For Test": 15,
         "Closed": 32,
         "Dev Complete": 3,
         "Issue Accepted": 7,
@@ -33434,19 +33434,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "kamaldeeps": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
     "vzyfeedback": {
       "bugs": 1451,
       "tasks": 306,
       "subtasks": 12,
       "stories": 0,
       "total": 1774
+    },
+    "kamaldeeps": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -33695,12 +33695,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 550,
     "Highest": 376,
     "Medium": 891,
-    "High": 550,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-15T23:44:47Z",
+  "updated_at": "2026-03-16T03:34:21Z",
   "total_issues": 2404
 }
