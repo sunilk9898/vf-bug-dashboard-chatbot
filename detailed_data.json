@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2532",
+      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2663",
+      "summary": "Watch Now plays a random episode instead of the selected episode on Sony LIV",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2674",
+      "summary": "Player shows subscription QR code",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2661",
+      "summary": "LG and Samsung TV - Trailer not playing ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2633",
+      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2669",
+      "summary": "Naveen => Incorrect redirection after login via Content ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ATV",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2656",
+      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2592",
+      "summary": "Mobile(Device specific) : Unable to add content to Watchlist \u2013 Error message \u201cFailed to add to my watchlist\u201d",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2611",
+      "summary": "Mobile (Device specific): \u201cMore Like This\u201d button not functional for Laalo - Krishna Sada Sahaayate movie.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2535",
+      "summary": "Hungama content plays when clicking on Discovery content watch Now",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2538",
       "summary": "Trailer icon on JHS asset",
       "status": "Closed",
@@ -22,20 +176,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-11",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -141,20 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2592",
-      "summary": "Mobile(Device specific) : Unable to add content to Watchlist \u2013 Error message \u201cFailed to add to my watchlist\u201d",
-      "status": "In Progress",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2623",
       "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
       "status": "Dev Complete",
@@ -218,20 +344,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2661",
-      "summary": "LG and Samsung TV - Trailer not playing ",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-16",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -575,20 +687,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2532",
-      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2646",
       "summary": "Mobile : Paid video is not playing after subscription",
       "status": "Issue Accepted",
@@ -610,20 +708,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-12",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2611",
-      "summary": "Mobile (Device specific): \u201cMore Like This\u201d button not functional for Laalo - Krishna Sada Sahaayate movie.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -697,20 +781,6 @@
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2663",
-      "summary": "Watch Now plays a random episode instead of the selected episode on Sony LIV",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-16",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -841,20 +911,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2674",
-      "summary": "Player shows subscription QR code",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Vikas Mishra",
-      "platform": "ATV",
-      "created": "2026-03-17",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2589",
       "summary": "Mobile: Application displays blank page on launch",
       "status": "Reopened",
@@ -925,20 +981,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2656",
-      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2671",
       "summary": "(Shivani) - After clicking the Subscribe button, the QR code screen appears, which is correct. However, a banner is displayed instead of the logo on the screen.",
       "status": "On Hold- For Clarification",
@@ -960,20 +1002,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
       "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2669",
-      "summary": "Naveen => Incorrect redirection after login via Content ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-16",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1513,20 +1541,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2633",
-      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2607",
       "summary": "Mobile: Duplicate profiles can be created and app does not redirect to Home page after profile creation.",
       "status": "Issue Accepted",
@@ -1593,20 +1607,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2535",
-      "summary": "Hungama content plays when clicking on Discovery content watch Now",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33629,13 +33629,13 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Testing On hold": 8,
-        "Ready For Test": 13,
-        "Dev Complete": 4,
-        "Closed": 42,
-        "Reopened": 3,
+        "Dev Complete": 5,
+        "Testing On hold": 9,
+        "Closed": 43,
+        "Reopened": 2,
         "Invalid": 2,
         "In Review": 2,
+        "Ready For Test": 11,
         "In Progress": 12,
         "Onhold-For Tech Dependency": 2,
         "Not Reproducible": 1,
@@ -33686,25 +33686,32 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1480,
+      "bugs": 1485,
       "tasks": 308,
       "subtasks": 12,
       "stories": 0,
-      "total": 1805
+      "total": 1810
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
     },
     "Amudha Kaliamoorthi": {
-      "bugs": 17,
+      "bugs": 19,
       "tasks": 15,
       "subtasks": 0,
       "stories": 0,
-      "total": 36
+      "total": 38
     },
     "Yashika Krishnani": {
-      "bugs": 13,
+      "bugs": 10,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 11
     },
     "Dinjit Dinesh": {
       "bugs": 24,
@@ -33748,13 +33755,6 @@
       "stories": 0,
       "total": 16
     },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
@@ -33769,13 +33769,6 @@
       "stories": 0,
       "total": 21
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 10,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 17
-    },
     "Alok Gupta": {
       "bugs": 16,
       "tasks": 6,
@@ -33783,12 +33776,12 @@
       "stories": 0,
       "total": 22
     },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 3,
-      "subtasks": 0,
+    "Amit Kumar Tiwari": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 2,
       "stories": 0,
-      "total": 42
+      "total": 14
     },
     "Ajay Kushwaha": {
       "bugs": 11,
@@ -33866,6 +33859,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 13
+    },
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -33946,12 +33946,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 384,
     "Medium": 893,
-    "Low": 57,
+    "Highest": 384,
     "High": 557,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T13:52:18Z",
+  "updated_at": "2026-03-17T15:17:28Z",
   "total_issues": 2422
 }
