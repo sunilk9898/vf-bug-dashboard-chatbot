@@ -1,11 +1,95 @@
 {
   "bugs": [
     {
+      "key": "VF-2677",
+      "summary": "(Shivani) - Live TV tab >> free live tv Rail >> On clicking View All in the Free Live TV rail, the channels keep repeating while scrolling.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2676",
+      "summary": "Vivre - App Config Flag",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Ajay T",
+      "platform": "Unknown",
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2618",
+      "summary": "Mobile: Search result displayed are not relevant to the entered keyword ",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "abhilash.ramesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2661",
+      "summary": "LG and Samsung TV - Trailer not playing ",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2648",
+      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2605",
       "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
       "status": "Reopened",
       "priority": "High",
-      "assignee": "Javed Ali",
+      "assignee": "Dinjit Dinesh",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -134,20 +218,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2676",
-      "summary": "Vivre - App Config Flag",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Vedant Kajale",
-      "platform": "Unknown",
-      "created": "2026-03-17",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -323,20 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2571",
       "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
       "status": "Closed",
@@ -417,20 +473,6 @@
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2648",
-      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -631,20 +673,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2661",
-      "summary": "LG and Samsung TV - Trailer not playing ",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2658",
       "summary": "(Tamanna) - Jiohotstar new content \"Resort\" not available on search.",
       "status": "Closed",
@@ -734,20 +762,6 @@
       "status": "Reopened",
       "priority": "High",
       "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2618",
-      "summary": "Mobile: Search result displayed are not relevant to the entered keyword ",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "abhilash.ramesh",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -26491,20 +26505,6 @@
   ],
   "tasks": [
     {
-      "key": "VF-2496",
-      "summary": "Live Redesign Vivre Changes",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1971",
       "summary": "Parameter need to pass from VZY to plan & offer",
       "status": "Dev Complete",
@@ -26515,6 +26515,20 @@
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2496",
+      "summary": "Live Redesign Vivre Changes",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -33615,10 +33629,10 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Dev Complete": 5,
         "Closed": 42,
         "Testing On hold": 7,
         "Reopened": 3,
-        "Dev Complete": 5,
         "Ready For Test": 12,
         "Invalid": 2,
         "In Review": 2,
@@ -33672,33 +33686,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Javed Ali": {
-      "bugs": 35,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 40
-    },
     "Akash Kushwaha": {
-      "bugs": 34,
+      "bugs": 35,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 37
-    },
-    "Alok Gupta": {
-      "bugs": 17,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 23
-    },
-    "Dinjit Dinesh": {
-      "bugs": 22,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
+      "total": 38
     },
     "vzyfeedback": {
       "bugs": 1478,
@@ -33707,12 +33700,47 @@
       "stories": 0,
       "total": 1803
     },
-    "Vedant Kajale": {
-      "bugs": 2,
-      "tasks": 2,
+    "Suyog Lanje": {
+      "bugs": 4,
+      "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 4
+      "total": 11
+    },
+    "Ajay T": {
+      "bugs": 1,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "abhilash.ramesh": {
+      "bugs": 13,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
+    },
+    "Dinjit Dinesh": {
+      "bugs": 23,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
+    },
+    "Alok Gupta": {
+      "bugs": 17,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 23
     },
     "Yashika Krishnani": {
       "bugs": 12,
@@ -33728,6 +33756,13 @@
       "stories": 0,
       "total": 12
     },
+    "Javed Ali": {
+      "bugs": 34,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 39
+    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
@@ -33741,13 +33776,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 36
-    },
-    "Suyog Lanje": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -33763,26 +33791,12 @@
       "stories": 0,
       "total": 18
     },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
-    },
     "Vikas Mishra": {
       "bugs": 39,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 42
-    },
-    "abhilash.ramesh": {
-      "bugs": 13,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Ajay Kushwaha": {
       "bugs": 11,
@@ -33889,6 +33903,13 @@
       "stories": 0,
       "total": 6
     },
+    "Vedant Kajale": {
+      "bugs": 1,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "Abhishek Dhok": {
       "bugs": 6,
       "tasks": 1,
@@ -33923,22 +33944,15 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Ajay T": {
-      "bugs": 0,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
     }
   },
   "priority_breakdown": {
-    "High": 556,
+    "High": 557,
     "Low": 57,
-    "Medium": 893,
     "Highest": 384,
+    "Medium": 893,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T10:09:58Z",
-  "total_issues": 2421
+  "updated_at": "2026-03-17T11:09:45Z",
+  "total_issues": 2422
 }

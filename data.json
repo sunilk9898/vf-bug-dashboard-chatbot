@@ -49,7 +49,7 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 1,
       "REOPENED": 2,
       "IN REVIEW": 0,
@@ -73,11 +73,11 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 7,
+      "OPEN": 8,
       "IN PROGRESS": 0,
-      "REOPENED": 4,
+      "REOPENED": 5,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 22,
+      "ISSUE ACCEPTED": 21,
       "PARKED": 3
     },
     "SAM_TV": {
@@ -95,17 +95,9 @@
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 2
-    },
-    "Unknown": {
-      "OPEN": 0,
-      "IN PROGRESS": 1,
-      "REOPENED": 0,
-      "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
-      "PARKED": 0
     }
   },
-  "updated_at": "2026-03-17T10:09:58Z",
-  "total_issues_fetched": 2421,
+  "updated_at": "2026-03-17T11:09:45Z",
+  "total_issues_fetched": 2422,
   "project": "VF"
 }
