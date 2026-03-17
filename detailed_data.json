@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2656",
+      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2669",
+      "summary": "Naveen => Incorrect redirection after login via Content ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2532",
       "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
       "status": "Dev Complete",
@@ -63,34 +91,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2669",
-      "summary": "Naveen => Incorrect redirection after login via Content ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ATV",
-      "created": "2026-03-16",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2656",
-      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ATV",
       "created": "2026-03-13",
       "updated": "2026-03-17",
       "duedate": "",
@@ -33686,11 +33686,18 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1485,
+      "bugs": 1486,
       "tasks": 308,
       "subtasks": 12,
       "stories": 0,
-      "total": 1810
+      "total": 1811
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 8,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 15
     },
     "devaraj": {
       "bugs": 8,
@@ -33700,11 +33707,11 @@
       "total": 10
     },
     "Amudha Kaliamoorthi": {
-      "bugs": 19,
+      "bugs": 17,
       "tasks": 15,
       "subtasks": 0,
       "stories": 0,
-      "total": 38
+      "total": 36
     },
     "Yashika Krishnani": {
       "bugs": 10,
@@ -33775,13 +33782,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 22
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 14
     },
     "Ajay Kushwaha": {
       "bugs": 11,
@@ -33946,12 +33946,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 893,
-    "Highest": 384,
     "High": 557,
+    "Highest": 384,
+    "Medium": 893,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T15:17:28Z",
+  "updated_at": "2026-03-17T17:18:10Z",
   "total_issues": 2422
 }
