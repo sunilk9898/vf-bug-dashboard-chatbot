@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2589",
+      "summary": "Mobile: Application displays blank page on launch",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2605",
+      "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2614",
+      "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2616",
+      "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2618",
+      "summary": "Mobile: Search result displayed are not relevant to the entered keyword ",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "abhilash.ramesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2623",
+      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2597",
+      "summary": "Mobile: Hindi subtitles appear oversized and occupy half the screen while playing Priya short film.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2482",
       "summary": "CTA is taking long time to appear ",
       "status": "Testing On hold",
@@ -295,39 +407,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2589",
-      "summary": "Mobile: Application displays blank page on launch",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2591",
       "summary": "Mobile: OTP not received despite \u201cOTP sent successfully\u201d message during login.",
       "status": "Closed",
       "priority": "High",
       "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -412,34 +496,6 @@
       "status": "Closed",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2605",
-      "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2616",
-      "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -706,20 +762,6 @@
       "status": "Open",
       "priority": "High",
       "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2623",
-      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -1137,20 +1179,6 @@
     {
       "key": "VF-2607",
       "summary": "Mobile: Duplicate profiles can be created and app does not redirect to Home page after profile creation.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2597",
-      "summary": "Mobile: Hindi subtitles appear oversized and occupy half the screen while playing Priya short film.",
       "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "Yashika Krishnani",
@@ -1975,20 +2003,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2614",
-      "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2544",
       "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
       "status": "Dev Complete",
@@ -2191,20 +2205,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2618",
-      "summary": "Mobile: Search result displayed are not relevant to the entered keyword ",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -33630,12 +33630,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
+    "Javed Ali": {
+      "bugs": 43,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 48
+    },
+    "abhilash.ramesh": {
+      "bugs": 13,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
     "vzyfeedback": {
-      "bugs": 1477,
+      "bugs": 1475,
       "tasks": 307,
       "subtasks": 12,
       "stories": 0,
-      "total": 1801
+      "total": 1799
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -33645,11 +33666,11 @@
       "total": 22
     },
     "Akash Kushwaha": {
-      "bugs": 40,
+      "bugs": 37,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 43
+      "total": 40
     },
     "Suyog Lanje": {
       "bugs": 5,
@@ -33679,13 +33700,6 @@
       "stories": 0,
       "total": 14
     },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
     "Aditya Shrivastava": {
       "bugs": 1,
       "tasks": 5,
@@ -33714,13 +33728,6 @@
       "stories": 0,
       "total": 6
     },
-    "Javed Ali": {
-      "bugs": 40,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 45
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
@@ -33736,11 +33743,11 @@
       "total": 11
     },
     "Yashika Krishnani": {
-      "bugs": 11,
+      "bugs": 10,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 11
     },
     "kamaldeeps": {
       "bugs": 3,
@@ -33755,13 +33762,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "abhilash.ramesh": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "Unassigned": {
       "bugs": 72,
@@ -33891,12 +33891,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 383,
-    "Medium": 892,
     "High": 555,
     "Low": 57,
+    "Medium": 892,
+    "Highest": 383,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T01:03:58Z",
+  "updated_at": "2026-03-17T03:13:14Z",
   "total_issues": 2418
 }
