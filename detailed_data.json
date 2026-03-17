@@ -1,6 +1,300 @@
 {
   "bugs": [
     {
+      "key": "VF-2605",
+      "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2624",
+      "summary": "Mobile : No content displayed after selecting categories from dropdown.",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2628",
+      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2608",
+      "summary": "Mobile: SonyLiv featured videos not playing though video player opens.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2619",
+      "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2612",
+      "summary": "Mobile: Blank screen displayed when selecting Star Sports 1 HD from Popular on VZY in New & Now section.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2638",
+      "summary": "Mobile: Watch Now season and episode details do not update according to selected season for Taarak Mehta Ka Ooltah Chashmah",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2614",
+      "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2616",
+      "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2625",
+      "summary": "Mobile: Play/Pause button is not working during playback of Sony Sports Ten 1 HD in the Sports Major tab.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2676",
+      "summary": "Vivre - App Config Flag",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Vedant Kajale",
+      "platform": "Unknown",
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2626",
+      "summary": "Mobile : Watch Live button not working for Star Sports after searching",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2533",
+      "summary": "TV: After entering a valid OTP, the application briefly displays an \u201cInvalid OTP\u201d message before successfully logging in.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2672",
+      "summary": "(Shivani) - After selecting the Kids profile, the VZY logo should change to the Kids logo, but currently it is not changing.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2602",
+      "summary": "Mobile: Incorrect content plays when selecting Extended Highlights \u2013 Final India vs New Zealand in ICC Men's T20 World Cup section.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2383",
+      "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2552",
+      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2642",
+      "summary": "Mobile - FLIQS(Crashed):- Application closes automatically when the user clicks the Share button for the Malayalam FLiqs series \u201cAnchors Up.\u201d",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2623",
+      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2521",
+      "summary": "TV: Playback exits when selecting another episode in DBZ series",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2649",
       "summary": "Mobile: Video language shows English but the video plays in Hindi audio.",
       "status": "Dev Complete",
@@ -146,20 +440,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Dinjit Dinesh",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2642",
-      "summary": "Mobile - FLIQS(Crashed):- Application closes automatically when the user clicks the Share button for the Malayalam FLiqs series \u201cAnchors Up.\u201d",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -351,62 +631,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2625",
-      "summary": "Mobile: Play/Pause button is not working during playback of Sony Sports Ten 1 HD in the Sports Major tab.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2626",
-      "summary": "Mobile : Watch Live button not working for Star Sports after searching",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2628",
-      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2638",
-      "summary": "Mobile: Watch Now season and episode details do not update according to selected season for Taarak Mehta Ka Ooltah Chashmah",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2661",
       "summary": "LG and Samsung TV - Trailer not playing ",
       "status": "Dev Complete",
@@ -428,20 +652,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2672",
-      "summary": "(Shivani) - After selecting the Kids profile, the VZY logo should change to the Kids logo, but currently it is not changing.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-16",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -533,67 +743,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2605",
-      "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2614",
-      "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2616",
-      "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2618",
       "summary": "Mobile: Search result displayed are not relevant to the entered keyword ",
       "status": "Issue Accepted",
       "priority": "Low",
       "assignee": "abhilash.ramesh",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2623",
-      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -679,20 +833,6 @@
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
       "platform": "WEB",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
       "created": "2026-03-16",
       "updated": "2026-03-16",
       "duedate": "",
@@ -995,20 +1135,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2624",
-      "summary": "Mobile : No content displayed after selecting categories from dropdown.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2523",
       "summary": "TV: \u201cWatch Now\u201d button is not working and other buttons are displayed in red instead of the expected mixed color, causing a UI inconsistency.",
       "status": "Closed",
@@ -1128,20 +1254,6 @@
       "assignee": "Aniruddh Patil",
       "platform": "Mobile",
       "created": "2026-02-26",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2608",
-      "summary": "Mobile: SonyLiv featured videos not playing though video player opens.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1291,20 +1403,6 @@
     {
       "key": "VF-2613",
       "summary": "Mobile : Downloaded video \u201cMadhav \u2013 Every Child Needs\u201d not playing in offline mode.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2612",
-      "summary": "Mobile: Blank screen displayed when selecting Star Sports 1 HD from Popular on VZY in New & Now section.",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Javed Ali",
@@ -1467,20 +1565,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2602",
-      "summary": "Mobile: Incorrect content plays when selecting Extended Highlights \u2013 Final India vs New Zealand in ICC Men's T20 World Cup section.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1863,20 +1947,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2619",
-      "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2208",
       "summary": "FLIQS QR to subscribe / rent",
       "status": "Testing On hold",
@@ -2010,20 +2080,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2552",
-      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-12",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2787,20 +2843,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2521",
-      "summary": "TV: Playback exits when selecting another episode in DBZ series",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1197",
       "summary": "Something Went Wrong ",
       "status": "Ready For Test",
@@ -3263,20 +3305,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2533",
-      "summary": "TV: After entering a valid OTP, the application briefly displays an \u201cInvalid OTP\u201d message before successfully logging in.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2485",
       "summary": "(Tamanna) - Chaupal movie \"Gunaahgaar\" not available.",
       "status": "Closed",
@@ -3550,20 +3578,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-23",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2383",
-      "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
-      "status": "Invalid",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -33601,8 +33615,8 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Closed": 41,
-        "Testing On hold": 8,
+        "Closed": 42,
+        "Testing On hold": 7,
         "Reopened": 3,
         "Dev Complete": 5,
         "Ready For Test": 12,
@@ -33659,18 +33673,60 @@
   "releases": {},
   "assignee_workload": {
     "Javed Ali": {
-      "bugs": 43,
+      "bugs": 35,
       "tasks": 3,
       "subtasks": 2,
       "stories": 0,
-      "total": 48
+      "total": 40
+    },
+    "Akash Kushwaha": {
+      "bugs": 34,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 37
+    },
+    "Alok Gupta": {
+      "bugs": 17,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 23
+    },
+    "Dinjit Dinesh": {
+      "bugs": 22,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
     },
     "vzyfeedback": {
-      "bugs": 1477,
+      "bugs": 1478,
       "tasks": 308,
       "subtasks": 12,
       "stories": 0,
-      "total": 1802
+      "total": 1803
+    },
+    "Vedant Kajale": {
+      "bugs": 2,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "Yashika Krishnani": {
+      "bugs": 12,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "avinash waghmare": {
+      "bugs": 5,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
     },
     "BalaKumar": {
       "bugs": 14,
@@ -33678,20 +33734,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 22
-    },
-    "Dinjit Dinesh": {
-      "bugs": 16,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
-    "Yashika Krishnani": {
-      "bugs": 11,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Amudha Kaliamoorthi": {
       "bugs": 17,
@@ -33701,11 +33743,11 @@
       "total": 36
     },
     "Suyog Lanje": {
-      "bugs": 5,
+      "bugs": 4,
       "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 11
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -33720,20 +33762,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 18
-    },
-    "Alok Gupta": {
-      "bugs": 17,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 23
-    },
-    "Akash Kushwaha": {
-      "bugs": 34,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 37
     },
     "devaraj": {
       "bugs": 8,
@@ -33783,13 +33811,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "kamaldeeps": {
       "bugs": 3,
@@ -33868,13 +33889,6 @@
       "stories": 0,
       "total": 6
     },
-    "Vedant Kajale": {
-      "bugs": 1,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
     "Abhishek Dhok": {
       "bugs": 6,
       "tasks": 1,
@@ -33919,12 +33933,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 555,
+    "High": 556,
+    "Low": 57,
     "Medium": 893,
     "Highest": 384,
-    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T09:09:32Z",
-  "total_issues": 2420
+  "updated_at": "2026-03-17T10:09:58Z",
+  "total_issues": 2421
 }
