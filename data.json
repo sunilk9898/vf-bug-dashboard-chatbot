@@ -73,11 +73,11 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 8,
+      "OPEN": 7,
       "IN PROGRESS": 0,
-      "REOPENED": 5,
+      "REOPENED": 4,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 23,
+      "ISSUE ACCEPTED": 22,
       "PARKED": 3
     },
     "SAM_TV": {
@@ -97,7 +97,7 @@
       "PARKED": 2
     }
   },
-  "updated_at": "2026-03-17T07:31:51Z",
+  "updated_at": "2026-03-17T09:09:32Z",
   "total_issues_fetched": 2420,
   "project": "VF"
 }

@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2649",
+      "summary": "Mobile: Video language shows English but the video plays in Hindi audio.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2636",
+      "summary": "Mobile: Default audio language set to English but movie plays in Hindi for Dustbin.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2571",
+      "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2567",
+      "summary": "Web: Unable to play episodes of Game of Thrones in the Series section.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2504",
+      "summary": "TV: While opening any category, the application does not display the respective videos and automatically navigates back to the Home page.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2524",
       "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
       "status": "Closed",
@@ -309,20 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2636",
-      "summary": "Mobile: Default audio language set to English but movie plays in Hindi for Dustbin.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2638",
       "summary": "Mobile: Watch Now season and episode details do not update according to selected season for Taarak Mehta Ka Ooltah Chashmah",
       "status": "On Hold- For Clarification",
@@ -372,20 +442,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-16",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2567",
-      "summary": "Web: Unable to play episodes of Game of Thrones in the Series section.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-12",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -465,20 +521,6 @@
     {
       "key": "VF-2589",
       "summary": "Mobile: Application displays blank page on launch",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
       "status": "Reopened",
       "priority": "High",
       "assignee": "Alok Gupta",
@@ -1303,20 +1345,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2649",
-      "summary": "Mobile: Video language shows English but the video plays in Hindi audio.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2629",
       "summary": "Mobile: Channel Guide tab is inconsistently displayed for some Live TV channels.",
       "status": "Invalid",
@@ -1527,20 +1555,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2504",
-      "summary": "TV: While opening any category, the application does not display the respective videos and automatically navigates back to the Home page.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2574",
       "summary": "Web: \u201cTesting\u201d movie not playing after opening.",
       "status": "Invalid",
@@ -1565,20 +1579,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2571",
-      "summary": "Web: Blank screen displayed when trying to watch Thunderbolt T10 League 2026: Delhi Champions vs Punjab Lions live match in Sports module.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33601,11 +33601,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Closed": 40,
+        "Closed": 41,
         "Testing On hold": 8,
         "Reopened": 3,
         "Dev Complete": 5,
-        "Ready For Test": 13,
+        "Ready For Test": 12,
         "Invalid": 2,
         "In Review": 2,
         "In Progress": 12,
@@ -33658,12 +33658,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Javed Ali": {
+      "bugs": 43,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 48
+    },
     "vzyfeedback": {
-      "bugs": 1476,
+      "bugs": 1477,
       "tasks": 308,
       "subtasks": 12,
       "stories": 0,
-      "total": 1801
+      "total": 1802
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
     },
     "Dinjit Dinesh": {
       "bugs": 16,
@@ -33708,11 +33722,11 @@
       "total": 18
     },
     "Alok Gupta": {
-      "bugs": 18,
+      "bugs": 17,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 24
+      "total": 23
     },
     "Akash Kushwaha": {
       "bugs": 34,
@@ -33721,26 +33735,12 @@
       "stories": 0,
       "total": 37
     },
-    "Javed Ali": {
-      "bugs": 43,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 48
-    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 10
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
     },
     "Vikas Mishra": {
       "bugs": 39,
@@ -33919,12 +33919,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 555,
     "Medium": 893,
     "Highest": 384,
-    "High": 555,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T07:31:51Z",
+  "updated_at": "2026-03-17T09:09:32Z",
   "total_issues": 2420
 }
