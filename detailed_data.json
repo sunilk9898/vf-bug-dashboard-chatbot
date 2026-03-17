@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2628",
+      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2602",
+      "summary": "Mobile: Incorrect content plays when selecting Extended Highlights \u2013 Final India vs New Zealand in ICC Men's T20 World Cup section.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2622",
+      "summary": "Mobile : Watch Now button not working for some videos on the Home page.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2592",
+      "summary": "Mobile(Device specific) : Unable to add content to Watchlist \u2013 Error message \u201cFailed to add to my watchlist\u201d",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2623",
+      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2677",
       "summary": "(Shivani) - Live TV tab >> free live tv Rail >> On clicking View All in the Free Live TV rail, the channels keep repeating while scrolling.",
       "status": "Open",
@@ -104,20 +174,6 @@
       "status": "Not Reproducible",
       "priority": "High",
       "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2628",
-      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -281,20 +337,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2602",
-      "summary": "Mobile: Incorrect content plays when selecting Extended Highlights \u2013 Final India vs New Zealand in ICC Men's T20 World Cup section.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2383",
       "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
       "status": "Closed",
@@ -328,20 +370,6 @@
       "status": "Open",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2623",
-      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -498,20 +526,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-12",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2592",
-      "summary": "Mobile(Device specific) : Unable to add content to Watchlist \u2013 Error message \u201cFailed to add to my watchlist\u201d",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1322,20 +1336,6 @@
       "status": "Invalid",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2622",
-      "summary": "Mobile : Watch Now button not working for some videos on the Home page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -33686,6 +33686,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 13,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
+    "Javed Ali": {
+      "bugs": 35,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 40
+    },
     "Akash Kushwaha": {
       "bugs": 35,
       "tasks": 2,
@@ -33735,34 +33749,6 @@
       "stories": 0,
       "total": 42
     },
-    "Alok Gupta": {
-      "bugs": 17,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 23
-    },
-    "Yashika Krishnani": {
-      "bugs": 12,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "avinash waghmare": {
-      "bugs": 5,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
-    "Javed Ali": {
-      "bugs": 34,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 39
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
@@ -33790,6 +33776,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 18
+    },
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
     },
     "Vikas Mishra": {
       "bugs": 39,
@@ -33825,6 +33818,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "kamaldeeps": {
       "bugs": 3,
@@ -33953,6 +33953,6 @@
     "Medium": 893,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T11:09:45Z",
+  "updated_at": "2026-03-17T11:56:23Z",
   "total_issues": 2422
 }
