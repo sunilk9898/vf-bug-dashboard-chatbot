@@ -1,11 +1,109 @@
 {
   "bugs": [
     {
+      "key": "VF-2538",
+      "summary": "Trailer icon on JHS asset",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2497",
+      "summary": "TV: Resume playback not Functioning as expected",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2597",
+      "summary": "Mobile: Hindi subtitles appear oversized and occupy half the screen while playing Priya short film.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2664",
+      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "SAM_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2552",
+      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2628",
       "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
-      "status": "Issue Accepted",
+      "status": "Dev Complete",
       "priority": "High",
       "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2613",
+      "summary": "Mobile : Downloaded video \u201cMadhav \u2013 Every Child Needs\u201d not playing in offline mode.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -344,20 +442,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-26",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2552",
-      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-12",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -785,20 +869,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2597",
-      "summary": "Mobile: Hindi subtitles appear oversized and occupy half the screen while playing Priya short film.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2482",
       "summary": "CTA is taking long time to appear ",
       "status": "Testing On hold",
@@ -809,20 +879,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2497",
-      "summary": "TV: Resume playback not Functioning as expected",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -917,20 +973,6 @@
       "priority": "Highest",
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2664",
-      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "SAM_TV",
       "created": "2026-03-16",
       "updated": "2026-03-16",
       "duedate": "",
@@ -1415,20 +1457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2613",
-      "summary": "Mobile : Downloaded video \u201cMadhav \u2013 Every Child Needs\u201d not playing in offline mode.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2609",
       "summary": "Mobile: Like button missing in Movies, Series, and News despite Liked & Followed section in My Vibe.",
       "status": "Invalid",
@@ -1635,20 +1663,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2538",
-      "summary": "Trailer icon on JHS asset",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2500,20 +2514,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -33629,16 +33629,15 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Dev Complete": 5,
+        "Testing On hold": 8,
+        "Ready For Test": 13,
+        "Dev Complete": 4,
         "Closed": 42,
-        "Testing On hold": 7,
         "Reopened": 3,
-        "Ready For Test": 12,
         "Invalid": 2,
         "In Review": 2,
         "In Progress": 12,
         "Onhold-For Tech Dependency": 2,
-        "Issue Accepted": 1,
         "Not Reproducible": 1,
         "Parked": 1,
         "OnHold-For Vivre Setup": 1
@@ -33686,6 +33685,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1480,
+      "tasks": 308,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1805
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 17,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
     "Yashika Krishnani": {
       "bugs": 13,
       "tasks": 1,
@@ -33693,12 +33706,19 @@
       "stories": 0,
       "total": 14
     },
+    "Dinjit Dinesh": {
+      "bugs": 24,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 43
+    },
     "Javed Ali": {
-      "bugs": 35,
+      "bugs": 34,
       "tasks": 3,
       "subtasks": 2,
       "stories": 0,
-      "total": 40
+      "total": 39
     },
     "Akash Kushwaha": {
       "bugs": 35,
@@ -33706,13 +33726,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 38
-    },
-    "vzyfeedback": {
-      "bugs": 1478,
-      "tasks": 308,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1803
     },
     "Suyog Lanje": {
       "bugs": 4,
@@ -33742,13 +33755,6 @@
       "stories": 0,
       "total": 10
     },
-    "Dinjit Dinesh": {
-      "bugs": 23,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 42
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
@@ -33756,26 +33762,19 @@
       "stories": 0,
       "total": 22
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 17,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
-    },
     "Shubham Chauhan": {
-      "bugs": 16,
+      "bugs": 15,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 22
+      "total": 21
     },
     "Amit Kumar Tiwari": {
-      "bugs": 11,
+      "bugs": 10,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 18
+      "total": 17
     },
     "Alok Gupta": {
       "bugs": 16,
@@ -33947,12 +33946,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 557,
-    "Low": 57,
     "Highest": 384,
     "Medium": 893,
+    "Low": 57,
+    "High": 557,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T11:56:23Z",
+  "updated_at": "2026-03-17T13:52:18Z",
   "total_issues": 2422
 }
