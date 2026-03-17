@@ -1,6 +1,412 @@
 {
   "bugs": [
     {
+      "key": "VF-2524",
+      "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2531",
+      "summary": "TV: \"Magic Moments\" show not playing",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2532",
+      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2648",
+      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2646",
+      "summary": "Mobile : Paid video is not playing after subscription",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2642",
+      "summary": "Mobile - FLIQS(Crashed):- Application closes automatically when the user clicks the Share button for the Malayalam FLiqs series \u201cAnchors Up.\u201d",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2555",
+      "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2592",
+      "summary": "Mobile(Device specific) : Unable to add content to Watchlist \u2013 Error message \u201cFailed to add to my watchlist\u201d",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2611",
+      "summary": "Mobile (Device specific): \u201cMore Like This\u201d button not functional for Laalo - Krishna Sada Sahaayate movie.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2610",
+      "summary": "Mobile : Play button not working and Episodes option missing for Han River Police in K-Drama category.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2617",
+      "summary": "Mobile: CNN News18 channel not playable from Top English News in Live TV.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2539",
+      "summary": "CTA is not response ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2041",
+      "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2663",
+      "summary": "Watch Now plays a random episode instead of the selected episode on Sony LIV",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2035",
+      "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-02-06",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2644",
+      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2675",
+      "summary": "(Tamanna) - Live matches not visible on ioS and android.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2606",
+      "summary": "Mobile:Trailer continues playing in the background when the user clicks \u201cWatch Now\u201d, causing the trailer and movie/ad video to play simultaneously.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2625",
+      "summary": "Mobile: Play/Pause button is not working during playback of Sony Sports Ten 1 HD in the Sports Major tab.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2626",
+      "summary": "Mobile : Watch Live button not working for Star Sports after searching",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2628",
+      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2636",
+      "summary": "Mobile: Default audio language set to English but movie plays in Hindi for Dustbin.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2638",
+      "summary": "Mobile: Watch Now season and episode details do not update according to selected season for Taarak Mehta Ka Ooltah Chashmah",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2661",
+      "summary": "LG and Samsung TV - Trailer not playing ",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2658",
+      "summary": "(Tamanna) - Jiohotstar new content \"Resort\" not available on search.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-13",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2672",
+      "summary": "(Shivani) - After selecting the Kids profile, the VZY logo should change to the Kids logo, but currently it is not changing.",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2567",
+      "summary": "Web: Unable to play episodes of Game of Thrones in the Series section.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2670",
+      "summary": "(Shivani) - In the Unsubscribe pop-up, the digits 30 are displayed after \u20b979, whereas on the web it is displayed correctly.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2484",
       "summary": "App gets stuck middle of performing ",
       "status": "Closed",
@@ -337,20 +743,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2672",
-      "summary": "(Shivani) - After selecting the Kids profile, the VZY logo should change to the Kids logo, but currently it is not changing.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2654",
       "summary": "(Tamanna) - Issue: Banners Appearing Blurred in CP \u2013 Shemaroo.",
       "status": "Parked",
@@ -421,20 +813,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2638",
-      "summary": "Mobile: Watch Now season and episode details do not update according to selected season for Taarak Mehta Ka Ooltah Chashmah",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2590",
       "summary": "Mobile: Resume playback for Laalo-Krishna Sada Sahaayate starts from beginning instead of last watched position.",
       "status": "Closed",
@@ -442,20 +820,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2670",
-      "summary": "(Shivani) - In the Unsubscribe pop-up, the digits 30 are displayed after \u20b979, whereas on the web it is displayed correctly.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-16",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -617,38 +981,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2625",
-      "summary": "Mobile: Play/Pause button is not working during playback of Sony Sports Ten 1 HD in the Sports Major tab.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2641",
       "summary": "Mobile : Delay in loading content when switching between bottom navigation tabs.",
       "status": "Closed",
       "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2610",
-      "summary": "Mobile : Play button not working and Episodes option missing for Han River Police in K-Drama category.",
-      "status": "Ready For Test",
-      "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
@@ -715,52 +1051,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2661",
-      "summary": "LG and Samsung TV - Trailer not playing ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2632",
       "summary": "Mobile: Extra navigation options displayed and broken thumbnail for N.E.S.T movie in New Arrivals.",
       "status": "Open",
       "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2555",
-      "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2636",
-      "summary": "Mobile: Default audio language set to English but movie plays in Hindi for Dustbin.",
-      "status": "Open",
-      "priority": "High",
       "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
@@ -804,20 +1098,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2642",
-      "summary": "Mobile - FLIQS(Crashed):- Application closes automatically when the user clicks the Share button for the Malayalam FLiqs series \u201cAnchors Up.\u201d",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -883,20 +1163,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2644",
-      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2622",
       "summary": "Mobile : Watch Now button not working for some videos on the Home page.",
       "status": "Issue Accepted",
@@ -925,20 +1191,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2663",
-      "summary": "Watch Now plays a random episode instead of the selected episode on Sony LIV",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2598",
       "summary": "Mobile: Audio language not fully visible in Audio/Subtitles for Kalamkaval movie",
       "status": "Duplicate",
@@ -949,20 +1201,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-27",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1009,20 +1247,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2531",
-      "summary": "TV: \"Magic Moments\" show not playing",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2613",
       "summary": "Mobile : Downloaded video \u201cMadhav \u2013 Every Child Needs\u201d not playing in offline mode.",
       "status": "Issue Accepted",
@@ -1051,53 +1275,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2611",
-      "summary": "Mobile (Device specific): \u201cMore Like This\u201d button not functional for Laalo - Krishna Sada Sahaayate movie.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2609",
       "summary": "Mobile: Like button missing in Movies, Series, and News despite Liked & Followed section in My Vibe.",
       "status": "Invalid",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2606",
-      "summary": "Mobile:Trailer continues playing in the background when the user clicks \u201cWatch Now\u201d, causing the trailer and movie/ad video to play simultaneously.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2646",
-      "summary": "Mobile : Paid video is not playing after subscription",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -1135,39 +1317,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2648",
-      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2629",
       "summary": "Mobile: Channel Guide tab is inconsistently displayed for some Live TV channels.",
       "status": "Invalid",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2628",
-      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -1205,38 +1359,10 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2617",
-      "summary": "Mobile: CNN News18 channel not playable from Top English News in Live TV.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2607",
       "summary": "Mobile: Duplicate profiles can be created and app does not redirect to Home page after profile creation.",
       "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2592",
-      "summary": "Mobile(Device specific) : Unable to add content to Watchlist \u2013 Error message \u201cFailed to add to my watchlist\u201d",
-      "status": "Issue Accepted",
-      "priority": "Low",
       "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-03-13",
@@ -1331,20 +1457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2524",
-      "summary": "TV: In Nature\u2019s Ultimate Survivors \u2013 Speed episode, button colors appear in red instead of the standard color, and during playback the progress bar remains at the end while the timer continues.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2599",
       "summary": "Mobile: Liked videos from one profile are displayed in another profile",
       "status": "Invalid",
@@ -1366,20 +1478,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-03-09",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2532",
-      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -1555,34 +1653,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2035",
-      "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2041",
-      "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-06",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2651",
       "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
       "status": "Invalid",
@@ -1672,34 +1742,6 @@
       "status": "Closed",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-12",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2539",
-      "summary": "CTA is not response ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2567",
-      "summary": "Web: Unable to play episodes of Game of Thrones in the Series section.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-03-12",
       "updated": "2026-03-16",
@@ -1975,20 +2017,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2658",
-      "summary": "(Tamanna) - Jiohotstar new content \"Resort\" not available on search.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2552",
       "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
       "status": "Testing On hold",
@@ -2107,20 +2135,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-13",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2626",
-      "summary": "Mobile : Watch Live button not working for Star Sports after searching",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
@@ -26463,6 +26477,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2496",
+      "summary": "Live Redesign Vivre Changes",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-17",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1971",
       "summary": "Parameter need to pass from VZY to plan & offer",
       "status": "Dev Complete",
@@ -26470,7 +26498,7 @@
       "assignee": "Suyog Lanje",
       "platform": "ATV",
       "created": "2026-02-04",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
@@ -26542,20 +26570,6 @@
       "created": "2025-12-24",
       "updated": "2026-03-16",
       "duedate": "2026-03-13",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2496",
-      "summary": "Live Redesign Vivre Changes",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Ajay T",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-16",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -33587,13 +33601,13 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Dev Complete": 4,
-        "Closed": 37,
+        "Closed": 40,
+        "Testing On hold": 8,
         "Reopened": 3,
-        "Ready For Test": 18,
+        "Dev Complete": 5,
+        "Ready For Test": 13,
         "Invalid": 2,
         "In Review": 2,
-        "Testing On hold": 7,
         "In Progress": 12,
         "Onhold-For Tech Dependency": 2,
         "Issue Accepted": 1,
@@ -33645,11 +33659,46 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1475,
-      "tasks": 307,
+      "bugs": 1476,
+      "tasks": 308,
       "subtasks": 12,
       "stories": 0,
-      "total": 1799
+      "total": 1801
+    },
+    "Dinjit Dinesh": {
+      "bugs": 16,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Yashika Krishnani": {
+      "bugs": 11,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 17,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "Suyog Lanje": {
+      "bugs": 5,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Shubham Chauhan": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
     },
     "Amit Kumar Tiwari": {
       "bugs": 11,
@@ -33658,9 +33707,37 @@
       "stories": 0,
       "total": 18
     },
-    "Shubham Chauhan": {
-      "bugs": 16,
+    "Alok Gupta": {
+      "bugs": 18,
       "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 24
+    },
+    "Akash Kushwaha": {
+      "bugs": 34,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 37
+    },
+    "Javed Ali": {
+      "bugs": 43,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 48
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 10
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
       "subtasks": 0,
       "stories": 0,
       "total": 22
@@ -33672,47 +33749,12 @@
       "stories": 0,
       "total": 42
     },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
-    "Javed Ali": {
-      "bugs": 43,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 48
-    },
     "abhilash.ramesh": {
       "bugs": 13,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "Akash Kushwaha": {
-      "bugs": 37,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 40
-    },
-    "Suyog Lanje": {
-      "bugs": 5,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 17,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
     },
     "Ajay Kushwaha": {
       "bugs": 11,
@@ -33728,13 +33770,6 @@
       "stories": 0,
       "total": 6
     },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
-    },
     "Namrata Kurariya": {
       "bugs": 6,
       "tasks": 3,
@@ -33749,23 +33784,9 @@
       "stories": 0,
       "total": 6
     },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
     "avinash waghmare": {
       "bugs": 4,
       "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Yashika Krishnani": {
-      "bugs": 10,
-      "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 11
@@ -33777,26 +33798,12 @@
       "stories": 0,
       "total": 3
     },
-    "Ajay T": {
-      "bugs": 0,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
     "Unassigned": {
       "bugs": 72,
       "tasks": 30,
       "subtasks": 0,
       "stories": 0,
       "total": 109
-    },
-    "shadab Hussain": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -33812,19 +33819,19 @@
       "stories": 1,
       "total": 16
     },
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
     "Karan Mahboobani": {
       "bugs": 10,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
       "total": 13
-    },
-    "Dinjit Dinesh": {
-      "bugs": 15,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -33902,15 +33909,22 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
+    },
+    "Ajay T": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     }
   },
   "priority_breakdown": {
+    "Medium": 893,
     "Highest": 384,
     "High": 555,
     "Low": 57,
-    "Medium": 892,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T05:03:58Z",
-  "total_issues": 2419
+  "updated_at": "2026-03-17T07:31:51Z",
+  "total_issues": 2420
 }
