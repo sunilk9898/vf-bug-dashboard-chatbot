@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2680",
+      "summary": "(Shivani) - After entering the OTP, the Verify OTP button is not clickable.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel banner description text",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2644",
       "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
       "status": "In Review",
@@ -547,20 +589,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2489",
-      "summary": "Carousel banner description text",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2678",
       "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
       "status": "On Hold- For Clarification",
@@ -624,20 +652,6 @@
       "assignee": "Chiranjit Chatterjee",
       "platform": "Kaltura",
       "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2680",
-      "summary": "(Shivani) - After entering the OTP, the Verify OTP button is not clickable.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-18",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -823,20 +837,6 @@
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33762,6 +33762,27 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Ready For Test": 12,
+        "Testing On hold": 8,
+        "Reopened": 2,
+        "Dev Complete": 5,
+        "Closed": 43,
+        "Invalid": 2,
+        "In Review": 2,
+        "In Progress": 12,
+        "Onhold-For Tech Dependency": 2,
+        "Not Reproducible": 1,
+        "Parked": 1,
+        "OnHold-For Vivre Setup": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -33775,27 +33796,6 @@
         "Dev Complete": 1,
         "Ready For Test": 9,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Testing On hold": 8,
-        "Ready For Test": 11,
-        "Reopened": 3,
-        "Dev Complete": 5,
-        "Closed": 43,
-        "Invalid": 2,
-        "In Review": 2,
-        "In Progress": 12,
-        "Onhold-For Tech Dependency": 2,
-        "Not Reproducible": 1,
-        "Parked": 1,
-        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -33825,6 +33825,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1504,
+      "tasks": 311,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1832
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 8,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 15
+    },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "Javed Ali": {
       "bugs": 35,
       "tasks": 3,
@@ -33838,13 +33859,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 110
-    },
-    "vzyfeedback": {
-      "bugs": 1503,
-      "tasks": 311,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1831
     },
     "Alok Gupta": {
       "bugs": 15,
@@ -33861,11 +33875,11 @@
       "total": 37
     },
     "Akash Kushwaha": {
-      "bugs": 35,
+      "bugs": 34,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 38
+      "total": 37
     },
     "BalaKumar": {
       "bugs": 14,
@@ -33880,13 +33894,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 21
-    },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "shadab Hussain": {
       "bugs": 10,
@@ -33915,13 +33922,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 42
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 8,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 15
     },
     "Suyog Lanje": {
       "bugs": 4,
@@ -34086,12 +34086,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 562,
     "Highest": 388,
     "Medium": 894,
+    "High": 562,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-18T13:54:33Z",
+  "updated_at": "2026-03-18T15:38:51Z",
   "total_issues": 2432
 }
