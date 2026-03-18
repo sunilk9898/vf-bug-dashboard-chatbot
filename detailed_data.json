@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2644",
+      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2687",
+      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2686",
+      "summary": "Firetv - SunNXT content redirection successful, but error shown in SunNXT app after launch",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2685",
+      "summary": "FireTV - External CP launch pop-up not shown on Fire TV (ZEE5, JioHotstar, etc.)",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2547",
+      "summary": "TV: Content remains inaccessible even after applying a valid coupon for Fliqs CP content.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2456",
       "summary": "Fliqs content playback ",
       "status": "Closed",
@@ -148,20 +218,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-03-16",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2644",
-      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2624,20 +2680,6 @@
       "status": "Invalid",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2547",
-      "summary": "TV: Content remains inaccessible even after applying a valid coupon for Fliqs CP content.",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-03-12",
       "updated": "2026-03-12",
@@ -33783,6 +33825,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Javed Ali": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 42
+    },
+    "Akash Kushwaha": {
+      "bugs": 38,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 41
+    },
+    "Karan Mahboobani": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 13
+    },
     "vzyfeedback": {
       "bugs": 1497,
       "tasks": 311,
@@ -33796,13 +33859,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 37
-    },
-    "Javed Ali": {
-      "bugs": 37,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 42
     },
     "BalaKumar": {
       "bugs": 14,
@@ -33824,13 +33880,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 21
-    },
-    "Akash Kushwaha": {
-      "bugs": 35,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 38
     },
     "Alok Gupta": {
       "bugs": 14,
@@ -33965,13 +34014,6 @@
       "stories": 0,
       "total": 12
     },
-    "Karan Mahboobani": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 13
-    },
     "Manikanta P": {
       "bugs": 5,
       "tasks": 8,
@@ -34044,12 +34086,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 386,
-    "High": 561,
+    "High": 562,
+    "Highest": 388,
     "Medium": 894,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-18T11:11:14Z",
-  "total_issues": 2429
+  "updated_at": "2026-03-18T11:59:28Z",
+  "total_issues": 2432
 }
