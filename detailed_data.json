@@ -1,8 +1,120 @@
 {
   "bugs": [
     {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
+      "key": "VF-2662",
+      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "SAM_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2683",
+      "summary": "FireTV - Resume button not visible for Hoichoi content",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2549",
+      "summary": "Clevertap deeplink issue ",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-03-12",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2672",
+      "summary": "(Shivani) - After selecting the Kids profile, the VZY logo should change to the Kids logo, but currently it is not changing.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2421",
+      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-06",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2472",
+      "summary": "Naveen => New Releases First content not clickable in iOS production build",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2606",
+      "summary": "Mobile:Trailer continues playing in the background when the user clicks \u201cWatch Now\u201d, causing the trailer and movie/ad video to play simultaneously.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel banner description text",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2605",
+      "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
       "status": "Reopened",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -15,8 +127,106 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2605",
-      "summary": "Mobile: Watch Now button unresponsive for Scandinavia with Simon Reeve (S1:E1) in New Release category.",
+      "key": "VF-2678",
+      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2682",
+      "summary": "FireTv - Error observed while playing Shemaroo content \u201cChaniya Toli\u201d on clicking Watch Now",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2642",
+      "summary": "Mobile - FLIQS(Crashed):- Application closes automatically when the user clicks the Share button for the Malayalam FLiqs series \u201cAnchors Up.\u201d",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2648",
+      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2625",
+      "summary": "Mobile: Play/Pause button is not working during playback of Sony Sports Ten 1 HD in the Sports Major tab.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2681",
+      "summary": "Firetv - \u201cContinue Watching\u201d rail flickers for newly created profile",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2461",
+      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
       "status": "Reopened",
       "priority": "High",
       "assignee": "vzyfeedback",
@@ -99,34 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2625",
-      "summary": "Mobile: Play/Pause button is not working during playback of Sony Sports Ten 1 HD in the Sports Major tab.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2648",
-      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2589",
       "summary": "Mobile: Application displays blank page on launch",
       "status": "Reopened",
@@ -134,34 +316,6 @@
       "assignee": "Alok Gupta",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2642",
-      "summary": "Mobile - FLIQS(Crashed):- Application closes automatically when the user clicks the Share button for the Malayalam FLiqs series \u201cAnchors Up.\u201d",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel banner description text",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-03-10",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -189,20 +343,6 @@
       "priority": "Highest",
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2678",
-      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
       "created": "2026-03-18",
       "updated": "2026-03-18",
       "duedate": "",
@@ -911,20 +1051,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2672",
-      "summary": "(Shivani) - After selecting the Kids profile, the VZY logo should change to the Kids logo, but currently it is not changing.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "IOS",
-      "created": "2026-03-16",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2383",
       "summary": "Mobile: the user is unable to navigate to the web browser for completing payment and gets blocked in the payment process.",
       "status": "Closed",
@@ -1137,20 +1263,6 @@
     {
       "key": "VF-2644",
       "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2606",
-      "summary": "Mobile:Trailer continues playing in the background when the user clicks \u201cWatch Now\u201d, causing the trailer and movie/ad video to play simultaneously.",
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "Alok Gupta",
@@ -1555,20 +1667,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2662",
-      "summary": "LG Samsung - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "SAM_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2632",
       "summary": "Mobile: Extra navigation options displayed and broken thumbnail for N.E.S.T movie in New Arrivals.",
       "status": "Open",
@@ -1621,20 +1719,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2461",
-      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2255,20 +2339,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2549",
-      "summary": "Clevertap deeplink issue ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-03-12",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2587",
       "summary": "Mobile: Back navigation from Plans & Offers page redirects user to Home instead of My Vibe section.",
       "status": "Invalid",
@@ -2528,20 +2598,6 @@
       "assignee": "BalaKumar",
       "platform": "IOS",
       "created": "2026-03-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2472",
-      "summary": "Naveen => New Releases First content not clickable in iOS production build",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3956,20 +4012,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2421",
-      "summary": "(Tamanna) - Thumbnail Display Issue on Lionsgate Play Content.",
-      "status": "Invalid",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-06",
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26547,6 +26589,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2403",
+      "summary": "Play Flix CP integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1621",
       "summary": "AHA - Telugu/Tamil",
       "status": "Ready For Test",
@@ -27089,20 +27145,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2403",
-      "summary": "Play Flix CP integration",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-27",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -33729,17 +33771,10 @@
   "assignee_workload": {
     "vzyfeedback": {
       "bugs": 1495,
-      "tasks": 309,
+      "tasks": 310,
       "subtasks": 12,
       "stories": 0,
-      "total": 1821
-    },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
+      "total": 1822
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -33748,19 +33783,40 @@
       "stories": 0,
       "total": 7
     },
+    "Akash Kushwaha": {
+      "bugs": 34,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 37
+    },
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Javed Ali": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 42
+    },
+    "Alok Gupta": {
+      "bugs": 15,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
+    },
     "Chiranjit Chatterjee": {
       "bugs": 2,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 34
     },
     "Dinjit Dinesh": {
       "bugs": 17,
@@ -33769,26 +33825,12 @@
       "stories": 0,
       "total": 36
     },
-    "Javed Ali": {
-      "bugs": 35,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 40
-    },
     "Vedant Kajale": {
       "bugs": 2,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "shadab Hussain": {
-      "bugs": 10,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Vikas Mishra": {
       "bugs": 39,
@@ -33833,11 +33875,11 @@
       "total": 10
     },
     "Yashika Krishnani": {
-      "bugs": 10,
+      "bugs": 9,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 11
+      "total": 10
     },
     "Ajay T": {
       "bugs": 1,
@@ -33883,10 +33925,10 @@
     },
     "avinash waghmare": {
       "bugs": 4,
-      "tasks": 6,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 10
+      "total": 9
     },
     "kamaldeeps": {
       "bugs": 3,
@@ -33988,12 +34030,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 557,
+    "High": 560,
     "Highest": 386,
     "Medium": 894,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-18T07:18:23Z",
-  "total_issues": 2425
+  "updated_at": "2026-03-18T09:08:32Z",
+  "total_issues": 2428
 }
