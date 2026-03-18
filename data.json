@@ -29,7 +29,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 1,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -65,7 +65,7 @@
       "PARKED": 0
     },
     "LG_TV": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -77,7 +77,7 @@
       "IN PROGRESS": 1,
       "REOPENED": 9,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 15,
+      "ISSUE ACCEPTED": 16,
       "PARKED": 3
     },
     "SAM_TV": {
@@ -97,7 +97,7 @@
       "PARKED": 2
     }
   },
-  "updated_at": "2026-03-18T10:12:15Z",
+  "updated_at": "2026-03-18T11:11:14Z",
   "total_issues_fetched": 2429,
   "project": "VF"
 }

@@ -1,13 +1,41 @@
 {
   "bugs": [
     {
-      "key": "VF-2664",
-      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
-      "status": "Ready For Test",
+      "key": "VF-2456",
+      "summary": "Fliqs content playback ",
+      "status": "Closed",
       "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "SAM_TV",
-      "created": "2026-03-16",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2648",
+      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2612",
+      "summary": "Mobile: Blank screen displayed when selecting Star Sports 1 HD from Popular on VZY in New & Now section.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -31,11 +59,151 @@
     {
       "key": "VF-2614",
       "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
-      "status": "Closed",
+      "status": "Issue Accepted",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2645",
+      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2608",
+      "summary": "Mobile: SonyLiv featured videos not playing though video player opens.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2664",
+      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2671",
+      "summary": "(Shivani) - After clicking the Subscribe button, the QR code screen appears, which is correct. However, a banner is displayed instead of the logo on the screen.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2644",
+      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2432",
+      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch we are getting a loading screen first then redirecting on the order summary page",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2613",
+      "summary": "Mobile : Downloaded video \u201cMadhav \u2013 Every Child Needs\u201d not playing in offline mode.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Unassigned",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2483",
+      "summary": "Content unstable   ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -85,20 +253,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2671",
-      "summary": "(Shivani) - After clicking the Subscribe button, the QR code screen appears, which is correct. However, a banner is displayed instead of the logo on the screen.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2589",
       "summary": "Mobile: Application displays blank page on launch",
       "status": "Reopened",
@@ -134,20 +288,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2644",
-      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -309,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2648",
-      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2625",
       "summary": "Mobile: Play/Pause button is not working during playback of Sony Sports Ten 1 HD in the Sports Major tab.",
       "status": "Open",
@@ -368,48 +494,6 @@
       "key": "VF-2593",
       "summary": "Mobile: Home page is not loading after opening the application.",
       "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2608",
-      "summary": "Mobile: SonyLiv featured videos not playing though video player opens.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2612",
-      "summary": "Mobile: Blank screen displayed when selecting Star Sports 1 HD from Popular on VZY in New & Now section.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2613",
-      "summary": "Mobile : Downloaded video \u201cMadhav \u2013 Every Child Needs\u201d not playing in offline mode.",
-      "status": "Issue Accepted",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "Mobile",
@@ -540,20 +624,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2115,20 +2185,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2645",
-      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-13",
-      "updated": "2026-03-15",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2621",
       "summary": "Mobile: \u201cLAALO - KRISHNA SAADA SAHAYATE\u201d movie not playing though video player opens.",
       "status": "Not Reproducible",
@@ -2339,20 +2395,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2483",
-      "summary": "Content unstable   ",
-      "status": "Duplicate",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2643",
       "summary": "Mobile: Episodes in Premium Series are displayed in descending order",
       "status": "Open",
@@ -2507,20 +2549,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2456",
-      "summary": "Fliqs content playback ",
-      "status": "Not Reproducible",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2570",
       "summary": "Web: LinkedIn share option not working in Sports TV section",
       "status": "Not Reproducible",
@@ -2598,34 +2626,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2432",
-      "summary": "(Shivani)  Fliqs >> Rent >> while clicking on Rent button there is a glitch we are getting a loading screen first then redirecting on the order summary page",
-      "status": "Duplicate",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "IOS",
-      "created": "2026-03-06",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26603,6 +26603,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-525",
+      "summary": "Error Code Framework",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2025-11-17",
+      "updated": "2026-03-18",
+      "duedate": "2025-11-20",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2213",
+      "summary": "Fliqs Report \u2013 Dashboard Availability",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS",
+      "created": "2026-02-24",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2403",
       "summary": "Play Flix CP integration",
       "status": "Ready For Test",
@@ -26921,20 +26949,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2213",
-      "summary": "Fliqs Report \u2013 Dashboard Availability",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "CMS",
-      "created": "2026-02-24",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -27481,20 +27495,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-525",
-      "summary": "Error Code Framework",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-11-17",
-      "updated": "2026-03-09",
-      "duedate": "2025-11-20",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -33727,11 +33727,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 12,
+        "Testing On hold": 8,
+        "Ready For Test": 11,
         "Reopened": 3,
         "Dev Complete": 5,
         "Closed": 43,
-        "Testing On hold": 7,
         "Invalid": 2,
         "In Review": 2,
         "In Progress": 12,
@@ -33783,12 +33783,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Amudha Kaliamoorthi": {
-      "bugs": 17,
-      "tasks": 15,
-      "subtasks": 0,
+    "vzyfeedback": {
+      "bugs": 1497,
+      "tasks": 311,
+      "subtasks": 12,
       "stories": 0,
-      "total": 36
+      "total": 1825
     },
     "Dinjit Dinesh": {
       "bugs": 18,
@@ -33797,12 +33797,26 @@
       "stories": 0,
       "total": 37
     },
-    "vzyfeedback": {
-      "bugs": 1496,
-      "tasks": 310,
-      "subtasks": 12,
+    "Javed Ali": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 2,
       "stories": 0,
-      "total": 1823
+      "total": 42
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
+    "Unassigned": {
+      "bugs": 73,
+      "tasks": 30,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 110
     },
     "Shubham Chauhan": {
       "bugs": 15,
@@ -33819,11 +33833,11 @@
       "total": 38
     },
     "Alok Gupta": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 21
+      "total": 20
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -33838,13 +33852,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "Javed Ali": {
-      "bugs": 36,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 41
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -33881,6 +33888,13 @@
       "stories": 0,
       "total": 11
     },
+    "Amudha Kaliamoorthi": {
+      "bugs": 16,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
@@ -33908,13 +33922,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -33951,13 +33958,6 @@
       "stories": 0,
       "total": 3
     },
-    "Unassigned": {
-      "bugs": 72,
-      "tasks": 30,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 109
-    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 7,
@@ -33965,19 +33965,19 @@
       "stories": 0,
       "total": 12
     },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 16
-    },
     "Karan Mahboobani": {
       "bugs": 10,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
       "total": 13
+    },
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 14
     },
     "Moore Meghana": {
       "bugs": 11,
@@ -34050,6 +34050,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-18T10:12:15Z",
+  "updated_at": "2026-03-18T11:11:14Z",
   "total_issues": 2429
 }
