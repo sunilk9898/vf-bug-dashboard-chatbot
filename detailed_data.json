@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2588",
+      "summary": "Mobile: Trailer not playing for Paranthu Po movie in Sleepover Specials category.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2656",
       "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
       "status": "On Hold- For Clarification",
@@ -1394,20 +1408,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-03-12",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2588",
-      "summary": "Mobile: Trailer not playing for Paranthu Po movie in Sleepover Specials category.",
-      "status": "Invalid",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -33946,12 +33946,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 893,
     "High": 557,
     "Highest": 384,
-    "Medium": 893,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-17T23:47:40Z",
+  "updated_at": "2026-03-18T03:21:01Z",
   "total_issues": 2422
 }
