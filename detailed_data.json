@@ -1,6 +1,258 @@
 {
   "bugs": [
     {
+      "key": "VF-2586",
+      "summary": "Mobile: Audio and subtitle language text appears broken displaying only two characters.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2602",
+      "summary": "Mobile: Incorrect content plays when selecting Extended Highlights \u2013 Final India vs New Zealand in ICC Men's T20 World Cup section.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2608",
+      "summary": "Mobile: SonyLiv featured videos not playing though video player opens.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2617",
+      "summary": "Mobile: CNN News18 channel not playable from Top English News in Live TV.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2619",
+      "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2622",
+      "summary": "Mobile : Watch Now button not working for some videos on the Home page.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2623",
+      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2628",
+      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2649",
+      "summary": "Mobile: Video language shows English but the video plays in Hindi audio.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2636",
+      "summary": "Mobile: Default audio language set to English but movie plays in Hindi for Dustbin.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2481",
+      "summary": "Long time to load",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2516",
+      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2552",
+      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2478",
+      "summary": "Episode Listing Navigation",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2531",
+      "summary": "TV: \"Magic Moments\" show not playing",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2482",
+      "summary": "CTA is taking long time to appear ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2680",
       "summary": "(Shivani) - After entering the OTP, the Verify OTP button is not clickable.",
       "status": "Ready For Test",
@@ -62,34 +314,6 @@
       "status": "Not Reproducible",
       "priority": "High",
       "assignee": "Unassigned",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2602",
-      "summary": "Mobile: Incorrect content plays when selecting Extended Highlights \u2013 Final India vs New Zealand in ICC Men's T20 World Cup section.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-18",
@@ -239,34 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2636",
-      "summary": "Mobile: Default audio language set to English but movie plays in Hindi for Dustbin.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2649",
-      "summary": "Mobile: Video language shows English but the video plays in Hindi audio.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2511",
       "summary": "SARA rail",
       "status": "Reopened",
@@ -371,20 +567,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2608",
-      "summary": "Mobile: SonyLiv featured videos not playing though video player opens.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-18",
       "duedate": "",
@@ -680,20 +862,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2481",
-      "summary": "Long time to load",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1149,62 +1317,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2552",
-      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2628",
-      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2622",
-      "summary": "Mobile : Watch Now button not working for some videos on the Home page.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2623",
-      "summary": "Mobile: Watch Now button unresponsive on Home page movies despite multiple clicks",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2676",
       "summary": "Vivre - App Config Flag",
       "status": "Dev Complete",
@@ -1238,20 +1350,6 @@
       "status": "Not Reproducible",
       "priority": "High",
       "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2619",
-      "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -1359,20 +1457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2531",
-      "summary": "TV: \"Magic Moments\" show not playing",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2555",
       "summary": "TV: Unexpected language \u201ctr\u201d is displayed in the language list for episodes of the series \u201cEndless Love\u201d.",
       "status": "Closed",
@@ -1392,20 +1476,6 @@
       "status": "Closed",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2617",
-      "summary": "Mobile: CNN News18 channel not playable from Top English News in Live TV.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-17",
@@ -1507,20 +1577,6 @@
       "platform": "ATV",
       "created": "2026-03-10",
       "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2482",
-      "summary": "CTA is taking long time to appear ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -2171,20 +2227,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2586",
-      "summary": "Mobile: Audio and subtitle language text appears broken displaying only two characters.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2653",
       "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
       "status": "Issue Accepted",
@@ -2283,20 +2325,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-14",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1980",
       "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
       "status": "Dev Complete",
@@ -2353,20 +2381,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2478",
-      "summary": "Episode Listing Navigation",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2151",
       "summary": "FLIQS channel logos in Setting section",
       "status": "Testing On hold",
@@ -2391,20 +2405,6 @@
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2516",
-      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33762,27 +33762,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Ready For Test": 12,
-        "Testing On hold": 8,
-        "Reopened": 2,
-        "Dev Complete": 5,
-        "Closed": 43,
-        "Invalid": 2,
-        "In Review": 2,
-        "In Progress": 12,
-        "Onhold-For Tech Dependency": 2,
-        "Not Reproducible": 1,
-        "Parked": 1,
-        "OnHold-For Vivre Setup": 1
-      }
-    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -33790,12 +33769,33 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Testing On hold": 2,
+        "Ready For Test": 10,
         "Closed": 182,
         "In Progress": 1,
         "Dev Complete": 1,
-        "Ready For Test": 9,
+        "Testing On hold": 1,
         "Invalid": 1
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Ready For Test": 14,
+        "Closed": 44,
+        "Testing On hold": 5,
+        "Reopened": 2,
+        "Dev Complete": 5,
+        "Invalid": 2,
+        "In Review": 2,
+        "In Progress": 12,
+        "Onhold-For Tech Dependency": 2,
+        "Not Reproducible": 1,
+        "Parked": 1,
+        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -33826,11 +33826,25 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1504,
+      "bugs": 1507,
       "tasks": 311,
       "subtasks": 12,
       "stories": 0,
-      "total": 1832
+      "total": 1835
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 16,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Alok Gupta": {
+      "bugs": 15,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
     },
     "Amit Kumar Tiwari": {
       "bugs": 8,
@@ -33847,11 +33861,11 @@
       "total": 7
     },
     "Javed Ali": {
-      "bugs": 35,
+      "bugs": 34,
       "tasks": 3,
       "subtasks": 2,
       "stories": 0,
-      "total": 40
+      "total": 39
     },
     "Unassigned": {
       "bugs": 73,
@@ -33859,13 +33873,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 110
-    },
-    "Alok Gupta": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
     },
     "Dinjit Dinesh": {
       "bugs": 18,
@@ -33930,26 +33937,12 @@
       "stories": 0,
       "total": 11
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 16,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 10
-    },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Ajay T": {
       "bugs": 1,
@@ -33992,6 +33985,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "kamaldeeps": {
       "bugs": 3,
@@ -34086,12 +34086,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 388,
-    "Medium": 894,
     "High": 562,
     "Low": 57,
+    "Highest": 388,
+    "Medium": 894,
     "Lowest": 2
   },
-  "updated_at": "2026-03-18T15:38:51Z",
+  "updated_at": "2026-03-18T17:18:13Z",
   "total_issues": 2432
 }
