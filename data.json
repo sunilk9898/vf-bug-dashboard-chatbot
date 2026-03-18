@@ -11,7 +11,7 @@
     "ATV": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 0
@@ -50,7 +50,7 @@
     },
     "IOS": {
       "OPEN": 1,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 2,
       "REOPENED": 2,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
@@ -59,7 +59,7 @@
     "Kaltura": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
@@ -75,7 +75,7 @@
     "Mobile": {
       "OPEN": 8,
       "IN PROGRESS": 1,
-      "REOPENED": 5,
+      "REOPENED": 9,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 17,
       "PARKED": 3
@@ -97,7 +97,7 @@
       "PARKED": 2
     }
   },
-  "updated_at": "2026-03-18T03:21:01Z",
-  "total_issues_fetched": 2422,
+  "updated_at": "2026-03-18T05:42:26Z",
+  "total_issues_fetched": 2423,
   "project": "VF"
 }

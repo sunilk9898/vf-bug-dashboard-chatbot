@@ -1,6 +1,272 @@
 {
   "bugs": [
     {
+      "key": "VF-2582",
+      "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2677",
+      "summary": "(Shivani) - Live TV tab >> free live tv Rail >> On clicking View All in the Free Live TV rail, the channels keep repeating while scrolling.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-17",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2631",
+      "summary": "Web: Unauthorized account access via shared profile link without authentication",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2678",
+      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2539",
+      "summary": "CTA is not response ",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2497",
+      "summary": "TV: Resume playback not Functioning as expected",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2488",
+      "summary": "Content unstable   ",
+      "status": "Not Reproducible",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2640",
+      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2596",
+      "summary": "Mobile: Download not initiated from Transaction History despite \u201cWe are processing your request\u201d message.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2550",
+      "summary": "2:3 Thumbnail images",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-03-12",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2609",
+      "summary": "Mobile: Like button missing in Movies, Series, and News despite Liked & Followed section in My Vibe.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2599",
+      "summary": "Mobile: Liked videos from one profile are displayed in another profile",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2652",
+      "summary": "Mobile: Some menu options are missing on the My vibes page after login but appear after logging out and signing in again.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2639",
+      "summary": "Mobile: Privacy Policy page takes an unusually long time to load from Help & Support.",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2637",
+      "summary": "Mobile : Search functionality does not support movie titles with less than 3 characters.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2651",
+      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2588",
       "summary": "Mobile: Trailer not playing for Paranthu Po movie in Sleepover Specials category.",
       "status": "Invalid",
@@ -127,20 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2611",
       "summary": "Mobile (Device specific): \u201cMore Like This\u201d button not functional for Laalo - Krishna Sada Sahaayate movie.",
       "status": "Issue Accepted",
@@ -179,20 +431,6 @@
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2497",
-      "summary": "TV: Resume playback not Functioning as expected",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -302,20 +540,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2677",
-      "summary": "(Shivani) - Live TV tab >> free live tv Rail >> On clicking View All in the Free Live TV rail, the channels keep repeating while scrolling.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
-      "created": "2026-03-17",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -757,20 +981,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2539",
-      "summary": "CTA is not response ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2041",
       "summary": "LG TV: Next Episode playback does not follow correct episode sequence for Red Card Giovanni Di Lorenzo content.",
       "status": "Closed",
@@ -911,20 +1121,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2488",
-      "summary": "Content unstable   ",
-      "status": "Not Reproducible",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2589",
       "summary": "Mobile: Application displays blank page on launch",
       "status": "Reopened",
@@ -1002,20 +1198,6 @@
       "assignee": "Amudha Kaliamoorthi",
       "platform": "LG_TV",
       "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2582",
-      "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-13",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1139,20 +1321,6 @@
       "summary": "Device Specific(Mobile): Sports subcategory tiles (Cricket, Football, Formula 1, Kabaddi, Tennis) are unresponsive on Home page.",
       "status": "Closed",
       "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2596",
-      "summary": "Mobile: Download not initiated from Transaction History despite \u201cWe are processing your request\u201d message.",
-      "status": "Invalid",
-      "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
@@ -1485,20 +1653,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2609",
-      "summary": "Mobile: Like button missing in Movies, Series, and News despite Liked & Followed section in My Vibe.",
-      "status": "Invalid",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2647",
       "summary": "Mobile: Mobile: Fliqs section are not displayed on the Home Page",
       "status": "OnHold-For Vivre Setup",
@@ -1555,20 +1709,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2550",
-      "summary": "2:3 Thumbnail images",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-03-12",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2198",
       "summary": "FLIQS Order summary page",
       "status": "Closed",
@@ -1602,20 +1742,6 @@
       "status": "Issue Accepted",
       "priority": "Low",
       "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2599",
-      "summary": "Mobile: Liked videos from one profile are displayed in another profile",
-      "status": "Invalid",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -1723,67 +1849,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2639",
-      "summary": "Mobile: Privacy Policy page takes an unusually long time to load from Help & Support.",
-      "status": "Invalid",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2586",
       "summary": "Mobile: Audio and subtitle language text appears broken displaying only two characters.",
       "status": "Testing On hold",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2640",
-      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
-      "status": "Invalid",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2651",
-      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
-      "status": "Invalid",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2652",
-      "summary": "Mobile: Some menu options are missing on the My vibes page after login but appear after logging out and signing in again.",
-      "status": "Invalid",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -1821,20 +1891,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2655",
       "summary": "Mobile: Episode 1 of \u201cDebt to the Sea\u201d Not Playable in Fliqs Premium Series",
       "status": "Issue Accepted",
@@ -1857,20 +1913,6 @@
       "platform": "WEB",
       "created": "2026-03-12",
       "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-15",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -1982,20 +2024,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-24",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2637",
-      "summary": "Mobile : Search functionality does not support movie titles with less than 3 characters.",
-      "status": "Invalid",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2136,20 +2164,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-03-12",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2631",
-      "summary": "Web: Unauthorized account access via shared profile link without authentication",
-      "status": "Not Reproducible",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -33629,13 +33643,13 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Reopened": 3,
+        "Ready For Test": 12,
         "Dev Complete": 5,
-        "Testing On hold": 9,
         "Closed": 43,
-        "Reopened": 2,
+        "Testing On hold": 7,
         "Invalid": 2,
         "In Review": 2,
-        "Ready For Test": 11,
         "In Progress": 12,
         "Onhold-For Tech Dependency": 2,
         "Not Reproducible": 1,
@@ -33685,12 +33699,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 33,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 36
+    },
+    "shadab Hussain": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
     "vzyfeedback": {
-      "bugs": 1486,
+      "bugs": 1487,
       "tasks": 308,
       "subtasks": 12,
       "stories": 0,
-      "total": 1811
+      "total": 1812
     },
     "Amit Kumar Tiwari": {
       "bugs": 8,
@@ -33699,19 +33727,40 @@
       "stories": 0,
       "total": 15
     },
+    "Suyog Lanje": {
+      "bugs": 4,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Shubham Chauhan": {
+      "bugs": 15,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 18,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
+    "Javed Ali": {
+      "bugs": 35,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 40
+    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 10
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 17,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
     },
     "Yashika Krishnani": {
       "bugs": 10,
@@ -33726,27 +33775,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 43
-    },
-    "Javed Ali": {
-      "bugs": 34,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 39
-    },
-    "Akash Kushwaha": {
-      "bugs": 35,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 38
-    },
-    "Suyog Lanje": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "Ajay T": {
       "bugs": 1,
@@ -33769,13 +33797,6 @@
       "stories": 0,
       "total": 22
     },
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
     "Alok Gupta": {
       "bugs": 16,
       "tasks": 6,
@@ -33783,19 +33804,19 @@
       "stories": 0,
       "total": 22
     },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "Aditya Shrivastava": {
       "bugs": 1,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 6
+    },
+    "Ajay Kushwaha": {
+      "bugs": 10,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
     },
     "Namrata Kurariya": {
       "bugs": 6,
@@ -33845,13 +33866,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 16
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Karan Mahboobani": {
       "bugs": 10,
@@ -33946,12 +33960,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 893,
     "High": 557,
+    "Medium": 894,
     "Highest": 384,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-18T03:21:01Z",
-  "total_issues": 2422
+  "updated_at": "2026-03-18T05:42:26Z",
+  "total_issues": 2423
 }
