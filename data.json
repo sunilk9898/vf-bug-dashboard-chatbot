@@ -9,7 +9,7 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 5,
+      "OPEN": 6,
       "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
@@ -49,7 +49,7 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 1,
       "REOPENED": 2,
       "IN REVIEW": 0,
@@ -65,7 +65,7 @@
       "PARKED": 0
     },
     "LG_TV": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -77,11 +77,11 @@
       "IN PROGRESS": 1,
       "REOPENED": 9,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 16,
+      "ISSUE ACCEPTED": 15,
       "PARKED": 3
     },
     "SAM_TV": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -97,7 +97,7 @@
       "PARKED": 2
     }
   },
-  "updated_at": "2026-03-18T09:08:32Z",
-  "total_issues_fetched": 2428,
+  "updated_at": "2026-03-18T10:12:15Z",
+  "total_issues_fetched": 2429,
   "project": "VF"
 }

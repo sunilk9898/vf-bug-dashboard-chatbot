@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2664",
+      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "SAM_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2606",
+      "summary": "Mobile:Trailer continues playing in the background when the user clicks \u201cWatch Now\u201d, causing the trailer and movie/ad video to play simultaneously.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2614",
+      "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2488",
+      "summary": "Content unstable   ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2684",
+      "summary": "FireTV - No notification message shown when liking Fliqs content",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2671",
+      "summary": "(Shivani) - After clicking the Subscribe button, the QR code screen appears, which is correct. However, a banner is displayed instead of the logo on the screen.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2589",
+      "summary": "Mobile: Application displays blank page on launch",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2616",
+      "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2644",
+      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-18",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2662",
       "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
       "status": "Issue Accepted",
@@ -78,20 +232,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2606",
-      "summary": "Mobile:Trailer continues playing in the background when the user clicks \u201cWatch Now\u201d, causing the trailer and movie/ad video to play simultaneously.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -272,48 +412,6 @@
       "status": "Issue Accepted",
       "priority": "High",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2614",
-      "summary": "Mobile: Playback fails for Star Movies HD in Popular on VZY category and redirects user to the same page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2616",
-      "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2589",
-      "summary": "Mobile: Application displays blank page on launch",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Alok Gupta",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-18",
@@ -617,20 +715,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2488",
-      "summary": "Content unstable   ",
-      "status": "Not Reproducible",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2640",
       "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
       "status": "Reopened",
@@ -897,20 +981,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2664",
-      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "SAM_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2552",
       "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
       "status": "Testing On hold",
@@ -1016,20 +1086,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-16",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1261,20 +1317,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2644",
-      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2658",
       "summary": "(Tamanna) - Jiohotstar new content \"Resort\" not available on search.",
       "status": "Closed",
@@ -1379,20 +1421,6 @@
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
       "platform": "WEB",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2671",
-      "summary": "(Shivani) - After clicking the Subscribe button, the QR code screen appears, which is correct. However, a banner is displayed instead of the logo on the screen.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "LG_TV",
       "created": "2026-03-16",
       "updated": "2026-03-16",
       "duedate": "",
@@ -3829,20 +3857,6 @@
       "priority": "Low",
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2534",
-      "summary": "Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
       "created": "2026-03-11",
       "updated": "2026-03-11",
       "duedate": "",
@@ -33769,12 +33783,47 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amudha Kaliamoorthi": {
+      "bugs": 17,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
     "vzyfeedback": {
-      "bugs": 1495,
+      "bugs": 1496,
       "tasks": 310,
       "subtasks": 12,
       "stories": 0,
-      "total": 1822
+      "total": 1823
+    },
+    "Shubham Chauhan": {
+      "bugs": 15,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
+    },
+    "Akash Kushwaha": {
+      "bugs": 35,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 38
+    },
+    "Alok Gupta": {
+      "bugs": 15,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -33782,13 +33831,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Akash Kushwaha": {
-      "bugs": 34,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 37
     },
     "shadab Hussain": {
       "bugs": 10,
@@ -33798,18 +33840,11 @@
       "total": 13
     },
     "Javed Ali": {
-      "bugs": 37,
+      "bugs": 36,
       "tasks": 3,
       "subtasks": 2,
       "stories": 0,
-      "total": 42
-    },
-    "Alok Gupta": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
+      "total": 41
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -33817,13 +33852,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "Dinjit Dinesh": {
-      "bugs": 17,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
     },
     "Vedant Kajale": {
       "bugs": 2,
@@ -33852,20 +33880,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 18,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 37
     },
     "devaraj": {
       "bugs": 8,
@@ -34030,12 +34044,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 560,
     "Highest": 386,
+    "High": 561,
     "Medium": 894,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-18T09:08:32Z",
-  "total_issues": 2428
+  "updated_at": "2026-03-18T10:12:15Z",
+  "total_issues": 2429
 }
