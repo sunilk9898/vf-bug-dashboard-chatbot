@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2696",
+      "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-02-27",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2392",
+      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "Aniruddh Patil",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2474",
       "summary": "Carousel Load time",
       "status": "Reopened",
@@ -543,20 +599,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1296,20 +1338,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-03-18",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2549",
-      "summary": "Clevertap deeplink issue ",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-03-12",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2227,20 +2255,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2392",
-      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "Aniruddh Patil",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2594",
       "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
       "status": "Issue Accepted",
@@ -2545,20 +2559,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-02-27",
-      "updated": "2026-03-15",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26729,6 +26729,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2549",
+      "summary": "Clevertap deeplink issue ",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-03-12",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2493",
       "summary": "A different / custom thank you page is shown for subscription orders",
       "status": "Dev Complete",
@@ -33881,13 +33895,13 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Ready For Test": 11,
         "Reopened": 5,
-        "Ready For Test": 9,
         "Closed": 53,
-        "Testing On hold": 5,
         "In Review": 2,
         "Invalid": 2,
         "In Progress": 11,
+        "Testing On hold": 3,
         "Onhold-For Tech Dependency": 1,
         "Dev Complete": 1,
         "Not Reproducible": 1,
@@ -33939,12 +33953,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Ajay Kushwaha": {
-      "bugs": 10,
+    "shadab Hussain": {
+      "bugs": 8,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 12
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
     },
     "vzyfeedback": {
       "bugs": 1510,
@@ -33952,6 +33973,20 @@
       "subtasks": 12,
       "stories": 0,
       "total": 1837
+    },
+    "Aniruddh Patil": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "Ajay Kushwaha": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
     },
     "Akash Kushwaha": {
       "bugs": 36,
@@ -34037,13 +34072,6 @@
       "stories": 0,
       "total": 20
     },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 38
-    },
     "Srinidhi.Raju": {
       "bugs": 1,
       "tasks": 0,
@@ -34079,13 +34107,6 @@
       "stories": 0,
       "total": 22
     },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Amit Kumar Tiwari": {
       "bugs": 7,
       "tasks": 5,
@@ -34113,13 +34134,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Aniruddh Patil": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -34207,12 +34221,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 897,
-    "High": 565,
-    "Highest": 388,
+    "Medium": 898,
+    "Highest": 387,
     "Low": 57,
+    "High": 565,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T11:51:04Z",
-  "total_issues": 2440
+  "updated_at": "2026-03-19T13:43:15Z",
+  "total_issues": 2441
 }
