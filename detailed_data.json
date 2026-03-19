@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2162",
+      "summary": "Blank screen appears on TV when screencasting content",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2692",
+      "summary": "Clevertap anonymous user journey get breaks ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2586",
+      "summary": "Mobile: Audio and subtitle language text appears broken displaying only two characters.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2602",
+      "summary": "Mobile: Incorrect content plays when selecting Extended Highlights \u2013 Final India vs New Zealand in ICC Men's T20 World Cup section.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2608",
+      "summary": "Mobile: SonyLiv featured videos not playing though video player opens.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2617",
+      "summary": "Mobile: CNN News18 channel not playable from Top English News in Live TV.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2673",
+      "summary": "(Tamanna)- Getting wrong logo on Sony Pix HD live channel.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-03-16",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2619",
+      "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2622",
       "summary": "Mobile : Watch Now button not working for some videos on the Home page.",
       "status": "Closed",
@@ -379,90 +505,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2673",
-      "summary": "(Tamanna)- Getting wrong logo on Sony Pix HD live channel.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-03-16",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2586",
-      "summary": "Mobile: Audio and subtitle language text appears broken displaying only two characters.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2602",
-      "summary": "Mobile: Incorrect content plays when selecting Extended Highlights \u2013 Final India vs New Zealand in ICC Men's T20 World Cup section.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2608",
-      "summary": "Mobile: SonyLiv featured videos not playing though video player opens.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2617",
-      "summary": "Mobile: CNN News18 channel not playable from Top English News in Live TV.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2619",
-      "summary": "Mobile: Gender option \u201cOther\u201d not properly aligned in Edit Profile section.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2628",
       "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
       "status": "Ready For Test",
@@ -473,20 +515,6 @@
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2162",
-      "summary": "(Shruti) Blank screen appears on TV when screencasting content",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2475,20 +2503,6 @@
       "updated": "2026-03-14",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33825,10 +33839,10 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 19,
+        "Testing On hold": 6,
+        "Ready For Test": 18,
         "Closed": 45,
         "In Review": 3,
-        "Testing On hold": 5,
         "Reopened": 2,
         "Invalid": 2,
         "In Progress": 11,
@@ -33845,11 +33859,11 @@
       "stories": 0,
       "total": 196,
       "statuses": {
+        "Closed": 184,
         "Reopened": 1,
-        "Closed": 183,
-        "Ready For Test": 8,
         "In Progress": 1,
         "Dev Complete": 1,
+        "Ready For Test": 7,
         "Testing On hold": 1,
         "Invalid": 1
       }
@@ -33890,11 +33904,18 @@
       "total": 1836
     },
     "Dinjit Dinesh": {
-      "bugs": 19,
+      "bugs": 20,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 38
+      "total": 39
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 16,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
     },
     "Srinidhi.Raju": {
       "bugs": 1,
@@ -33965,13 +33986,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 16,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "Amit Kumar Tiwari": {
       "bugs": 8,
@@ -34150,12 +34164,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 564,
-    "Medium": 894,
     "Highest": 388,
+    "Medium": 895,
+    "High": 564,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T07:14:54Z",
-  "total_issues": 2436
+  "updated_at": "2026-03-19T07:58:10Z",
+  "total_issues": 2437
 }
