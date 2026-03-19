@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2648",
+      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2692",
+      "summary": "Clevertap android anonymous user journey get breaks ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2693",
+      "summary": "2:3 carousel bottom shadow",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2638",
+      "summary": "Mobile: Watch Now season and episode details do not update according to selected season for Taarak Mehta Ka Ooltah Chashmah",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2599",
+      "summary": "Mobile: Liked videos from one profile are displayed in another profile",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2671",
+      "summary": "(Shivani) - After clicking the Subscribe button, the QR code screen appears, which is correct. However, a banner is displayed instead of the logo on the screen.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2398",
       "summary": "Missing Viewer IDs in conviva s3 dump",
       "status": "Closed",
@@ -347,34 +459,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2693",
-      "summary": "2:3 carousel bottom shadow",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2692",
-      "summary": "Clevertap anonymous user journey get breaks ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1009,20 +1093,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2648",
-      "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
-      "status": "Not Reproducible",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2642",
       "summary": "Mobile - FLIQS(Crashed):- Application closes automatically when the user clicks the Share button for the Malayalam FLiqs series \u201cAnchors Up.\u201d",
       "status": "Not Reproducible",
@@ -1093,40 +1163,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2664",
       "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
       "status": "Ready For Test",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "SAM_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2671",
-      "summary": "(Shivani) - After clicking the Subscribe button, the QR code screen appears, which is correct. However, a banner is displayed instead of the logo on the screen.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
       "created": "2026-03-16",
       "updated": "2026-03-18",
       "duedate": "",
@@ -1373,20 +1415,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2638",
-      "summary": "Mobile: Watch Now season and episode details do not update according to selected season for Taarak Mehta Ka Ooltah Chashmah",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2473",
       "summary": "Pink highlight color",
       "status": "Ready For Test",
@@ -1490,20 +1518,6 @@
       "status": "Closed",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2599",
-      "summary": "Mobile: Liked videos from one profile are displayed in another profile",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-18",
@@ -26701,6 +26715,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1896",
+      "summary": "CleverTap Pending task (IOS)",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-01-29",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1489",
       "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
       "status": "Issue Accepted",
@@ -27184,20 +27212,6 @@
       "assignee": "Aditya Shrivastava",
       "platform": "LG_TV",
       "created": "2025-12-24",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1896",
-      "summary": "CleverTap Pending task (IOS)",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-01-29",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -33507,6 +33521,20 @@
   ],
   "subtasks": [
     {
+      "key": "VF-1967",
+      "summary": "Android - Branch.io Intregation (Standered)",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-04",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-632",
       "summary": "Information Pop Up Information pop-up for out of app play, auto redirect - Web",
       "status": "Closed",
@@ -33541,20 +33569,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "IOS",
-      "created": "2026-02-04",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Sub-task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1967",
-      "summary": "Android - Branch.io Intregation (Standered)",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
       "created": "2026-02-04",
       "updated": "2026-03-03",
       "duedate": "",
@@ -33853,10 +33867,10 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Ready For Test": 10,
         "Closed": 53,
-        "Ready For Test": 9,
         "Reopened": 4,
-        "Testing On hold": 6,
+        "Testing On hold": 5,
         "In Review": 2,
         "Invalid": 2,
         "In Progress": 11,
@@ -33864,6 +33878,18 @@
         "Dev Complete": 1,
         "Not Reproducible": 1,
         "Parked": 1
+      }
+    },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Ready For Test": 6,
+        "Closed": 42,
+        "Reopened": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -33878,18 +33904,6 @@
         "Reopened": 1,
         "In Progress": 2,
         "Onhold-For Tech Dependency": 1
-      }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Closed": 42,
-        "Ready For Test": 6,
-        "Reopened": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -33911,12 +33925,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 7,
+    "vzyfeedback": {
+      "bugs": 1510,
+      "tasks": 310,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1837
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 22
+      "total": 4
+    },
+    "Alok Gupta": {
+      "bugs": 14,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
     },
     "Suyog Lanje": {
       "bugs": 4,
@@ -33925,26 +33953,26 @@
       "stories": 0,
       "total": 13
     },
+    "Amudha Kaliamoorthi": {
+      "bugs": 16,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
+    },
+    "Shubham Chauhan": {
+      "bugs": 15,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
     "Yashika Krishnani": {
       "bugs": 6,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "vzyfeedback": {
-      "bugs": 1509,
-      "tasks": 310,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1836
-    },
-    "kamaldeeps": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -33968,25 +33996,11 @@
       "total": 2
     },
     "Javed Ali": {
-      "bugs": 37,
+      "bugs": 36,
       "tasks": 3,
       "subtasks": 2,
       "stories": 0,
-      "total": 42
-    },
-    "Srinidhi.Raju": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
-    "Alok Gupta": {
-      "bugs": 13,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
+      "total": 41
     },
     "Rajkumar A": {
       "bugs": 4,
@@ -33995,19 +34009,19 @@
       "stories": 0,
       "total": 20
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 16,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
-    },
     "Dinjit Dinesh": {
       "bugs": 19,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
       "total": 38
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -34180,11 +34194,11 @@
   },
   "priority_breakdown": {
     "High": 565,
+    "Medium": 896,
     "Highest": 388,
-    "Medium": 895,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T10:02:04Z",
-  "total_issues": 2438
+  "updated_at": "2026-03-19T11:02:45Z",
+  "total_issues": 2439
 }
