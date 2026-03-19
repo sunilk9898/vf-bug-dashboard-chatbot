@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2604",
+      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2589",
+      "summary": "Mobile: Application displays blank page on launch",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2693",
+      "summary": "2:3 carousel bottom shadow",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2692",
+      "summary": "Clevertap anonymous user journey get breaks ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2656",
+      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2645",
+      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2550",
+      "summary": "2:3 Thumbnail images",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-03-12",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2639",
+      "summary": "Mobile: Privacy Policy page takes an unusually long time to load from Help & Support.",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "Rajkumar A",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2491",
       "summary": "16:9 iOS carousel banners",
       "status": "Testing On hold",
@@ -25,20 +179,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2692",
-      "summary": "Clevertap anonymous user journey get breaks ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -631,20 +771,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2616",
       "summary": "Mobile:Subscribed users are prompted to subscribe again when playing the \u201cDeath of Me\u201d movie from VZY content, while other providers play normally.",
       "status": "Invalid",
@@ -869,20 +995,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2645",
-      "summary": "Mobile: Coupon shows \u20b90 payable amount but payment gateway requests \u20b91",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2664",
       "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
       "status": "Ready For Test",
@@ -960,20 +1072,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-16",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2589",
-      "summary": "Mobile: Application displays blank page on launch",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1191,20 +1289,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2639",
-      "summary": "Mobile: Privacy Policy page takes an unusually long time to load from Help & Support.",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "Vedant Kajale",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2473",
       "summary": "Pink highlight color",
       "status": "Ready For Test",
@@ -1289,20 +1373,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2497",
       "summary": "TV: Resume playback not Functioning as expected",
       "status": "Ready For Test",
@@ -1338,20 +1408,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2550",
-      "summary": "2:3 Thumbnail images",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-03-12",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1437,20 +1493,6 @@
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2656",
-      "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -1801,20 +1843,6 @@
       "platform": "ATV",
       "created": "2026-03-10",
       "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2604",
-      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -2363,20 +2391,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26687,6 +26701,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-598",
+      "summary": "SEO Redirects",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-593",
+      "summary": "UXCam integration instead of Clarity",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-03-19",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1944",
       "summary": "Tarang Plus CP",
       "status": "Ready For Test",
@@ -27107,20 +27149,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-593",
-      "summary": "UXCam integration instead of Clarity",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-03-13",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1489",
       "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
       "status": "Open",
@@ -27466,20 +27494,6 @@
       "created": "2025-11-14",
       "updated": "2026-03-10",
       "duedate": "2025-12-05",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-598",
-      "summary": "SEO Redirects",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-11-19",
-      "updated": "2026-03-10",
-      "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
@@ -33839,11 +33853,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Reopened": 4,
+        "Closed": 46,
         "Testing On hold": 6,
-        "Ready For Test": 18,
-        "Closed": 45,
+        "Ready For Test": 15,
         "In Review": 3,
-        "Reopened": 2,
         "Invalid": 2,
         "In Progress": 11,
         "Onhold-For Tech Dependency": 1,
@@ -33859,9 +33873,9 @@
       "stories": 0,
       "total": 196,
       "statuses": {
+        "In Progress": 1,
         "Closed": 184,
         "Reopened": 1,
-        "In Progress": 1,
         "Dev Complete": 1,
         "Ready For Test": 7,
         "Testing On hold": 1,
@@ -33903,12 +33917,40 @@
       "stories": 0,
       "total": 1836
     },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
+    "Javed Ali": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 42
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 39
+      "total": 9
+    },
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "Alok Gupta": {
+      "bugs": 13,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
+    "Rajkumar A": {
+      "bugs": 4,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
     },
     "Amudha Kaliamoorthi": {
       "bugs": 16,
@@ -33917,12 +33959,12 @@
       "stories": 0,
       "total": 34
     },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
+    "Dinjit Dinesh": {
+      "bugs": 19,
+      "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 1
+      "total": 38
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -33973,13 +34015,6 @@
       "stories": 0,
       "total": 3
     },
-    "Alok Gupta": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
     "abhilash.ramesh": {
       "bugs": 13,
       "tasks": 3,
@@ -33993,13 +34028,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 15
-    },
-    "Javed Ali": {
-      "bugs": 34,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 39
     },
     "Unassigned": {
       "bugs": 73,
@@ -34029,13 +34057,6 @@
       "stories": 0,
       "total": 2
     },
-    "Vedant Kajale": {
-      "bugs": 2,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
-    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
@@ -34063,13 +34084,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Yashika Krishnani": {
       "bugs": 6,
@@ -34127,19 +34141,19 @@
       "stories": 0,
       "total": 6
     },
+    "Vedant Kajale": {
+      "bugs": 1,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "Abhishek Dhok": {
       "bugs": 6,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
       "total": 8
-    },
-    "Rajkumar A": {
-      "bugs": 3,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
     },
     "Harsh Pratap Singh": {
       "bugs": 4,
@@ -34164,12 +34178,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 388,
-    "Medium": 895,
-    "High": 564,
     "Low": 57,
+    "Medium": 895,
+    "High": 565,
+    "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T07:58:10Z",
-  "total_issues": 2437
+  "updated_at": "2026-03-19T09:02:31Z",
+  "total_issues": 2438
 }
