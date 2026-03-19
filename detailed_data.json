@@ -3,9 +3,9 @@
     {
       "key": "VF-2696",
       "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
+      "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-19",
       "updated": "2026-03-19",
@@ -33953,19 +33953,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amit Kumar Tiwari": {
+      "bugs": 8,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 15
+    },
     "shadab Hussain": {
       "bugs": 8,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "vzyfeedback": {
       "bugs": 1510,
@@ -34072,6 +34072,13 @@
       "stories": 0,
       "total": 20
     },
+    "Dinjit Dinesh": {
+      "bugs": 19,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 38
+    },
     "Srinidhi.Raju": {
       "bugs": 1,
       "tasks": 0,
@@ -34106,13 +34113,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 22
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 14
     },
     "devaraj": {
       "bugs": 8,
@@ -34227,6 +34227,6 @@
     "High": 565,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T15:07:05Z",
+  "updated_at": "2026-03-19T16:09:33Z",
   "total_issues": 2441
 }
