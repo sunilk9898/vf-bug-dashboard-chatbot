@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2691",
+      "summary": "ATV Rail Clipping issue",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2692",
+      "summary": "Clevertap android anonymous user journey get breaks ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2695",
+      "summary": "LG TV Build: After playing the content, at the CP stage, the controls are not accessible. build Version = 1.0.59",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2693",
+      "summary": "2:3 carousel bottom shadow",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2696",
       "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
       "status": "Issue Accepted",
@@ -71,20 +141,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2695",
-      "summary": "LG TV Build: After playing the content, at the CP stage, the controls are not accessible. build Version = 1.0.59",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "LG_TV",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2473",
       "summary": "Pink highlight color",
       "status": "Closed",
@@ -113,20 +169,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2694",
-      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2648",
       "summary": "Mobile: UI Issue for Beeba Boys  when navigate back and Video Playback Not Working for Debt to the Sea in Free Fliqs Category",
       "status": "Invalid",
@@ -134,34 +176,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2692",
-      "summary": "Clevertap android anonymous user journey get breaks ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2693",
-      "summary": "2:3 carousel bottom shadow",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -753,20 +767,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2691",
-      "summary": "ATV Rail Clipping issue",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26729,6 +26729,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2479",
+      "summary": "Term and Conditions",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Aniruddh Patil",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2549",
       "summary": "Clevertap deeplink issue ",
       "status": "In Progress",
@@ -27355,20 +27369,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2479",
-      "summary": "Term and Conditions",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -33895,8 +33895,8 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 11,
         "Reopened": 5,
+        "Ready For Test": 11,
         "Closed": 53,
         "In Review": 2,
         "Invalid": 2,
@@ -33954,11 +33954,39 @@
   "releases": {},
   "assignee_workload": {
     "Amit Kumar Tiwari": {
-      "bugs": 8,
+      "bugs": 9,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 15
+      "total": 16
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "devaraj": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
+    },
+    "Aniruddh Patil": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "shadab Hussain": {
       "bugs": 8,
@@ -33969,17 +33997,10 @@
     },
     "vzyfeedback": {
       "bugs": 1510,
-      "tasks": 310,
+      "tasks": 309,
       "subtasks": 12,
       "stories": 0,
-      "total": 1837
-    },
-    "Aniruddh Patil": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
+      "total": 1836
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -33987,27 +34008,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Akash Kushwaha": {
-      "bugs": 36,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 39
-    },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
     },
     "Suyog Lanje": {
       "bugs": 4,
@@ -34029,13 +34029,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 22
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -34079,12 +34072,12 @@
       "stories": 0,
       "total": 38
     },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
+    "Akash Kushwaha": {
+      "bugs": 35,
+      "tasks": 2,
+      "subtasks": 1,
       "stories": 0,
-      "total": 1
+      "total": 38
     },
     "Manikanta P": {
       "bugs": 5,
@@ -34100,6 +34093,13 @@
       "stories": 0,
       "total": 7
     },
+    "Alok Gupta": {
+      "bugs": 12,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
+    },
     "Unassigned": {
       "bugs": 73,
       "tasks": 30,
@@ -34113,13 +34113,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 22
-    },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
     },
     "Ajay T": {
       "bugs": 1,
@@ -34221,12 +34214,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 565,
     "Medium": 898,
     "Highest": 387,
     "Low": 57,
-    "High": 565,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T16:09:33Z",
+  "updated_at": "2026-03-19T17:15:27Z",
   "total_issues": 2441
 }
