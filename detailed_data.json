@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2482",
+      "summary": "CTA is taking long time to appear ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2481",
+      "summary": "Long time to load",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2492",
+      "summary": "A white screen appears while redirecting to Order Summery ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2670",
+      "summary": "(Shivani) - In the Unsubscribe pop-up, the digits 30 are displayed after \u20b979, whereas on the web it is displayed correctly.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2677",
+      "summary": "(Shivani) - Live TV tab >> free live tv Rail >> On clicking View All in the Free Live TV rail, the channels keep repeating while scrolling.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-17",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2679",
+      "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2086",
+      "summary": "Fancode content is appearing on New On VZY rail",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2532",
+      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2444",
+      "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "In Review",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2673",
+      "summary": "(Tamanna)- Getting wrong logo on Sony Pix HD live channel.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-03-16",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2586",
       "summary": "Mobile: Audio and subtitle language text appears broken displaying only two characters.",
       "status": "Ready For Test",
@@ -155,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2481",
-      "summary": "Long time to load",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2516",
       "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
       "status": "Ready For Test",
@@ -221,34 +361,6 @@
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2492",
-      "summary": "A white screen appears while redirecting to Order Summery ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2482",
-      "summary": "CTA is taking long time to appear ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -953,34 +1065,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2677",
-      "summary": "(Shivani) - Live TV tab >> free live tv Rail >> On clicking View All in the Free Live TV rail, the channels keep repeating while scrolling.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-17",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2679",
-      "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Vikas Mishra",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2582",
       "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
       "status": "Reopened",
@@ -1201,20 +1285,6 @@
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2532",
-      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1499,20 +1569,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-27",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2035",
       "summary": "Samsung TV: Resume does not work, Next Episode button is missing, and episode numbers are not displayed for Dharm Yoddha Garud series.",
       "status": "Closed",
@@ -1534,20 +1590,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2670",
-      "summary": "(Shivani) - In the Unsubscribe pop-up, the digits 30 are displayed after \u20b979, whereas on the web it is displayed correctly.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-16",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1603,20 +1645,6 @@
       "priority": "Highest",
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
-      "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2673",
-      "summary": "(Tamanna)- Getting wrong logo on Sony Pix HD live channel.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
       "created": "2026-03-16",
       "updated": "2026-03-16",
       "duedate": "",
@@ -4124,20 +4152,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2444",
-      "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-09",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -6815,20 +6829,6 @@
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2086",
-      "summary": "Fancode content is appearing on New On VZY rail",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26645,6 +26645,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-2446",
+      "summary": "Cloud TV: Redirection url",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Shubham Chauhan",
+      "platform": "Unknown",
+      "created": "2026-03-09",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2404",
+      "summary": "LAST 9 POC",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "LG_TV",
+      "created": "2026-02-27",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1971",
+      "summary": "Parameter need to pass from VZY to plan & offer",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-525",
       "summary": "Error Code Framework",
       "status": "Ready For Test",
@@ -26696,20 +26738,6 @@
       "created": "2026-01-12",
       "updated": "2026-03-18",
       "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1971",
-      "summary": "Parameter need to pass from VZY to plan & offer",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-17",
-      "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
@@ -27177,20 +27205,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2404",
-      "summary": "LAST 9 POC",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "LG_TV",
-      "created": "2026-02-27",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1924",
       "summary": "JOJO Integration",
       "status": "Ready For Test",
@@ -27369,20 +27383,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2446",
-      "summary": "Cloud TV: Redirection url",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "Unknown",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -33762,6 +33762,26 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Ready For Test": 18,
+        "In Review": 4,
+        "Closed": 44,
+        "Testing On hold": 5,
+        "Reopened": 2,
+        "Invalid": 2,
+        "In Progress": 12,
+        "Onhold-For Tech Dependency": 1,
+        "Dev Complete": 1,
+        "Not Reproducible": 1,
+        "Parked": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -33775,27 +33795,6 @@
         "Dev Complete": 1,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Ready For Test": 14,
-        "Closed": 44,
-        "Testing On hold": 5,
-        "Reopened": 2,
-        "Dev Complete": 5,
-        "Invalid": 2,
-        "In Review": 2,
-        "In Progress": 12,
-        "Onhold-For Tech Dependency": 2,
-        "Not Reproducible": 1,
-        "Parked": 1,
-        "OnHold-For Vivre Setup": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -33826,18 +33825,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1507,
+      "bugs": 1509,
       "tasks": 311,
       "subtasks": 12,
       "stories": 0,
-      "total": 1835
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 16,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
+      "total": 1837
     },
     "Alok Gupta": {
       "bugs": 15,
@@ -33845,6 +33837,41 @@
       "subtasks": 0,
       "stories": 0,
       "total": 21
+    },
+    "Shubham Chauhan": {
+      "bugs": 16,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 23
+    },
+    "Suyog Lanje": {
+      "bugs": 4,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
+    "Dinjit Dinesh": {
+      "bugs": 18,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 37
+    },
+    "abhilash.ramesh": {
+      "bugs": 13,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 16,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 34
     },
     "Amit Kumar Tiwari": {
       "bugs": 8,
@@ -33874,19 +33901,12 @@
       "stories": 0,
       "total": 110
     },
-    "Dinjit Dinesh": {
-      "bugs": 18,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 37
-    },
     "Akash Kushwaha": {
-      "bugs": 34,
+      "bugs": 33,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 37
+      "total": 36
     },
     "BalaKumar": {
       "bugs": 14,
@@ -33895,19 +33915,12 @@
       "stories": 0,
       "total": 22
     },
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
     "shadab Hussain": {
-      "bugs": 10,
+      "bugs": 9,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 12
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -33923,20 +33936,6 @@
       "stories": 0,
       "total": 4
     },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 42
-    },
-    "Suyog Lanje": {
-      "bugs": 4,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
@@ -33950,13 +33949,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "abhilash.ramesh": {
-      "bugs": 13,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Ajay Kushwaha": {
       "bugs": 10,
@@ -34013,6 +34005,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 12
+    },
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
     },
     "Manikanta P": {
       "bugs": 5,
@@ -34086,12 +34085,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 562,
-    "Low": 57,
     "Highest": 388,
+    "High": 562,
     "Medium": 894,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T03:21:13Z",
+  "updated_at": "2026-03-19T05:38:19Z",
   "total_issues": 2432
 }
