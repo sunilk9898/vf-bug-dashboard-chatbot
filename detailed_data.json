@@ -1,6 +1,286 @@
 {
   "bugs": [
     {
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2539",
+      "summary": "CTA is not response ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2607",
+      "summary": "Mobile: Duplicate profiles can be created and app does not redirect to Home page after profile creation.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2552",
+      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2532",
+      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2680",
+      "summary": "(Shivani) - After entering the OTP, the Verify OTP button is not clickable.",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2516",
+      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2497",
+      "summary": "TV: Resume playback not Functioning as expected",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2684",
+      "summary": "FireTV - No notification message shown when liking Fliqs content",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2685",
+      "summary": "FireTV - External CP launch pop-up not shown on Fire TV (ZEE5, JioHotstar, etc.)",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2686",
+      "summary": "Firetv - SunNXT content redirection successful, but error shown in SunNXT app after launch",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1084",
+      "summary": "Content related\u00a0",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-12-09",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2069",
+      "summary": "View All option not working correctly",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2086",
+      "summary": "Fancode content is appearing on New On VZY rail",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Kaltura",
+      "created": "2026-02-12",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2207",
+      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-24",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2478",
+      "summary": "Episode Listing Navigation",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2495",
+      "summary": "Wrong Cover image in carousel",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "Kaltura",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2195",
       "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
       "status": "Reopened",
@@ -407,20 +687,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2649",
       "summary": "Mobile: Video language shows English but the video plays in Hindi audio.",
       "status": "Closed",
@@ -589,34 +855,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2086",
-      "summary": "Fancode content is appearing on New On VZY rail",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2532",
-      "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2444",
       "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
       "status": "Ready For Test",
@@ -624,20 +862,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-09",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "In Review",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-27",
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -659,48 +883,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2516",
-      "summary": "TV: Device Specific: In the Parasite movie, only audio plays without video, and the Resume button appears inconsistently after restarting playback.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2552",
-      "summary": "TV: Clicking \u201cWatch Now\u201d on a new series starts playback from the last episode instead of the first episode.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2478",
-      "summary": "Episode Listing Navigation",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2531",
       "summary": "TV: \"Magic Moments\" show not playing",
       "status": "Closed",
@@ -708,34 +890,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2680",
-      "summary": "(Shivani) - After entering the OTP, the Verify OTP button is not clickable.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -904,48 +1058,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2685",
-      "summary": "FireTV - External CP launch pop-up not shown on Fire TV (ZEE5, JioHotstar, etc.)",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2686",
-      "summary": "Firetv - SunNXT content redirection successful, but error shown in SunNXT app after launch",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2684",
-      "summary": "FireTV - No notification message shown when liking Fliqs content",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-18",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1233,20 +1345,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2495",
-      "summary": "Wrong Cover image in carousel",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Chiranjit Chatterjee",
-      "platform": "Kaltura",
-      "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2675",
       "summary": "(Tamanna) - Live matches not visible on ioS and android.",
       "status": "Closed",
@@ -1355,34 +1453,6 @@
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2539",
-      "summary": "CTA is not response ",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2497",
-      "summary": "TV: Resume playback not Functioning as expected",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2274,20 +2344,6 @@
       "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2607",
-      "summary": "Mobile: Duplicate profiles can be created and app does not redirect to Home page after profile creation.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -4733,20 +4789,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1084",
-      "summary": "Content related\u00a0",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-12-09",
-      "updated": "2026-03-06",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2302",
       "summary": "Web--Next Episode\" button is not functioning as expected",
       "status": "Closed",
@@ -5510,20 +5552,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-23",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2207",
-      "summary": "The same thumbnail  for different episode (Sonyliv): Kaltura",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-24",
       "updated": "2026-03-03",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -6889,20 +6917,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2069",
-      "summary": "View All option not working correctly",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-11",
-      "updated": "2026-03-03",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1759",
       "summary": "CONTENT DETAIL PAGE UI ISSUES",
       "status": "Closed",
@@ -7179,20 +7193,6 @@
       "updated": "2026-02-28",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26701,6 +26701,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1489",
+      "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ATV",
+      "created": "2025-12-23",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-598",
       "summary": "SEO Redirects",
       "status": "Closed",
@@ -27143,20 +27157,6 @@
       "platform": "WEB",
       "created": "2026-03-13",
       "updated": "2026-03-14",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1489",
-      "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2025-12-23",
-      "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
@@ -33853,11 +33853,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Closed": 53,
+        "Ready For Test": 9,
         "Reopened": 4,
-        "Closed": 46,
         "Testing On hold": 6,
-        "Ready For Test": 15,
-        "In Review": 3,
+        "In Review": 2,
         "Invalid": 2,
         "In Progress": 11,
         "Onhold-For Tech Dependency": 1,
@@ -33866,29 +33866,14 @@
         "Parked": 1
       }
     },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "In Progress": 1,
-        "Closed": 184,
-        "Reopened": 1,
-        "Dev Complete": 1,
-        "Ready For Test": 7,
-        "Testing On hold": 1,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
-      "tasks": 5,
+      "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 6,
+      "total": 7,
       "statuses": {
+        "Issue Accepted": 1,
         "Open": 2,
         "Reopened": 1,
         "In Progress": 2,
@@ -33902,27 +33887,64 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Ready For Test": 7,
+        "Closed": 42,
+        "Ready For Test": 6,
+        "Reopened": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Closed": 186,
+        "In Progress": 1,
         "Reopened": 1,
-        "Closed": 41
+        "Dev Complete": 1,
+        "Ready For Test": 5,
+        "Testing On hold": 1,
+        "Invalid": 1
       }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Shubham Chauhan": {
+      "bugs": 15,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
+    "Suyog Lanje": {
+      "bugs": 4,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "vzyfeedback": {
-      "bugs": 1508,
-      "tasks": 311,
+      "bugs": 1509,
+      "tasks": 310,
       "subtasks": 12,
       "stories": 0,
       "total": 1836
     },
-    "Javed Ali": {
-      "bugs": 37,
-      "tasks": 3,
-      "subtasks": 2,
+    "kamaldeeps": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
       "stories": 0,
-      "total": 42
+      "total": 3
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -33930,6 +33952,27 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "abhilash.ramesh": {
+      "bugs": 13,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Chiranjit Chatterjee": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
+    "Javed Ali": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 42
     },
     "Srinidhi.Raju": {
       "bugs": 2,
@@ -33980,13 +34023,6 @@
       "stories": 0,
       "total": 38
     },
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
     "Manikanta P": {
       "bugs": 5,
       "tasks": 8,
@@ -33994,40 +34030,12 @@
       "stories": 1,
       "total": 14
     },
-    "Suyog Lanje": {
-      "bugs": 4,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Aditya Shrivastava": {
       "bugs": 2,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "kamaldeeps": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
-    },
-    "abhilash.ramesh": {
-      "bugs": 13,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 8,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 15
     },
     "Unassigned": {
       "bugs": 73,
@@ -34050,12 +34058,12 @@
       "stories": 0,
       "total": 12
     },
-    "Chiranjit Chatterjee": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
+    "Amit Kumar Tiwari": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 2,
       "stories": 0,
-      "total": 2
+      "total": 14
     },
     "devaraj": {
       "bugs": 8,
@@ -34084,13 +34092,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -34178,12 +34179,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 57,
-    "Medium": 895,
     "High": 565,
     "Highest": 388,
+    "Medium": 895,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T09:02:31Z",
+  "updated_at": "2026-03-19T10:02:04Z",
   "total_issues": 2438
 }
