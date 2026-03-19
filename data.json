@@ -11,7 +11,7 @@
     "ATV": {
       "OPEN": 6,
       "IN PROGRESS": 0,
-      "REOPENED": 2,
+      "REOPENED": 3,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 0
@@ -65,7 +65,7 @@
       "PARKED": 0
     },
     "LG_TV": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
@@ -97,7 +97,7 @@
       "PARKED": 2
     }
   },
-  "updated_at": "2026-03-19T11:02:45Z",
-  "total_issues_fetched": 2439,
+  "updated_at": "2026-03-19T11:51:04Z",
+  "total_issues_fetched": 2440,
   "project": "VF"
 }

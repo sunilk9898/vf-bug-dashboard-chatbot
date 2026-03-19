@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2695",
+      "summary": "LG TV Build: After playing the content, at the CP stage, the controls are not accessible. build Version = 1.0.59",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "LG_TV",
+      "created": "2026-03-19",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2473",
+      "summary": "Pink highlight color",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "Ready For Test",
@@ -305,20 +347,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1408,20 +1436,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2473",
-      "summary": "Pink highlight color",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26715,6 +26729,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-19",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1896",
       "summary": "CleverTap Pending task (IOS)",
       "status": "In Progress",
@@ -26989,20 +27017,6 @@
       "platform": "Unknown",
       "created": "2026-03-11",
       "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
@@ -33867,9 +33881,9 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 10,
+        "Reopened": 5,
+        "Ready For Test": 9,
         "Closed": 53,
-        "Reopened": 4,
         "Testing On hold": 5,
         "In Review": 2,
         "Invalid": 2,
@@ -33925,12 +33939,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Ajay Kushwaha": {
+      "bugs": 10,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
+    },
     "vzyfeedback": {
       "bugs": 1510,
       "tasks": 310,
       "subtasks": 12,
       "stories": 0,
       "total": 1837
+    },
+    "Akash Kushwaha": {
+      "bugs": 36,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 39
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34022,20 +34050,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 1
-    },
-    "Ajay Kushwaha": {
-      "bugs": 10,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
-    "Akash Kushwaha": {
-      "bugs": 35,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 38
     },
     "Manikanta P": {
       "bugs": 5,
@@ -34193,12 +34207,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 897,
     "High": 565,
-    "Medium": 896,
     "Highest": 388,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-19T11:02:45Z",
-  "total_issues": 2439
+  "updated_at": "2026-03-19T11:51:04Z",
+  "total_issues": 2440
 }
