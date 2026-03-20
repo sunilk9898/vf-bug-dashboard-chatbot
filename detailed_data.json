@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2664",
+      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-16",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2661",
+      "summary": "LG and Samsung TV - Trailer not playing ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2085",
+      "summary": "Latest content is not showing up in New Releases rail of Series page.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2696",
+      "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2633",
       "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
       "status": "Dev Complete",
@@ -263,20 +347,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2534",
-      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -995,20 +1065,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2664",
-      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2599",
       "summary": "Mobile: Liked videos from one profile are displayed in another profile",
       "status": "Closed",
@@ -1681,20 +1737,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2696",
-      "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2400",
       "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
       "status": "Ready For Test",
@@ -2013,20 +2055,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2675,20 +2703,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2661",
-      "summary": "LG and Samsung TV - Trailer not playing ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2535",
       "summary": "Hungama content plays when clicking on Discovery content watch Now",
       "status": "Closed",
@@ -2948,20 +2962,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2085",
-      "summary": "Latest content is not showing up in New Releases rail of Series page.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Kaltura",
-      "created": "2026-02-12",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26843,7 +26843,7 @@
     {
       "key": "VF-1489",
       "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
-      "status": "Issue Accepted",
+      "status": "Dev Complete",
       "priority": "Highest",
       "assignee": "Suyog Lanje",
       "platform": "ATV",
@@ -34000,6 +34000,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7,
+      "statuses": {
+        "Dev Complete": 1,
+        "Closed": 1,
+        "Open": 2,
+        "Reopened": 1,
+        "In Progress": 1,
+        "Onhold-For Tech Dependency": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34007,15 +34022,15 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Dev Complete": 2,
         "Ready For Test": 13,
-        "Reopened": 4,
+        "Reopened": 3,
         "Testing On hold": 1,
         "Closed": 56,
         "In Review": 1,
         "Invalid": 2,
         "In Progress": 11,
         "Onhold-For Tech Dependency": 1,
-        "Dev Complete": 1,
         "Parked": 1
       }
     },
@@ -34034,21 +34049,6 @@
         "Invalid": 1
       }
     },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 1,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7,
-      "statuses": {
-        "Issue Accepted": 1,
-        "Closed": 1,
-        "Open": 2,
-        "Reopened": 1,
-        "In Progress": 1,
-        "Onhold-For Tech Dependency": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -34065,19 +34065,40 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Yashika Krishnani": {
-      "bugs": 9,
-      "tasks": 1,
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 10
+      "total": 6
     },
     "vzyfeedback": {
-      "bugs": 1509,
+      "bugs": 1510,
       "tasks": 313,
       "subtasks": 12,
       "stories": 0,
-      "total": 1840
+      "total": 1841
+    },
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 34
+    },
+    "Suyog Lanje": {
+      "bugs": 7,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Yashika Krishnani": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34093,13 +34114,6 @@
       "stories": 0,
       "total": 22
     },
-    "Suyog Lanje": {
-      "bugs": 7,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
-    },
     "Moore Meghana": {
       "bugs": 12,
       "tasks": 2,
@@ -34114,26 +34128,12 @@
       "stories": 0,
       "total": 15
     },
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 34
-    },
     "Amit Kumar Tiwari": {
-      "bugs": 14,
+      "bugs": 12,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 21
-    },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
+      "total": 19
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -34164,11 +34164,11 @@
       "total": 22
     },
     "devaraj": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 1,
       "subtasks": 1,
       "stories": 0,
-      "total": 11
+      "total": 10
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -34326,12 +34326,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 904,
-    "High": 567,
-    "Low": 57,
     "Highest": 387,
+    "Medium": 904,
+    "Low": 57,
+    "High": 567,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T15:59:20Z",
+  "updated_at": "2026-03-20T17:03:13Z",
   "total_issues": 2449
 }
