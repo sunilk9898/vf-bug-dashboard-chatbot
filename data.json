@@ -49,7 +49,7 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
@@ -69,7 +69,7 @@
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "Mobile": {
@@ -91,13 +91,21 @@
     "WEB": {
       "OPEN": 0,
       "IN PROGRESS": 0,
-      "REOPENED": 2,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 2
+    },
+    "Unknown": {
+      "OPEN": 1,
+      "IN PROGRESS": 0,
+      "REOPENED": 0,
+      "IN REVIEW": 0,
+      "ISSUE ACCEPTED": 0,
+      "PARKED": 0
     }
   },
-  "updated_at": "2026-03-20T11:46:26Z",
-  "total_issues_fetched": 2448,
+  "updated_at": "2026-03-20T13:34:56Z",
+  "total_issues_fetched": 2449,
   "project": "VF"
 }

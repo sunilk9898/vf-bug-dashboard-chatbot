@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2582",
+      "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2691",
+      "summary": "ATV Rail Clipping issue",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2701",
+      "summary": "(Tamanna) - Stage series \"Videshi Bahu 2\" not available.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2657",
+      "summary": "(Tamanna) - Categories collection icons appearing blur on Focus.",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2697",
+      "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2681",
+      "summary": "Firetv - \u201cContinue Watching\u201d rail flickers for newly created profile",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2678",
+      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2392",
+      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2704",
+      "summary": "Kids profile settings",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "LG_TV",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2491",
       "summary": "16:9 iOS carousel banners",
       "status": "Testing On hold",
@@ -43,34 +169,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2701",
-      "summary": "(Tamanna) - Stage series \"Videshi Bahu 2\" not available.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2681",
-      "summary": "Firetv - \u201cContinue Watching\u201d rail flickers for newly created profile",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "Reopened",
@@ -92,20 +190,6 @@
       "assignee": "avinash waghmare",
       "platform": "CMS Adaptor",
       "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2582",
-      "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -204,20 +288,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-17",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2392",
-      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
-      "status": "Closed",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -589,20 +659,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2691",
-      "summary": "ATV Rail Clipping issue",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2688",
       "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
       "status": "Issue Accepted",
@@ -610,20 +666,6 @@
       "assignee": "Suyog Lanje",
       "platform": "ANDROID",
       "created": "2026-03-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2697",
-      "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-20",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1478,20 +1520,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-03-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2657",
-      "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2486,20 +2514,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2678",
-      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-18",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26827,6 +26841,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-03-20",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2479",
+      "summary": "Term and Conditions",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1924",
       "summary": "JOJO Integration",
       "status": "Ready For Test",
@@ -26893,20 +26935,6 @@
       "updated": "2026-03-20",
       "duedate": "2026-01-15",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2479",
-      "summary": "Term and Conditions",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -27817,20 +27845,6 @@
       "updated": "2026-03-10",
       "duedate": "2025-12-30",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-03-10",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -33986,25 +34000,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Testing On hold": 1,
-        "Closed": 56,
-        "Ready For Test": 12,
-        "In Review": 2,
-        "Reopened": 4,
-        "Invalid": 2,
-        "In Progress": 11,
-        "Onhold-For Tech Dependency": 1,
-        "Dev Complete": 1,
-        "Parked": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -34012,9 +34007,29 @@
       "stories": 0,
       "total": 49,
       "statuses": {
+        "In Progress": 1,
         "Closed": 43,
-        "Reopened": 2,
+        "Reopened": 1,
         "Ready For Test": 4
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Ready For Test": 12,
+        "Testing On hold": 1,
+        "Closed": 56,
+        "In Review": 2,
+        "Reopened": 4,
+        "Invalid": 2,
+        "In Progress": 11,
+        "Onhold-For Tech Dependency": 1,
+        "Dev Complete": 1,
+        "Parked": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -34050,26 +34065,33 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1509,
-      "tasks": 313,
-      "subtasks": 12,
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 2,
+      "subtasks": 1,
       "stories": 0,
-      "total": 1840
+      "total": 34
     },
     "Amit Kumar Tiwari": {
-      "bugs": 14,
+      "bugs": 15,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 21
+      "total": 22
     },
     "avinash waghmare": {
-      "bugs": 4,
+      "bugs": 3,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 7
+      "total": 6
+    },
+    "vzyfeedback": {
+      "bugs": 1510,
+      "tasks": 313,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1841
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -34077,13 +34099,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 34
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -34311,12 +34326,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 387,
     "High": 567,
-    "Medium": 903,
+    "Medium": 904,
     "Low": 57,
+    "Highest": 387,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T11:46:26Z",
-  "total_issues": 2448
+  "updated_at": "2026-03-20T13:34:56Z",
+  "total_issues": 2449
 }
