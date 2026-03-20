@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2693",
+      "summary": "2:3 carousel bottom shadow",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Yashika Krishnani",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2551",
+      "summary": "Blur Image Issues in TV",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "LG_TV",
+      "created": "2026-03-12",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2647",
+      "summary": "Mobile: Mobile: Fliqs section are not displayed on the Home Page",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2687",
+      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2676",
+      "summary": "Vivre - App Config Flag",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-17",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2392",
       "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
       "status": "Closed",
@@ -176,20 +274,6 @@
       "assignee": "devaraj",
       "platform": "LG_TV",
       "created": "2026-03-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2687",
-      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-18",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -400,20 +484,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-17",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2693",
-      "summary": "2:3 carousel bottom shadow",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1373,34 +1443,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2551",
-      "summary": "Blur Image Issues in TV",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "LG_TV",
-      "created": "2026-03-12",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2647",
-      "summary": "Mobile: Mobile: Fliqs section are not displayed on the Home Page",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2657",
       "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
       "status": "OnHold-For Vivre Setup",
@@ -1576,20 +1618,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-02-27",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -2668,20 +2696,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2676",
-      "summary": "Vivre - App Config Flag",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Ajay T",
-      "platform": "Unknown",
-      "created": "2026-03-17",
       "updated": "2026-03-17",
       "duedate": "",
       "sprint": "No Sprint",
@@ -5118,20 +5132,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -26827,6 +26827,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1021",
+      "summary": "mWeb - Categories drop down not available on home screen",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Rajkumar A",
+      "platform": "WEB",
+      "created": "2025-12-08",
+      "updated": "2026-03-20",
+      "duedate": "2025-12-17",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2493",
       "summary": "A different / custom thank you page is shown for subscription orders",
       "status": "Ready For Test",
@@ -26850,20 +26864,6 @@
       "created": "2025-11-10",
       "updated": "2026-03-20",
       "duedate": "2026-01-15",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1021",
-      "summary": "mWeb - Categories drop down not available on home screen",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Rajkumar A",
-      "platform": "WEB",
-      "created": "2025-12-08",
-      "updated": "2026-03-20",
-      "duedate": "2025-12-17",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -33986,6 +33986,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Ready For Test": 6,
+        "Reopened": 1,
+        "Closed": 186,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -33993,8 +34008,9 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Testing On hold": 1,
         "Closed": 56,
-        "Ready For Test": 13,
+        "Ready For Test": 12,
         "In Review": 2,
         "Reopened": 4,
         "Invalid": 2,
@@ -34019,21 +34035,6 @@
         "Onhold-For Tech Dependency": 1
       }
     },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Reopened": 1,
-        "Ready For Test": 6,
-        "Closed": 186,
-        "Dev Complete": 1,
-        "Testing On hold": 1,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -34049,12 +34050,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1506,
-      "tasks": 311,
-      "subtasks": 12,
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
       "stories": 0,
-      "total": 1835
+      "total": 15
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Akash Kushwaha": {
       "bugs": 30,
@@ -34063,12 +34071,19 @@
       "stories": 0,
       "total": 33
     },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
+    "vzyfeedback": {
+      "bugs": 1506,
+      "tasks": 311,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1835
+    },
+    "Rajkumar A": {
+      "bugs": 3,
+      "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 19
     },
     "Amit Kumar Tiwari": {
       "bugs": 15,
@@ -34077,19 +34092,19 @@
       "stories": 0,
       "total": 22
     },
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
     "Moore Meghana": {
       "bugs": 11,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
       "total": 14
-    },
-    "Rajkumar A": {
-      "bugs": 3,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
     },
     "BalaKumar": {
       "bugs": 14,
@@ -34118,13 +34133,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -34210,13 +34218,6 @@
       "stories": 0,
       "total": 42
     },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "Chiranjit Chatterjee": {
       "bugs": 2,
       "tasks": 0,
@@ -34230,13 +34231,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 14
-    },
-    "Ajay T": {
-      "bugs": 1,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -34307,15 +34301,22 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
+    },
+    "Ajay T": {
+      "bugs": 0,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     }
   },
   "priority_breakdown": {
-    "Low": 57,
-    "Medium": 903,
     "Highest": 387,
     "High": 567,
+    "Low": 57,
+    "Medium": 903,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T09:58:58Z",
+  "updated_at": "2026-03-20T10:58:01Z",
   "total_issues": 2448
 }
