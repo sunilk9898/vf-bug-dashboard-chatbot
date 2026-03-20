@@ -1,6 +1,174 @@
 {
   "bugs": [
     {
+      "key": "VF-2687",
+      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2202",
+      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2700",
+      "summary": "Empty box Meta data in Fliqs",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2627",
+      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2640",
+      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1530",
+      "summary": "Naveen => VZY app is taking more than 20 seconds to launch on Samsung TV.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2025-12-24",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2526",
+      "summary": "Spacing at top in Carousel banner",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-03-16",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2635",
+      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1212",
+      "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2025-12-16",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2681",
+      "summary": "Firetv - \u201cContinue Watching\u201d rail flickers for newly created profile",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2669",
+      "summary": "Naveen => Incorrect redirection after login via Content ",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-16",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2695",
       "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59",
       "status": "Issue Accepted",
@@ -43,20 +211,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2640",
-      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2655",
       "summary": "Mobile: Episode 1 of \u201cDebt to the Sea\u201d Not Playable in Fliqs Premium Series",
       "status": "Closed",
@@ -77,34 +231,6 @@
       "priority": "High",
       "assignee": "Aditya Shrivastava",
       "platform": "SAM_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2669",
-      "summary": "Naveen => Incorrect redirection after login via Content ",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
       "created": "2026-03-16",
       "updated": "2026-03-20",
       "duedate": "",
@@ -244,20 +370,6 @@
       "status": "Open",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2700",
-      "summary": "Empty box Meta data in Fliqs",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-20",
       "updated": "2026-03-20",
@@ -841,20 +953,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2635",
-      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
-      "status": "In Progress",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2489",
       "summary": "Carousel/Content banner description text",
       "status": "Testing On hold",
@@ -862,20 +960,6 @@
       "assignee": "Aditya Shrivastava",
       "platform": "LG_TV",
       "created": "2026-03-10",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1212",
-      "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2025-12-16",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -960,20 +1044,6 @@
       "assignee": "Vikas Mishra",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2202",
-      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-23",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1461,20 +1531,6 @@
       "summary": "FireTv - Error observed while playing Shemaroo content \u201cChaniya Toli\u201d on clicking Watch Now",
       "status": "Open",
       "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2687",
-      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
-      "status": "Issue Accepted",
-      "priority": "Highest",
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-03-18",
@@ -2045,20 +2101,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2526",
-      "summary": "Spacing at top in Carousel banner",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2666",
       "summary": "Naveen => Android TV New Build v1.0.118 We are facing a flicker issue in this build.",
       "status": "Closed",
@@ -2415,20 +2457,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "IOS",
-      "created": "2026-03-18",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2681",
-      "summary": "Firetv - \u201cContinue Watching\u201d rail flickers for newly created profile",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
       "created": "2026-03-18",
       "updated": "2026-03-18",
       "duedate": "",
@@ -3053,20 +3081,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2627",
-      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2667",
       "summary": "Samsung - Chaupal logo differs from other platforms",
       "status": "Closed",
@@ -3651,20 +3665,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1530",
-      "summary": "Naveen => VZY app is taking more than 20 seconds to launch on Samsung TV.",
-      "status": "In Progress",
-      "priority": "Low",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2025-12-24",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (31 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -33972,6 +33972,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7,
+      "statuses": {
+        "Closed": 1,
+        "Issue Accepted": 1,
+        "Open": 2,
+        "Reopened": 1,
+        "In Progress": 1,
+        "Onhold-For Tech Dependency": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34005,20 +34020,6 @@
         "Invalid": 1
       }
     },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 1,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7,
-      "statuses": {
-        "Issue Accepted": 1,
-        "Open": 2,
-        "Reopened": 1,
-        "In Progress": 2,
-        "Onhold-For Tech Dependency": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -34034,6 +34035,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amit Kumar Tiwari": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 21
+    },
+    "vzyfeedback": {
+      "bugs": 1506,
+      "tasks": 310,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1834
+    },
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
+    "Suyog Lanje": {
+      "bugs": 6,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
     "devaraj": {
       "bugs": 9,
       "tasks": 1,
@@ -34041,47 +34070,12 @@
       "stories": 0,
       "total": 11
     },
-    "Karan Mahboobani": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
-    "vzyfeedback": {
-      "bugs": 1507,
-      "tasks": 310,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1835
-    },
-    "Javed Ali": {
-      "bugs": 35,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 40
-    },
     "shadab Hussain": {
-      "bugs": 10,
+      "bugs": 9,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
-    },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 12,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 19
+      "total": 13
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -34090,26 +34084,40 @@
       "stories": 0,
       "total": 9
     },
-    "Suyog Lanje": {
-      "bugs": 5,
-      "tasks": 9,
+    "Karan Mahboobani": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 12
+    },
+    "Javed Ali": {
+      "bugs": 35,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 40
+    },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 14
+      "total": 7
     },
     "Shubham Chauhan": {
-      "bugs": 18,
+      "bugs": 17,
       "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 25
+      "total": 24
     },
     "Akash Kushwaha": {
-      "bugs": 31,
+      "bugs": 29,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 34
+      "total": 32
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34138,13 +34146,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 39
-    },
-    "Alok Gupta": {
-      "bugs": 14,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
     },
     "Amudha Kaliamoorthi": {
       "bugs": 16,
@@ -34295,12 +34296,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 387,
     "Medium": 902,
     "High": 567,
-    "Highest": 387,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T07:56:54Z",
+  "updated_at": "2026-03-20T09:00:17Z",
   "total_issues": 2447
 }
