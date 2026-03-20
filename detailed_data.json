@@ -1,9 +1,79 @@
 {
   "bugs": [
     {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1890",
+      "summary": "Content not getting ingested on time",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-01-29",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2701",
+      "summary": "(Tamanna) - Stage series \"Videshi Bahu 2\" not available.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2681",
+      "summary": "Firetv - \u201cContinue Watching\u201d rail flickers for newly created profile",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
-      "status": "Ready For Test",
+      "status": "Reopened",
       "priority": "Highest",
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
@@ -11,6 +81,62 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2698",
+      "summary": "(Tamanna) - Fliqs creator cover banner getting blur and wrong dimension.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2582",
+      "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2683",
+      "summary": "FireTV - Resume button not visible for Hoichoi content",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -53,20 +179,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -393,20 +505,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2681",
-      "summary": "Firetv - \u201cContinue Watching\u201d rail flickers for newly created profile",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2669",
       "summary": "Naveen => Incorrect redirection after login via Content ",
       "status": "In Progress",
@@ -519,20 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2683",
-      "summary": "FireTV - Resume button not visible for Hoichoi content",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2697",
       "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
       "status": "On Hold- For Clarification",
@@ -575,40 +659,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2698",
-      "summary": "(Tamanna) - Fliqs creator cover banner getting blur and wrong dimension.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2699",
       "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
       "status": "Open",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
       "platform": "ATV",
-      "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2701",
-      "summary": "(Tamanna) - Stage series \"Videshi Bahu 2\" not available.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
       "created": "2026-03-20",
       "updated": "2026-03-20",
       "duedate": "",
@@ -1401,20 +1457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2534",
-      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2594",
       "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
       "status": "In Progress",
@@ -1537,34 +1579,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2582",
-      "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1859,20 +1873,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1890",
-      "summary": "Content not getting ingested on time",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-01-29",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26827,6 +26827,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-1924",
+      "summary": "JOJO Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2152",
+      "summary": "Need help on content ingestion ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS",
+      "created": "2026-02-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1021",
       "summary": "mWeb - Categories drop down not available on home screen",
       "status": "Closed",
@@ -27527,20 +27555,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1924",
-      "summary": "JOJO Integration",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "ATV",
-      "created": "2026-02-03",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1928",
       "summary": "Shorts Tv Integration",
       "status": "Ready For Test",
@@ -28110,20 +28124,6 @@
       "created": "2025-12-09",
       "updated": "2026-02-27",
       "duedate": "2025-12-10",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2152",
-      "summary": "Need help on content ingestion ",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS",
-      "created": "2026-02-19",
-      "updated": "2026-02-27",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -33986,21 +33986,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Ready For Test": 6,
-        "Reopened": 1,
-        "Closed": 186,
-        "Dev Complete": 1,
-        "Testing On hold": 1,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34020,6 +34005,33 @@
         "Parked": 1
       }
     },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Closed": 43,
+        "Reopened": 2,
+        "Ready For Test": 4
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Reopened": 2,
+        "Ready For Test": 5,
+        "Closed": 186,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
       "tasks": 6,
@@ -34034,28 +34046,51 @@
         "In Progress": 1,
         "Onhold-For Tech Dependency": 1
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "Reopened": 2,
-        "Closed": 43,
-        "Ready For Test": 4
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1509,
+      "tasks": 313,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1840
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 21
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "Ajay Kushwaha": {
       "bugs": 12,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 15
+    },
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 34
+    },
+    "Shubham Chauhan": {
+      "bugs": 16,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 23
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -34064,33 +34099,12 @@
       "stories": 0,
       "total": 9
     },
-    "Akash Kushwaha": {
-      "bugs": 30,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 33
-    },
-    "vzyfeedback": {
-      "bugs": 1506,
-      "tasks": 311,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1835
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 22
     },
     "shadab Hussain": {
       "bugs": 9,
@@ -34155,13 +34169,6 @@
       "stories": 0,
       "total": 7
     },
-    "Shubham Chauhan": {
-      "bugs": 16,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 23
-    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
@@ -34175,13 +34182,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "avinash waghmare": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34313,10 +34313,10 @@
   "priority_breakdown": {
     "Highest": 387,
     "High": 567,
-    "Low": 57,
     "Medium": 903,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T10:58:01Z",
+  "updated_at": "2026-03-20T11:46:26Z",
   "total_issues": 2448
 }
