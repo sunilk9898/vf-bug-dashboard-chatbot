@@ -1,9 +1,65 @@
 {
   "bugs": [
     {
+      "key": "VF-2633",
+      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2026",
+      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2526",
+      "summary": "Spacing at top in Carousel banner",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2700",
       "summary": "Empty box Meta data in Fliqs",
-      "status": "Dev Complete",
+      "status": "Testing On hold",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
@@ -571,20 +627,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2526",
-      "summary": "Spacing at top in Carousel banner",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1355,20 +1397,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2661,20 +2689,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2633",
-      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-17",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2535",
       "summary": "Hungama content plays when clicking on Discovery content watch Now",
       "status": "Closed",
@@ -3340,20 +3354,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-03-11",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2026",
-      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -34007,16 +34007,31 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Ready For Test": 13,
         "Reopened": 4,
-        "Ready For Test": 12,
         "Testing On hold": 1,
         "Closed": 56,
-        "In Review": 2,
+        "In Review": 1,
         "Invalid": 2,
         "In Progress": 11,
         "Onhold-For Tech Dependency": 1,
         "Dev Complete": 1,
         "Parked": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Dev Complete": 2,
+        "Reopened": 1,
+        "Ready For Test": 5,
+        "Closed": 186,
+        "Testing On hold": 1,
+        "Invalid": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34046,31 +34061,37 @@
         "Reopened": 1,
         "Ready For Test": 4
       }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Reopened": 2,
-        "Ready For Test": 5,
-        "Closed": 186,
-        "Dev Complete": 1,
-        "Testing On hold": 1,
-        "Invalid": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
     "vzyfeedback": {
       "bugs": 1509,
       "tasks": 313,
       "subtasks": 12,
       "stories": 0,
       "total": 1840
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
     },
     "Suyog Lanje": {
       "bugs": 7,
@@ -34108,11 +34129,11 @@
       "total": 21
     },
     "avinash waghmare": {
-      "bugs": 3,
+      "bugs": 2,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
+      "total": 5
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -34120,13 +34141,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 23
-    },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Rajkumar A": {
       "bugs": 3,
@@ -34155,13 +34169,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 11
-    },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -34197,13 +34204,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Amudha Kaliamoorthi": {
       "bugs": 16,
@@ -34326,12 +34326,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 567,
     "Medium": 904,
+    "High": 567,
     "Low": 57,
     "Highest": 387,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T15:03:10Z",
+  "updated_at": "2026-03-20T15:59:20Z",
   "total_issues": 2449
 }
