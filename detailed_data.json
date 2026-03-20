@@ -1,11 +1,655 @@
 {
   "bugs": [
     {
+      "key": "VF-2489",
+      "summary": "Carousel/Content banner description text",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-03-10",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1212",
+      "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2025-12-16",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2634",
+      "summary": "Mobile: Navigation dots in Home page photo slider not responding to touch",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2075",
+      "summary": "Live TV: Sony Liv Live TV channel logo issue",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2079",
+      "summary": "(Tamanna) - Content Details Not Displaying Below Thumbnail.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2172",
+      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2635",
+      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
+      "status": "Issue Accepted",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2653",
+      "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2202",
+      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2581",
+      "summary": "Web: Search history reappears after using Clear All in search options",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2644",
+      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2604",
+      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2651",
+      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2328",
+      "summary": "TV: Incorrect spelling of \"Kabaddi\" displayed as \"Kabbadi\" in Sports section",
+      "status": "Duplicate",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-26",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2589",
+      "summary": "Mobile: Application displays blank page on launch",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2424",
+      "summary": "Live Channel | Sony LIV Logos",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-03-06",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2699",
+      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2431",
+      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-06",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2470",
+      "summary": "(Tamanna) - Getting \"Watcho movies\" banner in Movies Section in footer",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-09",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2522",
+      "summary": "TV: Inconsistent spelling of Kabaddi in Sports section (Kabbadi vs Kabaddi)",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2594",
+      "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2692",
+      "summary": "Clevertap android anonymous user journey get breaks ",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2551",
+      "summary": "Blur Image Issues in TV",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "LG_TV",
+      "created": "2026-03-12",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2698",
+      "summary": "(Tamanna) - Fliqs creator cover banner getting blur and wrong dimension.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2647",
+      "summary": "Mobile: Mobile: Fliqs section are not displayed on the Home Page",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2657",
+      "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2208",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2499",
+      "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2294",
+      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2285",
+      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2151",
+      "summary": "FLIQS channel logos in Setting section",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2503",
+      "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2518",
+      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2508",
+      "summary": "TV: Movie preview (glimpse) starts playing while staying on Settings screen",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2565",
+      "summary": "Web (Device specific): Watch Now button not clickable for Extended Highlight Final: IND vs NZ in Sports section.",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-12",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2450",
+      "summary": "Content-to-content redirection failed for Hotstar content on Android TV",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-09",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2475",
+      "summary": "Empty State UI",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2519",
+      "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2520",
+      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2511",
       "summary": "SARA rail",
       "status": "Reopened",
       "priority": "Medium",
-      "assignee": "vzyfeedback",
+      "assignee": "Ajay Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-11",
       "updated": "2026-03-20",
@@ -25,6 +669,20 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -78,20 +736,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "Unknown",
       "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2651",
-      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -189,20 +833,6 @@
       "priority": "High",
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
-      "created": "2026-03-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2692",
-      "summary": "Clevertap android anonymous user journey get breaks ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
       "created": "2026-03-19",
       "updated": "2026-03-19",
       "duedate": "",
@@ -449,20 +1079,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2532",
       "summary": "TV: Unable to exit series directly after switching episodes \u2013 app navigates through previously selected episodes",
       "status": "Closed",
@@ -673,62 +1289,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2604",
-      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2589",
-      "summary": "Mobile: Application displays blank page on launch",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2656",
       "summary": "TV: Subscription prompt displayed while playing Death of Me despite having an active subscription",
       "status": "Closed",
@@ -897,20 +1457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2646",
       "summary": "Mobile : Paid video is not playing after subscription",
       "status": "Closed",
@@ -960,20 +1506,6 @@
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-03-16",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel/Content banner description text",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-03-10",
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1191,20 +1723,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2644",
-      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
-      "status": "In Review",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2613",
       "summary": "Mobile : Downloaded video \u201cMadhav \u2013 Every Child Needs\u201d not playing in offline mode.",
       "status": "Not Reproducible",
@@ -1394,20 +1912,6 @@
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2534",
-      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2283,20 +2787,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2594",
-      "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2568",
       "summary": "Web: OTP not generated while attempting to delete account from Profile page.",
       "status": "Closed",
@@ -2381,39 +2871,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2647",
-      "summary": "Mobile: Mobile: Fliqs section are not displayed on the Home Page",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2629",
       "summary": "Mobile: Channel Guide tab is inconsistently displayed for some Live TV channels.",
       "status": "Invalid",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2634",
-      "summary": "Mobile: Navigation dots in Home page photo slider not responding to touch",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-16",
@@ -2451,20 +2913,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2635",
-      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
-      "status": "Issue Accepted",
-      "priority": "Low",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2449",
       "summary": "(Shivani) -  Click on the Subscribe button for any fliqs content on the banner. A QR code screen will appear. Just observe the screen after a few seconds, it automatically closes, and a message is appears  \"Payment Successful\u201d ",
       "status": "Closed",
@@ -2475,20 +2923,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2581",
-      "summary": "Web: Search history reappears after using Clear All in search options",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2531,20 +2965,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2653",
-      "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2633,48 +3053,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2208",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2475",
-      "summary": "Empty State UI",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2151",
-      "summary": "FLIQS channel logos in Setting section",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-19",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2566",
       "summary": "Web: Sections like Dramas, Movies, and Series on the Home Page are not opening when clicked.",
       "status": "Closed",
@@ -2682,34 +3060,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-12",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2518",
-      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-13",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2657",
-      "summary": "(Tamanna) - Issue: Genre Logos Appearing Blurred in CP.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-13",
       "updated": "2026-03-13",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2927,20 +3277,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1212",
-      "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2025-12-16",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2507",
       "summary": "Blur UI in Sansui TV",
       "status": "Duplicate",
@@ -3039,20 +3375,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2551",
-      "summary": "Blur Image Issues in TV",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "LG_TV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2529",
       "summary": "TV: Incomplete season availability for series \u2013 Mysteries of the Deep and Gold Rush",
       "status": "Invalid",
@@ -3129,20 +3451,6 @@
       "priority": "Low",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2565",
-      "summary": "Web (Device specific): Watch Now button not clickable for Extended Highlight Final: IND vs NZ in Sports section.",
-      "status": "Not Reproducible",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
       "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
@@ -3270,34 +3578,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2520",
-      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2194",
-      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3557,48 +3837,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2294",
-      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2285",
-      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2450",
-      "summary": "Content-to-content redirection failed for Hotstar content on Android TV",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-09",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2468",
       "summary": "(Tamanna) - Channel Name Display Issue After Subscription.",
       "status": "Closed",
@@ -3634,20 +3872,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-18",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2499",
-      "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3697,20 +3921,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2503",
-      "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2464",
       "summary": "(Tamanna) - Fliqs Channel Banner Getting Stretched.",
       "status": "Closed",
@@ -3721,20 +3931,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2508",
-      "summary": "TV: Movie preview (glimpse) starts playing while staying on Settings screen",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -3763,20 +3959,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2519",
-      "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -4215,20 +4397,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2522",
-      "summary": "TV: Inconsistent spelling of Kabaddi in Sports section (Kabbadi vs Kabaddi)",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2527",
       "summary": "TV; In the Wild by Nature series, buttons are not in the standard UI color and duplicate 360p options appear in video quality settings.",
       "status": "Invalid",
@@ -4253,20 +4421,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -4323,20 +4477,6 @@
       "updated": "2026-03-11",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -4477,20 +4617,6 @@
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2470",
-      "summary": "(Tamanna) - Getting \"Watcho movies\" banner in Movies Section in footer",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-09",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -4719,34 +4845,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2424",
-      "summary": "Live Channel | Sony LIV Logos",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2431",
-      "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-06",
-      "updated": "2026-03-07",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2410",
       "summary": " Fliqs journey for guest user",
       "status": "Closed",
@@ -4939,20 +5037,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2172",
-      "summary": "TV: Spelling mistake and text truncation issue in Telugu language option",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -7323,20 +7407,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2328",
-      "summary": "TV: Incorrect spelling of \"Kabaddi\" displayed as \"Kabbadi\" in Sports section",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-26",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2331",
       "summary": "TV: UI buttons highlighted in red unexpectedly (Intermittent)",
       "status": "Duplicate",
@@ -8835,20 +8905,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2202",
-      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-23",
-      "updated": "2026-02-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2203",
       "summary": "Web: Series text in top navigation remains in English after changing App Display Language.",
       "status": "Duplicate",
@@ -9521,20 +9577,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2079",
-      "summary": "(Tamanna) - Content Details Not Displaying Below Thumbnail.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-11",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2088",
       "summary": "Issue in Account deletion",
       "status": "Closed",
@@ -9556,20 +9598,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-01-20",
-      "updated": "2026-02-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2075",
-      "summary": "Live TV: Sony Liv Live TV channel logo issue",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-11",
       "updated": "2026-02-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26743,6 +26771,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-1489",
+      "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ATV",
+      "created": "2025-12-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1971",
+      "summary": "Parameter need to pass from VZY to plan & offer",
+      "status": "In Review",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2479",
       "summary": "Term and Conditions",
       "status": "Ready For Test",
@@ -26795,20 +26851,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1489",
-      "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ATV",
-      "created": "2025-12-23",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (31 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -26974,20 +27016,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "LG_TV",
       "created": "2026-02-27",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1971",
-      "summary": "Parameter need to pass from VZY to plan & offer",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "ATV",
-      "created": "2026-02-04",
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -33902,6 +33930,35 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Reopened": 1,
+        "Ready For Test": 6,
+        "Closed": 186,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7,
+      "statuses": {
+        "Issue Accepted": 1,
+        "Open": 2,
+        "Reopened": 1,
+        "In Progress": 2,
+        "Onhold-For Tech Dependency": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -33909,13 +33966,12 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 12,
+        "Ready For Test": 15,
+        "In Review": 2,
         "Reopened": 4,
         "Closed": 53,
-        "In Review": 2,
         "Invalid": 2,
         "In Progress": 11,
-        "Testing On hold": 3,
         "Onhold-For Tech Dependency": 1,
         "Dev Complete": 1,
         "Not Reproducible": 1,
@@ -33933,46 +33989,79 @@
         "Closed": 43,
         "Ready For Test": 4
       }
-    },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 1,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7,
-      "statuses": {
-        "Issue Accepted": 1,
-        "Open": 2,
-        "Reopened": 1,
-        "In Progress": 2,
-        "Onhold-For Tech Dependency": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Closed": 186,
-        "In Progress": 1,
-        "Reopened": 1,
-        "Dev Complete": 1,
-        "Ready For Test": 5,
-        "Testing On hold": 1,
-        "Invalid": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "vzyfeedback": {
-      "bugs": 1509,
+      "bugs": 1507,
       "tasks": 310,
       "subtasks": 12,
       "stories": 0,
-      "total": 1836
+      "total": 1834
+    },
+    "Yashika Krishnani": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
+    "Javed Ali": {
+      "bugs": 35,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 40
+    },
+    "Akash Kushwaha": {
+      "bugs": 32,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 35
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 10,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 17
+    },
+    "Suyog Lanje": {
+      "bugs": 4,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
     },
     "avinash waghmare": {
       "bugs": 5,
@@ -33982,53 +34071,11 @@
       "total": 10
     },
     "Alok Gupta": {
-      "bugs": 13,
+      "bugs": 14,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 19
-    },
-    "shadab Hussain": {
-      "bugs": 10,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 34
-    },
-    "Javed Ali": {
-      "bugs": 37,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 42
-    },
-    "Shubham Chauhan": {
-      "bugs": 18,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 25
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 9,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 16
-    },
-    "Yashika Krishnani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
+      "total": 20
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34037,26 +34084,40 @@
       "stories": 0,
       "total": 4
     },
-    "devaraj": {
+    "Karan Mahboobani": {
       "bugs": 9,
       "tasks": 1,
-      "subtasks": 1,
+      "subtasks": 2,
       "stories": 0,
-      "total": 11
+      "total": 12
     },
     "Ajay Kushwaha": {
+      "bugs": 11,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "shadab Hussain": {
       "bugs": 10,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 14
     },
-    "Suyog Lanje": {
-      "bugs": 4,
-      "tasks": 9,
+    "Shubham Chauhan": {
+      "bugs": 18,
+      "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 25
+    },
+    "devaraj": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
     },
     "Amudha Kaliamoorthi": {
       "bugs": 16,
@@ -34066,11 +34127,11 @@
       "total": 34
     },
     "abhilash.ramesh": {
-      "bugs": 13,
+      "bugs": 12,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 15
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -34079,13 +34140,6 @@
       "stories": 0,
       "total": 2
     },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 38
-    },
     "Manikanta P": {
       "bugs": 5,
       "tasks": 8,
@@ -34093,26 +34147,12 @@
       "stories": 1,
       "total": 14
     },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "Unassigned": {
       "bugs": 73,
       "tasks": 30,
       "subtasks": 0,
       "stories": 0,
       "total": 110
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
     },
     "Ajay T": {
       "bugs": 1,
@@ -34134,20 +34174,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Karan Mahboobani": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 12
-    },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
     },
     "Aniruddh Patil": {
       "bugs": 0,
@@ -34228,12 +34254,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 898,
-    "High": 566,
     "Highest": 387,
+    "High": 566,
+    "Medium": 900,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T04:58:13Z",
-  "total_issues": 2442
+  "updated_at": "2026-03-20T06:08:06Z",
+  "total_issues": 2444
 }
