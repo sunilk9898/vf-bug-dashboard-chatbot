@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2582",
+      "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "avinash waghmare",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2550",
+      "summary": "2:3 Thumbnail images",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-03-12",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2639",
+      "summary": "Mobile: Privacy Policy page takes an unusually long time to load from Help & Support.",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2640",
+      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2697",
+      "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2651",
+      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
+      "status": "Reopened",
+      "priority": "Low",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2392",
+      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1909",
+      "summary": "cover page poster  for some CP",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-02",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2668",
       "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
       "status": "Issue Accepted",
@@ -165,20 +291,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2392",
-      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "Aniruddh Patil",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -637,34 +749,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
-      "created": "2026-03-13",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2550",
-      "summary": "2:3 Thumbnail images",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-03-12",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2639",
-      "summary": "Mobile: Privacy Policy page takes an unusually long time to load from Help & Support.",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "Rajkumar A",
-      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-19",
       "duedate": "",
@@ -1247,20 +1331,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2456",
       "summary": "Fliqs content playback ",
       "status": "Closed",
@@ -1499,40 +1569,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2582",
-      "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2631",
       "summary": "Web: Unauthorized account access via shared profile link without authentication",
       "status": "Not Reproducible",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2640",
-      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-18",
       "duedate": "",
@@ -1588,20 +1630,6 @@
       "status": "Closed",
       "priority": "Medium",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2651",
-      "summary": "Mobile: Subtitle option is \u201cOff\u201d for videos under Browse by OTT Fliqs category for Traitor Series, with no option to enable or select subtitle languages.",
-      "status": "Reopened",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-18",
@@ -7753,20 +7781,6 @@
       "updated": "2026-02-26",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1909",
-      "summary": "cover page poster  for some CP",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-02",
-      "updated": "2026-02-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26731,12 +26745,12 @@
     {
       "key": "VF-2479",
       "summary": "Term and Conditions",
-      "status": "Reopened",
+      "status": "Ready For Test",
       "priority": "Highest",
-      "assignee": "Aniruddh Patil",
+      "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-10",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
@@ -33551,12 +33565,12 @@
     {
       "key": "VF-1967",
       "summary": "Android - Branch.io Intregation (Standered)",
-      "status": "Ready For Test",
+      "status": "Reopened",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-02-04",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Sub-task",
@@ -33895,8 +33909,8 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Reopened": 5,
-        "Ready For Test": 11,
+        "Ready For Test": 12,
+        "Reopened": 4,
         "Closed": 53,
         "In Review": 2,
         "Invalid": 2,
@@ -33915,9 +33929,9 @@
       "stories": 0,
       "total": 49,
       "statuses": {
-        "Ready For Test": 6,
-        "Closed": 42,
-        "Reopened": 1
+        "Reopened": 2,
+        "Closed": 43,
+        "Ready For Test": 4
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -33953,12 +33967,47 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1509,
+      "tasks": 310,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1836
+    },
+    "avinash waghmare": {
+      "bugs": 5,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Alok Gupta": {
+      "bugs": 13,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
     "shadab Hussain": {
-      "bugs": 9,
+      "bugs": 10,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 14
+    },
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 34
+    },
+    "Javed Ali": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 42
     },
     "Shubham Chauhan": {
       "bugs": 18,
@@ -33995,20 +34044,6 @@
       "stories": 0,
       "total": 11
     },
-    "Aniruddh Patil": {
-      "bugs": 1,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "vzyfeedback": {
-      "bugs": 1509,
-      "tasks": 309,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1835
-    },
     "Ajay Kushwaha": {
       "bugs": 10,
       "tasks": 4,
@@ -34030,13 +34065,6 @@
       "stories": 0,
       "total": 34
     },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "abhilash.ramesh": {
       "bugs": 13,
       "tasks": 3,
@@ -34051,33 +34079,12 @@
       "stories": 0,
       "total": 2
     },
-    "Javed Ali": {
-      "bugs": 36,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 41
-    },
-    "Rajkumar A": {
-      "bugs": 4,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
-    },
     "Dinjit Dinesh": {
       "bugs": 19,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
       "total": 38
-    },
-    "Akash Kushwaha": {
-      "bugs": 32,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 35
     },
     "Manikanta P": {
       "bugs": 5,
@@ -34092,13 +34099,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Alok Gupta": {
-      "bugs": 12,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
     },
     "Unassigned": {
       "bugs": 73,
@@ -34149,6 +34149,13 @@
       "stories": 0,
       "total": 41
     },
+    "Aniruddh Patil": {
+      "bugs": 0,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
     "Moore Meghana": {
       "bugs": 11,
       "tasks": 2,
@@ -34191,6 +34198,13 @@
       "stories": 0,
       "total": 8
     },
+    "Rajkumar A": {
+      "bugs": 3,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
     "Harsh Pratap Singh": {
       "bugs": 4,
       "tasks": 0,
@@ -34214,12 +34228,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 565,
-    "Highest": 387,
     "Medium": 898,
+    "High": 566,
+    "Highest": 387,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T03:10:48Z",
-  "total_issues": 2441
+  "updated_at": "2026-03-20T04:58:13Z",
+  "total_issues": 2442
 }
