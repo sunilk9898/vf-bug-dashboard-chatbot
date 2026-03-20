@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2425",
+      "summary": "Loading Issue",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "Reopened",
@@ -3371,20 +3385,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2425",
-      "summary": "Loading Issue",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-15",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34000,6 +34000,25 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Dev Complete": 3,
+        "Reopened": 3,
+        "Ready For Test": 13,
+        "Testing On hold": 1,
+        "Closed": 56,
+        "In Review": 1,
+        "Invalid": 2,
+        "In Progress": 10,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -34013,25 +34032,6 @@
         "Closed": 186,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Reopened": 3,
-        "Dev Complete": 2,
-        "Ready For Test": 13,
-        "Testing On hold": 1,
-        "Closed": 56,
-        "In Review": 1,
-        "Invalid": 2,
-        "In Progress": 11,
-        "Onhold-For Tech Dependency": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34065,6 +34065,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
     "Ajay Kushwaha": {
       "bugs": 12,
       "tasks": 3,
@@ -34155,13 +34162,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "BalaKumar": {
       "bugs": 14,
@@ -34326,12 +34326,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 387,
     "Medium": 904,
+    "Highest": 387,
     "High": 567,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T17:53:38Z",
+  "updated_at": "2026-03-20T19:07:36Z",
   "total_issues": 2449
 }

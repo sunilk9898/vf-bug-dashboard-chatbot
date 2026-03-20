@@ -50,7 +50,7 @@
     },
     "IOS": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-20T17:53:38Z",
+  "updated_at": "2026-03-20T19:07:36Z",
   "total_issues_fetched": 2449,
   "project": "VF"
 }
