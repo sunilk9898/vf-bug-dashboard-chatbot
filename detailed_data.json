@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2392",
+      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2703",
+      "summary": "ATV - QR screen appears before redirection for external CP content for Watcho Max users",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2450",
+      "summary": "Content-to-content redirection failed for Hotstar content on Android TV",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-09",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2470",
+      "summary": "(Tamanna) - Getting \"Watcho movies\" banner in Movies Section in footer",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-09",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2503",
+      "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "ANDROID",
+      "created": "2026-03-16",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2508",
+      "summary": "TV: Movie preview (glimpse) starts playing while staying on Settings screen",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2682",
+      "summary": "FireTv - Error observed while playing Shemaroo content \u201cChaniya Toli\u201d on clicking Watch Now",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2518",
+      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2520",
+      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2581",
+      "summary": "Web: Search history reappears after using Clear All in search options",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2519",
+      "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2695",
+      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2687",
       "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
       "status": "In Progress",
@@ -99,20 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2635",
       "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
       "status": "Dev Complete",
@@ -162,20 +330,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2695",
-      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-19",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1051,20 +1205,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2581",
-      "summary": "Web: Search history reappears after using Clear All in search options",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2644",
       "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
       "status": "Dev Complete",
@@ -1170,20 +1310,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2470",
-      "summary": "(Tamanna) - Getting \"Watcho movies\" banner in Movies Section in footer",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-09",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1331,48 +1457,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2503",
-      "summary": "TV: Next Episode button not visible while playing Hungama series \u201cBegum of Crime\u201d",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2518",
-      "summary": "TV: Subscription details window appears and disappears instantly when clicking the Subscribe button, preventing users from viewing or completing the subscription.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2508",
-      "summary": "TV: Movie preview (glimpse) starts playing while staying on Settings screen",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2565",
       "summary": "Web (Device specific): Watch Now button not clickable for Extended Highlight Final: IND vs NZ in Sports section.",
       "status": "Invalid",
@@ -1397,48 +1481,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2450",
-      "summary": "Content-to-content redirection failed for Hotstar content on Android TV",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-09",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2519",
-      "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2520",
-      "summary": "TV: Search results open incorrect content in both Kids and Main profiles",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1499,20 +1541,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2392",
-      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1909",
       "summary": "cover page poster  for some CP",
       "status": "Closed",
@@ -1523,20 +1551,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2682",
-      "summary": "FireTv - Error observed while playing Shemaroo content \u201cChaniya Toli\u201d on clicking Watch Now",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26813,6 +26827,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-251",
+      "summary": "Playback / Player: Change Seasons",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Moore Meghana",
+      "platform": "LG_TV",
+      "created": "2025-11-10",
+      "updated": "2026-03-20",
+      "duedate": "2026-01-15",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1021",
+      "summary": "mWeb - Categories drop down not available on home screen",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Rajkumar A",
+      "platform": "WEB",
+      "created": "2025-12-08",
+      "updated": "2026-03-20",
+      "duedate": "2025-12-17",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2479",
       "summary": "Term and Conditions",
       "status": "Ready For Test",
@@ -26876,20 +26932,6 @@
       "assignee": "shadab Hussain",
       "platform": "ANDROID",
       "created": "2026-03-12",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-10",
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27873,20 +27915,6 @@
       "updated": "2026-03-06",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-251",
-      "summary": "Playback / Player: Change Seasons",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Moore Meghana",
-      "platform": "LG_TV",
-      "created": "2025-11-10",
-      "updated": "2026-03-05",
-      "duedate": "2026-01-15",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -29496,20 +29524,6 @@
       "created": "2026-01-23",
       "updated": "2026-02-02",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1021",
-      "summary": "mWeb - Categories drop down not available on home screen",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Rajkumar A",
-      "platform": "WEB",
-      "created": "2025-12-08",
-      "updated": "2026-01-30",
-      "duedate": "2025-12-17",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -33972,6 +33986,24 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Closed": 56,
+        "Ready For Test": 13,
+        "In Review": 2,
+        "Reopened": 4,
+        "Invalid": 2,
+        "In Progress": 11,
+        "Onhold-For Tech Dependency": 1,
+        "Dev Complete": 1,
+        "Parked": 1
+      }
+    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
       "tasks": 6,
@@ -33985,24 +34017,6 @@
         "Reopened": 1,
         "In Progress": 1,
         "Onhold-For Tech Dependency": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Closed": 55,
-        "Ready For Test": 14,
-        "In Review": 2,
-        "Reopened": 4,
-        "Invalid": 2,
-        "In Progress": 11,
-        "Onhold-For Tech Dependency": 1,
-        "Dev Complete": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -34035,19 +34049,61 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1506,
+      "tasks": 311,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1835
+    },
+    "Akash Kushwaha": {
+      "bugs": 30,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 33
+    },
+    "shadab Hussain": {
+      "bugs": 9,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
     "Amit Kumar Tiwari": {
-      "bugs": 14,
+      "bugs": 15,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 21
+      "total": 22
     },
-    "vzyfeedback": {
-      "bugs": 1506,
-      "tasks": 310,
-      "subtasks": 12,
+    "Moore Meghana": {
+      "bugs": 11,
+      "tasks": 2,
+      "subtasks": 1,
       "stories": 0,
-      "total": 1834
+      "total": 14
+    },
+    "Rajkumar A": {
+      "bugs": 3,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
+    "devaraj": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 11
     },
     "Alok Gupta": {
       "bugs": 16,
@@ -34062,20 +34118,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 15
-    },
-    "devaraj": {
-      "bugs": 9,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 11
-    },
-    "shadab Hussain": {
-      "bugs": 9,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -34106,18 +34148,11 @@
       "total": 7
     },
     "Shubham Chauhan": {
-      "bugs": 17,
+      "bugs": 16,
       "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 24
-    },
-    "Akash Kushwaha": {
-      "bugs": 29,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 32
+      "total": 23
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34161,13 +34196,6 @@
       "stories": 0,
       "total": 9
     },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
     "Unassigned": {
       "bugs": 73,
       "tasks": 30,
@@ -34184,10 +34212,10 @@
     },
     "Ajay Kushwaha": {
       "bugs": 11,
-      "tasks": 4,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 14
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -34224,13 +34252,6 @@
       "stories": 0,
       "total": 5
     },
-    "Moore Meghana": {
-      "bugs": 11,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
-    },
     "Kiran JR": {
       "bugs": 7,
       "tasks": 1,
@@ -34266,13 +34287,6 @@
       "stories": 0,
       "total": 8
     },
-    "Rajkumar A": {
-      "bugs": 3,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
-    },
     "Harsh Pratap Singh": {
       "bugs": 4,
       "tasks": 0,
@@ -34296,12 +34310,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 387,
-    "Medium": 902,
-    "High": 567,
     "Low": 57,
+    "Medium": 903,
+    "Highest": 387,
+    "High": 567,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T09:00:17Z",
-  "total_issues": 2447
+  "updated_at": "2026-03-20T09:58:58Z",
+  "total_issues": 2448
 }
