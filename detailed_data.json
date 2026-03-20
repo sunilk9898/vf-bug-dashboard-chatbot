@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2700",
+      "summary": "Empty box Meta data in Fliqs",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2688",
+      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2461",
+      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2678",
+      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-18",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2640",
+      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2582",
       "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
       "status": "Invalid",
@@ -77,20 +161,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2678",
-      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
       "created": "2026-03-18",
       "updated": "2026-03-20",
       "duedate": "",
@@ -477,39 +547,11 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2700",
-      "summary": "Empty box Meta data in Fliqs",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2627",
       "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
       "status": "Issue Accepted",
       "priority": "Medium",
       "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2640",
-      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-20",
@@ -652,20 +694,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-17",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2688",
-      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1597,20 +1625,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2550",
       "summary": "2:3 Thumbnail images",
       "status": "Closed",
@@ -2517,20 +2531,6 @@
       "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2461",
-      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26841,6 +26841,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1489",
+      "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Suyog Lanje",
+      "platform": "ATV",
+      "created": "2025-12-23",
+      "updated": "2026-03-20",
+      "duedate": "",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-454",
       "summary": "Casting",
       "status": "In Progress",
@@ -26949,20 +26963,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1489",
-      "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Suyog Lanje",
-      "platform": "ATV",
-      "created": "2025-12-23",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (31 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -34000,6 +34000,40 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Reopened": 4,
+        "Ready For Test": 12,
+        "Testing On hold": 1,
+        "Closed": 56,
+        "In Review": 2,
+        "Invalid": 2,
+        "In Progress": 11,
+        "Onhold-For Tech Dependency": 1,
+        "Dev Complete": 1,
+        "Parked": 1
+      }
+    },
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7,
+      "statuses": {
+        "Issue Accepted": 1,
+        "Closed": 1,
+        "Open": 2,
+        "Reopened": 1,
+        "In Progress": 1,
+        "Onhold-For Tech Dependency": 1
+      }
+    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -34011,25 +34045,6 @@
         "Closed": 43,
         "Reopened": 1,
         "Ready For Test": 4
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Ready For Test": 12,
-        "Testing On hold": 1,
-        "Closed": 56,
-        "In Review": 2,
-        "Reopened": 4,
-        "Invalid": 2,
-        "In Progress": 11,
-        "Onhold-For Tech Dependency": 1,
-        "Dev Complete": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (27 Feb 2026)": {
@@ -34046,25 +34061,38 @@
         "Testing On hold": 1,
         "Invalid": 1
       }
-    },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 1,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7,
-      "statuses": {
-        "Closed": 1,
-        "Issue Accepted": 1,
-        "Open": 2,
-        "Reopened": 1,
-        "In Progress": 1,
-        "Onhold-For Tech Dependency": 1
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1509,
+      "tasks": 313,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1840
+    },
+    "Suyog Lanje": {
+      "bugs": 7,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Moore Meghana": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
     "Akash Kushwaha": {
       "bugs": 31,
       "tasks": 2,
@@ -34073,11 +34101,11 @@
       "total": 34
     },
     "Amit Kumar Tiwari": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 22
+      "total": 21
     },
     "avinash waghmare": {
       "bugs": 3,
@@ -34085,20 +34113,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "vzyfeedback": {
-      "bugs": 1510,
-      "tasks": 313,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1841
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "Shubham Chauhan": {
       "bugs": 16,
@@ -34128,13 +34142,6 @@
       "stories": 0,
       "total": 13
     },
-    "Moore Meghana": {
-      "bugs": 11,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
@@ -34155,13 +34162,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 22
-    },
-    "Suyog Lanje": {
-      "bugs": 6,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "Karan Mahboobani": {
       "bugs": 9,
@@ -34332,6 +34332,6 @@
     "Highest": 387,
     "Lowest": 2
   },
-  "updated_at": "2026-03-20T13:34:56Z",
+  "updated_at": "2026-03-20T15:03:10Z",
   "total_issues": 2449
 }
