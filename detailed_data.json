@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2640",
+      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-21",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2425",
       "summary": "Loading Issue",
       "status": "Dev Complete",
@@ -288,20 +302,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2640",
-      "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26843,12 +26843,12 @@
     {
       "key": "VF-1489",
       "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
-      "status": "Dev Complete",
+      "status": "Ready For Test",
       "priority": "Highest",
-      "assignee": "Suyog Lanje",
+      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2025-12-23",
-      "updated": "2026-03-20",
+      "updated": "2026-03-21",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
       "type": "Task",
@@ -34000,6 +34000,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 1,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7,
+      "statuses": {
+        "Ready For Test": 1,
+        "Closed": 1,
+        "Open": 2,
+        "Reopened": 1,
+        "In Progress": 1,
+        "Onhold-For Tech Dependency": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34034,21 +34049,6 @@
         "Invalid": 1
       }
     },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 1,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7,
-      "statuses": {
-        "Dev Complete": 1,
-        "Closed": 1,
-        "Open": 2,
-        "Reopened": 1,
-        "In Progress": 1,
-        "Onhold-For Tech Dependency": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -34065,6 +34065,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1509,
+      "tasks": 314,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1841
+    },
     "shadab Hussain": {
       "bugs": 9,
       "tasks": 4,
@@ -34107,20 +34114,6 @@
       "stories": 0,
       "total": 6
     },
-    "vzyfeedback": {
-      "bugs": 1508,
-      "tasks": 313,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1839
-    },
-    "Suyog Lanje": {
-      "bugs": 7,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
-    },
     "Yashika Krishnani": {
       "bugs": 10,
       "tasks": 1,
@@ -34141,6 +34134,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 22
+    },
+    "Suyog Lanje": {
+      "bugs": 6,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
     },
     "Moore Meghana": {
       "bugs": 12,
@@ -34332,6 +34332,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-21T02:47:59Z",
+  "updated_at": "2026-03-21T04:47:48Z",
   "total_issues": 2449
 }
