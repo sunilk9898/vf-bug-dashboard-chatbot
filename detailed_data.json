@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2693",
+      "summary": "2:3 carousel bottom shadow",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-21",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2633",
+      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-21",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2474",
       "summary": "Carousel Load time",
       "status": "Testing On hold",
@@ -176,20 +204,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2633",
-      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -470,20 +484,6 @@
       "assignee": "Shubham Chauhan",
       "platform": "ATV",
       "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2693",
-      "summary": "2:3 carousel bottom shadow",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Yashika Krishnani",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34066,11 +34066,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1511,
+      "bugs": 1513,
       "tasks": 314,
       "subtasks": 12,
       "stories": 0,
-      "total": 1843
+      "total": 1845
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -34108,11 +34108,11 @@
       "total": 6
     },
     "Yashika Krishnani": {
-      "bugs": 10,
+      "bugs": 8,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 11
+      "total": 9
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34326,12 +34326,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 567,
     "Medium": 904,
     "Highest": 387,
-    "High": 567,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-21T05:55:16Z",
+  "updated_at": "2026-03-21T07:04:25Z",
   "total_issues": 2449
 }
