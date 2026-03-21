@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-21",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-21",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2635",
+      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-21",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-16",
+      "updated": "2026-03-21",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2693",
       "summary": "2:3 carousel bottom shadow",
       "status": "Ready For Test",
@@ -421,20 +477,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1890",
       "summary": "Content not getting ingested on time",
       "status": "Closed",
@@ -589,20 +631,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "ANDROID",
-      "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2508",
       "summary": "TV: Movie preview (glimpse) starts playing while staying on Settings screen",
       "status": "Closed",
@@ -739,20 +767,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2635",
-      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1100,20 +1114,6 @@
       "assignee": "Amudha Kaliamoorthi",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34007,8 +34007,8 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Testing On hold": 2,
-        "Ready For Test": 14,
+        "Ready For Test": 15,
+        "Testing On hold": 1,
         "Dev Complete": 2,
         "Reopened": 2,
         "Closed": 56,
@@ -34066,11 +34066,18 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1513,
+      "bugs": 1515,
       "tasks": 314,
       "subtasks": 12,
       "stories": 0,
-      "total": 1845
+      "total": 1847
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -34108,11 +34115,11 @@
       "total": 6
     },
     "Yashika Krishnani": {
-      "bugs": 8,
+      "bugs": 7,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 8
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34156,13 +34163,6 @@
       "stories": 0,
       "total": 19
     },
-    "shadab Hussain": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
@@ -34198,13 +34198,6 @@
       "stories": 0,
       "total": 7
     },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
-    },
     "abhilash.ramesh": {
       "bugs": 12,
       "tasks": 3,
@@ -34239,6 +34232,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 42
+    },
+    "shadab Hussain": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -34326,12 +34326,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 567,
-    "Medium": 904,
     "Highest": 387,
     "Low": 57,
+    "High": 567,
+    "Medium": 904,
     "Lowest": 2
   },
-  "updated_at": "2026-03-21T07:04:25Z",
+  "updated_at": "2026-03-21T07:46:48Z",
   "total_issues": 2449
 }
