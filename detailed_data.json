@@ -3,7 +3,7 @@
     {
       "key": "VF-2669",
       "summary": "Naveen => Incorrect redirection after login via Content ",
-      "status": "Testing On hold",
+      "status": "Ready For Test",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
@@ -11,6 +11,20 @@
       "updated": "2026-03-21",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-21",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -123,20 +137,6 @@
       "updated": "2026-03-21",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34007,8 +34007,7 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 15,
-        "Testing On hold": 1,
+        "Ready For Test": 16,
         "Dev Complete": 2,
         "Reopened": 2,
         "Closed": 56,
@@ -34327,11 +34326,11 @@
   },
   "priority_breakdown": {
     "Highest": 387,
+    "Medium": 904,
     "High": 567,
     "Low": 57,
-    "Medium": 904,
     "Lowest": 2
   },
-  "updated_at": "2026-03-21T13:12:48Z",
+  "updated_at": "2026-03-21T13:53:37Z",
   "total_issues": 2449
 }
