@@ -26,10 +26,10 @@
     },
     "CMS Adaptor": {
       "OPEN": 1,
-      "IN PROGRESS": 2,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 0,
       "PARKED": 0
     },
     "CMS Dashboard": {
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-22T17:42:25Z",
+  "updated_at": "2026-03-22T18:56:11Z",
   "total_issues_fetched": 2449,
   "project": "VF"
 }
