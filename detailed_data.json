@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-22",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2627",
       "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
       "status": "Dev Complete",
@@ -263,20 +277,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34007,14 +34007,14 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 16,
-        "Dev Complete": 2,
+        "Ready For Test": 17,
         "Reopened": 2,
         "Closed": 56,
         "In Review": 1,
         "Invalid": 2,
         "In Progress": 10,
         "Onhold-For Tech Dependency": 1,
+        "Dev Complete": 1,
         "Parked": 1
       }
     },
@@ -34064,19 +34064,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1517,
+      "tasks": 314,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1849
+    },
     "Alok Gupta": {
       "bugs": 16,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
       "total": 22
-    },
-    "vzyfeedback": {
-      "bugs": 1516,
-      "tasks": 314,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1848
     },
     "Akash Kushwaha": {
       "bugs": 30,
@@ -34126,13 +34126,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 6
-    },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34200,6 +34193,13 @@
     "Aditya Shrivastava": {
       "bugs": 2,
       "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Yashika Krishnani": {
+      "bugs": 6,
+      "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 7
@@ -34325,12 +34325,12 @@
     }
   },
   "priority_breakdown": {
+    "Low": 57,
     "Medium": 904,
     "Highest": 387,
     "High": 567,
-    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-22T15:42:02Z",
+  "updated_at": "2026-03-22T16:48:18Z",
   "total_issues": 2449
 }
