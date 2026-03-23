@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2678",
+      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-18",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2683",
       "summary": "FireTV - Resume button not visible for Hoichoi content",
       "status": "Ready For Test",
@@ -148,20 +162,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-19",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2678",
-      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-18",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34149,11 +34149,11 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1524,
+      "bugs": 1525,
       "tasks": 315,
       "subtasks": 12,
       "stories": 0,
-      "total": 1857
+      "total": 1858
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34189,13 +34189,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 23
-    },
-    "shadab Hussain": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -34316,6 +34309,13 @@
       "stories": 0,
       "total": 109
     },
+    "shadab Hussain": {
+      "bugs": 7,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 11
+    },
     "Chiranjit Chatterjee": {
       "bugs": 2,
       "tasks": 0,
@@ -34409,12 +34409,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 570,
     "Medium": 906,
+    "High": 570,
     "Low": 57,
     "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T16:13:49Z",
+  "updated_at": "2026-03-23T17:10:45Z",
   "total_issues": 2455
 }
