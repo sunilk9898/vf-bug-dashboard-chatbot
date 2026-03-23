@@ -1,6 +1,328 @@
 {
   "bugs": [
     {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2677",
+      "summary": "(Shivani) - Live TV tab >> free live tv Rail >> On clicking View All in the Free Live TV rail, the channels keep repeating while scrolling.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-17",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2670",
+      "summary": "(Shivani) - In the Unsubscribe pop-up, the digits 30 are displayed after \u20b979, whereas on the web it is displayed correctly.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2710",
+      "summary": "Squished VZY favicon",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2607",
+      "summary": "Mobile: Duplicate profiles can be created and app does not redirect to Home page after profile creation.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2202",
+      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2691",
+      "summary": "ATV Rail Clipping issue",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-19",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2678",
+      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-18",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2499",
+      "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2544",
+      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-12",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2294",
+      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2662",
+      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "SAM_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2285",
+      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-25",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2628",
+      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-01-09",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2026",
+      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-02-06",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2581",
+      "summary": "Web: Search history reappears after using Clear All in search options",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2513",
       "summary": "Collection rail",
       "status": "Closed",
@@ -39,20 +361,6 @@
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -113,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2544",
-      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-12",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1197",
       "summary": "Something Went Wrong ",
       "status": "Closed",
@@ -183,20 +477,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2195",
       "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
       "status": "Closed",
@@ -235,20 +515,6 @@
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2710",
-      "summary": "Squished VZY favicon",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "WEB",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -315,20 +581,6 @@
       "priority": "Highest",
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
       "created": "2026-03-23",
       "updated": "2026-03-23",
       "duedate": "",
@@ -547,20 +799,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2698",
       "summary": "(Tamanna) - Fliqs creator cover banner getting blur and wrong dimension.",
       "status": "Onhold-For Tech Dependency",
@@ -603,20 +841,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2476",
       "summary": "Squished VZY logo",
       "status": "Reopened",
@@ -641,20 +865,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2026",
-      "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-02-06",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -715,20 +925,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2678",
-      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2582",
       "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
       "status": "Invalid",
@@ -736,20 +932,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "WEB",
       "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2691",
-      "summary": "ATV Rail Clipping issue",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-19",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -823,20 +1005,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -995,20 +1163,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2581",
-      "summary": "Web: Search history reappears after using Clear All in search options",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2519",
       "summary": "TV: Exit confirmation popup buttons (Yes / Cancel) are not responding when attempting to leave the application, and the app redirects to a movie page instead.",
       "status": "Closed",
@@ -1030,20 +1184,6 @@
       "assignee": "devaraj",
       "platform": "LG_TV",
       "created": "2026-03-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2202",
-      "summary": "Web : Spelling mistake in Content Language Preference Telugu is displayed as Telegu.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-23",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1114,34 +1254,6 @@
       "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2662",
-      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "SAM_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2694",
-      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-19",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1238,20 +1350,6 @@
       "status": "Closed",
       "priority": "Low",
       "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2607",
-      "summary": "Mobile: Duplicate profiles can be created and app does not redirect to Home page after profile creation.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-20",
@@ -1919,48 +2017,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2499",
-      "summary": "TV:  Autoplay plays previous episode instead of next episode for Hungama series \u201cBegum of Crime\u201d",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2294",
-      "summary": "TV: Blank screen with \"Invalid session token\" when playing Thuppakki",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2285",
-      "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-25",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2565",
       "summary": "Web (Device specific): Watch Now button not clickable for Extended Highlight Final: IND vs NZ in Sports section.",
       "status": "Invalid",
@@ -2599,48 +2655,6 @@
       "platform": "WEB",
       "created": "2026-03-10",
       "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2670",
-      "summary": "(Shivani) - In the Unsubscribe pop-up, the digits 30 are displayed after \u20b979, whereas on the web it is displayed correctly.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
-      "created": "2026-03-16",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2677",
-      "summary": "(Shivani) - Live TV tab >> free live tv Rail >> On clicking View All in the Free Live TV rail, the channels keep repeating while scrolling.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-17",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2628",
-      "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-18",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -11196,20 +11210,6 @@
       "created": "2026-01-15",
       "updated": "2026-01-29",
       "duedate": "2026-01-20",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-01-09",
-      "updated": "2026-01-29",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
@@ -26925,6 +26925,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1024",
+      "summary": "(Shruti) Analytics: Amazon Webhooks \u2013 Daily basis",
+      "status": "Parked",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2025-12-08",
+      "updated": "2026-03-23",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2408",
       "summary": "(Tamanna) - Match Videos Not Available After ENG vs NZ \u2013 ICC T20 World Cup.",
       "status": "Closed",
@@ -30266,20 +30280,6 @@
       "created": "2025-11-25",
       "updated": "2026-01-15",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1024",
-      "summary": "(Shruti) Analytics: Amazon Webhooks \u2013 Daily basis",
-      "status": "Parked",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
-      "created": "2025-12-08",
-      "updated": "2026-01-15",
-      "duedate": "2025-12-31",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -34091,11 +34091,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Closed": 62,
-        "Reopened": 4,
         "Testing On hold": 1,
+        "Reopened": 4,
+        "Closed": 63,
         "Dev Complete": 1,
-        "Ready For Test": 8,
+        "Ready For Test": 7,
         "In Review": 1,
         "Invalid": 2,
         "In Progress": 10,
@@ -34110,9 +34110,10 @@
       "stories": 0,
       "total": 196,
       "statuses": {
+        "Reopened": 2,
         "Dev Complete": 2,
-        "Ready For Test": 6,
         "Closed": 186,
+        "Ready For Test": 4,
         "Testing On hold": 1,
         "Invalid": 1
       }
@@ -34147,19 +34148,75 @@
   },
   "releases": {},
   "assignee_workload": {
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "vzyfeedback": {
+      "bugs": 1523,
+      "tasks": 315,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1856
+    },
+    "Suyog Lanje": {
+      "bugs": 5,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "Alok Gupta": {
+      "bugs": 17,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 23
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 16,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 23
+    },
+    "shadab Hussain": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
+    },
     "Amudha Kaliamoorthi": {
       "bugs": 17,
       "tasks": 14,
       "subtasks": 0,
       "stories": 0,
       "total": 35
-    },
-    "vzyfeedback": {
-      "bugs": 1521,
-      "tasks": 314,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1853
     },
     "Moore Meghana": {
       "bugs": 12,
@@ -34174,27 +34231,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 16,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 23
-    },
-    "Javed Ali": {
-      "bugs": 36,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 41
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -34224,13 +34260,6 @@
       "stories": 0,
       "total": 6
     },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
     "Akash Kushwaha": {
       "bugs": 28,
       "tasks": 2,
@@ -34238,26 +34267,12 @@
       "stories": 0,
       "total": 31
     },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
-    },
     "Dinjit Dinesh": {
-      "bugs": 20,
+      "bugs": 19,
       "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 39
-    },
-    "Suyog Lanje": {
-      "bugs": 6,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
+      "total": 38
     },
     "Shubham Chauhan": {
       "bugs": 15,
@@ -34273,13 +34288,6 @@
       "stories": 0,
       "total": 19
     },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
@@ -34287,19 +34295,19 @@
       "stories": 0,
       "total": 10
     },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Namrata Kurariya": {
-      "bugs": 6,
+    "Javed Ali": {
+      "bugs": 35,
       "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 40
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 8,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 21
     },
     "Unassigned": {
       "bugs": 73,
@@ -34307,20 +34315,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 109
-    },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 42
-    },
-    "shadab Hussain": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "Chiranjit Chatterjee": {
       "bugs": 2,
@@ -34331,10 +34325,10 @@
     },
     "Manikanta P": {
       "bugs": 5,
-      "tasks": 8,
+      "tasks": 7,
       "subtasks": 0,
       "stories": 1,
-      "total": 14
+      "total": 13
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -34421,6 +34415,6 @@
     "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T11:55:57Z",
+  "updated_at": "2026-03-23T13:50:18Z",
   "total_issues": 2455
 }
