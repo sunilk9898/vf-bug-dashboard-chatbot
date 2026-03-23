@@ -3,7 +3,7 @@
     {
       "key": "VF-2683",
       "summary": "FireTV - Resume button not visible for Hoichoi content",
-      "status": "Testing On hold",
+      "status": "Ready For Test",
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
@@ -34415,6 +34415,6 @@
     "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T15:15:52Z",
+  "updated_at": "2026-03-23T16:13:49Z",
   "total_issues": 2455
 }
