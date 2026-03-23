@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2683",
+      "summary": "FireTV - Resume button not visible for Hoichoi content",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2694",
       "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
       "status": "Reopened",
@@ -1005,20 +1019,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2683",
-      "summary": "FireTV - Resume button not visible for Hoichoi content",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34148,19 +34148,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1524,
+      "tasks": 315,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1857
+    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "vzyfeedback": {
-      "bugs": 1523,
-      "tasks": 315,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1856
     },
     "Suyog Lanje": {
       "bugs": 5,
@@ -34274,13 +34274,6 @@
       "stories": 0,
       "total": 38
     },
-    "Shubham Chauhan": {
-      "bugs": 15,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -34301,6 +34294,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 40
+    },
+    "Shubham Chauhan": {
+      "bugs": 14,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
     },
     "BalaKumar": {
       "bugs": 13,
@@ -34409,12 +34409,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 906,
     "High": 570,
+    "Medium": 906,
     "Low": 57,
     "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T13:50:18Z",
+  "updated_at": "2026-03-23T15:15:52Z",
   "total_issues": 2455
 }
