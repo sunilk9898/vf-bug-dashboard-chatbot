@@ -1,12 +1,180 @@
 {
   "bugs": [
     {
+      "key": "VF-2195",
+      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2693",
+      "summary": "2:3 carousel bottom shadow",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2710",
+      "summary": "Squished VZY favicon",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2709",
       "summary": "(Shivani) -On clicking the episode content, the QR code is shown first, and then it redirects to the ZEE5 content.",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2674",
+      "summary": "Player shows subscription QR code",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-17",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2679",
+      "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
       "status": "Open",
       "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2708",
+      "summary": "Web Player issues",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
       "created": "2026-03-23",
       "updated": "2026-03-23",
       "duedate": "",
@@ -39,76 +207,6 @@
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2708",
-      "summary": "Web Player issues",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "WEB",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "ANDROID",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2707",
-      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2693",
-      "summary": "2:3 carousel bottom shadow",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -218,20 +316,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-03-20",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2674",
-      "summary": "Player shows subscription QR code",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-17",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -365,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2195",
-      "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-22",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2627",
       "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
       "status": "Dev Complete",
@@ -389,20 +459,6 @@
       "updated": "2026-03-22",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1877,20 +1933,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2550",
       "summary": "2:3 Thumbnail images",
       "status": "Closed",
@@ -1929,20 +1971,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2556,20 +2584,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-17",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2679",
-      "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-03-18",
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26911,6 +26925,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1611",
+      "summary": "Content badge Enhancement",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-01-09",
+      "updated": "2026-03-23",
+      "duedate": "2026-01-30",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1489",
       "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
       "status": "Closed",
@@ -27550,20 +27578,6 @@
       "created": "2026-02-03",
       "updated": "2026-03-12",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1611",
-      "summary": "Content badge Enhancement",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-01-09",
-      "updated": "2026-03-12",
-      "duedate": "2026-01-30",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -34077,11 +34091,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Closed": 58,
+        "Reopened": 5,
         "Testing On hold": 1,
         "Dev Complete": 1,
-        "Closed": 57,
-        "Ready For Test": 15,
-        "Reopened": 2,
+        "Ready For Test": 11,
         "In Review": 1,
         "Invalid": 2,
         "In Progress": 10,
@@ -34133,13 +34147,6 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 29,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 32
-    },
     "vzyfeedback": {
       "bugs": 1520,
       "tasks": 314,
@@ -34147,12 +34154,12 @@
       "stories": 0,
       "total": 1852
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 17,
-      "tasks": 14,
-      "subtasks": 0,
+    "Karan Mahboobani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
       "stories": 0,
-      "total": 35
+      "total": 11
     },
     "Srinidhi.Raju": {
       "bugs": 1,
@@ -34161,19 +34168,33 @@
       "stories": 0,
       "total": 1
     },
-    "Moore Meghana": {
-      "bugs": 13,
-      "tasks": 2,
-      "subtasks": 1,
+    "Amit Kumar Tiwari": {
+      "bugs": 16,
+      "tasks": 5,
+      "subtasks": 2,
       "stories": 0,
-      "total": 16
+      "total": 23
     },
-    "Kiran JR": {
-      "bugs": 9,
-      "tasks": 1,
+    "Javed Ali": {
+      "bugs": 36,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 41
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 10
+      "total": 15
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 17,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
     },
     "Yashika Krishnani": {
       "bugs": 7,
@@ -34181,13 +34202,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
     },
     "abhilash.ramesh": {
       "bugs": 12,
@@ -34210,19 +34224,19 @@
       "stories": 0,
       "total": 22
     },
+    "Akash Kushwaha": {
+      "bugs": 28,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 31
+    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 12,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 19
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34238,12 +34252,19 @@
       "stories": 0,
       "total": 14
     },
+    "Moore Meghana": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
     "Shubham Chauhan": {
-      "bugs": 16,
+      "bugs": 15,
       "tasks": 7,
       "subtasks": 0,
       "stories": 0,
-      "total": 23
+      "total": 22
     },
     "Rajkumar A": {
       "bugs": 3,
@@ -34265,20 +34286,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 10
-    },
-    "Karan Mahboobani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
-    "Javed Ali": {
-      "bugs": 35,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 40
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -34343,6 +34350,13 @@
       "stories": 0,
       "total": 5
     },
+    "Kiran JR": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
     "Ranjitha br": {
       "bugs": 1,
       "tasks": 1,
@@ -34401,12 +34415,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 570,
-    "Medium": 905,
-    "Highest": 388,
     "Low": 57,
+    "High": 570,
+    "Medium": 906,
+    "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T10:15:33Z",
-  "total_issues": 2454
+  "updated_at": "2026-03-23T11:11:17Z",
+  "total_issues": 2455
 }
