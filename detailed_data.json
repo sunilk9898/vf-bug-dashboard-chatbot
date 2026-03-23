@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2630",
+      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
+      "status": "Dev Complete",
+      "priority": "Low",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2696",
+      "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-19",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2700",
+      "summary": "Empty box Meta data in Fliqs",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2705",
       "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
       "status": "Open",
@@ -379,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2696",
-      "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2534",
       "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
       "status": "Testing On hold",
@@ -449,20 +505,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2700",
-      "summary": "Empty box Meta data in Fliqs",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2688",
       "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
       "status": "Issue Accepted",
@@ -498,20 +540,6 @@
       "assignee": "Suyog Lanje",
       "platform": "IOS",
       "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3214,20 +3242,6 @@
       "assignee": "Amudha Kaliamoorthi",
       "platform": "LG_TV",
       "created": "2026-03-16",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2630",
-      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
-      "status": "Open",
-      "priority": "Low",
-      "assignee": "Akash Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34076,12 +34090,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 30,
-      "tasks": 2,
-      "subtasks": 1,
+    "Yashika Krishnani": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 0,
       "stories": 0,
-      "total": 33
+      "total": 8
+    },
+    "Ajay Kushwaha": {
+      "bugs": 11,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 14
     },
     "vzyfeedback": {
       "bugs": 1520,
@@ -34089,6 +34110,13 @@
       "subtasks": 12,
       "stories": 0,
       "total": 1852
+    },
+    "Akash Kushwaha": {
+      "bugs": 30,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 33
     },
     "abhilash.ramesh": {
       "bugs": 12,
@@ -34146,13 +34174,6 @@
       "stories": 0,
       "total": 15
     },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 14
-    },
     "Shubham Chauhan": {
       "bugs": 16,
       "tasks": 7,
@@ -34198,13 +34219,6 @@
     "Aditya Shrivastava": {
       "bugs": 2,
       "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Yashika Krishnani": {
-      "bugs": 6,
-      "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 7
@@ -34337,12 +34351,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 568,
     "Low": 57,
     "Medium": 904,
-    "Highest": 387,
+    "High": 568,
+    "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T07:39:59Z",
-  "total_issues": 2450
+  "updated_at": "2026-03-23T09:13:38Z",
+  "total_issues": 2451
 }
