@@ -1,6 +1,202 @@
 {
   "bugs": [
     {
+      "key": "VF-2513",
+      "summary": "Collection rail",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2700",
+      "summary": "Empty box Meta data in Fliqs",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2676",
+      "summary": "Vivre - App Config Flag",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-17",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2696",
+      "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-19",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2143",
+      "summary": "Clevertap event integration - Fire Tv",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2425",
+      "summary": "Loading Issue",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2444",
+      "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-09",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2544",
+      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-12",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1197",
+      "summary": "Something Went Wrong ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-16",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2701",
+      "summary": "(Tamanna) - Stage series \"Videshi Bahu 2\" not available.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-20",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2661",
+      "summary": "LG and Samsung TV - Trailer not playing ",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2195",
       "summary": "TV: When the age restriction is set to Pre-School (Below 4 years) in a Kids profile, U/A 7+ content is still visible, allowing access to age-inappropriate content.",
       "status": "Closed",
@@ -36,34 +232,6 @@
       "assignee": "Karan Mahboobani",
       "platform": "ATV",
       "created": "2026-02-24",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -197,20 +365,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2513",
-      "summary": "Collection rail",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2491",
       "summary": "16:9 iOS carousel banners",
       "status": "Dev Complete",
@@ -246,34 +400,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2696",
-      "summary": "(Tamanna) - Issue with Channel Selection on Fliqs Creator Hub.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-19",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2700",
-      "summary": "Empty box Meta data in Fliqs",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-20",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -477,20 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2544",
-      "summary": "TV: Inconsistent Live TV channel recommendations in the \u201cMore Like This\u201d section between two channels.",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-03-12",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2546",
       "summary": "Clevertap In App Redirection not working for iOS",
       "status": "Ready For Test",
@@ -505,34 +617,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-16",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2425",
-      "summary": "Loading Issue",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2476",
       "summary": "Squished VZY logo",
       "status": "Reopened",
@@ -540,20 +624,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2661",
-      "summary": "LG and Samsung TV - Trailer not playing ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-16",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -680,20 +750,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-19",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2701",
-      "summary": "(Tamanna) - Stage series \"Videshi Bahu 2\" not available.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-20",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -834,20 +890,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2676",
-      "summary": "Vivre - App Config Flag",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-17",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2591,20 +2633,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2444",
-      "summary": "(Tamanna) - Issue with Multiple Banners Appearing Blurry",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-09",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2628",
       "summary": "Mobile(device specific): Application crashes when clicking the Watch Now button on a movie from the Home page.",
       "status": "Ready For Test",
@@ -3921,20 +3949,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1197",
-      "summary": "Something Went Wrong ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-16",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2419",
       "summary": "Clevertap In App Redirection not working ",
       "status": "Closed",
@@ -4995,20 +5009,6 @@
       "updated": "2026-03-09",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2143",
-      "summary": "Clevertap event integration - Fire Tv",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-03-09",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26925,6 +26925,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2408",
+      "summary": "(Tamanna) - Match Videos Not Available After ENG vs NZ \u2013 ICC T20 World Cup.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-02",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-251",
+      "summary": "Playback / Player: Change Seasons",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Moore Meghana",
+      "platform": "ANDROID",
+      "created": "2025-11-10",
+      "updated": "2026-03-23",
+      "duedate": "2026-01-15",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1611",
       "summary": "Content badge Enhancement",
       "status": "Reopened",
@@ -27032,20 +27060,6 @@
       "created": "2026-03-10",
       "updated": "2026-03-20",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-251",
-      "summary": "Playback / Player: Change Seasons",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Moore Meghana",
-      "platform": "LG_TV",
-      "created": "2025-11-10",
-      "updated": "2026-03-20",
-      "duedate": "2026-01-15",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -27369,20 +27383,6 @@
       "updated": "2026-03-16",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2408",
-      "summary": "(Tamanna) - Match Videos Not Available After ENG vs NZ \u2013 ICC T20 World Cup.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-02",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -34091,11 +34091,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Closed": 58,
-        "Reopened": 5,
+        "Closed": 62,
+        "Reopened": 4,
         "Testing On hold": 1,
         "Dev Complete": 1,
-        "Ready For Test": 11,
+        "Ready For Test": 8,
         "In Review": 1,
         "Invalid": 2,
         "In Progress": 10,
@@ -34147,12 +34147,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amudha Kaliamoorthi": {
+      "bugs": 17,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
     "vzyfeedback": {
-      "bugs": 1520,
+      "bugs": 1521,
       "tasks": 314,
       "subtasks": 12,
       "stories": 0,
-      "total": 1852
+      "total": 1853
+    },
+    "Moore Meghana": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
     },
     "Karan Mahboobani": {
       "bugs": 8,
@@ -34189,13 +34203,6 @@
       "stories": 0,
       "total": 15
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 17,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
     "Yashika Krishnani": {
       "bugs": 7,
       "tasks": 1,
@@ -34204,11 +34211,11 @@
       "total": 8
     },
     "abhilash.ramesh": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 15
+      "total": 14
     },
     "avinash waghmare": {
       "bugs": 3,
@@ -34251,13 +34258,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Moore Meghana": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
     },
     "Shubham Chauhan": {
       "bugs": 15,
@@ -34415,12 +34415,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 57,
-    "High": 570,
     "Medium": 906,
+    "High": 570,
+    "Low": 57,
     "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T11:11:17Z",
+  "updated_at": "2026-03-23T11:55:57Z",
   "total_issues": 2455
 }
