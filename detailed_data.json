@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2709",
+      "summary": "(Shivani) -On clicking the episode content, the QR code is shown first, and then it redirects to the ZEE5 content.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2426",
+      "summary": "16:9 Carousel banner issue",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2513",
+      "summary": "Collection rail",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2708",
+      "summary": "Web Player issues",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2693",
+      "summary": "2:3 carousel bottom shadow",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2630",
       "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
       "status": "Dev Complete",
@@ -57,34 +183,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2635",
       "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
       "status": "Closed",
@@ -92,20 +190,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2693",
-      "summary": "2:3 carousel bottom shadow",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -190,34 +274,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-02-12",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2426",
-      "summary": "16:9 Carousel banner issue",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-06",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3595,20 +3651,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2513",
-      "summary": "Collection rail",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34028,6 +34070,25 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Testing On hold": 1,
+        "Dev Complete": 1,
+        "Closed": 57,
+        "Ready For Test": 15,
+        "Reopened": 2,
+        "In Review": 1,
+        "Invalid": 2,
+        "In Progress": 10,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -34040,24 +34101,6 @@
         "Closed": 186,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Reopened": 3,
-        "Closed": 57,
-        "Ready For Test": 15,
-        "In Review": 1,
-        "Invalid": 2,
-        "In Progress": 10,
-        "Onhold-For Tech Dependency": 1,
-        "Dev Complete": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34090,6 +34133,48 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 29,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 32
+    },
+    "vzyfeedback": {
+      "bugs": 1520,
+      "tasks": 314,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1852
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 17,
+      "tasks": 14,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 35
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Moore Meghana": {
+      "bugs": 13,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 16
+    },
+    "Kiran JR": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
     "Yashika Krishnani": {
       "bugs": 7,
       "tasks": 1,
@@ -34103,20 +34188,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "vzyfeedback": {
-      "bugs": 1520,
-      "tasks": 314,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1852
-    },
-    "Akash Kushwaha": {
-      "bugs": 30,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 33
     },
     "abhilash.ramesh": {
       "bugs": 12,
@@ -34167,13 +34238,6 @@
       "stories": 0,
       "total": 14
     },
-    "Moore Meghana": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
     "Shubham Chauhan": {
       "bugs": 16,
       "tasks": 7,
@@ -34203,11 +34267,11 @@
       "total": 10
     },
     "Karan Mahboobani": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 12
+      "total": 11
     },
     "Javed Ali": {
       "bugs": 35,
@@ -34222,13 +34286,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 16,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 34
     },
     "Namrata Kurariya": {
       "bugs": 6,
@@ -34285,13 +34342,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "Kiran JR": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Ranjitha br": {
       "bugs": 1,
@@ -34351,12 +34401,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 57,
-    "Medium": 904,
-    "High": 568,
+    "High": 570,
+    "Medium": 905,
     "Highest": 388,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T09:13:38Z",
-  "total_issues": 2451
+  "updated_at": "2026-03-23T10:15:33Z",
+  "total_issues": 2454
 }
