@@ -1,6 +1,188 @@
 {
   "bugs": [
     {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2635",
+      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2693",
+      "summary": "2:3 carousel bottom shadow",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2633",
+      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2703",
+      "summary": "ATV - QR screen appears before redirection for external CP content for Watcho Max users",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-20",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2674",
+      "summary": "Player shows subscription QR code",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-17",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1980",
+      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "abhilash.ramesh",
+      "platform": "Unknown",
+      "created": "2026-02-06",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2085",
+      "summary": "Latest content is not showing up in New Releases rail of Series page.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2426",
+      "summary": "16:9 Carousel banner issue",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-06",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2669",
+      "summary": "Naveen => Incorrect redirection after login via Content ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-16",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-27",
+      "updated": "2026-03-23",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2640",
       "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
       "status": "Closed",
@@ -85,20 +267,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2669",
-      "summary": "Naveen => Incorrect redirection after login via Content ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-16",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2474",
       "summary": "Carousel Load time",
       "status": "Ready For Test",
@@ -141,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2546",
       "summary": "Clevertap In App Redirection not working for iOS",
       "status": "Ready For Test",
@@ -169,20 +323,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2635",
-      "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2668",
       "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
       "status": "Ready For Test",
@@ -190,34 +330,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-16",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2693",
-      "summary": "2:3 carousel bottom shadow",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-03-21",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2633",
-      "summary": "Mobile: Audio language \u201cGujarati\u201d displayed as truncated text \u201cgu\u201d in Audio/Subtitles for Laalo \u2013 Krishna Sada Sahayaate",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-21",
       "duedate": "",
       "sprint": "No Sprint",
@@ -253,20 +365,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2703",
-      "summary": "ATV - QR screen appears before redirection for external CP content for Watcho Max users",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Manikanta P",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-20",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2661",
       "summary": "LG and Samsung TV - Trailer not playing ",
       "status": "Ready For Test",
@@ -274,20 +372,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2085",
-      "summary": "Latest content is not showing up in New Releases rail of Series page.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-02-12",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -862,20 +946,6 @@
       "assignee": "Aditya Shrivastava",
       "platform": "SAM_TV",
       "created": "2026-03-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2674",
-      "summary": "Player shows subscription QR code",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-17",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1499,20 +1569,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2194",
-      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2653",
       "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
       "status": "Issue Accepted",
@@ -1775,20 +1831,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-02-27",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -3403,20 +3445,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1980",
-      "summary": "MI TV: Language preference selection is not enforced and displays unselected languages on Home page",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "abhilash.ramesh",
-      "platform": "Unknown",
-      "created": "2026-02-06",
-      "updated": "2026-03-14",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2566",
       "summary": "Web: Sections like Dramas, Movies, and Series on the Home Page are not opening when clicked.",
       "status": "Closed",
@@ -4183,20 +4211,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2426",
-      "summary": "16:9 Carousel banner issue",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -26843,12 +26857,12 @@
     {
       "key": "VF-1489",
       "summary": "(Shruti) Remove Content Option Not Available in Continue Watching Rail",
-      "status": "Ready For Test",
+      "status": "Closed",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2025-12-23",
-      "updated": "2026-03-21",
+      "updated": "2026-03-23",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
       "type": "Task",
@@ -34007,8 +34021,8 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Ready For Test": 6,
         "Dev Complete": 2,
+        "Ready For Test": 6,
         "Closed": 186,
         "Testing On hold": 1,
         "Invalid": 1
@@ -34021,9 +34035,9 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Ready For Test": 17,
-        "Reopened": 2,
-        "Closed": 56,
+        "Reopened": 3,
+        "Closed": 57,
+        "Ready For Test": 15,
         "In Review": 1,
         "Invalid": 2,
         "In Progress": 10,
@@ -34039,8 +34053,7 @@
       "stories": 0,
       "total": 7,
       "statuses": {
-        "Ready For Test": 1,
-        "Closed": 1,
+        "Closed": 2,
         "Open": 2,
         "Reopened": 1,
         "In Progress": 1,
@@ -34063,12 +34076,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 30,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 33
+    },
     "vzyfeedback": {
-      "bugs": 1518,
+      "bugs": 1520,
       "tasks": 314,
       "subtasks": 12,
       "stories": 0,
-      "total": 1850
+      "total": 1852
+    },
+    "abhilash.ramesh": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
     },
     "avinash waghmare": {
       "bugs": 3,
@@ -34084,20 +34111,6 @@
       "stories": 0,
       "total": 22
     },
-    "Akash Kushwaha": {
-      "bugs": 30,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 33
-    },
-    "abhilash.ramesh": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
@@ -34111,13 +34124,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 19
-    },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 15
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34245,6 +34251,13 @@
       "stories": 0,
       "total": 2
     },
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 14
+    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 7,
@@ -34324,12 +34337,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 568,
+    "Low": 57,
     "Medium": 904,
     "Highest": 387,
-    "Low": 57,
-    "High": 567,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T05:47:35Z",
-  "total_issues": 2449
+  "updated_at": "2026-03-23T07:39:59Z",
+  "total_issues": 2450
 }
