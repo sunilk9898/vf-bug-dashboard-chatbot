@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2713",
+      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2714",
+      "summary": "(Tamanna) - Namma Flix CP logo not showing on Namma Flix thumbnails.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2715",
+      "summary": "(Tamanna) - Next episode button showing on last episode.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2712",
+      "summary": "Episode lisitng UI in web ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2545",
+      "summary": "TV: Video does not play for Episode 1 of \u201cYaarmates\u201d from the \u201cTop 10 Series: Weekly Spotlight\u201d section.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-12",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2527",
       "summary": "TV; In the Wild by Nature series, buttons are not in the standard UI color and duplicate 360p options appear in video quality settings.",
       "status": "Closed",
@@ -22,34 +134,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-17",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2715",
-      "summary": "(Tamanna) - Next episode button showing on last episode.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2714",
-      "summary": "(Tamanna) - Namma Flix CP logo not showing on Namma Flix thumbnails.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -85,20 +169,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2713",
-      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2161",
       "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
       "status": "Reopened",
@@ -120,20 +190,6 @@
       "assignee": "Namrata Kurariya",
       "platform": "WEB",
       "created": "2026-01-09",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2712",
-      "summary": "Episode lisitng UI in web ",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "WEB",
-      "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -204,20 +260,6 @@
       "assignee": "Aditya Shrivastava",
       "platform": "LG_TV",
       "created": "2026-03-10",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -729,20 +771,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2709",
       "summary": "(Shivani) -On clicking the episode content, the QR code is shown first, and then it redirects to the ZEE5 content.",
       "status": "Duplicate",
@@ -989,20 +1017,6 @@
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-22",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -3816,20 +3830,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-11",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2545",
-      "summary": "TV: Video does not play for Episode 1 of \u201cYaarmates\u201d from the \u201cTop 10 Series: Weekly Spotlight\u201d section.",
-      "status": "Not Reproducible",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-12",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26995,9 +26995,23 @@
   ],
   "tasks": [
     {
+      "key": "VF-2723",
+      "summary": "Gamezop issue",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (31 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2722",
       "summary": "Update the login banner for WEB",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
@@ -34252,6 +34266,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (31 March 2026)": {
+      "bugs": 1,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8,
+      "statuses": {
+        "Issue Accepted": 1,
+        "Closed": 2,
+        "Open": 2,
+        "Reopened": 1,
+        "In Progress": 1,
+        "Onhold-For Tech Dependency": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34259,13 +34288,13 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Ready For Test": 7,
         "Closed": 64,
-        "Reopened": 4,
+        "Reopened": 3,
         "In Progress": 10,
         "Dev Complete": 1,
         "Testing On hold": 1,
         "In Review": 1,
-        "Ready For Test": 6,
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
@@ -34286,20 +34315,6 @@
         "Invalid": 1
       }
     },
-    "VZY Sprint (31 March 2026)": {
-      "bugs": 1,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7,
-      "statuses": {
-        "Closed": 2,
-        "Open": 2,
-        "Reopened": 1,
-        "In Progress": 1,
-        "Onhold-For Tech Dependency": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -34316,26 +34331,40 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Karan Mahboobani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
+    "Akash Kushwaha": {
+      "bugs": 29,
+      "tasks": 2,
+      "subtasks": 1,
       "stories": 0,
-      "total": 11
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
+      "total": 32
     },
     "vzyfeedback": {
-      "bugs": 1524,
+      "bugs": 1527,
       "tasks": 315,
       "subtasks": 12,
       "stories": 0,
-      "total": 1857
+      "total": 1860
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
+    "Ajay Kushwaha": {
+      "bugs": 13,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
+    },
+    "Karan Mahboobani": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 10
     },
     "devaraj": {
       "bugs": 8,
@@ -34345,11 +34374,11 @@
       "total": 11
     },
     "Amit Kumar Tiwari": {
-      "bugs": 15,
+      "bugs": 14,
       "tasks": 5,
       "subtasks": 3,
       "stories": 0,
-      "total": 23
+      "total": 22
     },
     "Suyog Lanje": {
       "bugs": 5,
@@ -34379,20 +34408,6 @@
       "stories": 0,
       "total": 36
     },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
-    "Akash Kushwaha": {
-      "bugs": 30,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 33
-    },
     "Moore Meghana": {
       "bugs": 12,
       "tasks": 2,
@@ -34406,13 +34421,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 11
-    },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -34585,11 +34593,11 @@
   },
   "priority_breakdown": {
     "Medium": 910,
-    "Highest": 388,
     "High": 571,
+    "Highest": 388,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T07:31:53Z",
-  "total_issues": 2467
+  "updated_at": "2026-03-24T09:09:31Z",
+  "total_issues": 2468
 }
