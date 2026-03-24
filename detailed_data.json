@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2527",
+      "summary": "TV; In the Wild by Nature series, buttons are not in the standard UI color and duplicate 360p options appear in video quality settings.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Karan Mahboobani",
+      "platform": "ATV",
+      "created": "2026-03-11",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2674",
+      "summary": "Player shows subscription QR code",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-17",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2715",
+      "summary": "(Tamanna) - Next episode button showing on last episode.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2714",
+      "summary": "(Tamanna) - Namma Flix CP logo not showing on Namma Flix thumbnails.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2461",
+      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Moore Meghana",
+      "platform": "IOS",
+      "created": "2026-03-09",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2697",
       "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
       "status": "Open",
@@ -687,20 +757,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2674",
-      "summary": "Player shows subscription QR code",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-17",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2707",
       "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
       "status": "Issue Accepted",
@@ -1009,20 +1065,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2461",
-      "summary": "(Shivani) - After unsubscribing, the message \u201cAuto-renewal cancelled successfully\u201d is displayed, which is incorrect.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Moore Meghana",
-      "platform": "IOS",
-      "created": "2026-03-09",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2582",
       "summary": "Web: In kids profile when we search an adult web series for 16+ it is showing in that profile",
       "status": "Invalid",
@@ -1282,20 +1324,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2025-12-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2527",
-      "summary": "TV; In the Wild by Nature series, buttons are not in the standard UI color and duplicate 360p options appear in video quality settings.",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Karan Mahboobani",
-      "platform": "ATV",
-      "created": "2026-03-11",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -26967,6 +26995,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2722",
+      "summary": "Update the login banner for WEB",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2716",
+      "summary": "SARA Event Integration",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Unknown",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2479",
       "summary": "Term and Conditions",
       "status": "Reopened",
@@ -33787,6 +33843,76 @@
   ],
   "subtasks": [
     {
+      "key": "VF-2721",
+      "summary": "STV-SARA Event Integration",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "Unknown",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2720",
+      "summary": "ATV-SARA Event Integration",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2719",
+      "summary": "iOS-SARA Event Integration",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2718",
+      "summary": "Android-SARA Event Integration",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2717",
+      "summary": "Web- SARA Event Integration",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Sub-task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1967",
       "summary": "Android - Branch.io Intregation (Standered)",
       "status": "Reopened",
@@ -34126,6 +34252,25 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Closed": 64,
+        "Reopened": 4,
+        "In Progress": 10,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
+        "In Review": 1,
+        "Ready For Test": 6,
+        "Invalid": 2,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -34139,25 +34284,6 @@
         "Ready For Test": 4,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Reopened": 5,
-        "In Progress": 10,
-        "Dev Complete": 1,
-        "Testing On hold": 1,
-        "Closed": 63,
-        "In Review": 1,
-        "Ready For Test": 6,
-        "Invalid": 2,
-        "Onhold-For Tech Dependency": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34190,19 +34316,89 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 29,
-      "tasks": 2,
+    "Karan Mahboobani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "vzyfeedback": {
+      "bugs": 1524,
+      "tasks": 315,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1857
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 15,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 23
+    },
+    "Suyog Lanje": {
+      "bugs": 5,
+      "tasks": 8,
       "subtasks": 1,
       "stories": 0,
-      "total": 32
+      "total": 14
     },
     "Javed Ali": {
       "bugs": 36,
       "tasks": 3,
-      "subtasks": 2,
+      "subtasks": 3,
       "stories": 0,
-      "total": 41
+      "total": 42
+    },
+    "BalaKumar": {
+      "bugs": 13,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 22
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 17,
+      "tasks": 15,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 36
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
+    "Akash Kushwaha": {
+      "bugs": 30,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 33
+    },
+    "Moore Meghana": {
+      "bugs": 12,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
     },
     "Namrata Kurariya": {
       "bugs": 8,
@@ -34218,40 +34414,12 @@
       "stories": 0,
       "total": 1
     },
-    "vzyfeedback": {
-      "bugs": 1524,
-      "tasks": 315,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1857
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
     "Aditya Shrivastava": {
       "bugs": 2,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 22
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34273,34 +34441,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Suyog Lanje": {
-      "bugs": 5,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 13
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 17,
-      "tasks": 14,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 35
-    },
-    "Moore Meghana": {
-      "bugs": 12,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
-    "Karan Mahboobani": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
     },
     "Yashika Krishnani": {
       "bugs": 7,
@@ -34330,23 +34470,9 @@
       "stories": 0,
       "total": 19
     },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 10
-    },
     "Shubham Chauhan": {
       "bugs": 14,
       "tasks": 7,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 8,
       "subtasks": 0,
       "stories": 0,
       "total": 21
@@ -34458,12 +34584,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 571,
-    "Medium": 908,
+    "Medium": 910,
     "Highest": 388,
+    "High": 571,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T06:14:23Z",
-  "total_issues": 2458
+  "updated_at": "2026-03-24T07:31:53Z",
+  "total_issues": 2467
 }
