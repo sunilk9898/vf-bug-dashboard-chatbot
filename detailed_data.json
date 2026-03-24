@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2727",
+      "summary": "(Tamanna) - Issue with Search Bar Cursor Focus.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2726",
       "summary": "(Tamanna) - Issue with Series Banner Content on TV platforms.",
       "status": "Open",
@@ -34373,19 +34387,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 32,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 35
+    },
     "Amit Kumar Tiwari": {
       "bugs": 16,
       "tasks": 5,
       "subtasks": 3,
       "stories": 0,
       "total": 24
-    },
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 34
     },
     "Rajkumar A": {
       "bugs": 4,
@@ -34634,12 +34648,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 913,
+    "Medium": 914,
     "Highest": 388,
     "Low": 57,
     "High": 571,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T11:10:23Z",
-  "total_issues": 2471
+  "updated_at": "2026-03-24T11:57:38Z",
+  "total_issues": 2472
 }
