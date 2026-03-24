@@ -1,12 +1,40 @@
 {
   "bugs": [
     {
-      "key": "VF-2727",
-      "summary": "(Tamanna) - Issue with Search Bar Cursor Focus.",
+      "key": "VF-2712",
+      "summary": "Episode lisitng UI in web ",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2704",
+      "summary": "Kids profile settings",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "LG_TV",
+      "created": "2026-03-20",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2724",
+      "summary": "(Tamanna) - Nammaflix content not playing.",
       "status": "Open",
       "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
       "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
@@ -17,9 +45,23 @@
     {
       "key": "VF-2726",
       "summary": "(Tamanna) - Issue with Series Banner Content on TV platforms.",
-      "status": "Open",
+      "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2727",
+      "summary": "(Tamanna) - Issue with Search Bar Cursor Focus.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-24",
       "updated": "2026-03-24",
@@ -35,20 +77,6 @@
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
       "platform": "IOS",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2724",
-      "summary": "(Tamanna) - Nammaflix content not playing.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
       "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
@@ -133,20 +161,6 @@
       "priority": "Medium",
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2712",
-      "summary": "Episode lisitng UI in web ",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
       "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
@@ -484,20 +498,6 @@
       "assignee": "Namrata Kurariya",
       "platform": "WEB",
       "created": "2026-03-23",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2704",
-      "summary": "Kids profile settings",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Chiranjit Chatterjee",
-      "platform": "LG_TV",
-      "created": "2026-03-20",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27051,6 +27051,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2728",
+      "summary": "Display \u201cNature of Content\u201d on Player for MX Player Content",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2659",
+      "summary": "(Tamanna) - 'Nature of Content' Label Not Visible on VZY.",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2723",
       "summary": "Gamezop issue",
       "status": "Issue Accepted",
@@ -27691,20 +27719,6 @@
       "updated": "2026-03-14",
       "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2659",
-      "summary": "(Tamanna) - 'Nature of Content' Label Not Visible on VZY.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-14",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -34387,33 +34401,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 32,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 35
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 16,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 24
-    },
-    "Rajkumar A": {
-      "bugs": 4,
+    "Amudha Kaliamoorthi": {
+      "bugs": 17,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 20
+      "total": 37
     },
     "vzyfeedback": {
-      "bugs": 1526,
+      "bugs": 1527,
       "tasks": 315,
       "subtasks": 12,
       "stories": 0,
-      "total": 1859
+      "total": 1860
     },
     "Ajay Kushwaha": {
       "bugs": 13,
@@ -34422,12 +34422,40 @@
       "stories": 0,
       "total": 18
     },
-    "avinash waghmare": {
+    "Chiranjit Chatterjee": {
       "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
+    "avinash waghmare": {
+      "bugs": 4,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
+      "total": 7
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 16,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 24
+    },
+    "Akash Kushwaha": {
+      "bugs": 30,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 33
+    },
+    "Rajkumar A": {
+      "bugs": 4,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -34463,13 +34491,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 22
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 17,
-      "tasks": 15,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 36
     },
     "Moore Meghana": {
       "bugs": 12,
@@ -34512,13 +34533,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 23
-    },
-    "Chiranjit Chatterjee": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "Yashika Krishnani": {
       "bugs": 7,
@@ -34654,6 +34668,6 @@
     "High": 571,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T11:57:38Z",
-  "total_issues": 2472
+  "updated_at": "2026-03-24T13:51:54Z",
+  "total_issues": 2473
 }
