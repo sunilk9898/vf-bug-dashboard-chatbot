@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2699",
+      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2724",
+      "summary": "(Tamanna) - Nammaflix content not playing.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2725",
+      "summary": "(Tamanna) - Watch now button not clickable on playflix content.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2712",
       "summary": "Episode lisitng UI in web ",
       "status": "Dev Complete",
@@ -29,20 +71,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2724",
-      "summary": "(Tamanna) - Nammaflix content not playing.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2726",
       "summary": "(Tamanna) - Issue with Series Banner Content on TV platforms.",
       "status": "Dev Complete",
@@ -63,20 +91,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2725",
-      "summary": "(Tamanna) - Watch now button not clickable on playflix content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "IOS",
       "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
@@ -1478,20 +1492,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-02-26",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2699",
-      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-20",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34401,19 +34401,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1529,
+      "tasks": 315,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1862
+    },
+    "avinash waghmare": {
+      "bugs": 4,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "Amudha Kaliamoorthi": {
       "bugs": 17,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
       "total": 37
-    },
-    "vzyfeedback": {
-      "bugs": 1527,
-      "tasks": 315,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1860
     },
     "Ajay Kushwaha": {
       "bugs": 13,
@@ -34429,13 +34436,6 @@
       "stories": 0,
       "total": 3
     },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "Amit Kumar Tiwari": {
       "bugs": 16,
       "tasks": 5,
@@ -34444,11 +34444,11 @@
       "total": 24
     },
     "Akash Kushwaha": {
-      "bugs": 30,
+      "bugs": 28,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 33
+      "total": 31
     },
     "Rajkumar A": {
       "bugs": 4,
@@ -34668,6 +34668,6 @@
     "High": 571,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T13:51:54Z",
+  "updated_at": "2026-03-24T15:20:16Z",
   "total_issues": 2473
 }
