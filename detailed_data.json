@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2489",
+      "summary": "Carousel/Content banner description text",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-03-10",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2708",
+      "summary": "Web Player issues",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2691",
+      "summary": "ATV Rail Clipping issue",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-19",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-48",
+      "summary": "(Shivani) Offer & Plan >> Back button is not clickable, on offer and plan page.",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2025-11-04",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2710",
+      "summary": "Squished VZY favicon",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2704",
       "summary": "Kids profile settings",
       "status": "Issue Accepted",
@@ -99,20 +225,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2710",
-      "summary": "Squished VZY favicon",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2607",
       "summary": "Mobile: Duplicate profiles can be created and app does not redirect to Home page after profile creation.",
       "status": "Invalid",
@@ -148,34 +260,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2691",
-      "summary": "ATV Rail Clipping issue",
-      "status": "Not Reproducible",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-19",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -302,20 +386,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-13",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -617,20 +687,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2708",
-      "summary": "Web Player issues",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2426",
       "summary": "16:9 Carousel banner issue",
       "status": "Reopened",
@@ -645,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2630",
       "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
       "status": "Dev Complete",
@@ -666,20 +708,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1786,20 +1814,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel/Content banner description text",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-03-10",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -23591,20 +23605,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-48",
-      "summary": "(Shivani) Offer & Plan >> Back button is not clickable, on offer and plan page.",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2025-11-04",
-      "updated": "2025-12-03",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-49",
       "summary": "(Shivani)Live channel >> On the Live Channel page, the Content Share and My List functionality are missing.",
       "status": "Closed",
@@ -26925,6 +26925,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2479",
+      "summary": "Term and Conditions",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-637",
+      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2025-11-25",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1024",
       "summary": "(Shruti) Analytics: Amazon Webhooks \u2013 Daily basis",
       "status": "Parked",
@@ -27005,20 +27033,6 @@
       "updated": "2026-03-20",
       "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2479",
-      "summary": "Term and Conditions",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -27943,20 +27957,6 @@
       "updated": "2026-03-10",
       "duedate": "2025-12-30",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-637",
-      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2025-11-25",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -34091,14 +34091,14 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Testing On hold": 1,
-        "Reopened": 4,
-        "Closed": 63,
-        "Dev Complete": 1,
-        "Ready For Test": 7,
-        "In Review": 1,
-        "Invalid": 2,
+        "Reopened": 5,
         "In Progress": 10,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
+        "Closed": 63,
+        "In Review": 1,
+        "Ready For Test": 6,
+        "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
       }
@@ -34148,12 +34148,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Chiranjit Chatterjee": {
-      "bugs": 3,
-      "tasks": 0,
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 3
+      "total": 7
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 15
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 15,
+      "tasks": 5,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 22
     },
     "vzyfeedback": {
       "bugs": 1525,
@@ -34169,12 +34183,12 @@
       "stories": 0,
       "total": 4
     },
-    "Suyog Lanje": {
-      "bugs": 5,
-      "tasks": 8,
+    "Alok Gupta": {
+      "bugs": 17,
+      "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
+      "total": 23
     },
     "Namrata Kurariya": {
       "bugs": 7,
@@ -34183,26 +34197,19 @@
       "stories": 0,
       "total": 10
     },
-    "Alok Gupta": {
-      "bugs": 17,
-      "tasks": 6,
+    "Chiranjit Chatterjee": {
+      "bugs": 3,
+      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 23
+      "total": 3
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 22
-    },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
+    "Suyog Lanje": {
+      "bugs": 5,
+      "tasks": 8,
       "subtasks": 0,
       "stories": 0,
-      "total": 7
+      "total": 13
     },
     "Vikas Mishra": {
       "bugs": 39,
@@ -34231,13 +34238,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
     },
     "Yashika Krishnani": {
       "bugs": 7,
@@ -34409,12 +34409,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 388,
     "Medium": 906,
     "High": 570,
     "Low": 57,
-    "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T03:14:14Z",
+  "updated_at": "2026-03-24T05:06:03Z",
   "total_issues": 2455
 }
