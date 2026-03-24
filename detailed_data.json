@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2726",
+      "summary": "(Tamanna) - Issue with Series Banner Content on TV platforms.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2725",
+      "summary": "(Tamanna) - Watch now button not clickable on playflix content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "IOS",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2724",
+      "summary": "(Tamanna) - Nammaflix content not playing.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2424",
       "summary": "Live Channel | Sony LIV Logos",
       "status": "Closed",
@@ -34331,12 +34373,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amit Kumar Tiwari": {
+      "bugs": 16,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 24
+    },
     "Akash Kushwaha": {
-      "bugs": 29,
+      "bugs": 31,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 32
+      "total": 34
     },
     "Rajkumar A": {
       "bugs": 4,
@@ -34358,13 +34407,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 18
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 23
     },
     "avinash waghmare": {
       "bugs": 3,
@@ -34592,12 +34634,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 910,
+    "Medium": 913,
     "Highest": 388,
     "Low": 57,
     "High": 571,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T10:10:39Z",
-  "total_issues": 2468
+  "updated_at": "2026-03-24T11:10:23Z",
+  "total_issues": 2471
 }
