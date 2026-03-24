@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2697",
+      "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-03-20",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2713",
+      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2161",
+      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-19",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-01-09",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2712",
+      "summary": "Episode lisitng UI in web ",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2581",
+      "summary": "Web: Search history reappears after using Clear All in search options",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2683",
+      "summary": "FireTV - Resume button not visible for Hoichoi content",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2711",
+      "summary": "Details section not showing multiple langauges available",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2708",
+      "summary": "Web Player issues",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2489",
       "summary": "Carousel/Content banner description text",
       "status": "Testing On hold",
@@ -22,20 +148,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2708",
-      "summary": "Web Player issues",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-23",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -147,20 +259,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "IOS",
-      "created": "2026-03-18",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2683",
-      "summary": "FireTV - Resume button not visible for Hoichoi content",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-03-18",
       "updated": "2026-03-23",
       "duedate": "",
@@ -351,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-01-09",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2026",
       "summary": "Samsung TV: Next Episode button is missing for sports highlights content",
       "status": "Closed",
@@ -379,20 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2581",
-      "summary": "Web: Search history reappears after using Clear All in search options",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1910",
       "summary": "Mweb rail Config",
       "status": "Reopened",
@@ -400,20 +470,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-02-03",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2161",
-      "summary": "(Shruti) Screencast feature not visible on video players on any content partner except fliqs",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-19",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
@@ -877,20 +933,6 @@
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-22",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2697",
-      "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-20",
-      "updated": "2026-03-21",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -34084,6 +34126,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Reopened": 2,
+        "Dev Complete": 2,
+        "Closed": 186,
+        "Ready For Test": 4,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34101,21 +34158,6 @@
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Reopened": 2,
-        "Dev Complete": 2,
-        "Closed": 186,
-        "Ready For Test": 4,
-        "Testing On hold": 1,
-        "Invalid": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34148,12 +34190,47 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
+    "Akash Kushwaha": {
+      "bugs": 29,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 32
+    },
+    "Javed Ali": {
+      "bugs": 36,
+      "tasks": 3,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 41
+    },
+    "Namrata Kurariya": {
+      "bugs": 8,
+      "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 7
+      "total": 11
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "vzyfeedback": {
+      "bugs": 1524,
+      "tasks": 315,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1857
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -34162,19 +34239,19 @@
       "stories": 0,
       "total": 15
     },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
     "Amit Kumar Tiwari": {
       "bugs": 15,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
       "total": 22
-    },
-    "vzyfeedback": {
-      "bugs": 1525,
-      "tasks": 315,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1858
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34190,13 +34267,6 @@
       "stories": 0,
       "total": 23
     },
-    "Namrata Kurariya": {
-      "bugs": 7,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
-    },
     "Chiranjit Chatterjee": {
       "bugs": 3,
       "tasks": 0,
@@ -34210,13 +34280,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 13
-    },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 42
     },
     "Amudha Kaliamoorthi": {
       "bugs": 17,
@@ -34260,20 +34323,6 @@
       "stories": 0,
       "total": 6
     },
-    "Akash Kushwaha": {
-      "bugs": 28,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 31
-    },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 38
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -34287,13 +34336,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 10
-    },
-    "Javed Ali": {
-      "bugs": 35,
-      "tasks": 3,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 40
     },
     "Shubham Chauhan": {
       "bugs": 14,
@@ -34315,6 +34357,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 109
+    },
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -34409,12 +34458,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 571,
+    "Medium": 908,
     "Highest": 388,
-    "Medium": 906,
-    "High": 570,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T05:06:03Z",
-  "total_issues": 2455
+  "updated_at": "2026-03-24T06:14:23Z",
+  "total_issues": 2458
 }
