@@ -1,13 +1,41 @@
 {
   "bugs": [
     {
-      "key": "VF-2713",
-      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
-      "status": "Dev Complete",
+      "key": "VF-2424",
+      "summary": "Live Channel | Sony LIV Logos",
+      "status": "Closed",
       "priority": "Medium",
       "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-24",
+      "platform": "Unknown",
+      "created": "2026-03-06",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Rajkumar A",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2522",
+      "summary": "TV: Inconsistent spelling of Kabaddi in Sports section (Kabbadi vs Kabaddi)",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -17,7 +45,7 @@
     {
       "key": "VF-2714",
       "summary": "(Tamanna) - Namma Flix CP logo not showing on Namma Flix thumbnails.",
-      "status": "Dev Complete",
+      "status": "OnHold-For Vivre Setup",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
@@ -29,11 +57,95 @@
       "fixversion": ""
     },
     {
+      "key": "VF-2708",
+      "summary": "Web Player issues",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2715",
       "summary": "(Tamanna) - Next episode button showing on last episode.",
       "status": "Dev Complete",
       "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2712",
+      "summary": "Episode lisitng UI in web ",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2594",
+      "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-13",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2679",
+      "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2713",
+      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
       "platform": "ATV",
       "created": "2026-03-24",
       "updated": "2026-03-24",
@@ -50,20 +162,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2712",
-      "summary": "Episode lisitng UI in web ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -232,20 +330,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ANDROID",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2708",
-      "summary": "Web Player issues",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-23",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -575,20 +659,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2513",
       "summary": "Collection rail",
       "status": "Closed",
@@ -778,34 +848,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2707",
-      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2679",
-      "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-18",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -2045,20 +2087,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2424",
-      "summary": "Live Channel | Sony LIV Logos",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "Unknown",
-      "created": "2026-03-06",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2431",
       "summary": "(Shivani) Fliqs >> On creator hub rail channel logo are not showing in circle",
       "status": "Invalid",
@@ -2066,34 +2094,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2522",
-      "summary": "TV: Inconsistent spelling of Kabaddi in Sports section (Kabbadi vs Kabaddi)",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2594",
-      "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34266,6 +34266,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Reopened": 2,
+        "Dev Complete": 2,
+        "Closed": 186,
+        "Ready For Test": 4,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (31 March 2026)": {
       "bugs": 1,
       "tasks": 7,
@@ -34300,21 +34315,6 @@
         "Parked": 1
       }
     },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Reopened": 2,
-        "Dev Complete": 2,
-        "Closed": 186,
-        "Ready For Test": 4,
-        "Testing On hold": 1,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (13 Feb 2026)": {
       "bugs": 15,
       "tasks": 17,
@@ -34338,19 +34338,19 @@
       "stories": 0,
       "total": 32
     },
+    "Rajkumar A": {
+      "bugs": 4,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
+    },
     "vzyfeedback": {
-      "bugs": 1527,
+      "bugs": 1526,
       "tasks": 315,
       "subtasks": 12,
       "stories": 0,
-      "total": 1860
-    },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
+      "total": 1859
     },
     "Ajay Kushwaha": {
       "bugs": 13,
@@ -34358,6 +34358,20 @@
       "subtasks": 0,
       "stories": 0,
       "total": 18
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 15,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 23
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -34372,13 +34386,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 14,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 22
     },
     "Suyog Lanje": {
       "bugs": 5,
@@ -34422,6 +34429,13 @@
       "stories": 0,
       "total": 11
     },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
     "Aditya Shrivastava": {
       "bugs": 2,
       "tasks": 5,
@@ -34463,20 +34477,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "avinash waghmare": {
-      "bugs": 3,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
-    "Rajkumar A": {
-      "bugs": 3,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
     },
     "Shubham Chauhan": {
       "bugs": 14,
@@ -34593,11 +34593,11 @@
   },
   "priority_breakdown": {
     "Medium": 910,
-    "High": 571,
     "Highest": 388,
     "Low": 57,
+    "High": 571,
     "Lowest": 2
   },
-  "updated_at": "2026-03-24T09:09:31Z",
+  "updated_at": "2026-03-24T10:10:39Z",
   "total_issues": 2468
 }
