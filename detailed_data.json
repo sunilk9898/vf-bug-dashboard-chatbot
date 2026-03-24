@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2704",
+      "summary": "Kids profile settings",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "LG_TV",
+      "created": "2026-03-20",
+      "updated": "2026-03-24",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2678",
       "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
       "status": "Testing On hold",
@@ -988,20 +1002,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-26",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2704",
-      "summary": "Kids profile settings",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "LG_TV",
-      "created": "2026-03-20",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34148,6 +34148,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Chiranjit Chatterjee": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "vzyfeedback": {
       "bugs": 1525,
       "tasks": 315,
@@ -34184,11 +34191,11 @@
       "total": 23
     },
     "Amit Kumar Tiwari": {
-      "bugs": 16,
+      "bugs": 15,
       "tasks": 5,
       "subtasks": 2,
       "stories": 0,
-      "total": 23
+      "total": 22
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -34316,13 +34323,6 @@
       "stories": 0,
       "total": 11
     },
-    "Chiranjit Chatterjee": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
     "Manikanta P": {
       "bugs": 5,
       "tasks": 7,
@@ -34415,6 +34415,6 @@
     "Highest": 388,
     "Lowest": 2
   },
-  "updated_at": "2026-03-23T23:48:30Z",
+  "updated_at": "2026-03-24T03:14:14Z",
   "total_issues": 2455
 }
