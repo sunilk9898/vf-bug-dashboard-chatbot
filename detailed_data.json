@@ -1,13 +1,13 @@
 {
   "bugs": [
     {
-      "key": "VF-2534",
-      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "In Progress",
-      "priority": "High",
+      "key": "VF-2738",
+      "summary": "Few CP logos do not appear even when TV is connected to LAN",
+      "status": "Open",
+      "priority": "Highest",
       "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-03-11",
+      "platform": "ATV",
+      "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -19,9 +19,37 @@
       "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
       "status": "Open",
       "priority": "Medium",
-      "assignee": "Kiran JR",
+      "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2735",
+      "summary": "Episode listing occasionally displays as blank when user clicks on Episode",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-03-11",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -141,20 +169,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2738",
-      "summary": "Few CP logos do not appear even when TV is connected to LAN",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2687",
       "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
       "status": "In Progress",
@@ -189,20 +203,6 @@
       "priority": "Highest",
       "assignee": "Srinidhi.Raju",
       "platform": "WEB",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2735",
-      "summary": "Episode listing occasionally displays as blank when user clicks on Episode",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
       "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
@@ -34555,18 +34555,11 @@
   "releases": {},
   "assignee_workload": {
     "Amit Kumar Tiwari": {
-      "bugs": 14,
+      "bugs": 17,
       "tasks": 5,
       "subtasks": 3,
       "stories": 0,
-      "total": 22
-    },
-    "Kiran JR": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
+      "total": 25
     },
     "vzyfeedback": {
       "bugs": 1537,
@@ -34583,18 +34576,11 @@
       "total": 3
     },
     "Srinidhi.Raju": {
-      "bugs": 3,
+      "bugs": 2,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 3
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
+      "total": 2
     },
     "shadab Hussain": {
       "bugs": 8,
@@ -34722,6 +34708,13 @@
       "stories": 0,
       "total": 14
     },
+    "Dinjit Dinesh": {
+      "bugs": 19,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 38
+    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -34763,6 +34756,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
+    },
+    "Kiran JR": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
     },
     "Ranjitha br": {
       "bugs": 1,
@@ -34822,12 +34822,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 574,
-    "Medium": 917,
     "Highest": 393,
+    "Medium": 917,
+    "High": 574,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-25T11:56:57Z",
+  "updated_at": "2026-03-25T13:50:41Z",
   "total_issues": 2484
 }
