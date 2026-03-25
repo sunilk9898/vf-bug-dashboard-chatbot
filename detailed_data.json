@@ -3,9 +3,9 @@
     {
       "key": "VF-2737",
       "summary": "Logo text is not readabla ",
-      "status": "Open",
+      "status": "OnHold-For Vivre Setup",
       "priority": "High",
-      "assignee": "Srinidhi.Raju",
+      "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-25",
       "updated": "2026-03-25",
@@ -17,11 +17,95 @@
     {
       "key": "VF-2194",
       "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "Ready For Test",
+      "status": "Closed",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2704",
+      "summary": "Kids profile settings",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Chiranjit Chatterjee",
+      "platform": "LG_TV",
+      "created": "2026-03-20",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2714",
+      "summary": "(Tamanna) - Namma Flix CP logo not showing on Namma Flix thumbnails.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2208",
+      "summary": "FLIQS QR to subscribe / rent",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2738",
+      "summary": "Few CP logos do not appear even when TV is connected to LAN",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -211,20 +295,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2714",
-      "summary": "(Tamanna) - Namma Flix CP logo not showing on Namma Flix thumbnails.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2732",
       "summary": "UPI Intent - Android",
       "status": "Open",
@@ -305,20 +375,6 @@
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -547,20 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2704",
-      "summary": "Kids profile settings",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Chiranjit Chatterjee",
-      "platform": "LG_TV",
-      "created": "2026-03-20",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2727",
       "summary": "(Tamanna) - Issue with Search Bar Cursor Focus.",
       "status": "On Hold- For Clarification",
@@ -655,20 +697,6 @@
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1803,20 +1831,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2208",
-      "summary": "FLIQS QR to subscribe / rent",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34462,6 +34476,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Closed": 187,
+        "Reopened": 1,
+        "Dev Complete": 2,
+        "Ready For Test": 4,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34478,21 +34507,6 @@
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Ready For Test": 5,
-        "Reopened": 1,
-        "Dev Complete": 2,
-        "Closed": 186,
-        "Testing On hold": 1,
-        "Invalid": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34526,19 +34540,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1537,
+      "tasks": 316,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1871
+    },
+    "Chiranjit Chatterjee": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "Srinidhi.Raju": {
       "bugs": 4,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "vzyfeedback": {
-      "bugs": 1536,
-      "tasks": 316,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1870
     },
     "Amit Kumar Tiwari": {
       "bugs": 13,
@@ -34616,13 +34637,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 23
-    },
-    "Chiranjit Chatterjee": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "Akash Kushwaha": {
       "bugs": 25,
@@ -34796,10 +34810,10 @@
   "priority_breakdown": {
     "High": 574,
     "Medium": 916,
-    "Highest": 392,
+    "Highest": 393,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-25T10:09:46Z",
-  "total_issues": 2482
+  "updated_at": "2026-03-25T11:08:20Z",
+  "total_issues": 2483
 }
