@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2704",
+      "summary": "Kids profile settings",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-20",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2738",
       "summary": "Few CP logos do not appear even when TV is connected to LAN",
       "status": "Open",
@@ -92,20 +106,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2704",
-      "summary": "Kids profile settings",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Chiranjit Chatterjee",
-      "platform": "LG_TV",
-      "created": "2026-03-20",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34554,26 +34554,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1538,
+      "tasks": 316,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1872
+    },
     "Amit Kumar Tiwari": {
       "bugs": 17,
       "tasks": 5,
       "subtasks": 3,
       "stories": 0,
       "total": 25
-    },
-    "vzyfeedback": {
-      "bugs": 1537,
-      "tasks": 316,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1871
-    },
-    "Chiranjit Chatterjee": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
     },
     "Srinidhi.Raju": {
       "bugs": 2,
@@ -34743,6 +34736,13 @@
       "stories": 0,
       "total": 109
     },
+    "Chiranjit Chatterjee": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
+    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 7,
@@ -34822,12 +34822,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 393,
     "Medium": 917,
+    "Highest": 393,
     "High": 574,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-25T13:50:41Z",
+  "updated_at": "2026-03-25T15:21:47Z",
   "total_issues": 2484
 }
