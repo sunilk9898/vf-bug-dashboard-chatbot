@@ -98,14 +98,14 @@
     },
     "Unknown": {
       "OPEN": 1,
-      "IN PROGRESS": 0,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-25T11:08:20Z",
-  "total_issues_fetched": 2483,
+  "updated_at": "2026-03-25T11:56:57Z",
+  "total_issues_fetched": 2484,
   "project": "VF"
 }

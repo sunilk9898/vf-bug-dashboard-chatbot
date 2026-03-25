@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2739",
+      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2734",
+      "summary": "First letter of title names are not capitalized under New CP Addition",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2737",
       "summary": "Logo text is not readabla ",
       "status": "OnHold-For Vivre Setup",
@@ -127,20 +169,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2534",
-      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2674",
       "summary": "Player shows subscription QR code",
       "status": "Closed",
@@ -174,20 +202,6 @@
       "status": "Open",
       "priority": "Highest",
       "assignee": "Dinjit Dinesh",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2734",
-      "summary": "First letter of title names are not capitalized under New CP Addition",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
       "platform": "ATV",
       "created": "2026-03-25",
       "updated": "2026-03-25",
@@ -34540,6 +34554,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amit Kumar Tiwari": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 22
+    },
+    "Kiran JR": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
     "vzyfeedback": {
       "bugs": 1537,
       "tasks": 316,
@@ -34555,18 +34583,11 @@
       "total": 3
     },
     "Srinidhi.Raju": {
-      "bugs": 4,
+      "bugs": 3,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 4
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 13,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 21
+      "total": 3
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34743,13 +34764,6 @@
       "stories": 0,
       "total": 5
     },
-    "Kiran JR": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Ranjitha br": {
       "bugs": 1,
       "tasks": 1,
@@ -34809,11 +34823,11 @@
   },
   "priority_breakdown": {
     "High": 574,
-    "Medium": 916,
+    "Medium": 917,
     "Highest": 393,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-25T11:08:20Z",
-  "total_issues": 2483
+  "updated_at": "2026-03-25T11:56:57Z",
+  "total_issues": 2484
 }
