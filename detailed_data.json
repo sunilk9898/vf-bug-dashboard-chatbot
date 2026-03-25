@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2737",
+      "summary": "Logo text is not readabla ",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2687",
+      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2674",
+      "summary": "Player shows subscription QR code",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-17",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2736",
+      "summary": "Logo of Times Play is not visible",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Srinidhi.Raju",
+      "platform": "WEB",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2735",
+      "summary": "Episode listing occasionally displays as blank when user clicks on Episode",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2734",
+      "summary": "First letter of title names are not capitalized under New CP Addition",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2729",
       "summary": "Add to watchlist in press & hold menu",
       "status": "Dev Complete",
@@ -92,20 +204,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-23",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2194",
-      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "Invalid",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -207,20 +305,6 @@
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2674",
-      "summary": "Player shows subscription QR code",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-17",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1261,20 +1345,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2534",
-      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2197",
       "summary": "Refresh screen functionality",
       "status": "Dev Complete",
@@ -1394,20 +1464,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2687",
-      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-18",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34470,19 +34526,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "shadab Hussain": {
-      "bugs": 8,
-      "tasks": 4,
+    "Srinidhi.Raju": {
+      "bugs": 4,
+      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
-    },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
+      "total": 4
     },
     "vzyfeedback": {
       "bugs": 1536,
@@ -34497,6 +34546,27 @@
       "subtasks": 3,
       "stories": 0,
       "total": 21
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "shadab Hussain": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
     },
     "Manikanta P": {
       "bugs": 6,
@@ -34518,13 +34588,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
     },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
@@ -34623,13 +34686,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 38
     },
     "Rajkumar A": {
       "bugs": 3,
@@ -34738,12 +34794,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 573,
-    "Highest": 390,
-    "Medium": 915,
+    "High": 574,
+    "Medium": 916,
+    "Highest": 392,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-25T09:09:23Z",
-  "total_issues": 2478
+  "updated_at": "2026-03-25T10:09:46Z",
+  "total_issues": 2482
 }
