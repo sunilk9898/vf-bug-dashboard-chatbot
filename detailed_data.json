@@ -1,13 +1,83 @@
 {
   "bugs": [
     {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Issue Accepted",
+      "key": "VF-2713",
+      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2715",
+      "summary": "(Tamanna) - Next episode button showing on last episode.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2726",
+      "summary": "(Tamanna) - Issue with Series Banner Content on TV platforms.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2731",
+      "summary": "2:3 carousel behaviour on launch",
+      "status": "Open",
       "priority": "High",
-      "assignee": "Alok Gupta",
+      "assignee": "Srinidhi.Raju",
       "platform": "ANDROID",
-      "created": "2026-03-23",
+      "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -29,14 +99,210 @@
       "fixversion": ""
     },
     {
+      "key": "VF-2712",
+      "summary": "Episode lisitng UI in web ",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2653",
+      "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
+      "status": "Not Reproducible",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2710",
+      "summary": "Squished VZY favicon",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2724",
+      "summary": "(Tamanna) - Nammaflix content not playing.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2491",
+      "summary": "16:9 iOS carousel banners",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-10",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2085",
+      "summary": "Latest content is not showing up in New Releases rail of Series page.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-02-12",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2730",
+      "summary": "Search icon clipping in search suggestions",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2729",
+      "summary": "Add to watchlist in press & hold menu",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "IOS",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2711",
+      "summary": "Details section not showing multiple langauges available",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ANDROID",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-01-09",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2551",
+      "summary": "Blur Image Issues in TV",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-12",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2674",
       "summary": "Player shows subscription QR code",
-      "status": "Testing On hold",
+      "status": "Ready For Test",
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-17",
-      "updated": "2026-03-24",
+      "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -50,48 +316,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-23",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2726",
-      "summary": "(Tamanna) - Issue with Series Banner Content on TV platforms.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2715",
-      "summary": "(Tamanna) - Next episode button showing on last episode.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2713",
-      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -127,40 +351,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2724",
-      "summary": "(Tamanna) - Nammaflix content not playing.",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2725",
       "summary": "(Tamanna) - Watch now button not clickable on playflix content.",
       "status": "Ready For Test",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "IOS",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2712",
-      "summary": "Episode lisitng UI in web ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
       "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
@@ -207,20 +403,6 @@
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Rajkumar A",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -288,20 +470,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-18",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -393,20 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-01-09",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2581",
       "summary": "Web: Search history reappears after using Clear All in search options",
       "status": "Closed",
@@ -428,20 +582,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-18",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2711",
-      "summary": "Details section not showing multiple langauges available",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -505,48 +645,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2491",
-      "summary": "16:9 iOS carousel banners",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-10",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2710",
-      "summary": "Squished VZY favicon",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-03-23",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2678",
       "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
       "status": "Testing On hold",
@@ -554,20 +652,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-18",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2694",
-      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-19",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1051,20 +1135,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2085",
-      "summary": "Latest content is not showing up in New Releases rail of Series page.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Unknown",
-      "created": "2026-02-12",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2669",
       "summary": "Naveen => Incorrect redirection after login via Content ",
       "status": "Closed",
@@ -1271,20 +1341,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2551",
-      "summary": "Blur Image Issues in TV",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "LG_TV",
-      "created": "2026-03-12",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2052,20 +2108,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2653",
-      "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27051,6 +27093,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2722",
+      "summary": "Update the login banner for WEB",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2728",
       "summary": "Display \u201cNature of Content\u201d on Player for MX Player Content",
       "status": "Open",
@@ -27089,20 +27145,6 @@
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2722",
-      "summary": "Update the login banner for WEB",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -34343,12 +34385,30 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Reopened": 2,
+        "Ready For Test": 5,
+        "Reopened": 1,
         "Dev Complete": 2,
         "Closed": 186,
-        "Ready For Test": 4,
         "Testing On hold": 1,
         "Invalid": 1
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Testing On hold": 3,
+        "Ready For Test": 7,
+        "Closed": 64,
+        "Reopened": 2,
+        "In Progress": 10,
+        "In Review": 1,
+        "Invalid": 2,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34364,25 +34424,6 @@
         "Reopened": 1,
         "In Progress": 1,
         "Onhold-For Tech Dependency": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Ready For Test": 7,
-        "Closed": 64,
-        "Reopened": 3,
-        "In Progress": 10,
-        "Dev Complete": 1,
-        "Testing On hold": 1,
-        "In Review": 1,
-        "Invalid": 2,
-        "Onhold-For Tech Dependency": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -34401,33 +34442,47 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Alok Gupta": {
-      "bugs": 17,
-      "tasks": 6,
+    "vzyfeedback": {
+      "bugs": 1535,
+      "tasks": 316,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1869
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 23
+      "total": 4
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "Amudha Kaliamoorthi": {
-      "bugs": 18,
+      "bugs": 19,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
-      "total": 38
+      "total": 39
     },
-    "vzyfeedback": {
-      "bugs": 1532,
-      "tasks": 315,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1865
-    },
-    "Amit Kumar Tiwari": {
+    "Ajay Kushwaha": {
       "bugs": 14,
-      "tasks": 5,
-      "subtasks": 3,
+      "tasks": 4,
+      "subtasks": 0,
       "stories": 0,
-      "total": 22
+      "total": 18
+    },
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
     },
     "avinash waghmare": {
       "bugs": 4,
@@ -34436,12 +34491,26 @@
       "stories": 0,
       "total": 7
     },
-    "Ajay Kushwaha": {
-      "bugs": 13,
-      "tasks": 5,
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
       "subtasks": 0,
       "stories": 0,
-      "total": 18
+      "total": 39
+    },
+    "Alok Gupta": {
+      "bugs": 17,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 23
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 22
     },
     "Chiranjit Chatterjee": {
       "bugs": 3,
@@ -34451,18 +34520,11 @@
       "total": 3
     },
     "Akash Kushwaha": {
-      "bugs": 26,
+      "bugs": 25,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 29
-    },
-    "Rajkumar A": {
-      "bugs": 4,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
+      "total": 28
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -34506,33 +34568,12 @@
       "stories": 0,
       "total": 15
     },
-    "Namrata Kurariya": {
-      "bugs": 8,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
-    },
     "Aditya Shrivastava": {
       "bugs": 2,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
     },
     "Yashika Krishnani": {
       "bugs": 7,
@@ -34548,6 +34589,13 @@
       "stories": 0,
       "total": 14
     },
+    "Rajkumar A": {
+      "bugs": 3,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
     "Shubham Chauhan": {
       "bugs": 14,
       "tasks": 7,
@@ -34555,19 +34603,19 @@
       "stories": 0,
       "total": 21
     },
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
     "Unassigned": {
       "bugs": 73,
       "tasks": 30,
       "subtasks": 0,
       "stories": 0,
       "total": 109
-    },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -34662,12 +34710,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 571,
+    "Medium": 915,
     "Highest": 388,
-    "Medium": 914,
+    "High": 573,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-25T03:19:19Z",
-  "total_issues": 2473
+  "updated_at": "2026-03-25T05:39:18Z",
+  "total_issues": 2476
 }
