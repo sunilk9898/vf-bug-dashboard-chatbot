@@ -1,6 +1,132 @@
 {
   "bugs": [
     {
+      "key": "VF-2733",
+      "summary": "Fancode - Live Sports not working on Chrome",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2714",
+      "summary": "(Tamanna) - Namma Flix CP logo not showing on Namma Flix thumbnails.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2732",
+      "summary": "UPI Intent - Android",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Manikanta P",
+      "platform": "ANDROID",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2712",
+      "summary": "Episode lisitng UI in web ",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2710",
+      "summary": "Squished VZY favicon",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2730",
+      "summary": "Search icon clipping in search suggestions",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2674",
+      "summary": "Player shows subscription QR code",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-17",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2713",
       "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
       "status": "Ready For Test",
@@ -99,20 +225,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2712",
-      "summary": "Episode lisitng UI in web ",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2653",
       "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
       "status": "Not Reproducible",
@@ -120,20 +232,6 @@
       "assignee": "Vikas Mishra",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2710",
-      "summary": "Squished VZY favicon",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-23",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -211,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2730",
-      "summary": "Search icon clipping in search suggestions",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2729",
       "summary": "Add to watchlist in press & hold menu",
       "status": "Open",
@@ -289,34 +373,6 @@
       "platform": "ANDROID",
       "created": "2026-03-23",
       "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2674",
-      "summary": "Player shows subscription QR code",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-17",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2707",
-      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -414,20 +470,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2714",
-      "summary": "(Tamanna) - Namma Flix CP logo not showing on Namma Flix thumbnails.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-24",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -655,20 +697,6 @@
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34378,21 +34406,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Ready For Test": 5,
-        "Reopened": 1,
-        "Dev Complete": 2,
-        "Closed": 186,
-        "Testing On hold": 1,
-        "Invalid": 1
-      }
-    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34409,6 +34422,21 @@
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Ready For Test": 5,
+        "Reopened": 1,
+        "Dev Complete": 2,
+        "Closed": 186,
+        "Testing On hold": 1,
+        "Invalid": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34442,12 +34470,40 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 26,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 29
+    },
     "vzyfeedback": {
       "bugs": 1535,
       "tasks": 316,
       "subtasks": 12,
       "stories": 0,
       "total": 1869
+    },
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 7,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 14
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 22
+    },
+    "Ajay Kushwaha": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34469,13 +34525,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 39
-    },
-    "Ajay Kushwaha": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
     },
     "Vikas Mishra": {
       "bugs": 39,
@@ -34505,26 +34554,12 @@
       "stories": 0,
       "total": 23
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 14,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 22
-    },
     "Chiranjit Chatterjee": {
       "bugs": 3,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 3
-    },
-    "Akash Kushwaha": {
-      "bugs": 25,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 28
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -34624,13 +34659,6 @@
       "stories": 0,
       "total": 11
     },
-    "Manikanta P": {
-      "bugs": 5,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 13
-    },
     "Smridhi Anand": {
       "bugs": 1,
       "tasks": 7,
@@ -34710,12 +34738,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 390,
     "Medium": 915,
-    "Highest": 388,
     "High": 573,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-25T05:39:18Z",
-  "total_issues": 2476
+  "updated_at": "2026-03-25T07:18:49Z",
+  "total_issues": 2478
 }
