@@ -1,13 +1,111 @@
 {
   "bugs": [
     {
+      "key": "VF-2729",
+      "summary": "Add to watchlist in press & hold menu",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2733",
       "summary": "Fancode - Live Sports not working on Chrome",
-      "status": "Open",
+      "status": "Issue Accepted",
       "priority": "Highest",
-      "assignee": "Akash Kushwaha",
+      "assignee": "BalaKumar",
       "platform": "WEB",
       "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2726",
+      "summary": "(Tamanna) - Issue with Series Banner Content on TV platforms.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2715",
+      "summary": "(Tamanna) - Next episode button showing on last episode.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2713",
+      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-24",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2702",
+      "summary": "(Tamanna) - More Like This\u201d Content Type Not Defined in series.",
+      "status": "On Hold- For Clarification",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-25",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2194",
+      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-23",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -120,48 +218,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-17",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2713",
-      "summary": "(Tamanna) - Content unavailable on all contents of Times play.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2715",
-      "summary": "(Tamanna) - Next episode button showing on last episode.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2726",
-      "summary": "(Tamanna) - Issue with Series Banner Content on TV platforms.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-24",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -305,20 +361,6 @@
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2729",
-      "summary": "Add to watchlist in press & hold menu",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "IOS",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1051,20 +1093,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2426",
       "summary": "16:9 Carousel banner issue",
       "status": "Reopened",
@@ -1145,20 +1173,6 @@
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2194",
-      "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-23",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1590,20 +1604,6 @@
       "assignee": "abhilash.ramesh",
       "platform": "Unknown",
       "created": "2026-02-26",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2702",
-      "summary": "(Tamanna) - More Like This\u201d Content Type Not Defined in series.",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-20",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34470,19 +34470,33 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 26,
-      "tasks": 2,
+    "shadab Hussain": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
       "subtasks": 1,
       "stories": 0,
-      "total": 29
+      "total": 23
     },
     "vzyfeedback": {
-      "bugs": 1535,
+      "bugs": 1536,
       "tasks": 316,
       "subtasks": 12,
       "stories": 0,
-      "total": 1869
+      "total": 1870
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 13,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 21
     },
     "Manikanta P": {
       "bugs": 6,
@@ -34490,13 +34504,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 14
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 14,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 22
     },
     "Ajay Kushwaha": {
       "bugs": 14,
@@ -34540,13 +34547,6 @@
       "stories": 0,
       "total": 7
     },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
-    },
     "Alok Gupta": {
       "bugs": 17,
       "tasks": 6,
@@ -34560,6 +34560,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 3
+    },
+    "Akash Kushwaha": {
+      "bugs": 25,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 28
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -34589,13 +34596,6 @@
       "stories": 0,
       "total": 42
     },
-    "BalaKumar": {
-      "bugs": 13,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 22
-    },
     "Moore Meghana": {
       "bugs": 12,
       "tasks": 2,
@@ -34624,6 +34624,13 @@
       "stories": 0,
       "total": 14
     },
+    "Dinjit Dinesh": {
+      "bugs": 19,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 38
+    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -34651,13 +34658,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 109
-    },
-    "shadab Hussain": {
-      "bugs": 7,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 11
     },
     "Smridhi Anand": {
       "bugs": 1,
@@ -34738,12 +34738,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 573,
     "Highest": 390,
     "Medium": 915,
-    "High": 573,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-25T07:18:49Z",
+  "updated_at": "2026-03-25T09:09:23Z",
   "total_issues": 2478
 }
