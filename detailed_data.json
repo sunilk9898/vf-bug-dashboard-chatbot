@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2724",
+      "summary": "(Tamanna) - Nammaflix content not playing.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-24",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2729",
+      "summary": "Add to watchlist in press & hold menu",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2708",
+      "summary": "Web Player issues",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2730",
+      "summary": "Search icon clipping in search suggestions",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2712",
+      "summary": "Episode lisitng UI in web ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2704",
       "summary": "Kids profile settings",
       "status": "Testing On hold",
@@ -211,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2729",
-      "summary": "Add to watchlist in press & hold menu",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2733",
       "summary": "Fancode - Live Sports not working on Chrome",
       "status": "Issue Accepted",
@@ -337,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2712",
-      "summary": "Episode lisitng UI in web ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2710",
       "summary": "Squished VZY favicon",
       "status": "Dev Complete",
@@ -358,20 +428,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
       "created": "2026-03-23",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2730",
-      "summary": "Search icon clipping in search suggestions",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -456,20 +512,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2724",
-      "summary": "(Tamanna) - Nammaflix content not playing.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-24",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -659,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2708",
-      "summary": "Web Player issues",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-23",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2594",
       "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
       "status": "In Progress",
@@ -697,20 +725,6 @@
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1155,20 +1169,6 @@
       "priority": "Highest",
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
       "created": "2026-03-16",
       "updated": "2026-03-23",
       "duedate": "",
@@ -27205,6 +27205,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-454",
+      "summary": "Casting",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "ANDROID",
+      "created": "2025-11-14",
+      "updated": "2026-03-26",
+      "duedate": "2026-02-14",
+      "sprint": "VZY Sprint (13 Feb 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2722",
       "summary": "Update the login banner for WEB",
       "status": "Ready For Test",
@@ -27369,20 +27383,6 @@
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-454",
-      "summary": "Casting",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "ANDROID",
-      "created": "2025-11-14",
-      "updated": "2026-03-20",
-      "duedate": "2026-02-14",
-      "sprint": "VZY Sprint (13 Feb 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -34490,6 +34490,36 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Reopened": 3,
+        "Testing On hold": 3,
+        "Closed": 64,
+        "In Progress": 10,
+        "In Review": 1,
+        "Ready For Test": 6,
+        "Invalid": 2,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
+      }
+    },
+    "VZY Sprint (13 Feb 2026)": {
+      "bugs": 15,
+      "tasks": 17,
+      "subtasks": 17,
+      "stories": 0,
+      "total": 49,
+      "statuses": {
+        "Ready For Test": 5,
+        "Closed": 43,
+        "Reopened": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -34503,24 +34533,6 @@
         "Ready For Test": 4,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Testing On hold": 3,
-        "Ready For Test": 7,
-        "Closed": 64,
-        "Reopened": 2,
-        "In Progress": 10,
-        "In Review": 1,
-        "Invalid": 2,
-        "Onhold-For Tech Dependency": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34537,29 +34549,37 @@
         "In Progress": 1,
         "Onhold-For Tech Dependency": 1
       }
-    },
-    "VZY Sprint (13 Feb 2026)": {
-      "bugs": 15,
-      "tasks": 17,
-      "subtasks": 17,
-      "stories": 0,
-      "total": 49,
-      "statuses": {
-        "In Progress": 1,
-        "Closed": 43,
-        "Reopened": 1,
-        "Ready For Test": 4
-      }
     }
   },
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1538,
+      "bugs": 1541,
       "tasks": 316,
       "subtasks": 12,
       "stories": 0,
-      "total": 1872
+      "total": 1875
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "shadab Hussain": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "avinash waghmare": {
+      "bugs": 3,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "Amit Kumar Tiwari": {
       "bugs": 17,
@@ -34575,13 +34595,6 @@
       "stories": 0,
       "total": 2
     },
-    "shadab Hussain": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
@@ -34595,13 +34608,6 @@
       "subtasks": 0,
       "stories": 1,
       "total": 14
-    },
-    "Ajay Kushwaha": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34623,13 +34629,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 42
-    },
-    "avinash waghmare": {
-      "bugs": 4,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Alok Gupta": {
       "bugs": 17,
@@ -34822,12 +34821,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 574,
     "Medium": 917,
     "Highest": 393,
-    "High": 574,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-26T03:27:40Z",
+  "updated_at": "2026-03-26T05:50:31Z",
   "total_issues": 2484
 }
