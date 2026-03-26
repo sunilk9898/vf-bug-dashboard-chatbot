@@ -1,6 +1,118 @@
 {
   "bugs": [
     {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2746",
+      "summary": "2:3 banner spacing android",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2738",
+      "summary": "Few CP logos do not appear even when TV is connected to LAN",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2739",
+      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2735",
+      "summary": "Episode listing occasionally displays as blank when user clicks on Episode",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2695",
+      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59.  2019 module tv ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-19",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2702",
       "summary": "(Tamanna) - More Like This\u201d Content Type Not Defined in series.",
       "status": "Duplicate",
@@ -64,34 +176,6 @@
       "assignee": "shadab Hussain",
       "platform": "IOS",
       "created": "2026-03-16",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2735",
-      "summary": "Episode listing occasionally displays as blank when user clicks on Episode",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2738",
-      "summary": "Few CP logos do not appear even when TV is connected to LAN",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-25",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -302,34 +386,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-12-19",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2739",
-      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-25",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -575,20 +631,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2707",
-      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2710",
       "summary": "Squished VZY favicon",
       "status": "Dev Complete",
@@ -750,20 +792,6 @@
       "assignee": "Vikas Mishra",
       "platform": "WEB",
       "created": "2026-01-09",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-23",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1744,20 +1772,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-11",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2695",
-      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-19",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27275,6 +27289,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1029",
+      "summary": "(Shruti) Analytics: Watcho Payment Failures \u2013 Daily basis",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-03-26",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1024",
       "summary": "(Shruti) Analytics: Amazon Webhooks \u2013 Daily basis",
       "status": "In Progress",
@@ -31027,20 +31055,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1029",
-      "summary": "(Shruti) Analytics: Watcho Payment Failures \u2013 Daily basis",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "High",
-      "assignee": "Manikanta P",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2025-12-29",
-      "duedate": "2025-12-31",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-831",
       "summary": "Textual Change",
       "status": "Closed",
@@ -34637,33 +34651,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Manikanta P": {
-      "bugs": 5,
-      "tasks": 9,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 15
-    },
-    "vzyfeedback": {
-      "bugs": 1541,
-      "tasks": 316,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1875
-    },
     "Amit Kumar Tiwari": {
-      "bugs": 18,
+      "bugs": 17,
       "tasks": 5,
       "subtasks": 3,
       "stories": 0,
-      "total": 26
+      "total": 25
     },
-    "shadab Hussain": {
-      "bugs": 8,
-      "tasks": 4,
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 2
     },
     "Akash Kushwaha": {
       "bugs": 26,
@@ -34672,19 +34672,47 @@
       "stories": 0,
       "total": 29
     },
+    "vzyfeedback": {
+      "bugs": 1542,
+      "tasks": 317,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1877
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 14
+    },
+    "shadab Hussain": {
+      "bugs": 8,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
     "Ajay Kushwaha": {
       "bugs": 14,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 18
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Suyog Lanje": {
       "bugs": 6,
@@ -34721,13 +34749,6 @@
       "stories": 0,
       "total": 4
     },
-    "Srinidhi.Raju": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
       "tasks": 16,
@@ -34742,26 +34763,12 @@
       "stories": 0,
       "total": 42
     },
-    "Alok Gupta": {
-      "bugs": 17,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 23
-    },
     "Karan Mahboobani": {
       "bugs": 7,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
       "total": 10
-    },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
     },
     "Javed Ali": {
       "bugs": 36,
@@ -34783,6 +34790,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
+    },
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -34905,12 +34919,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 919,
-    "High": 574,
     "Highest": 396,
+    "High": 575,
+    "Medium": 919,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-26T10:14:23Z",
-  "total_issues": 2490
+  "updated_at": "2026-03-26T11:13:43Z",
+  "total_issues": 2491
 }
