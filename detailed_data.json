@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2748",
+      "summary": "(Shivani) - On home page banners are not showing",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2747",
+      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2546",
+      "summary": "Clevertap In App Redirection not working for iOS",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-12",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2732",
+      "summary": "UPI Intent - Android",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2679",
+      "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2695",
+      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59.  2019 module tv ",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-19",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2476",
       "summary": "Squished VZY logo",
       "status": "Testing On hold",
@@ -92,20 +176,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-25",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2695",
-      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59.  2019 module tv ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-19",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -245,20 +315,6 @@
       "priority": "Highest",
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
-      "created": "2026-03-25",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2732",
-      "summary": "UPI Intent - Android",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
       "created": "2026-03-25",
       "updated": "2026-03-26",
       "duedate": "",
@@ -869,20 +925,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2679",
-      "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-18",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2545",
       "summary": "TV: Video does not play for Episode 1 of \u201cYaarmates\u201d from the \u201cTop 10 Series: Weekly Spotlight\u201d section.",
       "status": "Closed",
@@ -1002,20 +1044,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2025-11-04",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2546",
-      "summary": "Clevertap In App Redirection not working for iOS",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-12",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34651,6 +34679,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 28,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 31
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
     "vzyfeedback": {
       "bugs": 1542,
       "tasks": 317,
@@ -34665,26 +34707,19 @@
       "stories": 0,
       "total": 25
     },
-    "Srinidhi.Raju": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
-    "Akash Kushwaha": {
-      "bugs": 26,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 29
-    },
     "devaraj": {
       "bugs": 8,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
       "total": 11
+    },
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
     },
     "Dinjit Dinesh": {
       "bugs": 21,
@@ -34741,13 +34776,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
     },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
@@ -34919,12 +34947,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 919,
+    "High": 577,
     "Highest": 396,
-    "High": 575,
+    "Medium": 919,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-26T12:02:12Z",
-  "total_issues": 2491
+  "updated_at": "2026-03-26T13:59:34Z",
+  "total_issues": 2493
 }
