@@ -3,7 +3,7 @@
     "ANDROID": {
       "OPEN": 2,
       "IN PROGRESS": 0,
-      "REOPENED": 2,
+      "REOPENED": 3,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 3,
       "PARKED": 1
@@ -26,7 +26,7 @@
     },
     "CMS Adaptor": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-26T09:14:38Z",
+  "updated_at": "2026-03-26T10:14:23Z",
   "total_issues_fetched": 2490,
   "project": "VF"
 }

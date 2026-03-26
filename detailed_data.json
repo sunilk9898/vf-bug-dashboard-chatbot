@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2702",
+      "summary": "(Tamanna) - More Like This\u201d Content Type Not Defined in series.",
+      "status": "Duplicate",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1040",
+      "summary": "Incorrect Font Usage in Rail Headings",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-08",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2699",
+      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2594",
+      "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-13",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2668",
       "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
       "status": "Open",
@@ -281,20 +337,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2699",
-      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-20",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2724",
       "summary": "(Tamanna) - Nammaflix content not playing.",
       "status": "Onhold-For Tech Dependency",
@@ -526,20 +568,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2702",
-      "summary": "(Tamanna) - More Like This\u201d Content Type Not Defined in series.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-20",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -806,20 +834,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2594",
-      "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-13",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -10371,20 +10385,6 @@
       "updated": "2026-02-09",
       "duedate": "",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1040",
-      "summary": "Incorrect Font Usage in Rail Headings",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-08",
-      "updated": "2026-02-09",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -27275,6 +27275,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-1024",
+      "summary": "(Shruti) Analytics: Amazon Webhooks \u2013 Daily basis",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
+      "created": "2025-12-08",
+      "updated": "2026-03-26",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Onhold-For Tech Dependency",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1598",
       "summary": "Series Episodes Listing (Friends & Family Feedback)",
       "status": "Open",
@@ -27411,20 +27439,6 @@
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1024",
-      "summary": "(Shruti) Analytics: Amazon Webhooks \u2013 Daily basis",
-      "status": "Parked",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2025-12-08",
-      "updated": "2026-03-23",
-      "duedate": "2025-12-31",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -28153,20 +28167,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -34637,19 +34637,33 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 9,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 15
+    },
+    "vzyfeedback": {
+      "bugs": 1541,
+      "tasks": 316,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1875
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 18,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 26
+    },
     "shadab Hussain": {
       "bugs": 8,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 17,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
     },
     "Akash Kushwaha": {
       "bugs": 26,
@@ -34672,13 +34686,6 @@
       "stories": 0,
       "total": 39
     },
-    "vzyfeedback": {
-      "bugs": 1541,
-      "tasks": 316,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1875
-    },
     "Suyog Lanje": {
       "bugs": 6,
       "tasks": 8,
@@ -34700,19 +34707,12 @@
       "stories": 0,
       "total": 24
     },
-    "Manikanta P": {
-      "bugs": 5,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 14
-    },
     "avinash waghmare": {
-      "bugs": 3,
+      "bugs": 2,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
-      "total": 6
+      "total": 5
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34800,10 +34800,10 @@
     },
     "Shubham Chauhan": {
       "bugs": 14,
-      "tasks": 7,
+      "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 21
+      "total": 20
     },
     "Namrata Kurariya": {
       "bugs": 6,
@@ -34905,12 +34905,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 919,
     "High": 574,
     "Highest": 396,
-    "Medium": 919,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-26T09:14:38Z",
+  "updated_at": "2026-03-26T10:14:23Z",
   "total_issues": 2490
 }
