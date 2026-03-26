@@ -1,19 +1,19 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 4,
+      "OPEN": 2,
       "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 2,
+      "ISSUE ACCEPTED": 3,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 4,
+      "OPEN": 3,
       "IN PROGRESS": 2,
-      "REOPENED": 3,
+      "REOPENED": 1,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 0
     },
     "CMS": {
@@ -49,11 +49,11 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 2,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 2,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "Kaltura": {
@@ -73,11 +73,11 @@
       "PARKED": 0
     },
     "Mobile": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 0,
+      "ISSUE ACCEPTED": 1,
       "PARKED": 3
     },
     "SAM_TV": {
@@ -89,12 +89,12 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 1,
-      "PARKED": 2
+      "ISSUE ACCEPTED": 3,
+      "PARKED": 1
     },
     "Unknown": {
       "OPEN": 1,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-26T07:36:56Z",
-  "total_issues_fetched": 2489,
+  "updated_at": "2026-03-26T09:14:38Z",
+  "total_issues_fetched": 2490,
   "project": "VF"
 }

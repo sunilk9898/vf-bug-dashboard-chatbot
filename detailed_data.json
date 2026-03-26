@@ -1,16 +1,184 @@
 {
   "bugs": [
     {
-      "key": "VF-2744",
-      "summary": "Season and episode listing",
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
       "status": "Open",
-      "priority": "Medium",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2735",
+      "summary": "Episode listing occasionally displays as blank when user clicks on Episode",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2738",
+      "summary": "Few CP logos do not appear even when TV is connected to LAN",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
       "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2743",
+      "summary": "Unwanted blank space",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2745",
+      "summary": "SonyLIV content not playable for DTH user on first-time login to VZY despite having active DTH Watcho add\u2011on",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2026-03-26",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2740",
+      "summary": "Country code is not auto reflected on first launch for default iOS device (United States)",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2736",
+      "summary": "Logo of Times Play is not visible",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2732",
+      "summary": "UPI Intent - Android",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2744",
+      "summary": "Season and episode listing",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2741",
+      "summary": "Zoom In / Zoom Out functionality works on iOS player but not on Android mobile player",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2585",
+      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -36,20 +204,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2025-12-16",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2743",
-      "summary": "Unwanted blank space",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "ANDROID",
-      "created": "2026-03-26",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -85,20 +239,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2741",
-      "summary": "Zoom In / Zoom Out functionality works on iOS player but not on Android mobile player",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "Mobile",
-      "created": "2026-03-26",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1430",
       "summary": "Manage Device",
       "status": "Reopened",
@@ -106,20 +246,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-12-19",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2740",
-      "summary": "Country code is not auto reflected on first launch for default iOS device (United States)",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "IOS",
-      "created": "2026-03-26",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -165,20 +291,6 @@
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -253,20 +365,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-16",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2704",
       "summary": "Kids profile settings",
       "status": "Testing On hold",
@@ -274,34 +372,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-03-20",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2738",
-      "summary": "Few CP logos do not appear even when TV is connected to LAN",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2735",
-      "summary": "Episode listing occasionally displays as blank when user clicks on Episode",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -379,20 +449,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
-      "status": "Reopened",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2687",
       "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
       "status": "In Progress",
@@ -414,20 +470,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-17",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2736",
-      "summary": "Logo of Times Play is not visible",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Srinidhi.Raju",
-      "platform": "WEB",
-      "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -498,20 +540,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-20",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2732",
-      "summary": "UPI Intent - Android",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Manikanta P",
-      "platform": "ANDROID",
-      "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -3561,20 +3589,6 @@
       "summary": "(Tamanna) - Issue: Banners Appearing Blurred in CP \u2013 Shemaroo.",
       "status": "Parked",
       "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-13",
-      "updated": "2026-03-16",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2585",
-      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
-      "status": "Parked",
-      "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-13",
@@ -34567,12 +34581,12 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "Reopened": 3,
+        "Ready For Test": 7,
         "Testing On hold": 3,
         "Closed": 64,
+        "Reopened": 2,
         "In Progress": 10,
         "In Review": 1,
-        "Ready For Test": 6,
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
@@ -34623,40 +34637,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 26,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 29
-    },
-    "vzyfeedback": {
-      "bugs": 1541,
-      "tasks": 316,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1875
-    },
-    "Srinidhi.Raju": {
-      "bugs": 4,
-      "tasks": 0,
+    "shadab Hussain": {
+      "bugs": 8,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 4
-    },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 8,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 15
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
+      "total": 12
     },
     "Amit Kumar Tiwari": {
       "bugs": 17,
@@ -34665,19 +34651,61 @@
       "stories": 0,
       "total": 25
     },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
+    "Akash Kushwaha": {
+      "bugs": 26,
+      "tasks": 2,
+      "subtasks": 1,
       "stories": 0,
-      "total": 16
+      "total": 29
     },
-    "shadab Hussain": {
-      "bugs": 8,
+    "Ajay Kushwaha": {
+      "bugs": 14,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 12
+      "total": 18
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "vzyfeedback": {
+      "bugs": 1541,
+      "tasks": 316,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1875
+    },
+    "Suyog Lanje": {
+      "bugs": 6,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
+    "Yashika Krishnani": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "BalaKumar": {
+      "bugs": 15,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
+    "Manikanta P": {
+      "bugs": 5,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 14
     },
     "avinash waghmare": {
       "bugs": 3,
@@ -34686,19 +34714,19 @@
       "stories": 0,
       "total": 6
     },
-    "BalaKumar": {
-      "bugs": 14,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 23
-    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 4
+    },
+    "Srinidhi.Raju": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
     },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
@@ -34735,13 +34763,6 @@
       "stories": 0,
       "total": 11
     },
-    "Suyog Lanje": {
-      "bugs": 5,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 14
-    },
     "Javed Ali": {
       "bugs": 36,
       "tasks": 3,
@@ -34762,13 +34783,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 7
-    },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -34891,12 +34905,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 919,
-    "Highest": 395,
     "High": 574,
+    "Highest": 396,
+    "Medium": 919,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-26T07:36:56Z",
-  "total_issues": 2489
+  "updated_at": "2026-03-26T09:14:38Z",
+  "total_issues": 2490
 }
