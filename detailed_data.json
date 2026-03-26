@@ -1,6 +1,174 @@
 {
   "bugs": [
     {
+      "key": "VF-2744",
+      "summary": "Season and episode listing",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2551",
+      "summary": "Blur Image Issues in TV",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-12",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1212",
+      "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2025-12-16",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2743",
+      "summary": "Unwanted blank space",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2734",
+      "summary": "First letter of title names are not capitalized under New CP Addition",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2737",
+      "summary": "Logo text is not readabla ",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2741",
+      "summary": "Zoom In / Zoom Out functionality works on iOS player but not on Android mobile player",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "Mobile",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1430",
+      "summary": "Manage Device",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-12-19",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2740",
+      "summary": "Country code is not auto reflected on first launch for default iOS device (United States)",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "IOS",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2739",
+      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2699",
+      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2210",
       "summary": "Content Badges",
       "status": "Reopened",
@@ -127,20 +295,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2739",
-      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2735",
       "summary": "Episode listing occasionally displays as blank when user clicks on Episode",
       "status": "Open",
@@ -162,34 +316,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "Unknown",
       "created": "2026-03-11",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2734",
-      "summary": "First letter of title names are not capitalized under New CP Addition",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2737",
-      "summary": "Logo text is not readabla ",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-25",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -372,20 +498,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-20",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -589,20 +701,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2551",
-      "summary": "Blur Image Issues in TV",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-12",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2705",
       "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
       "status": "Issue Accepted",
@@ -624,20 +722,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2699",
-      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-20",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1649,20 +1733,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "VZY Sprint (31 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1212",
-      "summary": "(Shivani) Browse by OTT >> In Browser by OTT, on LGP or any CP, a black area is appearing on the top carousel.",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2025-12-16",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -16899,20 +16969,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1430",
-      "summary": "Manage Device",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-12-19",
-      "updated": "2025-12-29",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1383",
       "summary": "Thumbnails Missing - People Love these rail",
       "status": "Closed",
@@ -27205,6 +27261,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-1598",
+      "summary": "Series Episodes Listing (Friends & Family Feedback)",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-01-07",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2742",
+      "summary": "DDOS Restriction",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Manikanta P",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-454",
       "summary": "Casting",
       "status": "Ready For Test",
@@ -27940,20 +28024,6 @@
       "assignee": "Suyog Lanje",
       "platform": "ANDROID",
       "created": "2026-02-03",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1598",
-      "summary": "Series Episodes Listing (Friends & Family Feedback)",
-      "status": "OnHold-For Vivre Setup",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-01-07",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34553,12 +34623,47 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 26,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 29
+    },
     "vzyfeedback": {
       "bugs": 1541,
       "tasks": 316,
       "subtasks": 12,
       "stories": 0,
       "total": 1875
+    },
+    "Srinidhi.Raju": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "Manikanta P": {
+      "bugs": 6,
+      "tasks": 8,
+      "subtasks": 0,
+      "stories": 1,
+      "total": 15
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 17,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -34581,33 +34686,12 @@
       "stories": 0,
       "total": 6
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 17,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
-    },
-    "Srinidhi.Raju": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
       "subtasks": 1,
       "stories": 0,
       "total": 23
-    },
-    "Manikanta P": {
-      "bugs": 6,
-      "tasks": 7,
-      "subtasks": 0,
-      "stories": 1,
-      "total": 14
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34636,13 +34720,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 23
-    },
-    "Akash Kushwaha": {
-      "bugs": 25,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 28
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -34699,13 +34776,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Dinjit Dinesh": {
-      "bugs": 19,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 38
     },
     "Rajkumar A": {
       "bugs": 3,
@@ -34821,12 +34891,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 919,
+    "Highest": 395,
     "High": 574,
-    "Medium": 917,
-    "Highest": 393,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-26T05:50:31Z",
-  "total_issues": 2484
+  "updated_at": "2026-03-26T07:36:56Z",
+  "total_issues": 2489
 }
