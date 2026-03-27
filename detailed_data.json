@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2732",
+      "summary": "UPI Intent - Android",
+      "status": "On Hold- For Clarification",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-25",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2695",
+      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59.  2019 module tv ",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-19",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2749",
+      "summary": "Error message on Video quality change",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "WEB",
+      "created": "2026-03-27",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2740",
+      "summary": "Country code is not auto reflected on first launch for default iOS device (United States)",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "IOS",
+      "created": "2026-03-26",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2743",
+      "summary": "Unwanted blank space",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Ajay Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-26",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2748",
       "summary": "(Shivani) - On home page banners are not showing",
       "status": "Open",
@@ -43,20 +141,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2732",
-      "summary": "UPI Intent - Android",
-      "status": "On Hold- For Clarification",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-25",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2679",
       "summary": "FLIQS paid content remains accessible on Android TV (ATV) even after the user\u2019s subscription has expired",
       "status": "In Progress",
@@ -64,20 +148,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-18",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2695",
-      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59.  2019 module tv ",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-19",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -183,20 +253,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-23",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2702",
       "summary": "(Tamanna) - More Like This\u201d Content Type Not Defined in series.",
       "status": "Duplicate",
@@ -267,40 +323,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2743",
-      "summary": "Unwanted blank space",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-26",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2745",
       "summary": "SonyLIV content not playable for DTH user on first-time login to VZY despite having active DTH Watcho add\u2011on",
       "status": "Open",
       "priority": "Highest",
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
-      "created": "2026-03-26",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2740",
-      "summary": "Country code is not auto reflected on first launch for default iOS device (United States)",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "IOS",
       "created": "2026-03-26",
       "updated": "2026-03-26",
       "duedate": "",
@@ -764,20 +792,6 @@
       "assignee": "Vikas Mishra",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27317,6 +27331,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-2493",
+      "summary": "A different / custom thank you page is shown for subscription orders",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-10",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2148",
+      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-18",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1029",
       "summary": "(Shruti) Analytics: Watcho Payment Failures \u2013 Daily basis",
       "status": "Onhold-For Tech Dependency",
@@ -27340,20 +27382,6 @@
       "created": "2025-12-08",
       "updated": "2026-03-26",
       "duedate": "2025-12-31",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2148",
-      "summary": "(Tamanna) - Content Type Not Displayed in \"More Like This\" Section.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-18",
-      "updated": "2026-03-26",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -27592,20 +27620,6 @@
       "created": "2025-12-08",
       "updated": "2026-03-20",
       "duedate": "2025-12-17",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2493",
-      "summary": "A different / custom thank you page is shown for subscription orders",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-10",
-      "updated": "2026-03-20",
-      "duedate": "",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -34679,6 +34693,48 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1542,
+      "tasks": 317,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1877
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
+    "Suyog Lanje": {
+      "bugs": 6,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
+    "Ajay Kushwaha": {
+      "bugs": 14,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 18
+    },
+    "Javed Ali": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 43
+    },
     "Akash Kushwaha": {
       "bugs": 28,
       "tasks": 2,
@@ -34693,13 +34749,6 @@
       "stories": 0,
       "total": 4
     },
-    "vzyfeedback": {
-      "bugs": 1542,
-      "tasks": 317,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1877
-    },
     "Amit Kumar Tiwari": {
       "bugs": 17,
       "tasks": 5,
@@ -34707,26 +34756,12 @@
       "stories": 0,
       "total": 25
     },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
     "Srinidhi.Raju": {
       "bugs": 2,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 2
-    },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
     },
     "Manikanta P": {
       "bugs": 5,
@@ -34741,20 +34776,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "Ajay Kushwaha": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
-    },
-    "Suyog Lanje": {
-      "bugs": 6,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
     },
     "Yashika Krishnani": {
       "bugs": 8,
@@ -34797,13 +34818,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 10
-    },
-    "Javed Ali": {
-      "bugs": 36,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 42
     },
     "Moore Meghana": {
       "bugs": 12,
@@ -34947,12 +34961,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 577,
     "Highest": 396,
-    "Medium": 919,
+    "Medium": 920,
+    "High": 577,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T03:30:37Z",
-  "total_issues": 2493
+  "updated_at": "2026-03-27T05:51:18Z",
+  "total_issues": 2494
 }
