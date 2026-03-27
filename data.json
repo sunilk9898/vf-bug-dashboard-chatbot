@@ -1,7 +1,7 @@
 {
   "data": {
     "ANDROID": {
-      "OPEN": 3,
+      "OPEN": 6,
       "IN PROGRESS": 0,
       "REOPENED": 3,
       "IN REVIEW": 0,
@@ -49,15 +49,15 @@
       "PARKED": 0
     },
     "IOS": {
-      "OPEN": 1,
-      "IN PROGRESS": 0,
+      "OPEN": 0,
+      "IN PROGRESS": 1,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
       "PARKED": 0
     },
     "Kaltura": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -66,7 +66,7 @@
     },
     "LG_TV": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
@@ -82,7 +82,7 @@
     },
     "SAM_TV": {
       "OPEN": 0,
-      "IN PROGRESS": 0,
+      "IN PROGRESS": 1,
       "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-27T05:51:18Z",
-  "total_issues_fetched": 2494,
+  "updated_at": "2026-03-27T07:35:43Z",
+  "total_issues_fetched": 2496,
   "project": "VF"
 }

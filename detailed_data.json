@@ -1,13 +1,41 @@
 {
   "bugs": [
     {
-      "key": "VF-2732",
-      "summary": "UPI Intent - Android",
-      "status": "On Hold- For Clarification",
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2736",
+      "summary": "Logo of Times Play is not visible",
+      "status": "Issue Accepted",
       "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
+      "assignee": "Ajay Kushwaha",
+      "platform": "WEB",
       "created": "2026-03-25",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2751",
+      "summary": "Parasite (Korean) movie not appearing in search results on multiple Android devices",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-27",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -17,11 +45,95 @@
     {
       "key": "VF-2695",
       "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59.  2019 module tv ",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "Medium",
       "assignee": "devaraj",
       "platform": "LG_TV",
       "created": "2026-03-19",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2662",
+      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "SAM_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2750",
+      "summary": "The app displays a different city instead of the selected one.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-27",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2698",
+      "summary": "(Tamanna) - Fliqs creator cover banner getting blur and wrong dimension.",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-20",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1654",
+      "summary": "Genre Rule not working : Kaltura",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Kaltura",
+      "created": "2026-01-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2664",
+      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Highest",
+      "assignee": "avinash waghmare",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-16",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2732",
+      "summary": "UPI Intent - Android",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-25",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -309,20 +421,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-16",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2745",
       "summary": "SonyLIV content not playable for DTH user on first-time login to VZY despite having active DTH Watcho add\u2011on",
       "status": "Open",
@@ -330,20 +428,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ATV",
       "created": "2026-03-26",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2736",
-      "summary": "Logo of Times Play is not visible",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-25",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1177,20 +1261,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2662",
-      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "SAM_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2285",
       "summary": "TV: Blank screen observed when forwarding video while audio continues to play (Intermittent)",
       "status": "Closed",
@@ -1535,34 +1605,6 @@
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2664",
-      "summary": "LG Samsung - Multiple channel banners are cropped from the top and bottom",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Highest",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-16",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2698",
-      "summary": "(Tamanna) - Fliqs creator cover banner getting blur and wrong dimension.",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "avinash waghmare",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-20",
-      "updated": "2026-03-22",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -8044,20 +8086,6 @@
       "assignee": "Javed Ali",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-02-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1654",
-      "summary": "Genre Rule not working : Kaltura",
-      "status": "Onhold-For Tech Dependency",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Kaltura",
-      "created": "2026-01-13",
       "updated": "2026-02-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27331,6 +27359,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-1928",
+      "summary": "Shorts Tv Integration",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-03",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1870",
+      "summary": "Branch Event Integration for VZY",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-28",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2213",
+      "summary": "Fliqs Report \u2013 Dashboard Availability",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS",
+      "created": "2026-02-24",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2493",
       "summary": "A different / custom thank you page is shown for subscription orders",
       "status": "Closed",
@@ -27863,20 +27933,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2213",
-      "summary": "Fliqs Report \u2013 Dashboard Availability",
-      "status": "On Hold- For Clarification",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS",
-      "created": "2026-02-24",
-      "updated": "2026-03-18",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2403",
       "summary": "Play Flix CP integration",
       "status": "Ready For Test",
@@ -28129,20 +28185,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1870",
-      "summary": "Branch Event Integration for VZY",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-01-28",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1926",
       "summary": "Aoo NXT Integration",
       "status": "In Progress",
@@ -28192,20 +28234,6 @@
       "assignee": "Amudha Kaliamoorthi",
       "platform": "ANDROID",
       "created": "2026-02-26",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1928",
-      "summary": "Shorts Tv Integration",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "ATV",
-      "created": "2026-02-03",
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34693,33 +34721,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1542,
-      "tasks": 317,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1877
-    },
-    "devaraj": {
+    "shadab Hussain": {
       "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
-    },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 18,
+      "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 40
-    },
-    "Suyog Lanje": {
-      "bugs": 6,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
+      "total": 12
     },
     "Ajay Kushwaha": {
       "bugs": 14,
@@ -34728,19 +34735,61 @@
       "stories": 0,
       "total": 18
     },
+    "vzyfeedback": {
+      "bugs": 1542,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1879
+    },
+    "Akash Kushwaha": {
+      "bugs": 29,
+      "tasks": 2,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 32
+    },
+    "devaraj": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 11
+    },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Dinjit Dinesh": {
+      "bugs": 22,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
+    "avinash waghmare": {
+      "bugs": 2,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
+    "Suyog Lanje": {
+      "bugs": 6,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
     "Javed Ali": {
       "bugs": 37,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
       "total": 43
-    },
-    "Akash Kushwaha": {
-      "bugs": 28,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 31
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34770,13 +34819,6 @@
       "stories": 1,
       "total": 14
     },
-    "shadab Hussain": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Yashika Krishnani": {
       "bugs": 8,
       "tasks": 1,
@@ -34791,13 +34833,6 @@
       "stories": 0,
       "total": 24
     },
-    "avinash waghmare": {
-      "bugs": 2,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
       "tasks": 16,
@@ -34807,10 +34842,10 @@
     },
     "Vikas Mishra": {
       "bugs": 39,
-      "tasks": 3,
+      "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 42
+      "total": 41
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -34825,13 +34860,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 15
-    },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
     },
     "Alok Gupta": {
       "bugs": 16,
@@ -34961,12 +34989,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 396,
-    "Medium": 920,
     "High": 577,
+    "Highest": 398,
+    "Medium": 920,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T05:51:18Z",
-  "total_issues": 2494
+  "updated_at": "2026-03-27T07:35:43Z",
+  "total_issues": 2496
 }
