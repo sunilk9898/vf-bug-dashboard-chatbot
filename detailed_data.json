@@ -1,16 +1,142 @@
 {
   "bugs": [
     {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-16",
+      "key": "VF-2627",
+      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "Mobile",
+      "created": "2026-03-13",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2481",
+      "summary": "Long time to load",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2482",
+      "summary": "CTA is taking long time to appear ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-10",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2748",
+      "summary": "(Shivani) - On home page banners are not showing",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2526",
+      "summary": "Spacing at top in Carousel banner",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2419",
+      "summary": "Clevertap In App Redirection not working ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2418",
+      "summary": "Clevertap  Push Notification permission not coming ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-06",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2277",
+      "summary": "Content player and playback",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -19,9 +145,93 @@
       "summary": "Logo of Times Play is not visible",
       "status": "Issue Accepted",
       "priority": "Highest",
-      "assignee": "Ajay Kushwaha",
+      "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-25",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2374",
+      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-27",
+      "duedate": "2026-03-05",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2276",
+      "summary": "CD page top nav",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2400",
+      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-27",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2279",
+      "summary": "Search functionality",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-25",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2212",
+      "summary": "Carousel banner images",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-24",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-16",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -205,20 +415,6 @@
       "platform": "ANDROID",
       "created": "2026-03-11",
       "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2748",
-      "summary": "(Shivani) - On home page banners are not showing",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-26",
-      "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -1583,20 +1779,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2400",
-      "summary": "(Shivani) - After sharing the content on another platform, I tried opening the same shared link. However, on clicking the link, I am being redirected to the Home page instead of the respective content page.",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-27",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2640",
       "summary": "Mobile : View Details option in Continue Watching plays the movie instead of showing details.",
       "status": "Closed",
@@ -1605,48 +1787,6 @@
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2627",
-      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-22",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2526",
-      "summary": "Spacing at top in Carousel banner",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -2493,20 +2633,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2589",
       "summary": "Mobile: Application displays blank page on launch",
       "status": "Dev Complete",
@@ -3144,34 +3270,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-09",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2482",
-      "summary": "CTA is taking long time to appear ",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2481",
-      "summary": "Long time to load",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-10",
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
@@ -4341,20 +4439,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2277",
-      "summary": "Content player and playback",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2554",
       "summary": "TV: All episodes in the series \u201cDebt to the Sea\u201d display the same title and description.",
       "status": "Invalid",
@@ -4463,20 +4547,6 @@
       "updated": "2026-03-12",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2419",
-      "summary": "Clevertap In App Redirection not working ",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -4845,20 +4915,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2276",
-      "summary": "CD page top nav",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-12",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2422",
       "summary": "Login Redirection Issue",
       "status": "Closed",
@@ -5153,20 +5209,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2279",
-      "summary": "Search functionality",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-25",
-      "updated": "2026-03-11",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2469",
       "summary": "(Shivani) The channel logo is different inside the channel, and within the content section, the logo sometimes appears and sometimes does not show at all.",
       "status": "Closed",
@@ -5286,20 +5328,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-02-25",
-      "updated": "2026-03-10",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2418",
-      "summary": "Clevertap  Push Notification permission not coming ",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-06",
       "updated": "2026-03-10",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -5629,20 +5657,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2374",
-      "summary": "Mobile: Incorrect video quality selection \u2014 SD (576p) gets selected when Full HD (1080p) is chosen",
-      "status": "Closed",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
-      "updated": "2026-03-06",
-      "duedate": "2026-03-05",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2302",
       "summary": "Web--Next Episode\" button is not functioning as expected",
       "status": "Closed",
@@ -5737,20 +5751,6 @@
       "updated": "2026-03-05",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2212",
-      "summary": "Carousel banner images",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-24",
-      "updated": "2026-03-05",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -27359,6 +27359,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-637",
+      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2025-11-25",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2213",
+      "summary": "Fliqs Report \u2013 Dashboard Availability",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS",
+      "created": "2026-02-24",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1928",
       "summary": "Shorts Tv Integration",
       "status": "Ready For Test",
@@ -27380,20 +27408,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-01-28",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2213",
-      "summary": "Fliqs Report \u2013 Dashboard Availability",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS",
-      "created": "2026-02-24",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27576,20 +27590,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-10",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-637",
-      "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2025-11-25",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
@@ -34665,15 +34665,30 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "In Progress": 10,
+        "Closed": 64,
         "Ready For Test": 7,
         "Testing On hold": 3,
-        "Closed": 64,
         "Reopened": 2,
-        "In Progress": 10,
         "In Review": 1,
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
+      }
+    },
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Dev Complete": 2,
+        "Closed": 187,
+        "Reopened": 1,
+        "Ready For Test": 4,
+        "Testing On hold": 1,
+        "Invalid": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -34686,21 +34701,6 @@
         "Ready For Test": 5,
         "Closed": 43,
         "Reopened": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Closed": 187,
-        "Reopened": 1,
-        "Dev Complete": 2,
-        "Ready For Test": 4,
-        "Testing On hold": 1,
-        "Invalid": 1
       }
     },
     "VZY Sprint (31 March 2026)": {
@@ -34721,6 +34721,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
+    "Javed Ali": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 43
+    },
+    "vzyfeedback": {
+      "bugs": 1544,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1881
+    },
+    "Dinjit Dinesh": {
+      "bugs": 22,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
     "shadab Hussain": {
       "bugs": 8,
       "tasks": 4,
@@ -34728,26 +34756,12 @@
       "stories": 0,
       "total": 12
     },
-    "Ajay Kushwaha": {
-      "bugs": 14,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 18
-    },
-    "vzyfeedback": {
-      "bugs": 1542,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1879
-    },
     "Akash Kushwaha": {
-      "bugs": 29,
+      "bugs": 28,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 32
+      "total": 31
     },
     "devaraj": {
       "bugs": 8,
@@ -34763,13 +34777,6 @@
       "stories": 0,
       "total": 7
     },
-    "Dinjit Dinesh": {
-      "bugs": 22,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
     "avinash waghmare": {
       "bugs": 2,
       "tasks": 3,
@@ -34784,12 +34791,12 @@
       "stories": 0,
       "total": 15
     },
-    "Javed Ali": {
-      "bugs": 37,
-      "tasks": 3,
-      "subtasks": 3,
+    "Ajay Kushwaha": {
+      "bugs": 13,
+      "tasks": 4,
+      "subtasks": 0,
       "stories": 0,
-      "total": 43
+      "total": 17
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34860,13 +34867,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 15
-    },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
     },
     "abhilash.ramesh": {
       "bugs": 11,
@@ -34989,12 +34989,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 920,
     "High": 577,
     "Highest": 398,
-    "Medium": 920,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T07:35:43Z",
+  "updated_at": "2026-03-27T09:08:58Z",
   "total_issues": 2496
 }
