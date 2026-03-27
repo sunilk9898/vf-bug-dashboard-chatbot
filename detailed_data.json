@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2644",
+      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2604",
+      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2630",
+      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2627",
+      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2593",
       "summary": "Mobile: Home page is not loading after opening the application.",
       "status": "Ready For Test",
@@ -218,20 +274,6 @@
       "assignee": "kamaldeeps",
       "platform": "IOS",
       "created": "2026-03-19",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2627",
-      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1723,20 +1765,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2630",
-      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
-      "status": "Dev Complete",
-      "priority": "Low",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2635",
       "summary": "Mobile: \u201cYou are back\u201d message partially hidden after switching network.",
       "status": "Closed",
@@ -2584,34 +2612,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-23",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2644",
-      "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2604",
-      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34734,19 +34734,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1549,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1886
-    },
     "Javed Ali": {
-      "bugs": 36,
+      "bugs": 35,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
-      "total": 42
+      "total": 41
+    },
+    "vzyfeedback": {
+      "bugs": 1552,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1889
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -34791,11 +34791,11 @@
       "total": 19
     },
     "Alok Gupta": {
-      "bugs": 16,
+      "bugs": 15,
       "tasks": 6,
       "subtasks": 0,
       "stories": 0,
-      "total": 22
+      "total": 21
     },
     "Akash Kushwaha": {
       "bugs": 27,
@@ -34840,11 +34840,11 @@
       "total": 14
     },
     "Yashika Krishnani": {
-      "bugs": 8,
+      "bugs": 7,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
-      "total": 9
+      "total": 8
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -35004,10 +35004,10 @@
   "priority_breakdown": {
     "High": 577,
     "Medium": 920,
-    "Highest": 398,
     "Low": 57,
+    "Highest": 398,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T17:11:19Z",
+  "updated_at": "2026-03-27T18:05:07Z",
   "total_issues": 2497
 }
