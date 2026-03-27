@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel/Content banner description text",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Aditya Shrivastava",
+      "platform": "LG_TV",
+      "created": "2026-03-10",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2661",
+      "summary": "LG and Samsung TV - Trailer not playing ",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2704",
+      "summary": "Kids profile settings",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-20",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2585",
+      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-02-03",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2392",
       "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
       "status": "Closed",
@@ -25,20 +123,6 @@
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -78,20 +162,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-26",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2585",
-      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-13",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -533,20 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2707",
       "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
       "status": "In Progress",
@@ -869,20 +925,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2704",
-      "summary": "Kids profile settings",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-20",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2534",
       "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
       "status": "In Progress",
@@ -1033,20 +1075,6 @@
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1310,20 +1338,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-18",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel/Content banner description text",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-03-10",
       "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1632,20 +1646,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-03-20",
-      "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2661",
-      "summary": "LG and Samsung TV - Trailer not playing ",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-16",
       "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27359,6 +27359,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-1971",
+      "summary": "Parameter need to pass from VZY to plan & offer",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Suyog Lanje",
+      "platform": "ATV",
+      "created": "2026-02-04",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-898",
       "summary": "(Awadhesh) VZY Mobile Website Performance < 90%",
       "status": "In Progress",
@@ -27761,20 +27775,6 @@
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1971",
-      "summary": "Parameter need to pass from VZY to plan & offer",
-      "status": "In Review",
-      "priority": "Medium",
-      "assignee": "Suyog Lanje",
-      "platform": "ATV",
-      "created": "2026-02-04",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -34679,12 +34679,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
+        "Ready For Test": 9,
         "Reopened": 2,
         "Closed": 64,
         "In Progress": 10,
-        "Ready For Test": 7,
-        "Testing On hold": 3,
-        "In Review": 1,
+        "Testing On hold": 2,
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
@@ -34735,6 +34734,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1547,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1884
+    },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 17,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
+    },
+    "Suyog Lanje": {
+      "bugs": 6,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -34742,26 +34769,12 @@
       "stories": 0,
       "total": 19
     },
-    "vzyfeedback": {
-      "bugs": 1546,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1883
-    },
     "kamaldeeps": {
       "bugs": 5,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -34805,33 +34818,12 @@
       "stories": 0,
       "total": 11
     },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "avinash waghmare": {
       "bugs": 2,
       "tasks": 3,
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "Suyog Lanje": {
-      "bugs": 6,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 17,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
     },
     "Srinidhi.Raju": {
       "bugs": 2,
@@ -34860,6 +34852,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 16
+    },
+    "BalaKumar": {
+      "bugs": 14,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 23
     },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
@@ -35003,12 +35002,12 @@
     }
   },
   "priority_breakdown": {
-    "Low": 57,
-    "Medium": 920,
-    "Highest": 398,
     "High": 577,
+    "Highest": 398,
+    "Medium": 920,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T13:43:33Z",
+  "updated_at": "2026-03-27T15:09:39Z",
   "total_issues": 2497
 }
