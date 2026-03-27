@@ -27359,20 +27359,6 @@
   ],
   "tasks": [
     {
-      "key": "VF-593",
-      "summary": "UXCam integration instead of Clarity",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-03-27",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-898",
       "summary": "(Awadhesh) VZY Mobile Website Performance < 90%",
       "status": "In Progress",
@@ -27383,6 +27369,20 @@
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-593",
+      "summary": "UXCam integration instead of Clarity",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-03-27",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
     },
@@ -34735,19 +34735,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1546,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1883
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
       "total": 19
+    },
+    "vzyfeedback": {
+      "bugs": 1546,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1883
     },
     "kamaldeeps": {
       "bugs": 5,
@@ -35009,6 +35009,6 @@
     "High": 577,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T11:56:40Z",
+  "updated_at": "2026-03-27T13:43:33Z",
   "total_issues": 2497
 }
