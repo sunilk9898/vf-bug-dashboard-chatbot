@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2585",
+      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2747",
+      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2627",
       "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
       "status": "Dev Complete",
@@ -421,20 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2747",
-      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-03-26",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2546",
       "summary": "Clevertap In App Redirection not working for iOS",
       "status": "Closed",
@@ -652,20 +680,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-03-26",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2585",
-      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "BalaKumar",
-      "platform": "WEB",
-      "created": "2026-03-13",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1019,20 +1033,6 @@
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2694",
-      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-19",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -27359,6 +27359,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2752",
+      "summary": "next Episode API handling",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-27",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-637",
       "summary": "Survey Pop-ups for Content / App Expereinces feedback ",
       "status": "In Progress",
@@ -34721,6 +34735,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "BalaKumar": {
+      "bugs": 15,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 24
+    },
+    "vzyfeedback": {
+      "bugs": 1545,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1882
+    },
+    "shadab Hussain": {
+      "bugs": 8,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
     "Alok Gupta": {
       "bugs": 16,
       "tasks": 6,
@@ -34735,13 +34777,6 @@
       "stories": 0,
       "total": 43
     },
-    "vzyfeedback": {
-      "bugs": 1544,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1881
-    },
     "Dinjit Dinesh": {
       "bugs": 22,
       "tasks": 17,
@@ -34749,19 +34784,12 @@
       "stories": 0,
       "total": 40
     },
-    "shadab Hussain": {
-      "bugs": 8,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
-    },
     "Akash Kushwaha": {
-      "bugs": 28,
+      "bugs": 27,
       "tasks": 2,
       "subtasks": 1,
       "stories": 0,
-      "total": 31
+      "total": 30
     },
     "devaraj": {
       "bugs": 8,
@@ -34798,13 +34826,6 @@
       "stories": 0,
       "total": 17
     },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
-    },
     "Amit Kumar Tiwari": {
       "bugs": 17,
       "tasks": 5,
@@ -34832,13 +34853,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "BalaKumar": {
-      "bugs": 15,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 24
     },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
@@ -34989,12 +35003,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 920,
     "High": 577,
+    "Medium": 920,
     "Highest": 398,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T09:08:58Z",
-  "total_issues": 2496
+  "updated_at": "2026-03-27T10:07:06Z",
+  "total_issues": 2497
 }
