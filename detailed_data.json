@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2392",
+      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-02-26",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2743",
       "summary": "Unwanted blank space",
       "status": "OnHold-For Vivre Setup",
@@ -1842,20 +1856,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-18",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2392",
-      "summary": "Mobile: clicking any third-party OTT application link within the Terms of Service page results in an error message.",
-      "status": "Closed",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-02-26",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -35003,12 +35003,12 @@
     }
   },
   "priority_breakdown": {
+    "Low": 57,
     "Medium": 920,
     "Highest": 398,
     "High": 577,
-    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T11:07:37Z",
+  "updated_at": "2026-03-27T11:56:40Z",
   "total_issues": 2497
 }
