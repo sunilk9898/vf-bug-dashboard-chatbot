@@ -1,6 +1,48 @@
 {
   "bugs": [
     {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2589",
+      "summary": "Mobile: Application displays blank page on launch",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2668",
       "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
       "status": "Dev Complete",
@@ -197,20 +239,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2481",
       "summary": "Long time to load",
       "status": "Closed",
@@ -291,20 +319,6 @@
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -2626,20 +2640,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-26",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2589",
-      "summary": "Mobile: Application displays blank page on launch",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34672,6 +34672,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Ready For Test": 5,
+        "Closed": 187,
+        "Reopened": 1,
+        "Dev Complete": 1,
+        "Testing On hold": 1,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34687,21 +34702,6 @@
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Closed": 187,
-        "Dev Complete": 2,
-        "Reopened": 1,
-        "Ready For Test": 4,
-        "Testing On hold": 1,
-        "Invalid": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -34734,6 +34734,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1549,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1886
+    },
+    "Javed Ali": {
+      "bugs": 36,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 42
+    },
     "shadab Hussain": {
       "bugs": 7,
       "tasks": 5,
@@ -34747,13 +34761,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "vzyfeedback": {
-      "bugs": 1547,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1884
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -34790,20 +34797,6 @@
       "stories": 0,
       "total": 22
     },
-    "Javed Ali": {
-      "bugs": 37,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 43
-    },
-    "Dinjit Dinesh": {
-      "bugs": 22,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
     "Akash Kushwaha": {
       "bugs": 27,
       "tasks": 2,
@@ -34817,6 +34810,13 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
     },
     "avinash waghmare": {
       "bugs": 2,
@@ -35003,11 +35003,11 @@
   },
   "priority_breakdown": {
     "High": 577,
-    "Highest": 398,
     "Medium": 920,
+    "Highest": 398,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T16:07:23Z",
+  "updated_at": "2026-03-27T17:11:19Z",
   "total_issues": 2497
 }
