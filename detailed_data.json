@@ -1,13 +1,55 @@
 {
   "bugs": [
     {
-      "key": "VF-2585",
-      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "BalaKumar",
+      "key": "VF-2743",
+      "summary": "Unwanted blank space",
+      "status": "OnHold-For Vivre Setup",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-26",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1910",
+      "summary": "Mweb rail Config",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-03-13",
+      "created": "2026-02-03",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2748",
+      "summary": "(Shivani) - On home page banners are not showing",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-26",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -22,6 +64,20 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-26",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2585",
+      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "BalaKumar",
+      "platform": "WEB",
+      "created": "2026-03-13",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -92,20 +148,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-10",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2748",
-      "summary": "(Shivani) - On home page banners are not showing",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-26",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -267,20 +309,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-16",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2751",
       "summary": "Parasite (Korean) movie not appearing in search results on multiple Android devices",
       "status": "Open",
@@ -413,20 +441,6 @@
       "priority": "Medium",
       "assignee": "Suyog Lanje",
       "platform": "IOS",
-      "created": "2026-03-26",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2743",
-      "summary": "Unwanted blank space",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "ANDROID",
       "created": "2026-03-26",
       "updated": "2026-03-27",
       "duedate": "",
@@ -907,20 +921,6 @@
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1910",
-      "summary": "Mweb rail Config",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-02-03",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -27359,6 +27359,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-593",
+      "summary": "UXCam integration instead of Clarity",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2025-11-18",
+      "updated": "2026-03-27",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-898",
+      "summary": "(Awadhesh) VZY Mobile Website Performance < 90%",
+      "status": "In Progress",
+      "priority": "Highest",
+      "assignee": "Rajkumar A",
+      "platform": "Mobile",
+      "created": "2025-12-03",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-818",
+      "summary": "Playback / Player\tListing of Episodes",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2025-11-28",
+      "updated": "2026-03-27",
+      "duedate": "2026-01-30",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2752",
       "summary": "next Episode API handling",
       "status": "Dev Complete",
@@ -27779,20 +27821,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-593",
-      "summary": "UXCam integration instead of Clarity",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2025-11-18",
-      "updated": "2026-03-19",
-      "duedate": "2026-01-30",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1944",
       "summary": "Tarang Plus CP",
       "status": "Ready For Test",
@@ -27816,20 +27844,6 @@
       "created": "2026-02-10",
       "updated": "2026-03-19",
       "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-818",
-      "summary": "Playback / Player\tListing of Episodes",
-      "status": "Closed",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2025-11-28",
-      "updated": "2026-03-19",
-      "duedate": "2026-01-30",
       "sprint": "VZY Sprint (16 March 2026)",
       "type": "Task",
       "fixversion": ""
@@ -30263,20 +30277,6 @@
       "priority": "Highest",
       "assignee": "Rajkumar A",
       "platform": "WEB",
-      "created": "2025-12-03",
-      "updated": "2026-01-29",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-898",
-      "summary": "(Awadhesh) VZY Mobile Website Performance < 90%",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Rajkumar A",
-      "platform": "Mobile",
       "created": "2025-12-03",
       "updated": "2026-01-29",
       "duedate": "",
@@ -34679,11 +34679,11 @@
       "stories": 0,
       "total": 91,
       "statuses": {
-        "In Progress": 10,
+        "Reopened": 2,
         "Closed": 64,
+        "In Progress": 10,
         "Ready For Test": 7,
         "Testing On hold": 3,
-        "Reopened": 2,
         "In Review": 1,
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
@@ -34697,8 +34697,8 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Dev Complete": 2,
         "Closed": 187,
+        "Dev Complete": 2,
         "Reopened": 1,
         "Ready For Test": 4,
         "Testing On hold": 1,
@@ -34735,6 +34735,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1546,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1883
+    },
+    "Rajkumar A": {
+      "bugs": 3,
+      "tasks": 16,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 19
+    },
+    "kamaldeeps": {
+      "bugs": 5,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
     "BalaKumar": {
       "bugs": 15,
       "tasks": 8,
@@ -34742,26 +34763,12 @@
       "stories": 0,
       "total": 24
     },
-    "vzyfeedback": {
-      "bugs": 1545,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1882
-    },
     "shadab Hussain": {
-      "bugs": 8,
+      "bugs": 7,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 13
-    },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
+      "total": 12
     },
     "Alok Gupta": {
       "bugs": 16,
@@ -34819,13 +34826,6 @@
       "stories": 0,
       "total": 15
     },
-    "Ajay Kushwaha": {
-      "bugs": 13,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 17
-    },
     "Amit Kumar Tiwari": {
       "bugs": 17,
       "tasks": 5,
@@ -34853,6 +34853,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
     },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
@@ -34888,13 +34895,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Rajkumar A": {
-      "bugs": 3,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 19
     },
     "Shubham Chauhan": {
       "bugs": 14,
@@ -35003,12 +35003,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 577,
     "Medium": 920,
     "Highest": 398,
+    "High": 577,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T10:07:06Z",
+  "updated_at": "2026-03-27T11:07:37Z",
   "total_issues": 2497
 }

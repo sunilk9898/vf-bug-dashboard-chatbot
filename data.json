@@ -5,11 +5,11 @@
       "IN PROGRESS": 0,
       "REOPENED": 3,
       "IN REVIEW": 0,
-      "ISSUE ACCEPTED": 3,
+      "ISSUE ACCEPTED": 2,
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 4,
+      "OPEN": 3,
       "IN PROGRESS": 5,
       "REOPENED": 1,
       "IN REVIEW": 0,
@@ -50,7 +50,7 @@
     },
     "IOS": {
       "OPEN": 0,
-      "IN PROGRESS": 1,
+      "IN PROGRESS": 0,
       "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 1,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-03-27T10:07:06Z",
+  "updated_at": "2026-03-27T11:07:37Z",
   "total_issues_fetched": 2497,
   "project": "VF"
 }
