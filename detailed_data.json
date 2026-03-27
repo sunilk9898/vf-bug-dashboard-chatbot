@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "Ready For Test",
@@ -120,20 +134,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-26",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-16",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27359,6 +27359,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2752",
+      "summary": "next Episode API handling",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-03-27",
+      "updated": "2026-03-27",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1971",
       "summary": "Parameter need to pass from VZY to plan & offer",
       "status": "Ready For Test",
@@ -27411,20 +27425,6 @@
       "updated": "2026-03-27",
       "duedate": "2026-01-30",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2752",
-      "summary": "next Episode API handling",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "shadab Hussain",
-      "platform": "IOS",
-      "created": "2026-03-27",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -34734,6 +34734,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "shadab Hussain": {
+      "bugs": 7,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 12
+    },
+    "kamaldeeps": {
+      "bugs": 5,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
     "vzyfeedback": {
       "bugs": 1547,
       "tasks": 319,
@@ -34768,20 +34782,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "kamaldeeps": {
-      "bugs": 5,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
-    },
-    "shadab Hussain": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Alok Gupta": {
       "bugs": 16,
@@ -35008,6 +35008,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-27T15:09:39Z",
+  "updated_at": "2026-03-27T16:07:23Z",
   "total_issues": 2497
 }
