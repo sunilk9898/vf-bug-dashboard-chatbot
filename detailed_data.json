@@ -1,13 +1,13 @@
 {
   "bugs": [
     {
-      "key": "VF-2710",
-      "summary": "Squished VZY favicon",
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
       "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "vzyfeedback",
+      "assignee": "Vikas Mishra",
       "platform": "WEB",
-      "created": "2026-03-23",
+      "created": "2026-01-09",
       "updated": "2026-03-28",
       "duedate": "",
       "sprint": "No Sprint",
@@ -15,13 +15,13 @@
       "fixversion": ""
     },
     {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
-      "status": "Issue Accepted",
+      "key": "VF-2710",
+      "summary": "Squished VZY favicon",
+      "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "Namrata Kurariya",
+      "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-01-09",
+      "created": "2026-03-23",
       "updated": "2026-03-28",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34748,19 +34748,19 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
+    },
     "vzyfeedback": {
       "bugs": 1555,
       "tasks": 319,
       "subtasks": 12,
       "stories": 0,
       "total": 1892
-    },
-    "Namrata Kurariya": {
-      "bugs": 7,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34888,13 +34888,6 @@
       "stories": 0,
       "total": 39
     },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
     "Karan Mahboobani": {
       "bugs": 7,
       "tasks": 1,
@@ -34922,6 +34915,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
+    },
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Unassigned": {
       "bugs": 73,
@@ -35022,6 +35022,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-28T16:52:11Z",
+  "updated_at": "2026-03-28T17:46:41Z",
   "total_issues": 2498
 }
