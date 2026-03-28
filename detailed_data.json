@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2710",
+      "summary": "Squished VZY favicon",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
+      "platform": "WEB",
+      "created": "2026-01-09",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2749",
+      "summary": "Error message on Video quality change",
+      "status": "Not Reproducible",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-27",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2750",
+      "summary": "The app displays a different city instead of the selected one.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-27",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2688",
       "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
       "status": "On Hold- For Clarification",
@@ -295,20 +365,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2694",
-      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-19",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2481",
       "summary": "Long time to load",
       "status": "Closed",
@@ -519,20 +575,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2750",
-      "summary": "The app displays a different city instead of the selected one.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-27",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2698",
       "summary": "(Tamanna) - Fliqs creator cover banner getting blur and wrong dimension.",
       "status": "OnHold-For Vivre Setup",
@@ -582,20 +624,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-25",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2749",
-      "summary": "Error message on Video quality change",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Dinjit Dinesh",
-      "platform": "WEB",
-      "created": "2026-03-27",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1149,20 +1177,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2710",
-      "summary": "Squished VZY favicon",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Ajay Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-23",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2731",
       "summary": "2:3 carousel behaviour on launch",
       "status": "Open",
@@ -1254,20 +1268,6 @@
       "assignee": "Amudha Kaliamoorthi",
       "platform": "ANDROID",
       "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-01-09",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34748,6 +34748,34 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1555,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1892
+    },
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
     "Suyog Lanje": {
       "bugs": 6,
       "tasks": 8,
@@ -34768,20 +34796,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 21
-    },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
-    "vzyfeedback": {
-      "bugs": 1553,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1890
     },
     "Javed Ali": {
       "bugs": 35,
@@ -34817,13 +34831,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
     },
     "Akash Kushwaha": {
       "bugs": 27,
@@ -34861,11 +34868,11 @@
       "total": 14
     },
     "Ajay Kushwaha": {
-      "bugs": 12,
+      "bugs": 11,
       "tasks": 4,
       "subtasks": 0,
       "stories": 0,
-      "total": 16
+      "total": 15
     },
     "BalaKumar": {
       "bugs": 14,
@@ -34882,11 +34889,11 @@
       "total": 39
     },
     "Vikas Mishra": {
-      "bugs": 39,
+      "bugs": 38,
       "tasks": 2,
       "subtasks": 0,
       "stories": 0,
-      "total": 41
+      "total": 40
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -34915,13 +34922,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Namrata Kurariya": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Unassigned": {
       "bugs": 73,
@@ -35016,12 +35016,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 577,
     "Medium": 920,
-    "Low": 57,
     "Highest": 398,
+    "High": 577,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-28T15:47:13Z",
+  "updated_at": "2026-03-28T16:52:11Z",
   "total_issues": 2498
 }
