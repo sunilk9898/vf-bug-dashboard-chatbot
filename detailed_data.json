@@ -3,7 +3,7 @@
     {
       "key": "VF-2688",
       "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
-      "status": "Open",
+      "status": "On Hold- For Clarification",
       "priority": "High",
       "assignee": "Suyog Lanje",
       "platform": "ANDROID",
@@ -35022,6 +35022,6 @@
     "Highest": 398,
     "Lowest": 2
   },
-  "updated_at": "2026-03-28T11:42:36Z",
+  "updated_at": "2026-03-28T13:19:43Z",
   "total_issues": 2498
 }
