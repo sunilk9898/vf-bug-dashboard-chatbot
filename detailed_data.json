@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2688",
+      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Suyog Lanje",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2692",
       "summary": "Clevertap android anonymous user journey get breaks ",
       "status": "Closed",
@@ -1857,20 +1871,6 @@
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-23",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2688",
-      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -34748,6 +34748,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Suyog Lanje": {
+      "bugs": 6,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 15
+    },
     "Yashika Krishnani": {
       "bugs": 7,
       "tasks": 1,
@@ -34803,13 +34810,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 25
-    },
-    "Suyog Lanje": {
-      "bugs": 6,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
     },
     "Rajkumar A": {
       "bugs": 3,
@@ -35016,12 +35016,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 920,
     "High": 577,
+    "Medium": 920,
     "Low": 57,
     "Highest": 398,
     "Lowest": 2
   },
-  "updated_at": "2026-03-28T10:51:39Z",
+  "updated_at": "2026-03-28T11:42:36Z",
   "total_issues": 2498
 }
