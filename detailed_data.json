@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2692",
+      "summary": "Clevertap android anonymous user journey get breaks ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2668",
       "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
       "status": "Testing On hold",
@@ -2654,20 +2668,6 @@
       "assignee": "vzyfeedback",
       "platform": "Unknown",
       "created": "2026-03-06",
-      "updated": "2026-03-20",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2692",
-      "summary": "Clevertap android anonymous user journey get breaks ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-20",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27359,6 +27359,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2753",
+      "summary": "Fliqs Events for GTM/Firebase",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-28",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2752",
       "summary": "next Episode API handling",
       "status": "Dev Complete",
@@ -34734,6 +34748,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Alok Gupta": {
+      "bugs": 15,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 21
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
     "vzyfeedback": {
       "bugs": 1553,
       "tasks": 319,
@@ -34790,13 +34818,6 @@
       "stories": 0,
       "total": 4
     },
-    "Alok Gupta": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
-    },
     "Akash Kushwaha": {
       "bugs": 27,
       "tasks": 2,
@@ -34810,13 +34831,6 @@
       "subtasks": 2,
       "stories": 0,
       "total": 11
-    },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "avinash waghmare": {
       "bugs": 2,
@@ -35002,12 +35016,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 577,
     "Medium": 920,
+    "High": 577,
     "Low": 57,
     "Highest": 398,
     "Lowest": 2
   },
-  "updated_at": "2026-03-28T05:35:50Z",
-  "total_issues": 2497
+  "updated_at": "2026-03-28T07:14:35Z",
+  "total_issues": 2498
 }
