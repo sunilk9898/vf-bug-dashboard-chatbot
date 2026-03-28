@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-28",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2644",
       "summary": "Mobile: After refreshing the FLiqs page, the user is automatically navigated to the Series category, and when the Back button is clicked, the user is redirected to the Application Home page instead of the FLiqs page.",
       "status": "Dev Complete",
@@ -95,20 +109,6 @@
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-16",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34734,6 +34734,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1553,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1890
+    },
     "Javed Ali": {
       "bugs": 35,
       "tasks": 3,
@@ -34741,26 +34748,12 @@
       "stories": 0,
       "total": 41
     },
-    "vzyfeedback": {
-      "bugs": 1552,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1889
-    },
     "shadab Hussain": {
       "bugs": 7,
       "tasks": 5,
       "subtasks": 0,
       "stories": 0,
       "total": 12
-    },
-    "kamaldeeps": {
-      "bugs": 5,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 5
     },
     "Aditya Shrivastava": {
       "bugs": 2,
@@ -34789,6 +34782,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 19
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
     },
     "Alok Gupta": {
       "bugs": 15,
@@ -35008,6 +35008,6 @@
     "Highest": 398,
     "Lowest": 2
   },
-  "updated_at": "2026-03-28T03:16:43Z",
+  "updated_at": "2026-03-28T05:35:50Z",
   "total_issues": 2497
 }
