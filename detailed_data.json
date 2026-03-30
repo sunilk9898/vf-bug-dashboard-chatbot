@@ -3,11 +3,137 @@
     {
       "key": "VF-2757",
       "summary": "On LG TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
-      "status": "In Progress",
+      "status": "Dev Complete",
       "priority": "High",
       "assignee": "devaraj",
       "platform": "LG_TV",
       "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel/Content banner description text",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Aditya Shrivastava",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2758",
+      "summary": "Age Group title and description",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Srinidhi.Raju",
+      "platform": "LG_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2704",
+      "summary": "Kids profile settings",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-20",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2755",
+      "summary": "FireTV - App stuck on \u201cRemove Device\u201d screen when device limit exceeded on Fire TV",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2729",
+      "summary": "Add to watchlist in press & hold menu",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-25",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2750",
+      "summary": "The app displays a different city instead of the selected one.",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-27",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -25,20 +151,6 @@
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2755",
-      "summary": "FireTV - App stuck on \u201cRemove Device\u201d screen when device limit exceeded on Fire TV",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-30",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -281,34 +393,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2750",
-      "summary": "The app displays a different city instead of the selected one.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-27",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2734",
       "summary": "First letter of title names are not capitalized under New CP Addition",
       "status": "Closed",
@@ -358,34 +442,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-23",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2694",
-      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-19",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2729",
-      "summary": "Add to watchlist in press & hold menu",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-25",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -463,20 +519,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "Ready For Test",
@@ -487,34 +529,6 @@
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel/Content banner description text",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Aditya Shrivastava",
-      "platform": "LG_TV",
-      "created": "2026-03-10",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2704",
-      "summary": "Kids profile settings",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-20",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34742,6 +34756,21 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (27 Feb 2026)": {
+      "bugs": 185,
+      "tasks": 11,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 196,
+      "statuses": {
+        "Testing On hold": 2,
+        "Closed": 187,
+        "Reopened": 1,
+        "Dev Complete": 1,
+        "Ready For Test": 4,
+        "Invalid": 1
+      }
+    },
     "VZY Sprint (16 March 2026)": {
       "bugs": 65,
       "tasks": 26,
@@ -34757,21 +34786,6 @@
         "Invalid": 2,
         "Onhold-For Tech Dependency": 1,
         "Parked": 1
-      }
-    },
-    "VZY Sprint (27 Feb 2026)": {
-      "bugs": 185,
-      "tasks": 11,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 196,
-      "statuses": {
-        "Ready For Test": 5,
-        "Closed": 187,
-        "Reopened": 1,
-        "Dev Complete": 1,
-        "Testing On hold": 1,
-        "Invalid": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -34811,12 +34825,26 @@
       "stories": 0,
       "total": 12
     },
-    "Shubham Chauhan": {
-      "bugs": 14,
-      "tasks": 6,
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
       "subtasks": 0,
       "stories": 0,
-      "total": 20
+      "total": 7
+    },
+    "Srinidhi.Raju": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
+    "vzyfeedback": {
+      "bugs": 1557,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1894
     },
     "Amit Kumar Tiwari": {
       "bugs": 18,
@@ -34825,12 +34853,26 @@
       "stories": 0,
       "total": 26
     },
-    "vzyfeedback": {
-      "bugs": 1557,
-      "tasks": 319,
-      "subtasks": 12,
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
       "stories": 0,
-      "total": 1894
+      "total": 4
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "Shubham Chauhan": {
+      "bugs": 14,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
     },
     "Akash Kushwaha": {
       "bugs": 28,
@@ -34845,20 +34887,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 39
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
-    },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
     },
     "Namrata Kurariya": {
       "bugs": 7,
@@ -34902,13 +34930,6 @@
       "stories": 0,
       "total": 12
     },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
@@ -34922,13 +34943,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "Srinidhi.Raju": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
     },
     "Manikanta P": {
       "bugs": 5,
@@ -35074,10 +35088,10 @@
   "priority_breakdown": {
     "High": 577,
     "Highest": 400,
-    "Medium": 920,
+    "Medium": 921,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-30T08:01:44Z",
-  "total_issues": 2502
+  "updated_at": "2026-03-30T09:48:38Z",
+  "total_issues": 2503
 }
