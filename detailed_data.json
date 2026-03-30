@@ -1,6 +1,314 @@
 {
   "bugs": [
     {
+      "key": "VF-2757",
+      "summary": "On LG TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2398",
+      "summary": "Missing Viewer IDs in conviva s3 dump",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "Shubham Chauhan",
+      "platform": "ATV",
+      "created": "2026-02-27",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2755",
+      "summary": "FireTV - App stuck on \u201cRemove Device\u201d screen when device limit exceeded on Fire TV",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2585",
+      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-13",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2589",
+      "summary": "Mobile: Application displays blank page on launch",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2594",
+      "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Adaptor",
+      "created": "2026-03-13",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2604",
+      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2627",
+      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2661",
+      "summary": "LG and Samsung TV - Trailer not playing ",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-16",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2630",
+      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
+      "status": "Testing On hold",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2756",
+      "summary": "FireTV - App loading time is too high (taking more than 25 seconds)",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2710",
+      "summary": "Squished VZY favicon",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-23",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2712",
+      "summary": "Episode lisitng UI in web ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2730",
+      "summary": "Search icon clipping in search suggestions",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-25",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2678",
+      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-18",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2748",
+      "summary": "(Shivani) - On home page banners are not showing",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2725",
+      "summary": "(Tamanna) - Watch now button not clickable on playflix content.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-24",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2750",
+      "summary": "The app displays a different city instead of the selected one.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-27",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2734",
       "summary": "First letter of title names are not capitalized under New CP Addition",
       "status": "Closed",
@@ -57,48 +365,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-23",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-16",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2678",
-      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-18",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2694",
       "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
       "status": "Ready For Test",
@@ -135,34 +401,6 @@
       "platform": "WEB",
       "created": "2026-01-09",
       "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2750",
-      "summary": "The app displays a different city instead of the selected one.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-27",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2710",
-      "summary": "Squished VZY favicon",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-23",
-      "updated": "2026-03-28",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -225,76 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2604",
-      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2630",
-      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2627",
-      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2589",
-      "summary": "Mobile: Application displays blank page on launch",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2197",
       "summary": "Refresh screen functionality",
       "status": "Ready For Test",
@@ -337,20 +505,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2661",
-      "summary": "LG and Samsung TV - Trailer not playing ",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-16",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2704",
       "summary": "Kids profile settings",
       "status": "Ready For Test",
@@ -372,20 +526,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-23",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2585",
-      "summary": "Web: Keyboard forward and backward actions do not work during video playback.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-13",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -427,20 +567,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
-      "created": "2026-03-26",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2748",
-      "summary": "(Shivani) - On home page banners are not showing",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-03-26",
       "updated": "2026-03-27",
       "duedate": "",
@@ -743,20 +869,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2546",
       "summary": "Clevertap In App Redirection not working for iOS",
       "status": "Closed",
@@ -897,20 +1009,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2594",
-      "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Adaptor",
-      "created": "2026-03-13",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2745",
       "summary": "SonyLIV content not playable for DTH user on first-time login to VZY despite having active DTH Watcho add\u2011on",
       "status": "Open",
@@ -1030,34 +1128,6 @@
       "assignee": "Ajay Kushwaha",
       "platform": "WEB",
       "created": "2026-03-23",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2730",
-      "summary": "Search icon clipping in search suggestions",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-25",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2712",
-      "summary": "Episode lisitng UI in web ",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-24",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1219,20 +1289,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2697",
-      "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "Unknown",
-      "created": "2026-03-20",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2653",
       "summary": "Mobile: In Live TV, related content is not displayed when selecting any channel. ",
       "status": "Not Reproducible",
@@ -1297,20 +1353,6 @@
       "platform": "ANDROID",
       "created": "2026-03-24",
       "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2725",
-      "summary": "(Tamanna) - Watch now button not clickable on playflix content.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-24",
-      "updated": "2026-03-24",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -2769,20 +2811,6 @@
       "updated": "2026-03-19",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2398",
-      "summary": "Missing Viewer IDs in conviva s3 dump",
-      "status": "Closed",
-      "priority": "High",
-      "assignee": "Shubham Chauhan",
-      "platform": "ATV",
-      "created": "2026-02-27",
-      "updated": "2026-03-19",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -27359,6 +27387,48 @@
   ],
   "tasks": [
     {
+      "key": "VF-1026",
+      "summary": "(Shruti) Analytics: Deleted Accounts \u2013 Daily basis",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-03-30",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2697",
+      "summary": "High VSF (Video Start Failure) and increased VST (Video Start Time) observed",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "Unknown",
+      "created": "2026-03-20",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2722",
+      "summary": "Update the login banner for WEB",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-03-24",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2754",
       "summary": "(Tamanna) - Section not updated.",
       "status": "Open",
@@ -27621,20 +27691,6 @@
       "updated": "2026-03-26",
       "duedate": "2026-02-14",
       "sprint": "VZY Sprint (13 Feb 2026)",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2722",
-      "summary": "Update the login banner for WEB",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
     },
@@ -28096,20 +28152,6 @@
       "created": "2026-01-23",
       "updated": "2026-03-15",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1026",
-      "summary": "(Shruti) Analytics: Deleted Accounts \u2013 Daily basis",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2026-03-15",
-      "duedate": "2025-12-31",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -34700,6 +34742,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Reopened": 3,
+        "Ready For Test": 9,
+        "Closed": 63,
+        "In Progress": 10,
+        "Testing On hold": 2,
+        "Invalid": 2,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -34713,23 +34772,6 @@
         "Dev Complete": 1,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Ready For Test": 9,
-        "Reopened": 2,
-        "Closed": 64,
-        "In Progress": 10,
-        "Testing On hold": 2,
-        "Invalid": 2,
-        "Onhold-For Tech Dependency": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -34762,26 +34804,54 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1556,
-      "tasks": 319,
-      "subtasks": 12,
+    "devaraj": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 2,
       "stories": 0,
-      "total": 1893
+      "total": 12
+    },
+    "Shubham Chauhan": {
+      "bugs": 14,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 20
     },
     "Amit Kumar Tiwari": {
-      "bugs": 17,
+      "bugs": 18,
       "tasks": 5,
       "subtasks": 3,
       "stories": 0,
-      "total": 25
+      "total": 26
+    },
+    "vzyfeedback": {
+      "bugs": 1557,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1894
     },
     "Akash Kushwaha": {
-      "bugs": 27,
+      "bugs": 28,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
-      "total": 31
+      "total": 32
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 18,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
+    },
+    "Dinjit Dinesh": {
+      "bugs": 20,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 39
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34796,13 +34866,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 10
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Suyog Lanje": {
       "bugs": 6,
@@ -34826,11 +34889,11 @@
       "total": 21
     },
     "Javed Ali": {
-      "bugs": 34,
+      "bugs": 33,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
-      "total": 40
+      "total": 39
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -34852,13 +34915,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "devaraj": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 11
     },
     "avinash waghmare": {
       "bugs": 2,
@@ -34895,13 +34951,6 @@
       "stories": 0,
       "total": 23
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 19,
-      "tasks": 16,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
-    },
     "Vikas Mishra": {
       "bugs": 38,
       "tasks": 2,
@@ -34929,13 +34978,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
-    },
-    "Shubham Chauhan": {
-      "bugs": 14,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 20
     },
     "Unassigned": {
       "bugs": 73,
@@ -35030,12 +35072,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 920,
     "High": 577,
-    "Highest": 398,
+    "Highest": 400,
+    "Medium": 920,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-30T06:07:23Z",
-  "total_issues": 2499
+  "updated_at": "2026-03-30T08:01:44Z",
+  "total_issues": 2502
 }
