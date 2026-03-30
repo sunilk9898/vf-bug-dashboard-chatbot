@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2489",
+      "summary": "Carousel/Content banner description text",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2747",
+      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2764",
+      "summary": "(Shivani) On Samsung TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2763",
+      "summary": "FE issue : Different Carousel banners reflecting on FE.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "LG_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2762",
+      "summary": "(Tamanna) - End duration not decrease while playing the content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2761",
       "summary": "(Shivani) - Manage Profile >> Age group digit showing twice",
       "status": "Duplicate",
@@ -57,20 +155,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2747",
-      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-26",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2757",
       "summary": "On LG TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
       "status": "Dev Complete",
@@ -78,20 +162,6 @@
       "assignee": "devaraj",
       "platform": "LG_TV",
       "created": "2026-03-30",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel/Content banner description text",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Aditya Shrivastava",
-      "platform": "ATV",
-      "created": "2026-03-10",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -491,20 +561,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2707",
-      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1612",
       "summary": "Settings page side nav",
       "status": "In Progress",
@@ -585,20 +641,6 @@
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34860,6 +34902,41 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Kiran JR": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "vzyfeedback": {
+      "bugs": 1558,
+      "tasks": 319,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1895
+    },
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 35
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 17,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
+    },
     "devaraj": {
       "bugs": 12,
       "tasks": 1,
@@ -34867,47 +34944,12 @@
       "stories": 0,
       "total": 15
     },
-    "Akash Kushwaha": {
-      "bugs": 29,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 33
-    },
-    "vzyfeedback": {
-      "bugs": 1557,
-      "tasks": 319,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1894
-    },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 7
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 18,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 26
-    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "Dinjit Dinesh": {
-      "bugs": 20,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
     },
     "Shubham Chauhan": {
       "bugs": 14,
@@ -34971,6 +35013,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 19
+    },
+    "Aditya Shrivastava": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
     },
     "avinash waghmare": {
       "bugs": 2,
@@ -35063,13 +35112,6 @@
       "stories": 0,
       "total": 5
     },
-    "Kiran JR": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
-    },
     "Ranjitha br": {
       "bugs": 1,
       "tasks": 1,
@@ -35128,12 +35170,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 403,
     "High": 579,
-    "Medium": 921,
-    "Highest": 401,
+    "Medium": 922,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-30T11:19:20Z",
-  "total_issues": 2506
+  "updated_at": "2026-03-30T14:03:31Z",
+  "total_issues": 2509
 }
