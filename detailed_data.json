@@ -1,14 +1,154 @@
 {
   "bugs": [
     {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
+      "key": "VF-2734",
+      "summary": "First letter of title names are not capitalized under New CP Addition",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2737",
+      "summary": "Logo text is not readable",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2477",
+      "summary": "White Thumbnail border",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2668",
+      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-16",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2678",
+      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
       "status": "Ready For Test",
       "priority": "Medium",
-      "assignee": "Vikas Mishra",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-18",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2729",
+      "summary": "Add to watchlist in press & hold menu",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "IOS",
+      "created": "2026-03-25",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Namrata Kurariya",
       "platform": "WEB",
       "created": "2026-01-09",
-      "updated": "2026-03-28",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2750",
+      "summary": "The app displays a different city instead of the selected one.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-27",
+      "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -29,40 +169,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2694",
-      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-19",
-      "updated": "2026-03-28",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2749",
       "summary": "Error message on Video quality change",
       "status": "Not Reproducible",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "WEB",
-      "created": "2026-03-27",
-      "updated": "2026-03-28",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2750",
-      "summary": "The app displays a different city instead of the selected one.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
       "created": "2026-03-27",
       "updated": "2026-03-28",
       "duedate": "",
@@ -92,20 +204,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-03-19",
-      "updated": "2026-03-28",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2668",
-      "summary": "(Shivani) - Fliqs Creator Hub >> On clicking View All, banners are being displayed instead of channel logos. Also, when clicking on the banner, the Watch Now button appears.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-16",
       "updated": "2026-03-28",
       "duedate": "",
       "sprint": "No Sprint",
@@ -645,20 +743,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-23",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2511",
       "summary": "SARA rail",
       "status": "Ready For Test",
@@ -708,20 +792,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2707",
-      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -925,34 +995,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2734",
-      "summary": "First letter of title names are not capitalized under New CP Addition",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2737",
-      "summary": "Logo text is not readabla ",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-1430",
       "summary": "Manage Device",
       "status": "Reopened",
@@ -974,20 +1016,6 @@
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
       "created": "2026-03-24",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2729",
-      "summary": "Add to watchlist in press & hold menu",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-25",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1275,20 +1303,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2477",
-      "summary": "White Thumbnail border",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2725",
       "summary": "(Tamanna) - Watch now button not clickable on playflix content.",
       "status": "Ready For Test",
@@ -1451,20 +1465,6 @@
       "platform": "IOS",
       "created": "2025-11-04",
       "updated": "2026-03-24",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2678",
-      "summary": "(Tamanna) - CP logos are not showing on Watch live section.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "IOS",
-      "created": "2026-03-18",
-      "updated": "2026-03-23",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -27359,6 +27359,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2754",
+      "summary": "(Tamanna) - Section not updated.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1897",
       "summary": "CleverTap Pending tasks (Android)",
       "status": "Issue Accepted",
@@ -34748,19 +34762,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
-    },
     "vzyfeedback": {
-      "bugs": 1555,
+      "bugs": 1556,
       "tasks": 319,
       "subtasks": 12,
       "stories": 0,
-      "total": 1892
+      "total": 1893
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 17,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 25
+    },
+    "Akash Kushwaha": {
+      "bugs": 27,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 31
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34768,6 +34789,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 4
+    },
+    "Namrata Kurariya": {
+      "bugs": 7,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 10
     },
     "Dinjit Dinesh": {
       "bugs": 20,
@@ -34798,11 +34826,11 @@
       "total": 21
     },
     "Javed Ali": {
-      "bugs": 35,
+      "bugs": 34,
       "tasks": 3,
       "subtasks": 3,
       "stories": 0,
-      "total": 41
+      "total": 40
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -34818,26 +34846,12 @@
       "stories": 0,
       "total": 7
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 17,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 25
-    },
     "Rajkumar A": {
       "bugs": 3,
       "tasks": 16,
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "Akash Kushwaha": {
-      "bugs": 27,
-      "tasks": 2,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 30
     },
     "devaraj": {
       "bugs": 8,
@@ -34888,6 +34902,13 @@
       "stories": 0,
       "total": 39
     },
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
     "Karan Mahboobani": {
       "bugs": 7,
       "tasks": 1,
@@ -34915,13 +34936,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Namrata Kurariya": {
-      "bugs": 6,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "Unassigned": {
       "bugs": 73,
@@ -35017,11 +35031,11 @@
   },
   "priority_breakdown": {
     "Medium": 920,
-    "Highest": 398,
     "High": 577,
+    "Highest": 398,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-30T03:43:10Z",
-  "total_issues": 2498
+  "updated_at": "2026-03-30T06:07:23Z",
+  "total_issues": 2499
 }
