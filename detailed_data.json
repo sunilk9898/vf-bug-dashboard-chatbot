@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2761",
+      "summary": "(Shivani) - Manage Profile >> Age group digit showing twice",
+      "status": "Duplicate",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2758",
+      "summary": "Age Group title and description",
+      "status": "Issue Accepted",
+      "priority": "Medium",
+      "assignee": "devaraj",
+      "platform": "LG_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2759",
+      "summary": "(Shivani) Fliqs >> Follow button is not clickable",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2760",
+      "summary": "Conviva - Cloud TV data not getting captured in Conviva analytics",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "Unknown",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2747",
+      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-03-30",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2757",
       "summary": "On LG TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
       "status": "Dev Complete",
@@ -22,20 +92,6 @@
       "assignee": "Aditya Shrivastava",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2758",
-      "summary": "Age Group title and description",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Srinidhi.Raju",
-      "platform": "LG_TV",
-      "created": "2026-03-30",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -581,20 +637,6 @@
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
-      "created": "2026-03-26",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2747",
-      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
       "created": "2026-03-26",
       "updated": "2026-03-27",
       "duedate": "",
@@ -34819,25 +34861,18 @@
   "releases": {},
   "assignee_workload": {
     "devaraj": {
-      "bugs": 9,
+      "bugs": 12,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 12
+      "total": 15
     },
-    "Aditya Shrivastava": {
-      "bugs": 2,
-      "tasks": 5,
-      "subtasks": 0,
+    "Akash Kushwaha": {
+      "bugs": 29,
+      "tasks": 3,
+      "subtasks": 1,
       "stories": 0,
-      "total": 7
-    },
-    "Srinidhi.Raju": {
-      "bugs": 3,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 3
+      "total": 33
     },
     "vzyfeedback": {
       "bugs": 1557,
@@ -34845,6 +34880,13 @@
       "subtasks": 12,
       "stories": 0,
       "total": 1894
+    },
+    "Aditya Shrivastava": {
+      "bugs": 2,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 7
     },
     "Amit Kumar Tiwari": {
       "bugs": 18,
@@ -34873,13 +34915,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Akash Kushwaha": {
-      "bugs": 28,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 32
     },
     "Amudha Kaliamoorthi": {
       "bugs": 18,
@@ -34943,6 +34978,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
+    },
+    "Srinidhi.Raju": {
+      "bugs": 2,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 2
     },
     "Manikanta P": {
       "bugs": 5,
@@ -35086,12 +35128,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 577,
-    "Highest": 400,
+    "High": 579,
     "Medium": 921,
+    "Highest": 401,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-30T09:48:38Z",
-  "total_issues": 2503
+  "updated_at": "2026-03-30T11:19:20Z",
+  "total_issues": 2506
 }
