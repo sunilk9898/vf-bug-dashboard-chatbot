@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2765",
+      "summary": "Naveen => On Fire TV 2nd Gen device, the app build is not visible on the store after searching.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-31",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2687",
+      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-18",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2762",
+      "summary": "(Tamanna) - End duration not decrease while playing the content.",
+      "status": "Invalid",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2688",
+      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
+      "status": "On Hold- For Clarification",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2764",
+      "summary": "(Shivani) On Samsung TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2489",
       "summary": "Carousel/Content banner description text",
       "status": "Reopened",
@@ -43,20 +127,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2764",
-      "summary": "(Shivani) On Samsung TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
-      "status": "Open",
-      "priority": "Highest",
-      "assignee": "Akash Kushwaha",
-      "platform": "SAM_TV",
-      "created": "2026-03-30",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2763",
       "summary": "FE issue : Different Carousel banners reflecting on FE.",
       "status": "Open",
@@ -78,20 +148,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-23",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2762",
-      "summary": "(Tamanna) - End duration not decrease while playing the content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "SAM_TV",
-      "created": "2026-03-30",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -582,20 +638,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-27",
-      "updated": "2026-03-28",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2688",
-      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page in iOS instead of the category, whereas it is working correctly on Android.",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Suyog Lanje",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-28",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1233,20 +1275,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2534",
-      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2194",
       "summary": "TV:In the VZY application, the Erotic section is incorrectly visible under Content Preferences in a Kids profile, allowing inappropriate content options for child-restricted accounts",
       "status": "Closed",
@@ -1282,20 +1310,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-02-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2687",
-      "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
-      "status": "In Progress",
-      "priority": "Highest",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-18",
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34916,33 +34930,12 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 35
-    },
-    "Kiran JR": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
-    },
     "vzyfeedback": {
-      "bugs": 1559,
+      "bugs": 1560,
       "tasks": 319,
       "subtasks": 12,
       "stories": 0,
-      "total": 1896
-    },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
+      "total": 1897
     },
     "Amit Kumar Tiwari": {
       "bugs": 17,
@@ -34951,12 +34944,47 @@
       "stories": 0,
       "total": 25
     },
+    "Amudha Kaliamoorthi": {
+      "bugs": 19,
+      "tasks": 17,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
+    },
     "devaraj": {
-      "bugs": 12,
+      "bugs": 13,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 15
+      "total": 16
+    },
+    "Akash Kushwaha": {
+      "bugs": 29,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 33
+    },
+    "Kiran JR": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34972,13 +35000,6 @@
       "stories": 0,
       "total": 20
     },
-    "Amudha Kaliamoorthi": {
-      "bugs": 18,
-      "tasks": 17,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 39
-    },
     "Namrata Kurariya": {
       "bugs": 7,
       "tasks": 3,
@@ -34986,26 +35007,12 @@
       "stories": 0,
       "total": 10
     },
-    "Suyog Lanje": {
-      "bugs": 6,
-      "tasks": 8,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 15
-    },
     "Yashika Krishnani": {
       "bugs": 7,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Alok Gupta": {
-      "bugs": 15,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 21
     },
     "Javed Ali": {
       "bugs": 33,
@@ -35020,6 +35027,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 12
+    },
+    "Suyog Lanje": {
+      "bugs": 5,
+      "tasks": 8,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 14
     },
     "Rajkumar A": {
       "bugs": 3,
@@ -35184,12 +35198,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 403,
+    "Highest": 404,
     "High": 580,
     "Medium": 922,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-31T05:54:20Z",
-  "total_issues": 2510
+  "updated_at": "2026-03-31T07:45:21Z",
+  "total_issues": 2511
 }
