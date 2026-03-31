@@ -14631,6 +14631,20 @@
       "fixversion": ""
     },
     {
+      "key": "VF-1772",
+      "summary": "(Shruti) Trailer Player Controls Not Available During Playback",
+      "status": "Invalid",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-01-21",
+      "updated": "2026-01-22",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1704",
       "summary": "Naveen -> Something Went Wrong\u201d on View Past Ticket \u2013 Help / Write to Us",
       "status": "Duplicate",
@@ -27485,6 +27499,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2754",
+      "summary": "(Tamanna) - Section not updated.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-03-30",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1026",
       "summary": "(Shruti) Analytics: Deleted Accounts \u2013 Daily basis",
       "status": "Testing On hold",
@@ -27520,20 +27548,6 @@
       "assignee": "vzyfeedback",
       "platform": "WEB",
       "created": "2026-03-24",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2754",
-      "summary": "(Tamanna) - Section not updated.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "WEB",
-      "created": "2026-03-30",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34902,6 +34916,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 35
+    },
     "Kiran JR": {
       "bugs": 8,
       "tasks": 1,
@@ -34910,18 +34931,11 @@
       "total": 9
     },
     "vzyfeedback": {
-      "bugs": 1558,
+      "bugs": 1559,
       "tasks": 319,
       "subtasks": 12,
       "stories": 0,
-      "total": 1895
-    },
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 35
+      "total": 1896
     },
     "Dinjit Dinesh": {
       "bugs": 21,
@@ -35171,11 +35185,11 @@
   },
   "priority_breakdown": {
     "Highest": 403,
-    "High": 579,
+    "High": 580,
     "Medium": 922,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-31T03:30:08Z",
-  "total_issues": 2509
+  "updated_at": "2026-03-31T05:54:20Z",
+  "total_issues": 2510
 }
