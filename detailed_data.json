@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2534",
+      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Unknown",
+      "created": "2026-03-11",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2511",
+      "summary": "SARA rail",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-11",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2589",
+      "summary": "Mobile: Application displays blank page on launch",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2604",
+      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2627",
+      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2630",
+      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
+      "status": "Ready For Test",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2750",
+      "summary": "The app displays a different city instead of the selected one.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ANDROID",
+      "created": "2026-03-27",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2688",
+      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Alok Gupta",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2739",
       "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
       "status": "Testing On hold",
@@ -71,20 +225,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2534",
-      "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "Unknown",
-      "created": "2026-03-11",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2762",
       "summary": "(Tamanna) - End duration not decrease while playing the content.",
       "status": "Invalid",
@@ -92,20 +232,6 @@
       "assignee": "Amudha Kaliamoorthi",
       "platform": "SAM_TV",
       "created": "2026-03-30",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2688",
-      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
-      "status": "On Hold- For Clarification",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
@@ -281,34 +407,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2511",
-      "summary": "SARA rail",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-11",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2694",
       "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
       "status": "Testing On hold",
@@ -330,20 +428,6 @@
       "assignee": "vzyfeedback",
       "platform": "IOS",
       "created": "2026-03-25",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2750",
-      "summary": "The app displays a different city instead of the selected one.",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-27",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -379,68 +463,12 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2589",
-      "summary": "Mobile: Application displays blank page on launch",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2594",
       "summary": "Mobile: Broken thumbnails displayed in Related Content section for Murshid series.",
       "status": "Closed",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "CMS Adaptor",
-      "created": "2026-03-13",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2604",
-      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2627",
-      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-03-30",
       "duedate": "",
@@ -456,34 +484,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-03-16",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2630",
-      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
-      "status": "Testing On hold",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-23",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34875,11 +34875,11 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Ready For Test": 4,
-        "Testing On hold": 2,
+        "Ready For Test": 5,
         "Closed": 187,
         "Reopened": 1,
         "Dev Complete": 1,
+        "Testing On hold": 1,
         "Invalid": 1
       }
     },
@@ -34931,11 +34931,25 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1561,
+      "bugs": 1562,
       "tasks": 320,
       "subtasks": 12,
       "stories": 0,
-      "total": 1899
+      "total": 1900
+    },
+    "Dinjit Dinesh": {
+      "bugs": 21,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
+    },
+    "Alok Gupta": {
+      "bugs": 16,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 22
     },
     "Amudha Kaliamoorthi": {
       "bugs": 19,
@@ -34952,18 +34966,11 @@
       "total": 41
     },
     "Amit Kumar Tiwari": {
-      "bugs": 16,
+      "bugs": 15,
       "tasks": 5,
       "subtasks": 3,
       "stories": 0,
-      "total": 24
-    },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
+      "total": 23
     },
     "devaraj": {
       "bugs": 13,
@@ -34985,13 +34992,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -35198,12 +35198,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 922,
-    "Highest": 404,
     "High": 580,
+    "Medium": 922,
     "Low": 57,
+    "Highest": 404,
     "Lowest": 2
   },
-  "updated_at": "2026-03-31T11:11:38Z",
+  "updated_at": "2026-03-31T12:00:51Z",
   "total_issues": 2511
 }
