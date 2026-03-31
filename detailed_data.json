@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2739",
+      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2767",
+      "summary": "(Shivani) - when clicking the Pay button, the same screen remains. On clicking the Pay button again, a message appears: \u201cSorry, we have already received your request. You can reinitiate the transaction after 1 minute.\u201d",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ANDROID",
+      "created": "2026-03-31",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2758",
+      "summary": "Age Group title and description",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2705",
+      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-23",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2759",
+      "summary": "(Shivani) Fliqs >> Follow button is not clickable",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2534",
       "summary": "(Shruti) - Series \u201cWatch Now\u201d plays last episode instead of the first episode",
       "status": "Testing On hold",
@@ -113,20 +183,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2705",
-      "summary": "(Shivani) - On scanning the QR code, I am being redirected to the home page instead of the order summary page.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-03-23",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2750",
       "summary": "The app displays a different city instead of the selected one.",
       "status": "Ready For Test",
@@ -148,20 +204,6 @@
       "assignee": "Alok Gupta",
       "platform": "ANDROID",
       "created": "2026-03-19",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2739",
-      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-25",
       "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
@@ -326,34 +368,6 @@
       "key": "VF-2761",
       "summary": "(Shivani) - Manage Profile >> Age group digit showing twice",
       "status": "Duplicate",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-03-30",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2758",
-      "summary": "Age Group title and description",
-      "status": "Issue Accepted",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-30",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2759",
-      "summary": "(Shivani) Fliqs >> Follow button is not clickable",
-      "status": "Issue Accepted",
       "priority": "High",
       "assignee": "devaraj",
       "platform": "SAM_TV",
@@ -34931,11 +34945,25 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1562,
+      "bugs": 1563,
       "tasks": 320,
       "subtasks": 12,
       "stories": 0,
-      "total": 1900
+      "total": 1901
+    },
+    "Akash Kushwaha": {
+      "bugs": 30,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 34
+    },
+    "devaraj": {
+      "bugs": 12,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 15
     },
     "Dinjit Dinesh": {
       "bugs": 21,
@@ -34971,20 +34999,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 23
-    },
-    "devaraj": {
-      "bugs": 13,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 16
-    },
-    "Akash Kushwaha": {
-      "bugs": 29,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 33
     },
     "Kiran JR": {
       "bugs": 8,
@@ -35198,12 +35212,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 580,
     "Medium": 922,
+    "High": 581,
     "Low": 57,
     "Highest": 404,
     "Lowest": 2
   },
-  "updated_at": "2026-03-31T12:00:51Z",
-  "total_issues": 2511
+  "updated_at": "2026-03-31T14:02:33Z",
+  "total_issues": 2512
 }
