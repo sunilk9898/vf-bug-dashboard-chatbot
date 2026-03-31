@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Vikas Mishra",
+      "platform": "WEB",
+      "created": "2026-01-09",
+      "updated": "2026-03-31",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2765",
       "summary": "Naveen => On Fire TV 2nd Gen device, the app build is not visible on the store after searching.",
       "status": "Open",
@@ -610,20 +624,6 @@
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
-      "status": "In Progress",
-      "priority": "Medium",
-      "assignee": "Namrata Kurariya",
-      "platform": "WEB",
-      "created": "2026-01-09",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34930,6 +34930,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Vikas Mishra": {
+      "bugs": 39,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
+    },
     "vzyfeedback": {
       "bugs": 1560,
       "tasks": 319,
@@ -34999,13 +35006,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Namrata Kurariya": {
-      "bugs": 7,
-      "tasks": 3,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 10
     },
     "Yashika Krishnani": {
       "bugs": 7,
@@ -35084,13 +35084,6 @@
       "stories": 0,
       "total": 23
     },
-    "Vikas Mishra": {
-      "bugs": 38,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
     "Karan Mahboobani": {
       "bugs": 7,
       "tasks": 1,
@@ -35111,6 +35104,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 14
+    },
+    "Namrata Kurariya": {
+      "bugs": 6,
+      "tasks": 3,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Unassigned": {
       "bugs": 73,
@@ -35198,12 +35198,12 @@
     }
   },
   "priority_breakdown": {
+    "Medium": 922,
     "Highest": 404,
     "High": 580,
-    "Medium": 922,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-03-31T07:45:21Z",
+  "updated_at": "2026-03-31T09:18:03Z",
   "total_issues": 2511
 }
