@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2739",
+      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2772",
+      "summary": "(Shivani) - On clicking the Followed or Follow button, the toaster message is not appearing.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2771",
       "summary": "(Tamanna) - Language Switching Issue in Binge Watch for Multilanguage Content.",
       "status": "Open",
@@ -141,20 +197,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2707",
-      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2474",
       "summary": "Carousel Load time",
       "status": "Ready For Test",
@@ -176,34 +218,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-10",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2739",
-      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-25",
       "updated": "2026-04-01",
       "duedate": "",
       "sprint": "No Sprint",
@@ -35000,19 +35014,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 35
-    },
     "vzyfeedback": {
       "bugs": 1570,
       "tasks": 320,
       "subtasks": 12,
       "stories": 0,
       "total": 1908
+    },
+    "Akash Kushwaha": {
+      "bugs": 32,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 36
     },
     "Dinjit Dinesh": {
       "bugs": 22,
@@ -35269,11 +35283,11 @@
   },
   "priority_breakdown": {
     "Medium": 924,
+    "High": 583,
     "Highest": 405,
-    "High": 582,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-01T11:14:05Z",
-  "total_issues": 2516
+  "updated_at": "2026-04-01T12:03:09Z",
+  "total_issues": 2517
 }
