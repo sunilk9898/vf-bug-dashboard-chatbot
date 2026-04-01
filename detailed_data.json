@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2759",
+      "summary": "(Shivani) Fliqs >> Follow button is not clickable",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2757",
+      "summary": "On LG TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-30",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2694",
+      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "kamaldeeps",
+      "platform": "IOS",
+      "created": "2026-03-19",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2711",
+      "summary": "Details section not showing multiple langauges available",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ANDROID",
+      "created": "2026-03-24",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2688",
+      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2477",
+      "summary": "White Thumbnail border",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2604",
+      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2627",
+      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2630",
+      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
+      "status": "Closed",
+      "priority": "Low",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2662",
+      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Aditya Shrivastava",
+      "platform": "SAM_TV",
+      "created": "2026-03-16",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2764",
       "summary": "(Shivani) On Samsung TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
       "status": "Dev Complete",
@@ -64,20 +204,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-23",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2759",
-      "summary": "(Shivani) Fliqs >> Follow button is not clickable",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-03-30",
       "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
@@ -155,48 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2604",
-      "summary": " Mobile: Secondary profile takes long time to load and keeps showing loading indicator.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2627",
-      "summary": "Mobile: Application video and audio continue playing when a song is played from another source.",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2630",
-      "summary": "Mobile: Audio language names displayed in short form in Audio & Subtitles settings.",
-      "status": "Ready For Test",
-      "priority": "Low",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2750",
       "summary": "The app displays a different city instead of the selected one.",
       "status": "Ready For Test",
@@ -204,20 +288,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "ANDROID",
       "created": "2026-03-27",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2688",
-      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Alok Gupta",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
       "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
@@ -393,20 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2757",
-      "summary": "On LG TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-30",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2704",
       "summary": "Kids profile settings",
       "status": "Closed",
@@ -414,20 +470,6 @@
       "assignee": "vzyfeedback",
       "platform": "LG_TV",
       "created": "2026-03-20",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2694",
-      "summary": "Clevertap iOS No redirections is working for push, Inapp, Inbox ",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "kamaldeeps",
-      "platform": "IOS",
-      "created": "2026-03-19",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -638,20 +680,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-25",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2477",
-      "summary": "White Thumbnail border",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-10",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -946,20 +974,6 @@
       "assignee": "devaraj",
       "platform": "LG_TV",
       "created": "2026-03-19",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2662",
-      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "SAM_TV",
-      "created": "2026-03-16",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1467,20 +1481,6 @@
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2711",
-      "summary": "Details section not showing multiple langauges available",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ANDROID",
-      "created": "2026-03-24",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34944,19 +34944,54 @@
   },
   "releases": {},
   "assignee_workload": {
-    "devaraj": {
-      "bugs": 12,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 15
-    },
     "vzyfeedback": {
-      "bugs": 1563,
+      "bugs": 1565,
       "tasks": 320,
       "subtasks": 12,
       "stories": 0,
-      "total": 1901
+      "total": 1903
+    },
+    "kamaldeeps": {
+      "bugs": 4,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 4
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 19,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 42
+    },
+    "Javed Ali": {
+      "bugs": 34,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 40
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 15,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 23
+    },
+    "Aditya Shrivastava": {
+      "bugs": 1,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 6
+    },
+    "devaraj": {
+      "bugs": 10,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 13
     },
     "Akash Kushwaha": {
       "bugs": 30,
@@ -34972,20 +35007,6 @@
       "stories": 0,
       "total": 40
     },
-    "Alok Gupta": {
-      "bugs": 16,
-      "tasks": 6,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 22
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 19,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 42
-    },
     "Vikas Mishra": {
       "bugs": 39,
       "tasks": 2,
@@ -34993,26 +35014,12 @@
       "stories": 0,
       "total": 41
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 23
-    },
     "Kiran JR": {
       "bugs": 8,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "kamaldeeps": {
-      "bugs": 4,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 4
     },
     "Shubham Chauhan": {
       "bugs": 14,
@@ -35028,12 +35035,12 @@
       "stories": 0,
       "total": 8
     },
-    "Javed Ali": {
-      "bugs": 33,
-      "tasks": 3,
-      "subtasks": 3,
+    "Alok Gupta": {
+      "bugs": 15,
+      "tasks": 6,
+      "subtasks": 0,
       "stories": 0,
-      "total": 39
+      "total": 21
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -35055,13 +35062,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 19
-    },
-    "Aditya Shrivastava": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
     },
     "avinash waghmare": {
       "bugs": 2,
@@ -35212,12 +35212,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 404,
-    "Medium": 922,
     "High": 581,
+    "Medium": 922,
     "Low": 57,
+    "Highest": 404,
     "Lowest": 2
   },
-  "updated_at": "2026-04-01T06:04:43Z",
+  "updated_at": "2026-04-01T07:54:46Z",
   "total_issues": 2512
 }
