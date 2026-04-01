@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-2771",
+      "summary": "(Tamanna) - Language Switching Issue in Binge Watch for Multilanguage Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-01-09",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2770",
+      "summary": "(Tamanna) - Issue with Subtitle Option.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Dinjit Dinesh",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2769",
+      "summary": "Android Mobile - PIN prompt displayed while creating a new profile",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2768",
+      "summary": "Android Mobile - Long loading on Order Summary page when UPI ID field is left during payment",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2688",
+      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2589",
       "summary": "Mobile: Application displays blank page on launch",
       "status": "Closed",
@@ -211,20 +295,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2688",
-      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
-      "status": "Issue Accepted",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2477",
       "summary": "White Thumbnail border",
       "status": "In Progress",
@@ -386,20 +456,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-30",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Vikas Mishra",
-      "platform": "WEB",
-      "created": "2026-01-09",
       "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
@@ -34944,12 +35000,40 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 35
+    },
     "vzyfeedback": {
-      "bugs": 1568,
+      "bugs": 1570,
       "tasks": 320,
       "subtasks": 12,
       "stories": 0,
-      "total": 1906
+      "total": 1908
+    },
+    "Dinjit Dinesh": {
+      "bugs": 22,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
+    },
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 16
+    },
+    "Javed Ali": {
+      "bugs": 34,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 40
     },
     "Amit Kumar Tiwari": {
       "bugs": 14,
@@ -34971,34 +35055,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 42
-    },
-    "Javed Ali": {
-      "bugs": 34,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 40
-    },
-    "Akash Kushwaha": {
-      "bugs": 30,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 34
-    },
-    "Dinjit Dinesh": {
-      "bugs": 21,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 40
-    },
-    "Vikas Mishra": {
-      "bugs": 39,
-      "tasks": 2,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
     },
     "Kiran JR": {
       "bugs": 8,
@@ -35077,19 +35133,19 @@
       "stories": 1,
       "total": 14
     },
-    "Ajay Kushwaha": {
-      "bugs": 11,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 15
-    },
     "BalaKumar": {
       "bugs": 14,
       "tasks": 8,
       "subtasks": 1,
       "stories": 0,
       "total": 23
+    },
+    "Vikas Mishra": {
+      "bugs": 38,
+      "tasks": 2,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 40
     },
     "Karan Mahboobani": {
       "bugs": 7,
@@ -35212,12 +35268,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 581,
-    "Medium": 922,
-    "Highest": 404,
+    "Medium": 924,
+    "Highest": 405,
+    "High": 582,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-01T09:36:25Z",
-  "total_issues": 2512
+  "updated_at": "2026-04-01T11:14:05Z",
+  "total_issues": 2516
 }
