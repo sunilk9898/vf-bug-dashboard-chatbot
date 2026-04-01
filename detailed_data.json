@@ -1,6 +1,160 @@
 {
   "bugs": [
     {
+      "key": "VF-2589",
+      "summary": "Mobile: Application displays blank page on launch",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2593",
+      "summary": "Mobile: Home page is not loading after opening the application.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "Mobile",
+      "created": "2026-03-13",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2699",
+      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
+      "status": "Dev Complete",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2764",
+      "summary": "(Shivani) On Samsung TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2707",
+      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2474",
+      "summary": "Carousel Load time",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2706",
+      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
+      "status": "Ready For Test",
+      "priority": "Highest",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-23",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2739",
+      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-25",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2747",
+      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
+      "status": "Ready For Test",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2662",
+      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-03-16",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2759",
       "summary": "(Shivani) Fliqs >> Follow button is not clickable",
       "status": "Testing On hold",
@@ -127,48 +281,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2662",
-      "summary": "LG Samsung FireTV - \u201cRead More / Read Less\u201d option not visible on Content Detail Page",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Aditya Shrivastava",
-      "platform": "SAM_TV",
-      "created": "2026-03-16",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2764",
-      "summary": "(Shivani) On Samsung TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
-      "status": "Dev Complete",
-      "priority": "Highest",
-      "assignee": "devaraj",
-      "platform": "SAM_TV",
-      "created": "2026-03-30",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2739",
-      "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-25",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2767",
       "summary": "(Shivani) - when clicking the Pay button, the same screen remains. On clicking the Pay button again, a message appears: \u201cSorry, we have already received your request. You can reinitiate the transaction after 1 minute.\u201d",
       "status": "Open",
@@ -246,34 +358,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2589",
-      "summary": "Mobile: Application displays blank page on launch",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2593",
-      "summary": "Mobile: Home page is not loading after opening the application.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "Mobile",
-      "created": "2026-03-13",
       "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
@@ -379,34 +463,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2747",
-      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-26",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2706",
-      "summary": "(Shivani) - For a channel I have already subscribed to, clicking on any content in the Episodes rail still shows the Subscribe option.",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-23",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2763",
       "summary": "FE issue : Different Carousel banners reflecting on FE.",
       "status": "Open",
@@ -414,20 +470,6 @@
       "assignee": "Dinjit Dinesh",
       "platform": "LG_TV",
       "created": "2026-03-30",
-      "updated": "2026-03-30",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2707",
-      "summary": "(Shivani) - After playing Sunnxt content from More Like This and returning from the Sunnxt app, an \u201cOops! cannot play content\u201d error message is displayed.",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-23",
       "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1079,20 +1121,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2746",
       "summary": "2:3 banner spacing android",
       "status": "Open",
@@ -1156,20 +1184,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2025-12-08",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2699",
-      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-20",
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1467,20 +1481,6 @@
       "updated": "2026-03-25",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2474",
-      "summary": "Carousel Load time",
-      "status": "Testing On hold",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-25",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -34882,6 +34882,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Ready For Test": 10,
+        "Reopened": 3,
+        "Closed": 63,
+        "In Progress": 10,
+        "Testing On hold": 1,
+        "Invalid": 2,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -34895,23 +34912,6 @@
         "Dev Complete": 1,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Reopened": 3,
-        "Ready For Test": 9,
-        "Closed": 63,
-        "In Progress": 10,
-        "Testing On hold": 2,
-        "Invalid": 2,
-        "Onhold-For Tech Dependency": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -34945,11 +34945,18 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1565,
+      "bugs": 1568,
       "tasks": 320,
       "subtasks": 12,
       "stories": 0,
-      "total": 1903
+      "total": 1906
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 22
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -34971,27 +34978,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 40
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 23
-    },
-    "Aditya Shrivastava": {
-      "bugs": 1,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 6
-    },
-    "devaraj": {
-      "bugs": 10,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 13
     },
     "Akash Kushwaha": {
       "bugs": 30,
@@ -35020,6 +35006,13 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "devaraj": {
+      "bugs": 9,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 12
     },
     "Shubham Chauhan": {
       "bugs": 14,
@@ -35147,6 +35140,13 @@
       "stories": 0,
       "total": 12
     },
+    "Aditya Shrivastava": {
+      "bugs": 0,
+      "tasks": 5,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 5
+    },
     "Ranjitha br": {
       "bugs": 1,
       "tasks": 1,
@@ -35214,10 +35214,10 @@
   "priority_breakdown": {
     "High": 581,
     "Medium": 922,
-    "Low": 57,
     "Highest": 404,
+    "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-01T07:54:46Z",
+  "updated_at": "2026-04-01T09:36:25Z",
   "total_issues": 2512
 }
