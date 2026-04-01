@@ -1,6 +1,62 @@
 {
   "bugs": [
     {
+      "key": "VF-2772",
+      "summary": "(Shivani) - On clicking the Followed or Follow button, the toaster message is not appearing.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2773",
+      "summary": "(Shivani) setting >> Terms of use >> In the Terms of Use, Watcho text is mentioned.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2767",
+      "summary": "(Shivani) - when clicking the Pay button, the same screen remains. On clicking the Pay button again, a message appears: \u201cSorry, we have already received your request. You can reinitiate the transaction after 1 minute.\u201d",
+      "status": "Not Reproducible",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-03-31",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2771",
+      "summary": "(Tamanna) - Language Switching Issue in Binge Watch for Multilanguage Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2768",
       "summary": "Android Mobile - Long loading on Order Summary page when UPI ID field is left during payment",
       "status": "Issue Accepted",
@@ -59,20 +115,6 @@
     {
       "key": "VF-2774",
       "summary": "(Shivani) - last two banner watch now button is not clickable.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-04-01",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2773",
-      "summary": "(Shivani) setting >> Terms of use >> In the Terms of Use, Watcho text is mentioned.",
       "status": "Open",
       "priority": "High",
       "assignee": "Akash Kushwaha",
@@ -176,34 +218,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-23",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2772",
-      "summary": "(Shivani) - On clicking the Followed or Follow button, the toaster message is not appearing.",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-04-01",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2771",
-      "summary": "(Tamanna) - Language Switching Issue in Binge Watch for Multilanguage Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-04-01",
       "updated": "2026-04-01",
       "duedate": "",
       "sprint": "No Sprint",
@@ -457,20 +471,6 @@
       "platform": "Mobile",
       "created": "2026-03-13",
       "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2767",
-      "summary": "(Shivani) - when clicking the Pay button, the same screen remains. On clicking the Pay button again, a message appears: \u201cSorry, we have already received your request. You can reinitiate the transaction after 1 minute.\u201d",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ANDROID",
-      "created": "2026-03-31",
-      "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -35084,6 +35084,27 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amit Kumar Tiwari": {
+      "bugs": 16,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 24
+    },
+    "vzyfeedback": {
+      "bugs": 1572,
+      "tasks": 320,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1910
+    },
+    "Amudha Kaliamoorthi": {
+      "bugs": 20,
+      "tasks": 19,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 43
+    },
     "Ajay Kushwaha": {
       "bugs": 12,
       "tasks": 4,
@@ -35092,18 +35113,11 @@
       "total": 16
     },
     "Akash Kushwaha": {
-      "bugs": 37,
+      "bugs": 33,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
-      "total": 41
-    },
-    "vzyfeedback": {
-      "bugs": 1571,
-      "tasks": 320,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1909
+      "total": 37
     },
     "Dinjit Dinesh": {
       "bugs": 22,
@@ -35119,26 +35133,12 @@
       "stories": 0,
       "total": 40
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 14,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 22
-    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "Amudha Kaliamoorthi": {
-      "bugs": 19,
-      "tasks": 19,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 42
     },
     "Kiran JR": {
       "bugs": 8,
@@ -35358,6 +35358,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-01T14:05:20Z",
+  "updated_at": "2026-04-01T15:41:52Z",
   "total_issues": 2522
 }
