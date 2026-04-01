@@ -1,6 +1,146 @@
 {
   "bugs": [
     {
+      "key": "VF-2768",
+      "summary": "Android Mobile - Long loading on Order Summary page when UPI ID field is left during payment",
+      "status": "Issue Accepted",
+      "priority": "High",
+      "assignee": "Ajay Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2777",
+      "summary": "(Shivani) Fliqs >> Upi intent flow is not working",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2776",
+      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2775",
+      "summary": "(Shivani) The VZY logo is not appearing on all tabs; however, the same is being displayed correctly on Samsung TV.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "SAM_TV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2774",
+      "summary": "(Shivani) - last two banner watch now button is not clickable.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2773",
+      "summary": "(Shivani) setting >> Terms of use >> In the Terms of Use, Watcho text is mentioned.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2695",
+      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59.  2019 module tv ",
+      "status": "Testing On hold",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-19",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2747",
+      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-26",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2758",
+      "summary": "Age Group title and description",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-03-30",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2476",
+      "summary": "Squished VZY logo",
+      "status": "Closed",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2739",
       "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
       "status": "Closed",
@@ -113,20 +253,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2768",
-      "summary": "Android Mobile - Long loading on Order Summary page when UPI ID field is left during payment",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Ajay Kushwaha",
-      "platform": "Mobile",
-      "created": "2026-04-01",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2688",
       "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
       "status": "In Progress",
@@ -207,34 +333,6 @@
       "updated": "2026-04-01",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2476",
-      "summary": "Squished VZY logo",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2747",
-      "summary": "(Shivani) - When playing content, we are getting two audio streams simultaneously. After closing the content player, the audio continues to play, and it still persists even after closing the app.",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-03-26",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -372,20 +470,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-31",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2758",
-      "summary": "Age Group title and description",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-03-30",
       "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1072,20 +1156,6 @@
       "assignee": "Akash Kushwaha",
       "platform": "ANDROID",
       "created": "2026-03-27",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2695",
-      "summary": "LG TV Build: After playing the content, at the CP stage , sony liv and Chaupal cp's content is not playing till I press forward button. build Version = 1.0.59.  2019 module tv ",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "devaraj",
-      "platform": "LG_TV",
-      "created": "2026-03-19",
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
@@ -35014,19 +35084,26 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1570,
-      "tasks": 320,
-      "subtasks": 12,
+    "Ajay Kushwaha": {
+      "bugs": 12,
+      "tasks": 4,
+      "subtasks": 0,
       "stories": 0,
-      "total": 1908
+      "total": 16
     },
     "Akash Kushwaha": {
-      "bugs": 32,
+      "bugs": 37,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
-      "total": 36
+      "total": 41
+    },
+    "vzyfeedback": {
+      "bugs": 1571,
+      "tasks": 320,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1909
     },
     "Dinjit Dinesh": {
       "bugs": 22,
@@ -35034,13 +35111,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 41
-    },
-    "Ajay Kushwaha": {
-      "bugs": 12,
-      "tasks": 4,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 16
     },
     "Javed Ali": {
       "bugs": 34,
@@ -35078,11 +35148,11 @@
       "total": 9
     },
     "devaraj": {
-      "bugs": 9,
+      "bugs": 8,
       "tasks": 1,
       "subtasks": 2,
       "stories": 0,
-      "total": 12
+      "total": 11
     },
     "Shubham Chauhan": {
       "bugs": 14,
@@ -35282,12 +35352,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 588,
     "Medium": 924,
-    "High": 583,
     "Highest": 405,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-01T12:03:09Z",
-  "total_issues": 2517
+  "updated_at": "2026-04-01T14:05:20Z",
+  "total_issues": 2522
 }
