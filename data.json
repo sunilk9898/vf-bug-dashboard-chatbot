@@ -9,7 +9,7 @@
       "PARKED": 1
     },
     "ATV": {
-      "OPEN": 8,
+      "OPEN": 7,
       "IN PROGRESS": 2,
       "REOPENED": 4,
       "IN REVIEW": 0,
@@ -81,7 +81,7 @@
       "PARKED": 3
     },
     "SAM_TV": {
-      "OPEN": 1,
+      "OPEN": 0,
       "IN PROGRESS": 0,
       "REOPENED": 0,
       "IN REVIEW": 0,
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-04-01T17:11:56Z",
+  "updated_at": "2026-04-01T18:05:16Z",
   "total_issues_fetched": 2522,
   "project": "VF"
 }
