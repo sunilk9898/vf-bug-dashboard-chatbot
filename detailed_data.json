@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2764",
+      "summary": "(Shivani) On Samsung TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "devaraj",
+      "platform": "SAM_TV",
+      "created": "2026-03-30",
+      "updated": "2026-04-01",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2739",
       "summary": "(Shivani) - The Watcho logo appears for a few milliseconds, after which it transitions to the VZY logo.",
       "status": "Testing On hold",
@@ -272,20 +286,6 @@
       "status": "Invalid",
       "priority": "Medium",
       "assignee": "Amudha Kaliamoorthi",
-      "platform": "SAM_TV",
-      "created": "2026-03-30",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2764",
-      "summary": "(Shivani) On Samsung TV, when I click on any content without logging in, the end time/duration is not displayed. I have verified this across 3\u20134 pieces of content.",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "devaraj",
       "platform": "SAM_TV",
       "created": "2026-03-30",
       "updated": "2026-03-31",
@@ -34944,6 +34944,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "devaraj": {
+      "bugs": 12,
+      "tasks": 1,
+      "subtasks": 2,
+      "stories": 0,
+      "total": 15
+    },
     "vzyfeedback": {
       "bugs": 1563,
       "tasks": 320,
@@ -34957,13 +34964,6 @@
       "subtasks": 1,
       "stories": 0,
       "total": 34
-    },
-    "devaraj": {
-      "bugs": 12,
-      "tasks": 1,
-      "subtasks": 2,
-      "stories": 0,
-      "total": 15
     },
     "Dinjit Dinesh": {
       "bugs": 21,
@@ -35212,12 +35212,12 @@
     }
   },
   "priority_breakdown": {
+    "Highest": 404,
     "Medium": 922,
     "High": 581,
     "Low": 57,
-    "Highest": 404,
     "Lowest": 2
   },
-  "updated_at": "2026-04-01T03:46:17Z",
+  "updated_at": "2026-04-01T06:04:43Z",
   "total_issues": 2512
 }
