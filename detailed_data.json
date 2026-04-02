@@ -1,6 +1,90 @@
 {
   "bugs": [
     {
+      "key": "VF-1612",
+      "summary": "Settings page side nav",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "WEB",
+      "created": "2026-01-09",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2489",
+      "summary": "Carousel/Content banner description text",
+      "status": "Testing On hold",
+      "priority": "Highest",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2197",
+      "summary": "Refresh screen functionality",
+      "status": "Reopened",
+      "priority": "Medium",
+      "assignee": "vzyfeedback",
+      "platform": "ANDROID",
+      "created": "2026-02-23",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (27 Feb 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2210",
+      "summary": "Content Badges",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-02-24",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "Reopened",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2776",
+      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2775",
       "summary": "(Shivani) The VZY logo is not appearing on all tabs; however, the same is being displayed correctly on Samsung TV.",
       "status": "Testing On hold",
@@ -64,20 +148,6 @@
       "assignee": "Yashika Krishnani",
       "platform": "Mobile",
       "created": "2026-03-26",
-      "updated": "2026-04-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2776",
-      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
-      "status": "Dev Complete",
-      "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-04-01",
       "updated": "2026-04-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -274,20 +344,6 @@
       "assignee": "vzyfeedback",
       "platform": "ATV",
       "created": "2026-03-23",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1612",
-      "summary": "Settings page side nav",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "WEB",
-      "created": "2026-01-09",
       "updated": "2026-04-01",
       "duedate": "",
       "sprint": "No Sprint",
@@ -547,20 +603,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2197",
-      "summary": "Refresh screen functionality",
-      "status": "Ready For Test",
-      "priority": "Medium",
-      "assignee": "vzyfeedback",
-      "platform": "ANDROID",
-      "created": "2026-02-23",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "VZY Sprint (27 Feb 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2511",
       "summary": "SARA rail",
       "status": "Ready For Test",
@@ -625,20 +667,6 @@
       "platform": "SAM_TV",
       "created": "2026-03-30",
       "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2489",
-      "summary": "Carousel/Content banner description text",
-      "status": "Reopened",
-      "priority": "Highest",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-03-30",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -949,20 +977,6 @@
       "updated": "2026-03-27",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
-      "created": "2026-02-24",
-      "updated": "2026-03-27",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -1383,20 +1397,6 @@
       "updated": "2026-03-26",
       "duedate": "",
       "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2210",
-      "summary": "Content Badges",
-      "status": "Ready For Test",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
       "type": "Bug",
       "fixversion": ""
     },
@@ -35036,23 +35036,6 @@
     }
   ],
   "sprints": {
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Ready For Test": 10,
-        "Reopened": 3,
-        "Closed": 63,
-        "In Progress": 10,
-        "Testing On hold": 1,
-        "Invalid": 2,
-        "Onhold-For Tech Dependency": 1,
-        "Parked": 1
-      }
-    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -35060,12 +35043,29 @@
       "stories": 0,
       "total": 196,
       "statuses": {
-        "Ready For Test": 5,
+        "Reopened": 2,
+        "Ready For Test": 4,
         "Closed": 187,
-        "Reopened": 1,
         "Dev Complete": 1,
         "Testing On hold": 1,
         "Invalid": 1
+      }
+    },
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "Reopened": 5,
+        "Ready For Test": 8,
+        "Closed": 63,
+        "In Progress": 10,
+        "Testing On hold": 1,
+        "Invalid": 2,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -35099,11 +35099,18 @@
   "releases": {},
   "assignee_workload": {
     "vzyfeedback": {
-      "bugs": 1576,
+      "bugs": 1577,
       "tasks": 320,
       "subtasks": 12,
       "stories": 0,
-      "total": 1914
+      "total": 1915
+    },
+    "Kiran JR": {
+      "bugs": 8,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 9
     },
     "Srinidhi.Raju": {
       "bugs": 3,
@@ -35133,13 +35140,6 @@
       "stories": 0,
       "total": 8
     },
-    "Amit Kumar Tiwari": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 23
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 20,
       "tasks": 19,
@@ -35161,19 +35161,19 @@
       "stories": 0,
       "total": 34
     },
+    "Amit Kumar Tiwari": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 22
+    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 4
-    },
-    "Kiran JR": {
-      "bugs": 8,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 9
     },
     "devaraj": {
       "bugs": 8,
@@ -35366,12 +35366,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 589,
-    "Highest": 405,
     "Medium": 924,
+    "Highest": 405,
+    "High": 589,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-02T09:15:17Z",
+  "updated_at": "2026-04-02T10:14:00Z",
   "total_issues": 2523
 }

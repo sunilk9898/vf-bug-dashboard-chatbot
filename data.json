@@ -3,7 +3,7 @@
     "ANDROID": {
       "OPEN": 4,
       "IN PROGRESS": 1,
-      "REOPENED": 4,
+      "REOPENED": 5,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 1
@@ -67,7 +67,7 @@
     "LG_TV": {
       "OPEN": 1,
       "IN PROGRESS": 0,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-04-02T09:15:17Z",
+  "updated_at": "2026-04-02T10:14:00Z",
   "total_issues_fetched": 2523,
   "project": "VF"
 }
