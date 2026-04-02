@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2771",
+      "summary": "(Tamanna) - Language Switching Issue in Binge Watch for Multilanguage Content.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "Amudha Kaliamoorthi",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2775",
       "summary": "(Shivani) The VZY logo is not appearing on all tabs; however, the same is being displayed correctly on Samsung TV.",
       "status": "Testing On hold",
@@ -64,20 +78,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-31",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2771",
-      "summary": "(Tamanna) - Language Switching Issue in Binge Watch for Multilanguage Content.",
-      "status": "Open",
-      "priority": "Medium",
-      "assignee": "Amudha Kaliamoorthi",
-      "platform": "ATV",
-      "created": "2026-04-01",
       "updated": "2026-04-01",
       "duedate": "",
       "sprint": "No Sprint",
@@ -35084,19 +35084,19 @@
   },
   "releases": {},
   "assignee_workload": {
-    "vzyfeedback": {
-      "bugs": 1576,
-      "tasks": 320,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1914
-    },
     "Amudha Kaliamoorthi": {
       "bugs": 20,
       "tasks": 19,
       "subtasks": 0,
       "stories": 0,
       "total": 43
+    },
+    "vzyfeedback": {
+      "bugs": 1576,
+      "tasks": 320,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1914
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -35352,12 +35352,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 588,
     "Medium": 924,
+    "High": 588,
     "Highest": 405,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-01T23:51:13Z",
+  "updated_at": "2026-04-02T03:26:31Z",
   "total_issues": 2522
 }
