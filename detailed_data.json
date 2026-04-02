@@ -1,6 +1,34 @@
 {
   "bugs": [
     {
+      "key": "VF-2776",
+      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2778",
+      "summary": "CP Logo Size on thumbnail",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-04-02",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2771",
       "summary": "(Tamanna) - Language Switching Issue in Binge Watch for Multilanguage Content.",
       "status": "Open",
@@ -101,20 +129,6 @@
     {
       "key": "VF-2777",
       "summary": "(Shivani) Fliqs >> Upi intent flow is not working",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Akash Kushwaha",
-      "platform": "ATV",
-      "created": "2026-04-01",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2776",
-      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
       "status": "Open",
       "priority": "High",
       "assignee": "Akash Kushwaha",
@@ -35084,6 +35098,20 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Amit Kumar Tiwari": {
+      "bugs": 15,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 23
+    },
+    "Srinidhi.Raju": {
+      "bugs": 3,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 3
+    },
     "Amudha Kaliamoorthi": {
       "bugs": 20,
       "tasks": 19,
@@ -35106,11 +35134,11 @@
       "total": 16
     },
     "Akash Kushwaha": {
-      "bugs": 31,
+      "bugs": 30,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
-      "total": 35
+      "total": 34
     },
     "Dinjit Dinesh": {
       "bugs": 22,
@@ -35125,13 +35153,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 40
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 14,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 22
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -35202,13 +35223,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 5
-    },
-    "Srinidhi.Raju": {
-      "bugs": 2,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 2
     },
     "Manikanta P": {
       "bugs": 5,
@@ -35352,12 +35366,12 @@
     }
   },
   "priority_breakdown": {
+    "High": 589,
     "Medium": 924,
-    "High": 588,
     "Highest": 405,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-02T03:26:31Z",
-  "total_issues": 2522
+  "updated_at": "2026-04-02T05:50:03Z",
+  "total_issues": 2523
 }
