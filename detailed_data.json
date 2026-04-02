@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2775",
+      "summary": "(Shivani) The VZY logo is not appearing on all tabs; however, the same is being displayed correctly on Samsung TV.",
+      "status": "Testing On hold",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2778",
       "summary": "CP Logo Size on thumbnail",
       "status": "Closed",
@@ -79,20 +93,6 @@
       "platform": "ATV",
       "created": "2026-04-01",
       "updated": "2026-04-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2775",
-      "summary": "(Shivani) The VZY logo is not appearing on all tabs; however, the same is being displayed correctly on Samsung TV.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-04-01",
-      "updated": "2026-04-01",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -35098,6 +35098,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "vzyfeedback": {
+      "bugs": 1576,
+      "tasks": 320,
+      "subtasks": 12,
+      "stories": 0,
+      "total": 1914
+    },
     "Srinidhi.Raju": {
       "bugs": 3,
       "tasks": 0,
@@ -35139,13 +35146,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 43
-    },
-    "vzyfeedback": {
-      "bugs": 1576,
-      "tasks": 320,
-      "subtasks": 12,
-      "stories": 0,
-      "total": 1914
     },
     "Ajay Kushwaha": {
       "bugs": 12,
@@ -35372,6 +35372,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-02T07:42:18Z",
+  "updated_at": "2026-04-02T09:15:17Z",
   "total_issues": 2523
 }
