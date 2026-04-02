@@ -1,6 +1,104 @@
 {
   "bugs": [
     {
+      "key": "VF-2489",
+      "summary": "Carousel/Content banner description text",
+      "status": "Closed",
+      "priority": "Highest",
+      "assignee": "Kiran JR",
+      "platform": "ATV",
+      "created": "2026-03-10",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2776",
+      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2775",
+      "summary": "(Shivani) The VZY logo is not appearing on all tabs; however, the same is being displayed correctly on Samsung TV.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "SAM_TV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2774",
+      "summary": "(Shivani) - last two banner watch now button is not clickable.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2773",
+      "summary": "(Shivani) setting >> Terms of use >> In the Terms of Use, Watcho text is mentioned.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2772",
+      "summary": "(Shivani) - On clicking the Followed or Follow button, the toaster message is not appearing.",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "ATV",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2699",
+      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
+      "status": "Ready For Test",
+      "priority": "Medium",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-03-20",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2211",
       "summary": "Content Badges",
       "status": "In Progress",
@@ -43,20 +141,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2489",
-      "summary": "Carousel/Content banner description text",
-      "status": "Testing On hold",
-      "priority": "Highest",
-      "assignee": "Kiran JR",
-      "platform": "ATV",
-      "created": "2026-03-10",
-      "updated": "2026-04-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2197",
       "summary": "Refresh screen functionality",
       "status": "Reopened",
@@ -81,34 +165,6 @@
       "updated": "2026-04-02",
       "duedate": "",
       "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2776",
-      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-04-01",
-      "updated": "2026-04-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2775",
-      "summary": "(Shivani) The VZY logo is not appearing on all tabs; however, the same is being displayed correctly on Samsung TV.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "SAM_TV",
-      "created": "2026-04-01",
-      "updated": "2026-04-02",
-      "duedate": "",
-      "sprint": "No Sprint",
       "type": "Bug",
       "fixversion": ""
     },
@@ -177,48 +233,6 @@
       "platform": "ATV",
       "created": "2026-04-01",
       "updated": "2026-04-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2774",
-      "summary": "(Shivani) - last two banner watch now button is not clickable.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-04-01",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2773",
-      "summary": "(Shivani) setting >> Terms of use >> In the Terms of Use, Watcho text is mentioned.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-04-01",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2772",
-      "summary": "(Shivani) - On clicking the Followed or Follow button, the toaster message is not appearing.",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "ATV",
-      "created": "2026-04-01",
-      "updated": "2026-04-01",
       "duedate": "",
       "sprint": "No Sprint",
       "type": "Bug",
@@ -414,20 +428,6 @@
       "assignee": "vzyfeedback",
       "platform": "Mobile",
       "created": "2026-03-13",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2699",
-      "summary": "(Tamanna) - Issue with Fliqs Channel Navigation.",
-      "status": "Dev Complete",
-      "priority": "Medium",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-03-20",
       "updated": "2026-04-01",
       "duedate": "",
       "sprint": "No Sprint",
@@ -27695,6 +27695,34 @@
   ],
   "tasks": [
     {
+      "key": "VF-939",
+      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-04",
+      "updated": "2026-04-02",
+      "duedate": "2025-12-12",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-1026",
+      "summary": "(Shruti) Analytics: Deleted Accounts \u2013 Daily basis",
+      "status": "Closed",
+      "priority": "High",
+      "assignee": "vzyfeedback",
+      "platform": "CMS Dashboard",
+      "created": "2025-12-08",
+      "updated": "2026-04-02",
+      "duedate": "2025-12-31",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-830",
       "summary": "Vivre Rights Management ",
       "status": "Ready For Test",
@@ -27746,20 +27774,6 @@
       "created": "2026-03-30",
       "updated": "2026-03-31",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-1026",
-      "summary": "(Shruti) Analytics: Deleted Accounts \u2013 Daily basis",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-08",
-      "updated": "2026-03-30",
-      "duedate": "2025-12-31",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -29636,20 +29650,6 @@
       "created": "2026-02-12",
       "updated": "2026-02-13",
       "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Task",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-939",
-      "summary": "(Shruti) Analytics: CP Activation Report - Daily Basis",
-      "status": "Testing On hold",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "CMS Dashboard",
-      "created": "2025-12-04",
-      "updated": "2026-02-13",
-      "duedate": "2025-12-12",
       "sprint": "No Sprint",
       "type": "Task",
       "fixversion": ""
@@ -35112,20 +35112,6 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Kanika Gupta": {
-      "bugs": 1,
-      "tasks": 0,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 1
-    },
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 35
-    },
     "vzyfeedback": {
       "bugs": 1576,
       "tasks": 320,
@@ -35139,6 +35125,27 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 14,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 22
+    },
+    "Kanika Gupta": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 35
     },
     "Srinidhi.Raju": {
       "bugs": 3,
@@ -35181,13 +35188,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "Amit Kumar Tiwari": {
-      "bugs": 14,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 22
     },
     "kamaldeeps": {
       "bugs": 4,
@@ -35387,12 +35387,12 @@
     }
   },
   "priority_breakdown": {
-    "High": 589,
     "Highest": 406,
+    "High": 589,
     "Medium": 924,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-02T11:11:37Z",
+  "updated_at": "2026-04-02T11:58:54Z",
   "total_issues": 2524
 }
