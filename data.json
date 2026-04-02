@@ -66,8 +66,8 @@
     },
     "LG_TV": {
       "OPEN": 1,
-      "IN PROGRESS": 0,
-      "REOPENED": 1,
+      "IN PROGRESS": 1,
+      "REOPENED": 0,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 0,
       "PARKED": 0
@@ -89,9 +89,9 @@
       "PARKED": 0
     },
     "WEB": {
-      "OPEN": 0,
+      "OPEN": 1,
       "IN PROGRESS": 0,
-      "REOPENED": 0,
+      "REOPENED": 1,
       "IN REVIEW": 0,
       "ISSUE ACCEPTED": 2,
       "PARKED": 1
@@ -105,7 +105,7 @@
       "PARKED": 0
     }
   },
-  "updated_at": "2026-04-02T10:14:00Z",
-  "total_issues_fetched": 2523,
+  "updated_at": "2026-04-02T11:11:37Z",
+  "total_issues_fetched": 2524,
   "project": "VF"
 }

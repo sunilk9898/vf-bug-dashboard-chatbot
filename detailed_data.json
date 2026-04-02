@@ -1,9 +1,37 @@
 {
   "bugs": [
     {
+      "key": "VF-2211",
+      "summary": "Content Badges",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "Kanika Gupta",
+      "platform": "LG_TV",
+      "created": "2026-02-24",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "VZY Sprint (16 March 2026)",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2779",
+      "summary": "Naveen => In the web add profile is not asking the master profile otp if the master profile is locked.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "WEB",
+      "created": "2026-04-02",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-1612",
       "summary": "Settings page side nav",
-      "status": "Ready For Test",
+      "status": "Reopened",
       "priority": "Medium",
       "assignee": "vzyfeedback",
       "platform": "WEB",
@@ -49,20 +77,6 @@
       "priority": "High",
       "assignee": "vzyfeedback",
       "platform": "ATV",
-      "created": "2026-02-24",
-      "updated": "2026-04-02",
-      "duedate": "",
-      "sprint": "VZY Sprint (16 March 2026)",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2211",
-      "summary": "Content Badges",
-      "status": "Reopened",
-      "priority": "High",
-      "assignee": "vzyfeedback",
-      "platform": "LG_TV",
       "created": "2026-02-24",
       "updated": "2026-04-02",
       "duedate": "",
@@ -35036,6 +35050,23 @@
     }
   ],
   "sprints": {
+    "VZY Sprint (16 March 2026)": {
+      "bugs": 65,
+      "tasks": 26,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 91,
+      "statuses": {
+        "In Progress": 11,
+        "Reopened": 4,
+        "Ready For Test": 8,
+        "Closed": 63,
+        "Testing On hold": 1,
+        "Invalid": 2,
+        "Onhold-For Tech Dependency": 1,
+        "Parked": 1
+      }
+    },
     "VZY Sprint (27 Feb 2026)": {
       "bugs": 185,
       "tasks": 11,
@@ -35049,23 +35080,6 @@
         "Dev Complete": 1,
         "Testing On hold": 1,
         "Invalid": 1
-      }
-    },
-    "VZY Sprint (16 March 2026)": {
-      "bugs": 65,
-      "tasks": 26,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 91,
-      "statuses": {
-        "Reopened": 5,
-        "Ready For Test": 8,
-        "Closed": 63,
-        "In Progress": 10,
-        "Testing On hold": 1,
-        "Invalid": 2,
-        "Onhold-For Tech Dependency": 1,
-        "Parked": 1
       }
     },
     "VZY Sprint (13 Feb 2026)": {
@@ -35098,12 +35112,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Kanika Gupta": {
+      "bugs": 1,
+      "tasks": 0,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 1
+    },
+    "Akash Kushwaha": {
+      "bugs": 31,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 35
+    },
     "vzyfeedback": {
-      "bugs": 1577,
+      "bugs": 1576,
       "tasks": 320,
       "subtasks": 12,
       "stories": 0,
-      "total": 1915
+      "total": 1914
     },
     "Kiran JR": {
       "bugs": 8,
@@ -35153,13 +35181,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 16
-    },
-    "Akash Kushwaha": {
-      "bugs": 30,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 34
     },
     "Amit Kumar Tiwari": {
       "bugs": 14,
@@ -35366,12 +35387,12 @@
     }
   },
   "priority_breakdown": {
-    "Medium": 924,
-    "Highest": 405,
     "High": 589,
+    "Highest": 406,
+    "Medium": 924,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-02T10:14:00Z",
-  "total_issues": 2523
+  "updated_at": "2026-04-02T11:11:37Z",
+  "total_issues": 2524
 }
