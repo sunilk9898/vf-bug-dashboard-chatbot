@@ -1,13 +1,13 @@
 {
   "bugs": [
     {
-      "key": "VF-2776",
-      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
-      "status": "Dev Complete",
+      "key": "VF-2778",
+      "summary": "CP Logo Size on thumbnail",
+      "status": "Closed",
       "priority": "High",
-      "assignee": "Amit Kumar Tiwari",
-      "platform": "ATV",
-      "created": "2026-04-01",
+      "assignee": "Srinidhi.Raju",
+      "platform": "ANDROID",
+      "created": "2026-04-02",
       "updated": "2026-04-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -15,13 +15,55 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2778",
-      "summary": "CP Logo Size on thumbnail",
-      "status": "Open",
-      "priority": "High",
-      "assignee": "Srinidhi.Raju",
+      "key": "VF-2750",
+      "summary": "The app displays a different city instead of the selected one.",
+      "status": "Reopened",
+      "priority": "Highest",
+      "assignee": "Dinjit Dinesh",
       "platform": "ANDROID",
-      "created": "2026-04-02",
+      "created": "2026-03-27",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2688",
+      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Javed Ali",
+      "platform": "ANDROID",
+      "created": "2026-03-19",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2741",
+      "summary": "Zoom In / Zoom Out functionality works on iOS player but not on Android mobile player",
+      "status": "Issue Accepted",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-26",
+      "updated": "2026-04-02",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2776",
+      "summary": "(Shivani) Under the Sports tab, for the two JioHotstar banners, clicking on a tournament shows multiple episode numbers under Season 1, but no actual episodes are available.",
+      "status": "Dev Complete",
+      "priority": "High",
+      "assignee": "Amit Kumar Tiwari",
+      "platform": "ATV",
+      "created": "2026-04-01",
       "updated": "2026-04-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -281,20 +323,6 @@
       "fixversion": ""
     },
     {
-      "key": "VF-2688",
-      "summary": "(Shivani) - On clicking any CP, the name is displayed at the top of the page should be same in and android and iOS",
-      "status": "In Progress",
-      "priority": "High",
-      "assignee": "Javed Ali",
-      "platform": "ANDROID",
-      "created": "2026-03-19",
-      "updated": "2026-04-01",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
       "key": "VF-2589",
       "summary": "Mobile: Application displays blank page on launch",
       "status": "Closed",
@@ -540,20 +568,6 @@
       "assignee": "vzyfeedback",
       "platform": "ANDROID",
       "created": "2026-03-11",
-      "updated": "2026-03-31",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2750",
-      "summary": "The app displays a different city instead of the selected one.",
-      "status": "Ready For Test",
-      "priority": "Highest",
-      "assignee": "Dinjit Dinesh",
-      "platform": "ANDROID",
-      "created": "2026-03-27",
       "updated": "2026-03-31",
       "duedate": "",
       "sprint": "No Sprint",
@@ -1365,20 +1379,6 @@
       "priority": "Medium",
       "assignee": "Amit Kumar Tiwari",
       "platform": "ATV",
-      "created": "2026-03-26",
-      "updated": "2026-03-26",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2741",
-      "summary": "Zoom In / Zoom Out functionality works on iOS player but not on Android mobile player",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
       "created": "2026-03-26",
       "updated": "2026-03-26",
       "duedate": "",
@@ -35098,19 +35098,40 @@
   },
   "releases": {},
   "assignee_workload": {
-    "Amit Kumar Tiwari": {
-      "bugs": 15,
-      "tasks": 5,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 23
-    },
     "Srinidhi.Raju": {
       "bugs": 3,
       "tasks": 0,
       "subtasks": 0,
       "stories": 0,
       "total": 3
+    },
+    "Dinjit Dinesh": {
+      "bugs": 22,
+      "tasks": 18,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 41
+    },
+    "Javed Ali": {
+      "bugs": 34,
+      "tasks": 3,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 40
+    },
+    "Yashika Krishnani": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
+    "Amit Kumar Tiwari": {
+      "bugs": 15,
+      "tasks": 5,
+      "subtasks": 3,
+      "stories": 0,
+      "total": 23
     },
     "Amudha Kaliamoorthi": {
       "bugs": 20,
@@ -35140,20 +35161,6 @@
       "stories": 0,
       "total": 34
     },
-    "Dinjit Dinesh": {
-      "bugs": 22,
-      "tasks": 18,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 41
-    },
-    "Javed Ali": {
-      "bugs": 34,
-      "tasks": 3,
-      "subtasks": 3,
-      "stories": 0,
-      "total": 40
-    },
     "kamaldeeps": {
       "bugs": 4,
       "tasks": 0,
@@ -35181,13 +35188,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 20
-    },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Alok Gupta": {
       "bugs": 15,
@@ -35367,11 +35367,11 @@
   },
   "priority_breakdown": {
     "High": 589,
-    "Medium": 924,
     "Highest": 405,
+    "Medium": 924,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-02T05:50:03Z",
+  "updated_at": "2026-04-02T07:42:18Z",
   "total_issues": 2523
 }
