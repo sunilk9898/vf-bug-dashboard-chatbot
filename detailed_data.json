@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2741",
+      "summary": "Zoom In / Zoom Out functionality works on iOS player but not on Android mobile player",
+      "status": "Dev Complete",
+      "priority": "Highest",
+      "assignee": "Yashika Krishnani",
+      "platform": "Mobile",
+      "created": "2026-03-26",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2780",
       "summary": "Naveen => Cloud TV On the Channel Guide page in Cloud TV, the UI is displayed only on half of the screen instead of utilizing the full screen.",
       "status": "Open",
@@ -316,20 +330,6 @@
       "assignee": "Javed Ali",
       "platform": "ANDROID",
       "created": "2026-03-19",
-      "updated": "2026-04-02",
-      "duedate": "",
-      "sprint": "No Sprint",
-      "type": "Bug",
-      "fixversion": ""
-    },
-    {
-      "key": "VF-2741",
-      "summary": "Zoom In / Zoom Out functionality works on iOS player but not on Android mobile player",
-      "status": "Issue Accepted",
-      "priority": "Highest",
-      "assignee": "Yashika Krishnani",
-      "platform": "Mobile",
-      "created": "2026-03-26",
       "updated": "2026-04-02",
       "duedate": "",
       "sprint": "No Sprint",
@@ -35182,6 +35182,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Yashika Krishnani": {
+      "bugs": 7,
+      "tasks": 1,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 8
+    },
     "Akash Kushwaha": {
       "bugs": 36,
       "tasks": 3,
@@ -35237,13 +35244,6 @@
       "subtasks": 3,
       "stories": 0,
       "total": 40
-    },
-    "Yashika Krishnani": {
-      "bugs": 7,
-      "tasks": 1,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 8
     },
     "Amudha Kaliamoorthi": {
       "bugs": 20,
@@ -35456,6 +35456,6 @@
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-03T07:37:45Z",
+  "updated_at": "2026-04-03T09:10:33Z",
   "total_issues": 2529
 }
