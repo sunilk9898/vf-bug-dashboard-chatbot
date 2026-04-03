@@ -1,6 +1,76 @@
 {
   "bugs": [
     {
+      "key": "VF-2780",
+      "summary": "Naveen => Cloud TV On the Channel Guide page in Cloud TV, the UI is displayed only on half of the screen instead of utilizing the full screen.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-03",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2784",
+      "summary": "Naveen => Cloud TV -> Voice search button is not clickable in the cloud tv ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-03",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2783",
+      "summary": "Naveen => Cloud Tv -> In Profiles \u2192 Manage Profile, \u201cManage Profile\u201d text is not center aligned under profiles",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-03",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2782",
+      "summary": "Naveen => cloud tv >> Search page UI is not properly aligned.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-03",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
+      "key": "VF-2781",
+      "summary": "Naveen => Cloud TV >>> The UI for the Free Live Channel rail is inconsistent across platforms.",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-03",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2687",
       "summary": "FireTV - \u201cContinue Watching\u201d rail is not updating",
       "status": "In Progress",
@@ -35112,6 +35182,13 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 36,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 40
+    },
     "vzyfeedback": {
       "bugs": 1575,
       "tasks": 322,
@@ -35139,13 +35216,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 9
-    },
-    "Akash Kushwaha": {
-      "bugs": 31,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 35
     },
     "Srinidhi.Raju": {
       "bugs": 3,
@@ -35380,12 +35450,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 406,
+    "Highest": 411,
     "Medium": 924,
     "High": 589,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-03T05:50:11Z",
-  "total_issues": 2524
+  "updated_at": "2026-04-03T07:37:45Z",
+  "total_issues": 2529
 }
