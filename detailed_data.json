@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2787",
+      "summary": "Naveen => Cloud TV app navigation is very slow. After clicking randomly on a few tabs, the app gets stuck on a page ",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "ATV",
+      "created": "2026-04-03",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2786",
       "summary": "Conviva -> Android Mobile- > Device ID not getting tracked on mobile data in Conviva dashboard",
       "status": "Open",
@@ -35211,11 +35225,11 @@
   "releases": {},
   "assignee_workload": {
     "Akash Kushwaha": {
-      "bugs": 37,
+      "bugs": 38,
       "tasks": 3,
       "subtasks": 1,
       "stories": 0,
-      "total": 41
+      "total": 42
     },
     "shadab Hussain": {
       "bugs": 7,
@@ -35478,12 +35492,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 412,
+    "Highest": 413,
     "Medium": 924,
     "High": 589,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-03T11:03:49Z",
-  "total_issues": 2531
+  "updated_at": "2026-04-03T11:54:16Z",
+  "total_issues": 2532
 }
