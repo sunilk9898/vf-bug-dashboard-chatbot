@@ -1,6 +1,20 @@
 {
   "bugs": [
     {
+      "key": "VF-2786",
+      "summary": "Conviva -> Android Mobile- > Device ID not getting tracked on mobile data in Conviva dashboard",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "Akash Kushwaha",
+      "platform": "Mobile",
+      "created": "2026-04-03",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Bug",
+      "fixversion": ""
+    },
+    {
       "key": "VF-2741",
       "summary": "Zoom In / Zoom Out functionality works on iOS player but not on Android mobile player",
       "status": "Dev Complete",
@@ -27765,6 +27779,20 @@
   ],
   "tasks": [
     {
+      "key": "VF-2785",
+      "summary": "IOS Bundle Id Change",
+      "status": "Open",
+      "priority": "Highest",
+      "assignee": "shadab Hussain",
+      "platform": "IOS",
+      "created": "2026-04-03",
+      "updated": "2026-04-03",
+      "duedate": "",
+      "sprint": "No Sprint",
+      "type": "Task",
+      "fixversion": ""
+    },
+    {
       "key": "VF-454",
       "summary": "Casting",
       "status": "Ready For Test",
@@ -35182,19 +35210,26 @@
   },
   "releases": {},
   "assignee_workload": {
+    "Akash Kushwaha": {
+      "bugs": 37,
+      "tasks": 3,
+      "subtasks": 1,
+      "stories": 0,
+      "total": 41
+    },
+    "shadab Hussain": {
+      "bugs": 7,
+      "tasks": 6,
+      "subtasks": 0,
+      "stories": 0,
+      "total": 13
+    },
     "Yashika Krishnani": {
       "bugs": 7,
       "tasks": 1,
       "subtasks": 0,
       "stories": 0,
       "total": 8
-    },
-    "Akash Kushwaha": {
-      "bugs": 36,
-      "tasks": 3,
-      "subtasks": 1,
-      "stories": 0,
-      "total": 40
     },
     "vzyfeedback": {
       "bugs": 1575,
@@ -35279,13 +35314,6 @@
       "subtasks": 0,
       "stories": 0,
       "total": 21
-    },
-    "shadab Hussain": {
-      "bugs": 7,
-      "tasks": 5,
-      "subtasks": 0,
-      "stories": 0,
-      "total": 12
     },
     "Suyog Lanje": {
       "bugs": 5,
@@ -35450,12 +35478,12 @@
     }
   },
   "priority_breakdown": {
-    "Highest": 411,
+    "Highest": 412,
     "Medium": 924,
     "High": 589,
     "Low": 57,
     "Lowest": 2
   },
-  "updated_at": "2026-04-03T10:03:38Z",
-  "total_issues": 2529
+  "updated_at": "2026-04-03T11:03:49Z",
+  "total_issues": 2531
 }
